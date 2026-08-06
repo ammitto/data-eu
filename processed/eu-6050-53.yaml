@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6050.53
 logical_id: '126883'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,11 +24,10 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – presidentin hallinnon päätalousosasto
-  name_language: FI
+- whole_name: GHU – Main Economic Department of the Presidential Administration
   strong: true
   regulation_language: en
-  logical_id: '127895'
+  logical_id: '126886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -40,24 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Главное хозяйственное управление
-  strong: true
-  regulation_language: en
-  logical_id: '126885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: GHU – Main Economic Department of the Presidential Administration
-  strong: true
-  regulation_language: en
-  logical_id: '126886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -243,6 +223,25 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – presidentin hallinnon päätalousosasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '127895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Главное хозяйственное управление
+  strong: true
+  regulation_language: en
+  logical_id: '126885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 addresses:
 - street: Miasnikova St. 37
   city: Minsk

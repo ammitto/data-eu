@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2568.35
 logical_id: '6908'
-entity_type: person
 remark: "(a) Previous address: Ungartenstraße 6, Bonn, 53229, Germany. Date of designation
   referred to in Article 2a(4)(b): 25.1.2012."
 regulations:
@@ -17,6 +16,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Adam
+  strong: true
+  regulation_language: en
+  logical_id: '15252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-02-08'
+    number_title: 97/2012 (OJ L35)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
 - first_name: Monir
   last_name: Chouka
   whole_name: Monir Chouka
@@ -28,29 +36,20 @@ name_aliases:
     publication_date: '2012-02-08'
     number_title: 97/2012 (OJ L35)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
-- whole_name: Abu Adam
-  strong: true
-  regulation_language: en
-  logical_id: '15252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
 citizenships:
-- country_iso2_code: MA
-  country_description: MOROCCO
-  regulation_language: en
-  logical_id: '739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
 - country_iso2_code: DE
   country_description: GERMANY
   regulation_language: en
   logical_id: '738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-02-08'
+    number_title: 97/2012 (OJ L35)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+- country_iso2_code: MA
+  country_description: MOROCCO
+  regulation_language: en
+  logical_id: '739'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-02-08'

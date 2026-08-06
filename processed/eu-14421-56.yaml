@@ -1,0 +1,62 @@
+---
+eu_reference_number: EU.14421.56
+logical_id: '182758'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-11'
+  entry_into_force_date: '2026-05-11'
+  number_title: 2026/1055 (OJ L202601055)
+  programme: UKR
+  logical_id: '223478'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Igor Valerievich ZHURAVLEV
+  function: Director of the All-Russian Children’s Centre “Smena”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Игорь Валерьевич ЖУРАВЛЁВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '182760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1972
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '182759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11385.87
 logical_id: '163486'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,21 +24,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное Общество Арзамасское научно-производственное предприятие
-  name_language: RU
+- whole_name: Arzamaský vědecko-výrobní podnik Temp-Avia, a. s
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163489'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC Arzamasskoe Nauchno Proizvodstvennoe Predpriyatie “Temp-Avia”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163490'
+  logical_id: '163886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -66,11 +55,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Arzamaský vědecko-výrobní podnik Temp-Avia, a. s
-  name_language: CS
+- whole_name: Акционерное Общество Арзамасское научно-производственное предприятие
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163886'
+  logical_id: '163489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC Arzamasskoe Nauchno Proizvodstvennoe Predpriyatie “Temp-Avia”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

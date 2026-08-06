@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13318.83
 logical_id: '176804'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: KB Pilóta Nélküli Helikopterek
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: KB śmigłowce bezzałogowe
   name_language: PL
   strong: true
@@ -35,21 +44,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: КБ Беспілотныя Верталёты
-  name_language: BE
+- whole_name: ООО КБ Беспилотныйе вертолеты
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: КБ Безпилотни хеликоптери
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177181'
+  logical_id: '176807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -68,11 +67,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: KB Pilóta Nélküli Helikopterek
-  name_language: HU
+- whole_name: КБ Безпилотни хеликоптери
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '177180'
+  logical_id: '177181'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -88,11 +87,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: ООО КБ Беспилотныйе вертолеты
-  name_language: RU
+- whole_name: КБ Беспілотныя Верталёты
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '176807'
+  logical_id: '176808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

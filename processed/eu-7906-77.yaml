@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7906.77
 logical_id: '138290'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,17 +25,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Володимир Михайлович РУЩАК
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Vladimir Mikhailovich RUSHHAK
   function: Former so-called“ Deputy Chairman of the Government" of the so-called“
     Donetsk People’s Republic” and former so-called“ Minister of Industry and Trade”
@@ -46,6 +34,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Володимир Михайлович РУЩАК
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

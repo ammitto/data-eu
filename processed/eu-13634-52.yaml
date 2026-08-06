@@ -2,7 +2,6 @@
 eu_reference_number: EU.13634.52
 logical_id: '178726'
 designation_details: 'Date of UN designation: 9.6.2010'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -51,11 +50,12 @@ name_aliases:
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 addresses:
-- city: Mashad
+- street: Kaveh Complex, Khalaj Rd., Seyedi St.
+  city: Mashad
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '178729'
+  logical_id: '178727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -72,12 +72,11 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- street: Kaveh Complex, Khalaj Rd., Seyedi St.
-  city: Mashad
+- city: Mashad
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '178727'
+  logical_id: '178729'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

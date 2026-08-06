@@ -1,0 +1,88 @@
+---
+eu_reference_number: EU.14100.92
+logical_id: '181174'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Mihail Šmoilov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '182328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Mikhail
+  middle_name: Alekseevich
+  last_name: SHMOILOV
+  whole_name: Mikhail Alekseevich SHMOILOV
+  function: General Director of Federal State Budgetary Institution OK “Snegiri”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181178'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Михаил
+  middle_name: Алексеевич
+  last_name: ШМОЙЛОВ
+  whole_name: Михаил Алексеевич ШМОЙЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Michail Šmojlov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '182327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '181175'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '770800155825'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181176'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

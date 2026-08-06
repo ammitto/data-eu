@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10532.81
 logical_id: '155908'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -40,6 +39,17 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- whole_name: Mawlawi Habibullah AGHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155914'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - whole_name: Sheikh Habibullah AGHA
   gender: M
   name_language: EN
@@ -68,17 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Mawlawi Habibullah AGHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

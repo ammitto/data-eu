@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8287.44
 logical_id: '140394'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: compañía nacional de radiotelevisión pública de la República de Bielorrusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '141229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: nacionalna državna radiotelevizija Republike Belorusije
   name_language: SL
   strong: true
@@ -25,21 +34,10 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Societatea Națională de Stat de Televiziune și Radio a Republicii Belarus
-  name_language: RO
+- whole_name: Нацыянальная дзяржаўная тэлерадыёкампанiя Рэспублiкi Беларусь / Белтэлерадыёкампанiя
   strong: true
   regulation_language: en
-  logical_id: '141241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Εθνική Κρατική Τηλεόραση και Ραδιοφωνία της Δημοκρατίας της Λευκορωσίας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '141230'
+  logical_id: '140397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -55,10 +53,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Нацыянальная дзяржаўная тэлерадыёкампанiя Рэспублiкi Беларусь / Белтэлерадыёкампанiя
+- whole_name: Εθνική Κρατική Τηλεόραση και Ραδιοφωνία της Δημοκρατίας της Λευκορωσίας
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '140397'
+  logical_id: '141230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -74,32 +73,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Belteleradio Company / National State TV and Radio Company of the Republic
-    of Belarus
+- whole_name: Societatea Națională de Stat de Televiziune și Radio a Republicii Belarus
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '140399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: compañía nacional de radiotelevisión pública de la República de Bielorrusia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '141229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: "„Belteleradio bendrovė“ / Baltarusijos Respublikos nacionalinė valstybinė
-    televizijos ir radijo bendrovė"
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '141240'
+  logical_id: '141241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -126,44 +104,22 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Società Belteleradio / società radiotelevisiva pubblica della Repubblica
-    di Bielorussia
-  name_language: IT
+- whole_name: "„Belteleradio bendrovė“ / Baltarusijos Respublikos nacionalinė valstybinė
+    televizijos ir radijo bendrovė"
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '141234'
+  logical_id: '141240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Poduzeće Belteleradio / Nacionalna državna radiotelevizija Republike
-    Bjelarusa
-  name_language: HR
+- whole_name: nationale staatstelevisie- en -radio-omroep van de Republiek Belarus
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '141235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: cuideachta stáit náisiúnta teilifíse agus raidió Phoblacht na Bealarúise
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '141236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: compagnie nationale de télévision et de radio d’État de la République
-    de Biélorussie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '141237'
+  logical_id: '141239'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -180,11 +136,54 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: nationale staatstelevisie- en -radio-omroep van de Republiek Belarus
-  name_language: NL
+- whole_name: compagnie nationale de télévision et de radio d’État de la République
+    de Biélorussie
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '141239'
+  logical_id: '141237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: cuideachta stáit náisiúnta teilifíse agus raidió Phoblacht na Bealarúise
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '141236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Poduzeće Belteleradio / Nacionalna državna radiotelevizija Republike
+    Bjelarusa
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '141235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Società Belteleradio / società radiotelevisiva pubblica della Repubblica
+    di Bielorussia
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '141234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Belteleradio Company / National State TV and Radio Company of the Republic
+    of Belarus
+  strong: true
+  regulation_language: en
+  logical_id: '140399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

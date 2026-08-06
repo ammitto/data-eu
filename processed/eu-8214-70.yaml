@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8214.70
 logical_id: '140002'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,42 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Tandhim Hurras Al-Deen
+  strong: true
+  regulation_language: en
+  logical_id: '140006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-30'
+    number_title: 2022/836 (OJ L147I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
+- whole_name: Tanzim  Hurras Al-Din
+  strong: true
+  regulation_language: en
+  logical_id: '140007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-30'
+    number_title: 2022/836 (OJ L147I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
+- whole_name: Guardians of Religion
+  strong: true
+  regulation_language: en
+  logical_id: '140008'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-30'
+    number_title: 2022/836 (OJ L147I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
+- whole_name: Huras-al-Din
+  strong: true
+  regulation_language: en
+  logical_id: '140009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-30'
+    number_title: 2022/836 (OJ L147I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
 - whole_name: Hurras al-Deen
   strong: true
   regulation_language: en
@@ -55,42 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-30'
-    number_title: 2022/836 (OJ L147I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Tandhim Hurras Al-Deen
-  strong: true
-  regulation_language: en
-  logical_id: '140006'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-30'
-    number_title: 2022/836 (OJ L147I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Tanzim  Hurras Al-Din
-  strong: true
-  regulation_language: en
-  logical_id: '140007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-30'
-    number_title: 2022/836 (OJ L147I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Guardians of Religion
-  strong: true
-  regulation_language: en
-  logical_id: '140008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-30'
-    number_title: 2022/836 (OJ L147I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Huras-al-Din
-  strong: true
-  regulation_language: en
-  logical_id: '140009'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'

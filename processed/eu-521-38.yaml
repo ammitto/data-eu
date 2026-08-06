@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.521.38
 logical_id: '529'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,6 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ul-Haq, Dr Amin
+  strong: true
+  regulation_language: en
+  logical_id: '1271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Dr Amin
+  strong: true
+  regulation_language: en
+  logical_id: '5979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Amin
   middle_name: Muhammad Ul Haq
   last_name: Saam Khan
@@ -41,24 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Ul-Haq, Dr Amin
-  strong: true
-  regulation_language: en
-  logical_id: '1271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Dr Amin
-  strong: true
-  regulation_language: en
-  logical_id: '5979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

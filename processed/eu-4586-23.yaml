@@ -2,7 +2,6 @@
 eu_reference_number: EU.4586.23
 logical_id: '117251'
 united_nation_id: LYi.023
-entity_type: person
 remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
   Freeze)
 regulations:
@@ -18,24 +17,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: The Uncle
+- whole_name: Al Dabbashi
   strong: true
   regulation_language: en
-  logical_id: '117257'
+  logical_id: '118340'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: Al Ammu
-  strong: true
-  regulation_language: en
-  logical_id: '117258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 - whole_name: AHMAD OUMAR IMHAMAD AL-FITOURI
   function: Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking
     network
@@ -56,6 +46,15 @@ name_aliases:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- whole_name: Al Ammu
+  strong: true
+  regulation_language: en
+  logical_id: '117258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - whole_name: Al-Ahwal
   strong: true
   regulation_language: en
@@ -65,15 +64,15 @@ name_aliases:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: Al Dabbashi
+- whole_name: The Uncle
   strong: true
   regulation_language: en
-  logical_id: '118340'
+  logical_id: '117257'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 citizenships:
 - country_iso2_code: LY
   country_description: LIBYA
@@ -102,16 +101,6 @@ birthdates:
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 addresses:
-- city: Garabulli
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '117253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - city: Dbabsha-Sabratah
   country_iso2_code: LY
   country_description: LIBYA
@@ -122,6 +111,16 @@ addresses:
     publication_date: '2020-03-06'
     number_title: 2020/371 (OJ L71)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
+- city: Garabulli
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '117253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - city: Zawiya
   country_iso2_code: LY
   country_description: LIBYA
@@ -133,21 +132,21 @@ addresses:
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 identifications:
-- identification_type_code: other
-  number: '119880387067'
-  country_iso2_code: LY
-  regulation_language: en
-  logical_id: '122756'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-06'
-    number_title: 2020/371 (OJ L71)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 - identification_type_code: passport
   number: LY53FP76
   country_iso2_code: LY
   regulation_language: en
   logical_id: '122757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-06'
+    number_title: 2020/371 (OJ L71)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
+- identification_type_code: other
+  number: '119880387067'
+  country_iso2_code: LY
+  regulation_language: en
+  logical_id: '122756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-06'

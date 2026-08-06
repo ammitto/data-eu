@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.1742.75
 logical_id: '4140'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -16,13 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Hamid
-  middle_name: Abdallah Ahmad
+  middle_name: Abdallah Ahmed
   last_name: Al-Ali
-  whole_name: Hamid Abdallah Ahmad Al-Ali
+  whole_name: Hamid Abdallah Ahmed Al-Ali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6126'
+  logical_id: '6133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -68,20 +67,6 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Hamed
-  middle_name: Abdullah
-  last_name: Al-Ali
-  whole_name: Hamed Abdullah Al-Ali
-  title: Dr
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Hamed
   middle_name: bin 'Abdallah
   last_name: Al-'Ali
   whole_name: Hamed bin 'Abdallah Al-'Ali
@@ -105,13 +90,27 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Hamid
-  middle_name: Abdallah Ahmed
+  middle_name: Abdallah Ahmad
   last_name: Al-Ali
-  whole_name: Hamid Abdallah Ahmed Al-Ali
+  whole_name: Hamid Abdallah Ahmad Al-Ali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6133'
+  logical_id: '6126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Hamed
+  middle_name: Abdullah
+  last_name: Al-Ali
+  whole_name: Hamed Abdullah Al-Ali
+  title: Dr
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -156,21 +155,21 @@ birthdates:
     number_title: 803/2008 (OJ L214)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:214:0052:0055:EN:PDF
 identifications:
-- identification_type_code: passport
-  number: '1739010'
-  country_iso2_code: KW
-  regulation_language: en
-  logical_id: '291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - identification_type_code: id
   number: '260012001546'
   country_iso2_code: KW
   regulation_language: en
   logical_id: '149555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- identification_type_code: passport
+  number: '1739010'
+  country_iso2_code: KW
+  regulation_language: en
+  logical_id: '291'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9014.40
 logical_id: '145357'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  middle_name: Alexandrovich
-  last_name: PANYAEV
-  whole_name: Vladimir Alexandrovich PANYAEV
-  function: an agent of the Russian Federal Security Service (FSB) working as a Criminalistics
-    Institute operative
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Владимир
   last_name: АЛЕКСЕЕВ
   whole_name: Владимир АЛЕКСЕЕВ
@@ -38,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Vladimir
+  last_name: ALEXEJEV
+  whole_name: Vladimir ALEXEJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -58,25 +55,24 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Vladimir
-  last_name: ALEXEJEV
-  whole_name: Vladimir ALEXEJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Vladimir
   last_name: ALEXEYEV
   whole_name: Vladimir ALEXEYEV
   gender: M
   strong: true
   regulation_language: en
   logical_id: '145361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Vladimir
+  last_name: ALEXEEV
+  whole_name: Vladimir ALEXEEV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -97,12 +93,15 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Vladimir
-  last_name: ALEXEEV
-  whole_name: Vladimir ALEXEEV
+  middle_name: Alexandrovich
+  last_name: PANYAEV
+  whole_name: Vladimir Alexandrovich PANYAEV
+  function: an agent of the Russian Federal Security Service (FSB) working as a Criminalistics
+    Institute operative
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '145362'
+  logical_id: '145364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

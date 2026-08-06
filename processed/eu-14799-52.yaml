@@ -1,0 +1,104 @@
+---
+eu_reference_number: EU.14799.52
+logical_id: '184532'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: RLVT LLC,  LLC Russkaya  Laboratoriya  Vozdushnogo  Transporta
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Общество с ограниченной ответственностью Русская лаборатория  воздушного
+    транспорта
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Limited Liability  Company Russian  Air Transport  Laboratory
+  function: LLC Russian Air Transport Laboratory (LLC RLVT) is a Russian developer
+    and manufacturer of drones, including attack drones.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ООО РЛВТ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: Ryazanskaya street, 3D, office 3
+  city: Tula
+  region: Tula region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '300026'
+  regulation_language: en
+  logical_id: '184533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: other
+  number: '710001001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '1227100012369'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '7100027464'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

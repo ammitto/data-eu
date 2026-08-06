@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13049.59
 logical_id: '174946'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Research Institute of Space Instrumentation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Акционерно дружество „Научно-изследователски институт по космическо
     приборостроене“
   name_language: BG
@@ -56,12 +45,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество “Научно-Исследовательский Институт Космического
-    Приборостроения”
-  name_language: RU
+- whole_name: Instituto de investigação de instrumentação espacial
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '174952'
+  logical_id: '175256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -78,11 +66,22 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Instituto de investigação de instrumentação espacial
-  name_language: PT
+- whole_name: Акционерное общество “Научно-Исследовательский Институт Космического
+    Приборостроения”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175256'
+  logical_id: '174952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC Research Institute of Space Instrumentation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174951'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

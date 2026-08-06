@@ -1,0 +1,83 @@
+---
+eu_reference_number: EU.14707.42
+logical_id: '184095'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: АО АКБ “Форштадт”
+  title: Joint Stock Company
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Commercial Bank “Forshtadt”
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Banca Comercială Forshtadt S.A.
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 35/1 Chkalova St.
+  city: Orenburg
+  region: Orenburg Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '460058'
+  regulation_language: en
+  logical_id: '184096'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '5610032972'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '561001001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184097'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

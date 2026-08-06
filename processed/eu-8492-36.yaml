@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8492.36
 logical_id: '141903'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -24,16 +23,6 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Sergej  Semjonovitj SOBJANIN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Sergey Semyonovich SOBYANIN
   function: Sergei Semyonovich Sobyanine is the mayor of Moscow and has close ties
     with Vladimir Putin. He was Head of the presidential administration from 2005-2008
@@ -44,6 +33,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Sergej  Semjonovitj SOBJANIN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

@@ -1,0 +1,68 @@
+---
+eu_reference_number: EU.13981.24
+logical_id: '180587'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/267 (OJ L202600267)
+  programme: IRN
+  logical_id: '220363'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Iranian Audio-Visual Media Regulatory Authority
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: SATRA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: ساترا
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: سازمان تنظیم مقررات رسانه های صوت و تصویر فراگیر در فضای مجازی
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180590'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+addresses:
+- street: Motahari St. 234
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267

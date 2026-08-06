@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12795.80
 logical_id: '173255'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,32 +14,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική
+    εκπαίδευση της νεολαίας “WARRIOR”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '173473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Zentrum für Militärsporttraining und patriotische Erziehung der Jugend
     (‚KRIEGER‘)
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '173327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»HARCOS« Ifjúsági Katonai Sportedző és Hazafias Oktatási Központ"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173436'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: an t-ionad ‘WARRIOR’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '173474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -141,12 +131,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική
-    εκπαίδευση της νεολαίας “WARRIOR”
-  name_language: EL
+- whole_name: an t-ionad ‘WARRIOR’
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '173473'
+  logical_id: '173474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -191,6 +180,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173435'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»HARCOS« Ifjúsági Katonai Sportedző és Hazafias Oktatási Központ"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

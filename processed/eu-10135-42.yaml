@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10135.42
 logical_id: '153611'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,42 +15,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Danila
-  middle_name: Jurijevič
-  last_name: MICHEJEV
-  whole_name: Danila Jurijevič MICHEJEV
+  middle_name: Yurievich
+  last_name: MIKHEEV
+  whole_name: Danila Yurievich MIKHEEV
+  function: Director of (Russian) non-profit organization “Independent expert”
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153941'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Данила
-  middle_name: Юрьевич
-  last_name: МИХЕЕВ
-  whole_name: Данила Юрьевич МИХЕЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '153613'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Danila
-  middle_name: Jurjevitj
-  last_name: MICHEJEV
-  whole_name: Danila Jurjevitj MICHEJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '153924'
+  logical_id: '153614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -71,15 +43,42 @@ name_aliases:
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Danila
-  middle_name: Yurievich
-  last_name: MIKHEEV
-  whole_name: Danila Yurievich MIKHEEV
-  function: Director of (Russian) non-profit organization “Independent expert”
+  middle_name: Jurijevič
+  last_name: MICHEJEV
+  whole_name: Danila Jurijevič MICHEJEV
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '153614'
+  logical_id: '153941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Danila
+  middle_name: Jurjevitj
+  last_name: MICHEJEV
+  whole_name: Danila Jurjevitj MICHEJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '153924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Данила
+  middle_name: Юрьевич
+  last_name: МИХЕЕВ
+  whole_name: Данила Юрьевич МИХЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '153613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

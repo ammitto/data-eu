@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4482.18
 logical_id: '116470'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,36 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 장철희
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '141954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: JANG Tcheul-hy
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '117815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: JANG Cheul-hy
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '117814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: JANG Chol-hy
   gender: F
   strong: true
@@ -85,11 +54,11 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Tcheul-hy
+- whole_name: JANG Tcheul-hy
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '117809'
+  logical_id: '117815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -100,6 +69,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '116472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 장철희
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '141954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Tcheul-hy
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: JANG Cheul-hy
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

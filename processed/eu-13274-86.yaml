@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13274.86
 logical_id: '176482'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -21,6 +20,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Rustecdrone Tudományos és Gyártási Szövetség« Korlátolt Felelősségű
+    Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: NPO Rustecdrone Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: OOO “НПО Рустехдрон”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176492'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -60,37 +90,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OOO “НПО Рустехдрон”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Rustecdrone Tudományos és Gyártási Szövetség« Korlátolt Felelősségű
-    Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: NPO Rustecdrone Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Pekhorskaya str. 1/3, p. 4
   city: Moscow
@@ -106,21 +105,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1235000022179'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '176484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '5003155499'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '176485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1235000022179'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '176484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

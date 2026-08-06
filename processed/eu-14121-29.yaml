@@ -1,0 +1,82 @@
+---
+eu_reference_number: EU.14121.29
+logical_id: '181354'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: ООО ЛУКОЙЛ-Нижневолжскнефть
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LUKOIL–NIZHNEVOLZHSKNEFT
+  function: Lukoil Nizhnevolzhskneft is an entity operating two oil platforms in the
+    Caspian Sea. It extracts oil from the Korchagin and Filanovsky oil fields. Filanovsky
+    oil field is one of the biggest oil fields in Russia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Ul. admiralteiskaya  d. 1, korp. 2, A
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '414000'
+  regulation_language: en
+  logical_id: '181355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: other
+  number: '1023403432766'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '3444070534'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: imo
+  number: '4131096'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

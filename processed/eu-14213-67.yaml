@@ -1,0 +1,56 @@
+---
+eu_reference_number: EU.14213.67
+logical_id: '181858'
+designation_details: 'Date of UN designation: 24 February 2026'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-05'
+  entry_into_force_date: '2026-03-05'
+  number_title: 2026/531 (OJ L202600531)
+  programme: SDN
+  logical_id: '222487'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: DAGALO Abdul Rahim Hamdan
+  gender: M
+  title: Rapid Support Forces (RSF) Deputy Leader
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+birthdates:
+- birthdate: '1972-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1972
+  city: Khartoum
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181859'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531

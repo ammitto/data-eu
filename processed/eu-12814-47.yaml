@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12814.47
 logical_id: '173519'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,93 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federal State-Financed Institution of Science Physics and Technology
-    Institute Named After A.F. Ioffe of the Russian Federation Academy of Sciences
-  function: Physics and Technology Institute Named After A.F. Ioffe (“Ioffe Institute”)
-    is a Russian state-financed institution developing and manufacturing in the fields
-    of microelectronics, optics and technical physics.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173541'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Institutul fizico-tehnic denumit după A.F. Ioffe
+- whole_name: Institutul de Fizică, Științe și Tehnologie finanțat de statul federal,
+    denumit după A.F. Ioffe, al Academiei de Științe a Federației Ruse
   name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '173533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Institutul Ioffe
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173532'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Institutul de Fizică Ioffe
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Физико-технический институт имени А.Ф. Иоффе РАН
-  strong: true
-  regulation_language: en
-  logical_id: '173535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ФТИ им. А.Ф. Иоффе
-  strong: true
-  regulation_language: en
-  logical_id: '173536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Physical-Technical Institute named after A.F. Ioffe
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Ioffe Institute
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Ioffe Physics Institute
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173539'
+  logical_id: '173530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -118,12 +36,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: den federala statligt finansierade institutionen för vetenskap och forskning
-    A. F. Ioffe-institutet för fysik och teknik vid Ryska vetenskapsakademin
-  name_language: SV
+- whole_name: Ioffe Physics Institute
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173534'
+  logical_id: '173539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Ioffe Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173538'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -190,12 +117,84 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Institutul de Fizică, Științe și Tehnologie finanțat de statul federal,
-    denumit după A.F. Ioffe, al Academiei de Științe a Federației Ruse
+- whole_name: Federal State-Financed Institution of Science Physics and Technology
+    Institute Named After A.F. Ioffe of the Russian Federation Academy of Sciences
+  function: Physics and Technology Institute Named After A.F. Ioffe (“Ioffe Institute”)
+    is a Russian state-financed institution developing and manufacturing in the fields
+    of microelectronics, optics and technical physics.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Institutul de Fizică Ioffe
   name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '173530'
+  logical_id: '173531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Institutul Ioffe
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Institutul fizico-tehnic denumit după A.F. Ioffe
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: den federala statligt finansierade institutionen för vetenskap och forskning
+    A. F. Ioffe-institutet för fysik och teknik vid Ryska vetenskapsakademin
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '173534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Физико-технический институт имени А.Ф. Иоффе РАН
+  strong: true
+  regulation_language: en
+  logical_id: '173535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: ФТИ им. А.Ф. Иоффе
+  strong: true
+  regulation_language: en
+  logical_id: '173536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Physical-Technical Institute named after A.F. Ioffe
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

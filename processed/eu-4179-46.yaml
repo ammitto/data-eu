@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4179.46
 logical_id: '108640'
-entity_type: person
 remark: 'date of listing: 20.05.2016'
 regulations:
 - regulation_type: amendment
@@ -16,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Rak-gyom
-  last_name: KIM
-  whole_name: Rak-gyom KIM
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-20'
-    number_title: 2016/780 (OJ L131)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_131_R_0007&from=EN
 - first_name: Rak Kyom
   last_name: KIM
   whole_name: Rak Kyom KIM
@@ -46,6 +33,18 @@ name_aliases:
     publication_date: '2021-08-06'
     number_title: 2021/1300 (OJ L283)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.283.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A283%3ATOC
+- first_name: Rak-gyom
+  last_name: KIM
+  whole_name: Rak-gyom KIM
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-05-20'
+    number_title: 2016/780 (OJ L131)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_131_R_0007&from=EN
 - first_name: Rak Gyom
   last_name: KIM
   whole_name: Rak Gyom KIM

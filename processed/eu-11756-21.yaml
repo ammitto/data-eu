@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11756.21
 logical_id: '166730'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -100,6 +99,27 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: '"A. I. Sokinról elnevezett ''Istok'' Kutató- és Termelőtársaság" Nyilvánosan
+    működő részvénytársaság'
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: '"A. I. Sokinról elnevezett Tudományos és Termelővállalat Istok" Rt.'
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Akciová spoločnosť Research and Production Enterprise Istok Named After
     A.I. Shokin
   name_language: SK
@@ -179,27 +199,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: '"A. I. Sokinról elnevezett ''Istok'' Kutató- és Termelőtársaság" Nyilvánosan
-    működő részvénytársaság'
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: '"A. I. Sokinról elnevezett Tudományos és Termelővállalat Istok" Rt.'
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167254'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

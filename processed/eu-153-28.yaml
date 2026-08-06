@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.153.28
 logical_id: '133'
-entity_type: person
 remark: "(a) Died in 2003, (b) UNSC RESOLUTION 1483 BASIS: see function"
 regulations:
 - regulation_type: regulation
@@ -16,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nayif Shindakh Thamir Ghalib
-  function: Ba'th Party Regional Command Chairman, An-Najaf
-  strong: true
-  regulation_language: en
-  logical_id: '191'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Nayif Shindakh Thamir Ghalib
   function: Member, Iraqi National Assembly
   strong: true
@@ -42,6 +31,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1455'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Nayif Shindakh Thamir Ghalib
+  function: Ba'th Party Regional Command Chairman, An-Najaf
+  strong: true
+  regulation_language: en
+  logical_id: '191'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

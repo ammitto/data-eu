@@ -1,0 +1,71 @@
+---
+eu_reference_number: EU.14523.63
+logical_id: '183301'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: АО КБ “Хлынов”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Bank “Khlynov”
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 40 Uritskogo Street,
+  city: Kirov
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '610002'
+  regulation_language: en
+  logical_id: '183302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '4346013603'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '434501001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

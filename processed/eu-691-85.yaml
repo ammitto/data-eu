@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.691.85
 logical_id: '833'
-entity_type: person
 remark: 'Other    information:    Confirmed  to  have  died  in  Pakistan  in  May  2011.  Date  of  designation  referred  to  in  Article  2a(4)(b):  25.1.2001.'
 regulations:
 - regulation_type: amendment
@@ -16,59 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Al Qaqa
-  strong: true
-  regulation_language: en
-  logical_id: '5780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Usama  bin  Laden
-  strong: true
-  regulation_language: en
-  logical_id: '8954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-25'
-    number_title: 596/2013 (OJ L172)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:172:0001:0003:EN:PDF
-- first_name: Osama
-  last_name: bin Ladin
-  whole_name: Osama bin Ladin
-  strong: true
-  regulation_language: en
-  logical_id: '8955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- first_name: Osama
-  middle_name: bin Muhammad bin Awad
-  last_name: bin Ladin
-  whole_name: Osama bin Muhammad bin Awad bin Ladin
-  strong: true
-  regulation_language: en
-  logical_id: '8956'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- first_name: Usama
-  middle_name: bin Muhammad bin Awad
-  last_name: bin Ladin
-  whole_name: Usama bin Muhammad bin Awad bin Ladin
-  strong: true
-  regulation_language: en
-  logical_id: '8957'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - whole_name: Usama  Bin  Muhammed  Bin  Awad,  Osama  Bin  Laden
   strong: true
   regulation_language: en
@@ -174,6 +120,59 @@ name_aliases:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Al Qaqa
+  strong: true
+  regulation_language: en
+  logical_id: '5780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Usama  bin  Laden
+  strong: true
+  regulation_language: en
+  logical_id: '8954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-06-25'
+    number_title: 596/2013 (OJ L172)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:172:0001:0003:EN:PDF
+- first_name: Osama
+  last_name: bin Ladin
+  whole_name: Osama bin Ladin
+  strong: true
+  regulation_language: en
+  logical_id: '8955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- first_name: Osama
+  middle_name: bin Muhammad bin Awad
+  last_name: bin Ladin
+  whole_name: Osama bin Muhammad bin Awad bin Ladin
+  strong: true
+  regulation_language: en
+  logical_id: '8956'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- first_name: Usama
+  middle_name: bin Muhammad bin Awad
+  last_name: bin Ladin
+  whole_name: Usama bin Muhammad bin Awad bin Ladin
+  strong: true
+  regulation_language: en
+  logical_id: '8957'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -185,129 +184,16 @@ citizenships:
     number_title: 596/2013 (OJ L172)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:172:0001:0003:EN:PDF
 birthdates:
-- birthdate: '1957-07-30'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 30
-  month_of_year: 7
-  year: 1957
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '896'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-07-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 7
-  year: 1957
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1956
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-07-30'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 30
-  month_of_year: 7
-  year: 1957
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '296'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - birthdate: '1957-01-01'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 1
   month_of_year: 1
   year: 1957
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '893'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1957
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1956
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-03-10'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 10
-  month_of_year: 3
-  year: 1957
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1957
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '901'
+  logical_id: '899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'
@@ -344,16 +230,129 @@ birthdates:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1956
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-03-10'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 10
+  month_of_year: 3
+  year: 1957
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-07-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 7
+  year: 1957
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - birthdate: '1957-01-01'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 1
   month_of_year: 1
   year: 1957
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1956
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '899'
+  logical_id: '900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-07-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 7
+  year: 1957
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '296'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1957
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-07-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 7
+  year: 1957
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1957
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'

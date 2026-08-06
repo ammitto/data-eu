@@ -1,0 +1,84 @@
+---
+eu_reference_number: EU.14613.6
+logical_id: '183668'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Mikhail Gerazievich
+  last_name: MAMIASHVILI
+  whole_name: Mikhail Gerazievich MAMIASHVILI
+  function: President of the Russian Wrestling Federation (FSBR); Vice President of
+    the Executive Committee of the International Federation of Sports Wrestling (UWW);
+    Member of the Executive Board of the Russian Olympic Committee (ROC); Colonel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Михаил Геразиевич
+  last_name: МАМИАШВИЛИ
+  whole_name: Михаил Геразиевич МАМИАШВИЛИ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+birthdates:
+- birthdate: '1963-11-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 11
+  year: 1963
+  city: Konotop
+  region: Sumy region
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '183669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '773117804958'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183671'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

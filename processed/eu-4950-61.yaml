@@ -2,7 +2,6 @@
 eu_reference_number: EU.4950.61
 logical_id: '119240'
 designation_details: 'date of listing: 21.01.201'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ruslan
-  last_name: BOSHIROV
-  whole_name: Ruslan BOSHIROV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - first_name: Anatoliy
   middle_name: Vladimirovich
   last_name: CHEPIGA
@@ -52,23 +39,19 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-birthdates:
-- birthdate: '1978-04-12'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 12
-  month_of_year: 4
-  year: 1978
-  place: Nikolaevka,  Amur  Oblast
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- first_name: Ruslan
+  last_name: BOSHIROV
+  whole_name: Ruslan BOSHIROV
+  gender: M
+  strong: true
   regulation_language: en
-  logical_id: '119244'
+  logical_id: '119241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+birthdates:
 - birthdate: '1978-04-12'
   circa: false
   calendar_type: GREGORIAN
@@ -80,6 +63,22 @@ birthdates:
   country_description: TAJIKISTAN
   regulation_language: en
   logical_id: '119245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- birthdate: '1978-04-12'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 12
+  month_of_year: 4
+  year: 1978
+  place: Nikolaevka,  Amur  Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '119244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

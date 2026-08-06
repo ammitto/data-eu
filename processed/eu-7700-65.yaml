@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7700.65
 logical_id: '136891'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artem
-  middle_name: Gennadyevich
-  last_name: SHEIKIN
-  whole_name: Artem Gennadyevich SHEIKIN
-  function: Member of the Federation Council
+- first_name: Артём
+  middle_name: Геннадьевич
+  last_name: ШЕЙКИН
+  whole_name: Артём Геннадьевич ШЕЙКИН
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '136894'
+  logical_id: '136893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,14 +37,15 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- first_name: Артём
-  middle_name: Геннадьевич
-  last_name: ШЕЙКИН
-  whole_name: Артём Геннадьевич ШЕЙКИН
+- first_name: Artem
+  middle_name: Gennadyevich
+  last_name: SHEIKIN
+  whole_name: Artem Gennadyevich SHEIKIN
+  function: Member of the Federation Council
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '136893'
+  logical_id: '136894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

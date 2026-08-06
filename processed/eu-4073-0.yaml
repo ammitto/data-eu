@@ -2,7 +2,6 @@
 eu_reference_number: EU.4073.0
 logical_id: '112291'
 united_nation_id: KPi.043
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,14 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yong-won
+- first_name: Yong-Won
   last_name: Jo
-  whole_name: Yong-won Jo
+  whole_name: Yong-Won Jo
+  function: |-
+    Secretary and Chief of Organisation and Guidance Department of the Worker’s Party of Korea;
+    former Vice Director of the Worker's Party of Korea's Organization and Guidance Department
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '161779'
+  logical_id: '112296'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -43,16 +44,14 @@ name_aliases:
     publication_date: '2017-06-09'
     number_title: 2017/970 (OJ L146)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
-- first_name: Yong-Won
+- first_name: Yong-won
   last_name: Jo
-  whole_name: Yong-Won Jo
-  function: |-
-    Secretary and Chief of Organisation and Guidance Department of the Worker’s Party of Korea;
-    former Vice Director of the Worker's Party of Korea's Organization and Guidance Department
+  whole_name: Yong-won Jo
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '112296'
+  logical_id: '161779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

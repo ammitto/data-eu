@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3652.16
 logical_id: '3744'
-entity_type: enterprise
 remark: Privately-owned airline, operates out of Butembo. Since December 2008, BAL
   no longer holds an aircraft operating license in the DRC.
 regulations:
@@ -17,19 +16,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Butembo Airlines
+- whole_name: BAL
   strong: true
   regulation_language: en
-  logical_id: '5128'
+  logical_id: '5129'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'
     number_title: 400/2007 (OJ L98)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
-- whole_name: BAL
+- whole_name: Butembo Airlines
   strong: true
   regulation_language: en
-  logical_id: '5129'
+  logical_id: '5128'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'

@@ -1,0 +1,100 @@
+---
+eu_reference_number: EU.13993.88
+logical_id: '180608'
+remark: 'Associated entities: RSF; Tradive General Trading Co; GSK ADVANCE COMPANY
+  LTD'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/251 (OJ L202600251)
+  programme: SDNZ
+  logical_id: '220337'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Algoney Hamdan Daglo Musa
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- whole_name: Musa Ahmed
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180613'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- whole_name: Algony Hamdan DAGALO MUSA
+  function: Major in the RSF
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '180610'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+birthdates:
+- birthdate: '1990-08-09'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 9
+  month_of_year: 8
+  year: 1990
+  city: Nayala North
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '180609'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+identifications:
+- identification_type_code: passport
+  number: B00017334
+  country_iso2_code: SD
+  regulation_language: en
+  logical_id: '180612'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- identification_type_code: passport
+  number: B00024943
+  country_iso2_code: SD
+  regulation_language: en
+  logical_id: '180611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251

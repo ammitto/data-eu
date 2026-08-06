@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9392.15
 logical_id: '147255'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Garda  Națională a Federației  Ruse
-  name_language: RO
+- whole_name: Nacionalna garda Ruske federacije
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '147884'
+  logical_id: '148136'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: National Guard of the Russian Federation
-  function: internal armed force of the Russian Federation
+- whole_name: Siły zbrojne Federacji Rosyjskie
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '147260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Národní garda Ruské federace
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '147930'
+  logical_id: '147736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -55,11 +44,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Guarda Nacional da Federação da Rússia
-  name_language: PT
+- whole_name: Rusijos Federacijos nacionalinė gvardija
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147811'
+  logical_id: '147981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Garda  Națională a Federației  Ruse
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -70,6 +69,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148059'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Guarda Nacional da Federação da Rússia
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -125,56 +134,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos Federacijos nacionalinė gvardija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Nacionalna garda Ruske federacije
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venemaa Föderatsiooni Rahvuskaart
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '148099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: garde nationale de la  Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147715'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Siły zbrojne Federacji Rosyjskie
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Nationale Garde van de Russische Federatie
   name_language: NL
   strong: true
@@ -190,16 +149,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Guardia Nacional de la Federación de Rusia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -249,6 +198,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: National Guard of the Russian Federation
+  function: internal armed force of the Russian Federation
+  strong: true
+  regulation_language: en
+  logical_id: '147260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Guardia Nacional de la Federación de Rusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Národní garda Ruské federace
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '147930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Venemaa Föderatsiooni Rahvuskaart
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '148099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: garde nationale de la  Fédération de Russie
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147715'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

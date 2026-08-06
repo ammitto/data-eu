@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12717.35
 logical_id: '172694'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
-  name_language: RO
+- whole_name: 北京和德宇航技术有限公司
+  name_language: ZH
   strong: true
   regulation_language: en
-  logical_id: '173334'
+  logical_id: '172698'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Beijing Hede Aerospace Technology
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -45,41 +54,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: China Head Űrtechnológia Vállalat
-  name_language: HU
+- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '173417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: 北京和德宇航技术有限公司
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '172698'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Beijing Hede Aerospace Technology
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Beijing Head Aerospace Technology
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172700'
+  logical_id: '173334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -99,6 +78,26 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: China Head Űrtechnológia Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Beijing Head Aerospace Technology
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
 - street: 5F, Bldg 5, Science and Technology Park, A-2 North Xisanhuan Road
   city: Haidian District, Beijing
@@ -113,21 +112,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: other
-  number: 91110108661572276L
-  country_iso2_code: CN
-  regulation_language: en
-  logical_id: '172696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '110108010146888'
   country_iso2_code: CN
   regulation_language: en
   logical_id: '172697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
+  number: 91110108661572276L
+  country_iso2_code: CN
+  regulation_language: en
+  logical_id: '172696'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

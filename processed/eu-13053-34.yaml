@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13053.34
 logical_id: '174995'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ufa Aggregate Enterprise »Gidravlika« Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company Ufa Aggregate Enterprise “Gidravlika”
   function: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika
     holding of the State Corporation Rostec and functions as a developer and manufacturer
@@ -75,16 +84,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Ufa Aggregate Enterprise »Gidravlika« Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

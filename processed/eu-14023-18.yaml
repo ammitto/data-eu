@@ -1,0 +1,92 @@
+---
+eu_reference_number: EU.14023.18
+logical_id: '180993'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC “AERO-HIT”
+  strong: true
+  regulation_language: en
+  logical_id: '180996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью “Аэро-ХИТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company Aero-HIT
+  function: LLC Aero-HIT is Russia-based company which was founded as an innovative
+    project aimed at developing, producing and maintaining of UAV’s. LLC Aero-HIT
+    assembles UAV “Veles”, a multi-rotor first person view strike drone, which can
+    be used as an attack drone, optical reconnaissance device, or as part of an electronic
+    reconnaissance system.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: OOO “АЭРО-ХИТ”
+  strong: true
+  regulation_language: en
+  logical_id: '180995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Sh. Mateveevskoe, D. 28a, Pomeshch. 26, Khabarovsk, Rus,
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '680031'
+  regulation_language: en
+  logical_id: '180994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '2700012608'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1232700009398'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

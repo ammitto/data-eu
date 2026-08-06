@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11693.85
 logical_id: '166339'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,14 +16,24 @@ subject_type:
 name_aliases:
 - first_name: Gholam
   middle_name: Ali
-  last_name: RASHID
-  whole_name: Gholam Ali RASHID
-  function: IRGC commander of the Khatam al-Anbia Central Headquarters (KCHG)
+  last_name: Rašíd
+  whole_name: Gholam Ali Rašíd
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166345'
+  logical_id: '166342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: غلامعلی رشید
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '166343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -43,26 +52,16 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1604 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: غلامعلی رشید
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '166343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
 - first_name: Gholam
   middle_name: Ali
-  last_name: Rašíd
-  whole_name: Gholam Ali Rašíd
+  last_name: RASHID
+  whole_name: Gholam Ali RASHID
+  function: IRGC commander of the Khatam al-Anbia Central Headquarters (KCHG)
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166342'
+  logical_id: '166345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

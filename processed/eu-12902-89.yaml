@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12902.89
 logical_id: '174062'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Anastasia Pavlovna POPKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174070'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Nastassia Paulauna PAPKO
   function: Judge at the Minsk City Court
   gender: F
@@ -27,34 +37,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Настасся Паўлаўна  ПАПКО
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Анастасия Павловна ПОПКО
   gender: F
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '174068'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Nastassja Papko
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -82,12 +70,23 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Anastasia Pavlovna POPKO
+- whole_name: Настасся Паўлаўна  ПАПКО
   gender: F
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174070'
+  logical_id: '174069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Nastassja Papko
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

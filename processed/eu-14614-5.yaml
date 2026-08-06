@@ -1,0 +1,83 @@
+---
+eu_reference_number: EU.14614.5
+logical_id: '183674'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Stanislav Alekseyevich
+  last_name: POZDNYAKOV
+  whole_name: Stanislav Alekseyevich POZDNYAKOV
+  function: Former President of the Olympic Committee of the Russian Federation (2018-2024);
+    Member of the Board of Russian Central Sports Club of the Army (CSKA); Lieutenant
+    Colonel of the Armed Forces of the Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Станислав Алексеевич
+  last_name: ПОЗДНЯКОВ
+  whole_name: Станислав Алексеевич ПОЗДНЯКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+birthdates:
+- birthdate: '1973-09-27'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 27
+  month_of_year: 9
+  year: 1973
+  city: Novosibirsk
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '540696245433'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

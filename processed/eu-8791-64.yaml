@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8791.64
 logical_id: '144465'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,15 +42,16 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Aleksandr
-  middle_name: Viktorovitj
-  last_name: KOTJKIN
-  whole_name: Aleksandr Viktorovitj KOTJKIN
+- first_name: Aleksander
+  middle_name: Viktorovich
+  last_name: KOCHKIN
+  whole_name: Aleksander Viktorovich KOCHKIN
+  function: Executive Director of the Tecmash concern, a designer and manufacturer
+    of missiles and munitions
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144654'
+  logical_id: '144469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -71,16 +71,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Aleksander
-  middle_name: Viktorovich
-  last_name: KOCHKIN
-  whole_name: Aleksander Viktorovich KOCHKIN
-  function: Executive Director of the Tecmash concern, a designer and manufacturer
-    of missiles and munitions
+- first_name: Aleksandr
+  middle_name: Viktorovitj
+  last_name: KOTJKIN
+  whole_name: Aleksandr Viktorovitj KOTJKIN
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144469'
+  logical_id: '144654'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

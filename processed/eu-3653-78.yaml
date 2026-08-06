@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3653.78
 logical_id: '3746'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Compagnie Aérienne des Grands Lacs
-  strong: true
-  regulation_language: en
-  logical_id: '5131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-13'
-    number_title: 400/2007 (OJ L98)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 - whole_name: CAGL
   strong: true
   regulation_language: en
@@ -51,7 +41,27 @@ name_aliases:
     publication_date: '2007-04-13'
     number_title: 400/2007 (OJ L98)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
+- whole_name: Compagnie Aérienne des Grands Lacs
+  strong: true
+  regulation_language: en
+  logical_id: '5131'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-13'
+    number_title: 400/2007 (OJ L98)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 addresses:
+- street: PO Box 315
+  city: Goma
+  country_iso2_code: CD
+  country_description: CONGO, Democratic Republic of (was Zaire)
+  regulation_language: en
+  logical_id: '1017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-13'
+    number_title: 400/2007 (OJ L98)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 - street: Avenue President Mobutu
   city: Goma
   country_iso2_code: CD
@@ -68,17 +78,6 @@ addresses:
   country_description: RWANDA
   regulation_language: en
   logical_id: '1018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-13'
-    number_title: 400/2007 (OJ L98)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
-- street: PO Box 315
-  city: Goma
-  country_iso2_code: CD
-  country_description: CONGO, Democratic Republic of (was Zaire)
-  regulation_language: en
-  logical_id: '1017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'

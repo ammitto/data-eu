@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9534.23
 logical_id: '148516'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -78,28 +77,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Επαρχιακό σώμα Karbala του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
-    Mazandaran
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '148658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Karbala
-    Māzandarāni provintsis
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '149001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionalni  korpus Karbala Islamske revolucionarne  garde (IRGC)) u
     Mazandaranu
   name_language: HR
@@ -117,6 +94,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Karbala
+    Māzandarāni provintsis
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '149001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -177,6 +165,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Karbala prowincji Mazandaran
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Cuerpo regional «Karbala» del Cuerpo de  los Guardianes de la Revolución
     Islámica  en Mazandarán
   name_language: ES
@@ -199,12 +198,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Karbala prowincji Mazandaran
-  name_language: PL
+- whole_name: Επαρχιακό σώμα Karbala του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
+    Mazandaran
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '148680'
+  logical_id: '148658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -241,6 +240,16 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Az Iszlám Forradalmi Gárda mázandaráni Karbala regionális hadteste
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148844'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Corpo regionale Karbala del Corpo delle  guardie rivoluzionarie islamiche
     (IRGC), Mazandaran
   name_language: IT
@@ -257,16 +266,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148822'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Az Iszlám Forradalmi Gárda mázandaráni Karbala regionális hadteste
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '148844'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

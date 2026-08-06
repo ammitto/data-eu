@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13109.95
 logical_id: '175495'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,6 +24,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Федерално държавно предприятие „Самарски завод „Комунар““
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '175501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Federal State Enterprise “Samara Plant ‘Kommunar’”
   function: The Federal State Enterprise “Samara Plant ‘Kommunar’”, part of the State
     Corporation Rostec, is a key supplier of gunpowder for the Armed Forces of the
@@ -36,16 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Федерално държавно предприятие „Самарски завод „Комунар““
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '175501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -74,21 +73,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '07506501'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1036302392356'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '07506501'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175497'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

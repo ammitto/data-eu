@@ -1,0 +1,74 @@
+---
+eu_reference_number: EU.14921.4
+logical_id: '184950'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1817 (OJ L202601817)
+  programme: BLR
+  logical_id: '225873'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: OJSC Mozyr Oil Refinery OAO
+  function: 'Associated entities: Belarus State Property Committee OJSC Naftan; State
+    Production Association Belorusneft; OJSC Belarusian Oil Company (BNK) Belneftekhim;
+    European Trading Company LLC (ETK)'
+  title: Open Joint Stock Company, Oil refinery
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- whole_name: Mozyrskii Neftepererabatyvayushchii Zavod
+  strong: true
+  regulation_language: en
+  logical_id: '184954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- whole_name: OAO Мозырский нефтеперерабатывающий завод
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '184953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+addresses:
+- street: v/c 18
+  city: Mikhalki
+  region: Gomel region
+  country_iso2_code: BY
+  country_description: BELARUS
+  zip_code: '247782'
+  regulation_language: en
+  logical_id: '184951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+identifications:
+- identification_type_code: regnumber
+  number: '400091131'
+  country_iso2_code: BY
+  regulation_language: en
+  logical_id: '184952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817

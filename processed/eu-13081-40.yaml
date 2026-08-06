@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13081.40
 logical_id: '175160'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -35,6 +34,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Public Joint Stock Company Surgutneftegaz
+  function: PJSC Surgutneftegaz is a company active in the Russian energy sector.
+    The company carries out prospecting, exploration and production of hydrocarbons
+    in three Russian oil and gas provinces, namely Western Siberia, Eastern Siberia
+    and Timan-Pechora.
+  title: Public Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Публичное Акционерное Общество “Сургутнефтегаз”
   name_language: RU
   strong: true
@@ -49,21 +63,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Public Joint Stock Company Surgutneftegaz
-  function: PJSC Surgutneftegaz is a company active in the Russian energy sector.
-    The company carries out prospecting, exploration and production of hydrocarbons
-    in three Russian oil and gas provinces, namely Western Siberia, Eastern Siberia
-    and Timan-Pechora.
-  title: Public Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

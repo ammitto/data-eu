@@ -2,7 +2,6 @@
 eu_reference_number: EU.4381.10
 logical_id: '115699'
 united_nation_id: QDi.411
-entity_type: person
 remark: UNLI-06.03.2018
 regulations:
 - regulation_type: amendment
@@ -94,20 +93,6 @@ citizenships:
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1959
-  city: Baghdad
-  place: Nineveh Province
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '115777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - birthdate: '1962-02-20'
   circa: false
   calendar_type: GREGORIAN
@@ -124,6 +109,20 @@ birthdates:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1959
+  city: Baghdad
+  place: Nineveh Province
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '115777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 addresses:
 - city: Tel Afar – Al-Saad, Mosul
   country_iso2_code: IQ
@@ -157,21 +156,21 @@ identifications:
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- identification_type_code: id
-  number: '00813602'
-  country_iso2_code: IQ
-  regulation_language: en
-  logical_id: '115781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - identification_type_code: passport
   number: A6489694
   country_iso2_code: IQ
   regulation_language: en
   logical_id: '115782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- identification_type_code: id
+  number: '00813602'
+  country_iso2_code: IQ
+  regulation_language: en
+  logical_id: '115781'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'

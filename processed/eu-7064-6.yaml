@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7064.6
 logical_id: '133991'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Георгий
-  middle_name: Петрович
-  last_name: КАМНЕВ
-  whole_name: Георгий Петрович КАМНЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '133993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Georgy
   middle_name: Petrovich
   last_name: KAMNEV
@@ -38,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Георгий
+  middle_name: Петрович
+  last_name: КАМНЕВ
+  whole_name: Георгий Петрович КАМНЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '133993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

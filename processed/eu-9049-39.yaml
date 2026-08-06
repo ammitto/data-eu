@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9049.39
 logical_id: '145526'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Státní správní  rada
-  name_language: CS
+- whole_name: Valstybės administracijos taryba
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '145579'
+  logical_id: '145578'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -62,6 +61,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Staatsbestuursraad
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '145569'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -146,11 +155,11 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Valstybės administracijos taryba
-  name_language: LT
+- whole_name: Státní správní  rada
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '145578'
+  logical_id: '145579'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -191,16 +200,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Staatsbestuursraad
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '145569'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

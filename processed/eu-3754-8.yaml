@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3754.8
 logical_id: '7165'
-entity_type: person
 remark: 'Date of UN designation: 25 July 2012.'
 regulations:
 - regulation_type: amendment
@@ -16,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aboud Rogo Mohammed
-  strong: true
-  regulation_language: en
-  logical_id: '16571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-16'
-    number_title: 943/2012 (OJ L282)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:282:0006:0008:EN:PDF
 - whole_name: Aboud Mohammad Rogo
   strong: true
   regulation_language: en
@@ -74,6 +64,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-16'
+    number_title: 943/2012 (OJ L282)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:282:0006:0008:EN:PDF
+- whole_name: Aboud Rogo Mohammed
+  strong: true
+  regulation_language: en
+  logical_id: '16571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-16'

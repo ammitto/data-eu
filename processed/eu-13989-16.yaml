@@ -1,0 +1,71 @@
+---
+eu_reference_number: EU.13989.16
+logical_id: '180744'
+remark: 'Type of entity: Private company'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/262 (OJ L202600262)
+  programme: IRN
+  logical_id: '220351'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Fanavaran Sanat Ertebatat Company (FSE)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: شرکت فن آوران صنعت ارتباطات
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+addresses:
+- street: ousef Abad Neighbourhood, Kordestan Express Way, Seyyed Sohrab Akhlaqi street
+    37
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+identifications:
+- identification_type_code: other
+  number: '247799'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- identification_type_code: other
+  number: '10102884046'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262

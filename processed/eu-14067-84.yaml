@@ -1,0 +1,83 @@
+---
+eu_reference_number: EU.14067.84
+logical_id: '181081'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC “Gazprom Flot”
+  function: LLC Gazprom Flot is a leading company in the Russian energy sector. The
+    company is involved in drilling services related to the production of oil and
+    gas, as well as transportation and regasification of LNG, construction and operation
+    of floating drilling rigs and specialised vessels.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО Газпром Флот
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181086'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Gazprom Flot LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Prospekt Vernadskogo d. 41 str. 1,
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '181082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '7740000037'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181083'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1027700198635'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

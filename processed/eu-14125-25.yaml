@@ -1,0 +1,93 @@
+---
+eu_reference_number: EU.14125.25
+logical_id: '181393'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC LUKOIL- Novgorodnefteorgsintez
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC Lukoil-Nizhny Novgorodnefteorgsintez
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью Лукойл-Нижегороднефтеоргсинтез
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company LUKOIL- Nizhnogorodneftegorgsetez
+  function: Limited Liability Company “LUKOIL-Nizhnogorodneftegorgsetez” is a Russian
+    entity operating an oil refinery in the Nizhny Novgorod region.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Sh Central (Industrial R-N), d. 9
+  city: Kstovo city
+  region: Nizhny Novgorod region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '607650'
+  regulation_language: en
+  logical_id: '181394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '52500043567'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1085250002111'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

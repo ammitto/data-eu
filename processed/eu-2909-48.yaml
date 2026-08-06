@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2909.48
 logical_id: '6971'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -32,13 +31,12 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  month_of_year: 8
-  year: 1961
+  year: 1960
   city: Najaf
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
-  logical_id: '1792'
+  logical_id: '1791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -46,12 +44,13 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0026:0036:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1960
+  month_of_year: 8
+  year: 1961
   city: Najaf
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
-  logical_id: '1791'
+  logical_id: '1792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

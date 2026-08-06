@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13458.65
 logical_id: '177766'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юрій Iлларіонович ЛАСТОЧКIН
+- whole_name: Yuri Illarionovich LASTOCHKIN
+  function: Official of the Ministry of Defense of the Russian Federation; Military
+    Leader; General-Major/Lieutenant General; Chief of the Electronic Warfare Forces
+    of the Russian Federation/head of Russian Defense Ministry’s Radio-Electronic
+    Warfare (REB) force
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177769'
+  logical_id: '177771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -37,16 +40,12 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Yuri Illarionovich LASTOCHKIN
-  function: Official of the Ministry of Defense of the Russian Federation; Military
-    Leader; General-Major/Lieutenant General; Chief of the Electronic Warfare Forces
-    of the Russian Federation/head of Russian Defense Ministry’s Radio-Electronic
-    Warfare (REB) force
+- whole_name: Юрій Iлларіонович ЛАСТОЧКIН
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '177771'
+  logical_id: '177769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

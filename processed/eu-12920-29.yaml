@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12920.29
 logical_id: '174241'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alla SKURATOVICH
-  name_language: EN
+- whole_name: Ala Skuratovičová
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '174249'
+  logical_id: '174245'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -35,21 +34,21 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Алла СКУРАТОВИЧ
-  name_language: RU
+- whole_name: Alla SKURATOVICH
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174247'
+  logical_id: '174249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ala Skuratovič
-  name_language: CS
+- whole_name: Ala Skuratovitš
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '174246'
+  logical_id: '174244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -66,21 +65,21 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ala Skuratovičová
-  name_language: SK
+- whole_name: Ala Skuratovič
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174245'
+  logical_id: '174246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ala Skuratovitš
-  name_language: FI
+- whole_name: Алла СКУРАТОВИЧ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174244'
+  logical_id: '174247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

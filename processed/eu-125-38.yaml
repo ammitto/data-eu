@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.125.38
 logical_id: '154'
-entity_type: person
 remark: UNSC RESOLUTION 1483 BASIS
 regulations:
 - regulation_type: regulation
@@ -17,20 +16,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Adil Abdallah Mahdi
-  function: Ba'th Party Regional Command Chairman, Dhi-Qar
+  function: Former Ba'th Party Chairman for Diyala and al-Anbar
   strong: true
   regulation_language: en
-  logical_id: '218'
+  logical_id: '219'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Adil Abdallah Mahdi
-  function: Former Ba'th Party Chairman for Diyala and al-Anbar
+  function: Ba'th Party Regional Command Chairman, Dhi-Qar
   strong: true
   regulation_language: en
-  logical_id: '219'
+  logical_id: '218'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -47,6 +46,19 @@ citizenships:
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1945
+  city: al-Dur
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '142'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   city: Al-Dur (J.O. ES)
@@ -66,19 +78,6 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '265'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1945
-  city: al-Dur
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '142'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

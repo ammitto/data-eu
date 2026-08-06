@@ -1,0 +1,95 @@
+---
+eu_reference_number: EU.14534.31
+logical_id: '183346'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Genbank S.A
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО Генбанк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Genbank
+  function: JSC Genbank is a Russian commercial bank that operates extensively in
+    the temporarily occupied territory of Ukraine. The bank is active in state-backed
+    SME financing tools.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183352'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 12 Ozerkovskaya Naberezhnaya
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '115184'
+  regulation_language: en
+  logical_id: '183348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: 13 Sevastopolskaya Street
+  city: Simferopol
+  country_iso2_code: UA
+  country_description: UKRAINE
+  zip_code: '295011'
+  regulation_language: en
+  logical_id: '183347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '7750005820'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '910201001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183349'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

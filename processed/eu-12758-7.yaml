@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12758.7
 logical_id: '172989'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: LEE Chang Ho
+  function: Lieutenant General of the Korean People’s Army, Head of he North Korean
+    Reconnaissance General Bureau, Colonel General
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172993'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: 리창호
   gender: M
   name_language: KO
@@ -26,14 +38,12 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: LEE Chang Ho
-  function: Lieutenant General of the Korean People’s Army, Head of he North Korean
-    Reconnaissance General Bureau, Colonel General
+- whole_name: RHEE Chang Ho
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172993'
+  logical_id: '172990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -56,17 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: RHEE Chang Ho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

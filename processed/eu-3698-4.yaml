@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3698.4
 logical_id: '7065'
-entity_type: person
 remark: 'Co-owner of Haji Khairullah Haji Sattar Money Exchange and associated also
   with Khairullah Barakzai. Belongs to Barakzai tribe. Father’s name is Hajji ‘Abd-al-Manaf.
   INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4998005'
@@ -18,29 +17,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abdulasattar
+  strong: true
+  regulation_language: en
+  logical_id: '16366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - whole_name: Abdul Satar Abdul Manan
   title: Haji
   strong: true
   regulation_language: en
   logical_id: '16362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Abdul Sattar Barakzai
-  strong: true
-  regulation_language: en
-  logical_id: '16363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Abdul Satar
-  strong: true
-  regulation_language: en
-  logical_id: '16364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -55,29 +45,25 @@ name_aliases:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Abdulasattar
+- whole_name: Haji Abdul Satar
   strong: true
   regulation_language: en
-  logical_id: '16366'
+  logical_id: '16364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Haji Abdul Sattar Barakzai
+  strong: true
+  regulation_language: en
+  logical_id: '16363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1964
-  city: Mirmandaw village, Nahr-e Saraj District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1912'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1964
@@ -94,6 +80,19 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1964
+  city: Mirmandaw village, Nahr-e Saraj District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1964
   city: Mirmadaw village, Gereshk District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -105,22 +104,22 @@ birthdates:
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 addresses:
+- city: Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - street: Kachray Road
   city: Pashtunabad, Quetta, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '2293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- city: Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2294'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -148,16 +147,6 @@ addresses:
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 identifications:
-- identification_type_code: passport
-  number: AM5421691
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - identification_type_code: id
   number: '5420250161699'
   country_iso2_code: PK
@@ -168,6 +157,16 @@ identifications:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- identification_type_code: passport
+  number: AM5421691
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - identification_type_code: id
   number: '585629'
   country_iso2_code: AF

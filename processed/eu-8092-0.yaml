@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8092.0
 logical_id: '139141'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,16 +24,16 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: JSC Russian Machines
+- whole_name: JSC Nizhegorodskie  Avtomobili
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '139144'
+  logical_id: '151748'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: ООО “Русские машины”
   name_language: RU
   strong: true
@@ -55,16 +54,16 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: JSC Nizhegorodskie  Avtomobili
+- whole_name: JSC Russian Machines
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151748'
+  logical_id: '139144'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 addresses:
 - street: st.  Mira, 116 K.D, kv.2
   region: Ust-Labinsky district, Krasnodar region

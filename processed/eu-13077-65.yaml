@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13077.65
 logical_id: '175120'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Общество с Ограниченной Ответственностью “Центр Комплексных Беспилотных
+    Решений”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175127'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company “Center for Integrated Unmanned Solutions”
   function: LLC “Center for Integrated Unmanned Solutions” is a company based in Zhukovsky
     in the Moscow Oblast and part of the Russian military and industrial complex.
@@ -28,70 +38,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Общество с Ограниченной Ответственностью “Центр Комплексных Беспилотных
-    Решений”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Complex Unmanned Solutions Center Ltd
-  strong: true
-  regulation_language: en
-  logical_id: '175126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: USC LTD
-  strong: true
-  regulation_language: en
-  logical_id: '175125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО “ЦКБР”
   strong: true
   regulation_language: en
   logical_id: '175124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű
-    \ Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: STC LTD
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '175286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Pilóta Nélküli Komplex  Megoldások Központja Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -117,6 +67,55 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Pilóta Nélküli Komplex  Megoldások Központja Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű
+    \ Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Complex Unmanned Solutions Center Ltd
+  strong: true
+  regulation_language: en
+  logical_id: '175126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: USC LTD
+  strong: true
+  regulation_language: en
+  logical_id: '175125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: STC LTD
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '175286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: 24/1 Luch Str., 2nd floor, app. 112
   city: Zhukovsky
@@ -131,21 +130,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1225000003458'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '5040176793'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1225000003458'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

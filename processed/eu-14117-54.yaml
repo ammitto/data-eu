@@ -1,0 +1,81 @@
+---
+eu_reference_number: EU.14117.54
+logical_id: '181266'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: 陽光電子科技有限公司
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '181271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Brightmile Ltd
+  function: Brightmile Ltd is a China-based company, which supplies electronic components.
+    It supplies multiple Russian companies including LLC “ELSAP” and JSC “Magneton”.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: BRIGHTMILE LIMITED
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Rm 1902, Easey Comm.Bldg., 253261 Hennessy Road
+  city: Hong Kong
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '181267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: other
+  number: '3127263'
+  country_iso2_code: HK
+  regulation_language: en
+  logical_id: '181268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '73787237'
+  country_iso2_code: HK
+  regulation_language: en
+  logical_id: '181269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

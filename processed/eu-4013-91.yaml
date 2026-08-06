@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4013.91
 logical_id: '7206'
-entity_type: person
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -38,6 +37,18 @@ name_aliases:
     number_title: 1059/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0003&from=EN
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1965
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-02-19'
+    number_title: 137/2013 (OJ L46)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
 - birthdate: '1968-02-19'
   circa: false
   calendar_type: GREGORIAN
@@ -60,18 +71,6 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-02-19'
-    number_title: 137/2013 (OJ L46)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1965
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'

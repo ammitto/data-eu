@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11634.76
 logical_id: '165994'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Гласът на Европа
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '166000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1493 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
 - whole_name: Hlas Evropy
   name_language: CS
   strong: true
@@ -41,6 +30,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1493 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
+- whole_name: Гласът на Европа
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '166000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

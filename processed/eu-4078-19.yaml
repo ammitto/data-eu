@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4078.19
 logical_id: '108649'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 리용주
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '142075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: LI Yong-ju
   function: Admiral of the Korean People’s Army. Former member of the Central Military
     Commission of the Workers’ Party of Korea, which is a key body for national defence
@@ -44,6 +33,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 리용주
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '142075'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

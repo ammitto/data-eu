@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.5841.70
 logical_id: '125696'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Trgovska družba  Rungrado
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '143029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Korejska splošna  trgovska družba  Rungrado
   name_language: SL
   strong: true
@@ -47,16 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Trgovska družba  Rungrado
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '143029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

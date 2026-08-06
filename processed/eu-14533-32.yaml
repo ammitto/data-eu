@@ -1,0 +1,82 @@
+---
+eu_reference_number: EU.14533.32
+logical_id: '183339'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Joint Stock Company Pochta Bank
+  function: Joint Stock Company Pochta Bank is a major Russian retail bank created
+    as a joint venture between VTB Group and Russian Post.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Joint Stock Company Post Bank
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Акционерное Общество Почта Банк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 8, Preobrazhenskaya Square
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '107061'
+  regulation_language: en
+  logical_id: '183340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '3232005484'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '771801001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

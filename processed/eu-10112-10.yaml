@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10112.10
 logical_id: '153504'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: سلمان آدینه وند
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '153539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-22'
+    number_title: 2023/986 (OJ L134 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0986
 - first_name: Salman
   last_name: ADINEHVAND
   whole_name: Salman ADINEHVAND
@@ -25,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-22'
-    number_title: 2023/986 (OJ L134 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0986
-- whole_name: سلمان آدینه وند
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '153539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-22'

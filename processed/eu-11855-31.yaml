@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11855.31
 logical_id: '167497'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohamed Omar
-  last_name: Mohamed
-  whole_name: Mohamed Omar Mohamed
-  function: ": Leader (Wali) of the Al-Shabaab group in Diinsor"
+- whole_name: Mohamed Omar Haji
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167506'
+  logical_id: '167504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -40,23 +36,15 @@ name_aliases:
     publication_date: '2024-06-17'
     number_title: 2024/1724 (OJ L20240617)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- whole_name: Mohamed Omar Haji
+- first_name: Mohamed Omar
+  last_name: Mohamed
+  whole_name: Mohamed Omar Mohamed
+  function: ": Leader (Wali) of the Al-Shabaab group in Diinsor"
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- whole_name: Mohamed  Haji Omar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167502'
+  logical_id: '167506'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -68,6 +56,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Mohamed  Haji Omar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167502'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -99,21 +98,21 @@ birthdates:
     number_title: 2024/1724 (OJ L20240617)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 addresses:
-- region: Diinsor District, Bay Region
-  country_iso2_code: SO
-  country_description: SOMALIA
-  regulation_language: en
-  logical_id: '167499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - region: Buur Hakaba District, Bay Region
   country_iso2_code: SO
   country_description: SOMALIA
   regulation_language: en
   logical_id: '167498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- region: Diinsor District, Bay Region
+  country_iso2_code: SO
+  country_description: SOMALIA
+  regulation_language: en
+  logical_id: '167499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'

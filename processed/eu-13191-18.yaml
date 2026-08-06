@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13191.18
 logical_id: '176014'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,50 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: أبو عمشة
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Muhammad AL-JASSIM BIN HUSSEIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Muhammad Husayn AL-JASIM
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Abu AMSHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: Muhammad Hussein AL-JASIM
   function: Muhammad Hussein al-Jasim is the founder and leader of the Sultan Sulaiman
     Shah Brigade, a Syrian armed militia active in the Syrian civil war. In March
@@ -72,6 +27,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: محمد حسين الجاسم
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Muhammad AL-JASSIM BIN HUSSEIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -99,22 +76,44 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: محمد حسين الجاسم
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: Mohamed ALJASEM
   gender: M
   strong: true
   regulation_language: en
   logical_id: '176021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: أبو عمشة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Abu AMSHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Muhammad Husayn AL-JASIM
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

@@ -1,0 +1,58 @@
+---
+eu_reference_number: EU.14275.73
+logical_id: '182042'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Hossein YEKTA
+  function: |-
+    Hossein Yekta is a senior Commander of the Islamic Revolutionary Guard Corps (IRGC) who acts as a recruiter and indoctrinator for the IRGC. During the protests that started in December 2025, he publicly supported the shooting of peaceful demonstrators.
+    Hossein Yekta is therefore responsible for serious human rights violations in Iran.
+  gender: M
+  title: Commander of the Islamic Revolutionary Guard Corps (IRGC)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182045'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '182044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+birthdates:
+- birthdate: '1967-11-27'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 27
+  month_of_year: 11
+  year: 1967
+  city: Qom
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '182043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

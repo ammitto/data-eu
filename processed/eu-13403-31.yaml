@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13403.31
 logical_id: '177347'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Krafttek« Kft
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Krafttek« Korlátolt Felelősségű  Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “Crafftech”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “Krafttek”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Общество с  ограниченной ответственностью  “Крафттек”
   name_language: RU
   strong: true
@@ -102,6 +61,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177353'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Krafttek« Kft
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Krafttek« Korlátolt Felelősségű  Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: LLC “Crafftech”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: LLC “Krafttek”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

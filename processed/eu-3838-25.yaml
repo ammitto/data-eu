@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3838.25
 logical_id: '112075'
-entity_type: person
 remark: Father's name is Abdoulaye. Mother's name is Absita Moussa.
 regulations:
 - regulation_type: amendment
@@ -98,15 +97,6 @@ name_aliases:
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 citizenships:
-- country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '112084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-05-25'
-    number_title: 2017/890 (OJ L138)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
 - country_iso2_code: TD
   country_description: CHAD
   regulation_language: en
@@ -116,28 +106,27 @@ citizenships:
     publication_date: '2019-05-14'
     number_title: 2019/757 (OJ L125)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0757&from=EN
-birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1967
-  city: Ndele, Bamingui-Bangoran
-  country_iso2_code: CF
+- country_iso2_code: CF
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
-  logical_id: '120106'
+  logical_id: '112084'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-08-10'
-    number_title: 2020/1171 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
-- circa: false
+    publication_date: '2017-05-25'
+    number_title: 2017/890 (OJ L138)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
+birthdates:
+- birthdate: '1967-01-01'
+  circa: false
   calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
   year: 1967
   city: Haraze Mangueigne
   country_iso2_code: TD
   country_description: CHAD
   regulation_language: en
-  logical_id: '112076'
+  logical_id: '120107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-05-14'
@@ -159,22 +148,32 @@ birthdates:
     publication_date: '2020-08-10'
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
-- birthdate: '1967-01-01'
-  circa: false
+- circa: false
   calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
   year: 1967
   city: Haraze Mangueigne
   country_iso2_code: TD
   country_description: CHAD
   regulation_language: en
-  logical_id: '120107'
+  logical_id: '112076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-05-14'
     number_title: 2019/757 (OJ L125)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0757&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1967
+  city: Ndele, Bamingui-Bangoran
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '120106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-08-10'
+    number_title: 2020/1171 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 addresses:
 - city: Ndélé, Bamingui-Bangoran
   country_iso2_code: CF
@@ -231,20 +230,20 @@ identifications:
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 - identification_type_code: passport
-  number: D00000897
+  number: D00004262
   country_iso2_code: CF
   regulation_language: en
-  logical_id: '112087'
+  logical_id: '125149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 - identification_type_code: passport
-  number: D00004262
+  number: D00000897
   country_iso2_code: CF
   regulation_language: en
-  logical_id: '125149'
+  logical_id: '112087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'

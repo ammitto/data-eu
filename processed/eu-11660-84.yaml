@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11660.84
 logical_id: '166187'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Volga Dnyeper Légitársaság Kft
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Volga-Dněpr
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Volga Dnepr Airlines LLC
   function: Volga Dnepr Airlines LLC is part of the Volga Dnepr Group, a leading group
     of Russian companies specialising in cargo and charter flights.
@@ -57,6 +36,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Volga-Dněpr
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: ООО „Авиакомпания ,Волга Днепр‘“
   name_language: HU
   strong: true
@@ -72,6 +61,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167544'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Volga Dnyeper Légitársaság Kft
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

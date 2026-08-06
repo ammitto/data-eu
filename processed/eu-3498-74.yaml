@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3498.74
 logical_id: '7587'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -29,81 +28,13 @@ name_aliases:
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Emad
-  last_name: HAMSHO
-  whole_name: Emad HAMSHO
-  function: Occupies senior management position in Hamsho Trading. Vice-president
-    of the Syrian Council of Iron and Steel. His assets include Syrian Metal Industries,
-    a steel plant outside Damascus.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18592'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Imad
   last_name: Hamchu
-  whole_name: Imad Hamchu
+  whole_name: Emad Hamchu
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '130476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Imad
-  last_name: Hmisho
-  whole_name: Imad Hmisho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18593'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Emad
-  last_name: Hemasho
-  whole_name: Emad Hemasho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Emad
-  last_name: Hmeisho
-  whole_name: Emad Hmeisho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Emad
-  last_name: Hamisho
-  whole_name: Emad Hamisho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109732'
+  logical_id: '109734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -117,19 +48,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Emad
-  last_name: Hamchu
-  whole_name: Emad Hamchu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -206,6 +124,87 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Imad
+  last_name: Hamchu
+  whole_name: Imad Hamchu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Emad
+  last_name: HAMSHO
+  whole_name: Emad HAMSHO
+  function: Occupies senior management position in Hamsho Trading. Vice-president
+    of the Syrian Council of Iron and Steel. His assets include Syrian Metal Industries,
+    a steel plant outside Damascus.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Imad
+  last_name: Hmisho
+  whole_name: Imad Hmisho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Emad
+  last_name: Hemasho
+  whole_name: Emad Hemasho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Emad
+  last_name: Hmeisho
+  whole_name: Emad Hmeisho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Emad
+  last_name: Hamisho
+  whole_name: Emad Hamisho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109732'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6409.41
 logical_id: '130313'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Jauhen Andrejevitj SJAPETSKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Jevgenij Andrejevitj SJAPETKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Яўген Андрэевіч ШАПЕЦЬКА
   gender: M
   name_language: BE
@@ -48,12 +25,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Евгений Андреевич ШАПЕТЬКО
+- whole_name: Jauhen Andrejevitj SJAPETSKA
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130319'
+  logical_id: '130747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -75,6 +52,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Jevgenij Andrejevitj SJAPETKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Евгений Андреевич ШАПЕТЬКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

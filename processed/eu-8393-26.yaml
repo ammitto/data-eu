@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8393.26
 logical_id: '141334'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,21 +24,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: INDEPENDENT INSURANCE GROUP
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Independent Insurance Group Ltd
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '152601'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: INDEPENDENT INSURANCE GROUP
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '141337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

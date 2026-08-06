@@ -1,0 +1,105 @@
+---
+eu_reference_number: EU.14139.87
+logical_id: '181503'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Общество С Ограниченной Ответственностью СКБ “Станкостроение”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC SKB Stankostroenie
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company SKB Stankostroenie
+  function: |-
+    LLC SKB STANKOSTROENIE produces metalworking equipment, including CNC lathes and milling machines, multifunctional machining centres, such as 400V metalworking and cutting tools. The entity sells its products to various Russian enterprises, including ODK-UMPO (PJSC UEC-UMPO), the main producers of turbojet aircraft engines: Su-27 family aircraft (AL-31F engine), Su-30 (engines AL-31F and AL-31FP), Su-25 (R-95Sh and R-195), Su-35S (AL-41F-1S), Su-57 (AL-41F-1).
+    Therefore, LLC SKB STANKOSTROENIE is materially supporting and benefitting from Russia’s military and industrial complex by supplying military technologies and equipment.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: OOO СКБ “Станкостроение”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Gogol St., 124
+  city: Sterlitamak
+  region: Republic of Bashkortostan
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '453130'
+  regulation_language: en
+  logical_id: '181504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '0268061215'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1120268002249'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '026801001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.1790.53
 logical_id: '4141'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -130,11 +129,11 @@ birthdates:
     number_title: 803/2008 (OJ L214)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:214:0052:0055:EN:PDF
 identifications:
-- identification_type_code: id
-  number: '259092401188'
+- identification_type_code: passport
+  number: '002327881'
   country_iso2_code: KW
   regulation_language: en
-  logical_id: '432'
+  logical_id: '431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -160,11 +159,11 @@ identifications:
     publication_date: '2008-01-25'
     number_title: 59/2008 (OJ L22)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
-- identification_type_code: passport
-  number: '002327881'
+- identification_type_code: id
+  number: '259092401188'
   country_iso2_code: KW
   regulation_language: en
-  logical_id: '431'
+  logical_id: '432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'

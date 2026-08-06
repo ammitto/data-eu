@@ -15,32 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Husain
-  last_name: SALIMI
-  whole_name: Husain SALIMI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Hossein
-  last_name: SALIMI
-  whole_name: Hossein SALIMI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Hussain
   last_name: SALIMI
   whole_name: Hussain SALIMI
@@ -49,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Husain
+  last_name: SALIMI
+  whole_name: Husain SALIMI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -73,6 +60,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Hosein
+  last_name: SALIMI
+  whole_name: Hosein SALIMI
+  function: Commander of the Air Force, IRGC (Pasdaran)
+  gender: M
+  title: General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Hossein
+  last_name: SALIMI
+  whole_name: Hossein SALIMI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -145,21 +160,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Hosein
-  last_name: SALIMI
-  whole_name: Hosein SALIMI
-  function: Commander of the Air Force, IRGC (Pasdaran)
-  gender: M
-  title: General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

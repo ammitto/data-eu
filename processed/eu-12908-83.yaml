@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12908.83
 logical_id: '174127'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,39 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Dzmitryi Švedka
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174130'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzmitryj Švedka
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '174131'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzmitryj Švedka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Dzmiry Shvedka
   gender: M
   name_language: ES
@@ -66,39 +98,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitryi Švedka
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '174130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitryj Švedka
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '174131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitryj Švedka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174132'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

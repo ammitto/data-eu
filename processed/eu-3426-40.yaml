@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3426.40
 logical_id: '6096'
-entity_type: person
 remark: 'Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
   Freeze). Believed status/location: deceased. Reportedly deceased in Sirte, Libya,
   on October 20 2011.'
@@ -31,11 +30,11 @@ name_aliases:
     publication_date: '2013-01-23'
     number_title: 50/2013 (OJ L20)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:020:0029:0032:EN:PDF
-- whole_name: MUATASIMBLLAH
+- whole_name: MOATASSAM
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109282'
+  logical_id: '109284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-05-05'
@@ -51,11 +50,21 @@ name_aliases:
     publication_date: '2016-05-05'
     number_title: 2016/690 (OJ L120)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
-- whole_name: MOATASSAM
+- whole_name: ALMUATESEM BELLAH MUAMMER QADHAFI
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109284'
+  logical_id: '109286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-05-05'
+    number_title: 2016/690 (OJ L120)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
+- whole_name: MUATASIMBLLAH
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109282'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-05-05'
@@ -71,16 +80,6 @@ name_aliases:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: ALMUATESEM BELLAH MUAMMER QADHAFI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-05'
-    number_title: 2016/690 (OJ L120)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
 birthdates:
 - birthdate: '1974-02-05'
   circa: false

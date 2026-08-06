@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7540.20
 logical_id: '136166'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -24,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pjotr
+  middle_name: Michajlovitj
+  last_name: FRADKOV
+  whole_name: Pjotr Michajlovitj FRADKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -53,20 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pjotr
-  middle_name: Michajlovitj
-  last_name: FRADKOV
-  whole_name: Pjotr Michajlovitj FRADKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

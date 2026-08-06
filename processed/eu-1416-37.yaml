@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.1416.37
 logical_id: '1983'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Bashaair Trading Company, Ltd
-  strong: true
-  regulation_language: en
-  logical_id: '2833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-05-25'
-    number_title: 785/2006 (OJ L138)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
 - whole_name: Al-Bushair Trading Company, Ltd
   strong: true
   regulation_language: en
@@ -33,19 +23,19 @@ name_aliases:
     publication_date: '2006-05-25'
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
-- whole_name: Al-Basha'ir Trading Company, Ltd
+- whole_name: Al-Bashaair Trading Company, Ltd
   strong: true
   regulation_language: en
-  logical_id: '2832'
+  logical_id: '2833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-05-25'
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
-- whole_name: Al-Bashir Trading Company, Ltd
+- whole_name: Al-Bashair Trading Company, Ltd
   strong: true
   regulation_language: en
-  logical_id: '2831'
+  logical_id: '2829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-05-25'
@@ -60,10 +50,19 @@ name_aliases:
     publication_date: '2006-05-25'
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
-- whole_name: Al-Bashair Trading Company, Ltd
+- whole_name: Al-Bashir Trading Company, Ltd
   strong: true
   regulation_language: en
-  logical_id: '2829'
+  logical_id: '2831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-05-25'
+    number_title: 785/2006 (OJ L138)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
+- whole_name: Al-Basha'ir Trading Company, Ltd
+  strong: true
+  regulation_language: en
+  logical_id: '2832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-05-25'

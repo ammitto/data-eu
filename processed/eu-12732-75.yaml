@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12732.75
 logical_id: '172807'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Astais
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Asteys Rt.
+- whole_name: "»Asteis« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173375'
+  logical_id: '173377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -40,6 +29,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC Astais
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC Asteys
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC Asteis
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: АО “АСТЕЙС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -70,11 +99,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Asteys
-  name_language: EN
+- whole_name: Asteys Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172813'
+  logical_id: '173375'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -85,36 +114,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Asteis« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173377'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “АСТЕЙС”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Asteis
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -134,21 +133,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: regnumber
-  number: '1071650002874'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: other
   number: '165001001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: regnumber
+  number: '1071650002874'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

@@ -1,0 +1,55 @@
+---
+eu_reference_number: EU.14173.66
+logical_id: '181709'
+regulations:
+- regulation_type: regulation
+  organisation_type: un
+  publication_date: '2026-02-24'
+  entry_into_force_date: '2026-02-24'
+  number_title: UNLI 20260225
+  programme: UNLI
+  logical_id: '222299'
+  publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Abdul Rahim Hamdan DAGALO
+  function: Rapid Support Forces (RSF) Deputy Leader
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181712'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181711'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+birthdates:
+- birthdate: '1972-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1972
+  city: Khartoum
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181710'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm

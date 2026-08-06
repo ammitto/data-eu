@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6339.36
 logical_id: '129822'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -48,12 +47,11 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Максим Леонидович ТРУСЕВИЧ
+- whole_name: Maksim Leonidovich TRUSEVICH
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129825'
+  logical_id: '129827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -70,11 +68,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Maksim Leonidovich TRUSEVICH
+- whole_name: Максим Леонидович ТРУСЕВИЧ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129827'
+  logical_id: '129825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

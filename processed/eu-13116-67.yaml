@@ -2,7 +2,6 @@
 eu_reference_number: EU.13116.67
 logical_id: '175557'
 designation_details: Skywalker Technology Co.,Ltd
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 武汉思凯沃克科技有限公司
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '175584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Wuhan Skywalker Technology Co., Ltd
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: 武汉思凯沃克科技有限公司
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '175584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

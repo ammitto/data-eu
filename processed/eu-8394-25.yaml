@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8394.25
 logical_id: '141338'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Николай Дмитриевич ПЕСКОВ
+- whole_name: Nikolay Dmitrievich PESKOV
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '141344'
+  logical_id: '141347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -36,21 +34,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolay Dmitrievich CHOLES
+- whole_name: Николай Дмитриевич ПЕСКОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '141346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolay Dmitrievich PESKOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141347'
+  logical_id: '141344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -73,6 +62,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141373'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Nikolay Dmitrievich CHOLES
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -106,21 +105,21 @@ birthdates:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 identifications:
-- identification_type_code: passport
-  number: '721123760'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '141342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: id
   number: '4516913332'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '141341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- identification_type_code: passport
+  number: '721123760'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '141342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

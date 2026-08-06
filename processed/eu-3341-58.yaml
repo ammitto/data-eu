@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3341.58
 logical_id: '7586'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,30 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: George
-  last_name: Hasawani
-  whole_name: George Hasawani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '18590'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: George
-  last_name: Al Hasawani
-  whole_name: George Al Hasawani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '18591'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - first_name: George
   last_name: HASWANI
   whole_name: George HASWANI
@@ -63,6 +38,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: George
+  last_name: Hasawani
+  whole_name: George Hasawani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '18590'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: George
+  last_name: Al Hasawani
+  whole_name: George Al Hasawani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '18591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

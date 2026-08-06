@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12433.47
 logical_id: '170968'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алег
-  middle_name: Генадзевіч
-  last_name: АРЛОЎ
-  whole_name: Алег Генадзевіч АРЛОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170973'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Oleg
-  middle_name: Gennadievich
-  last_name: ORLOV
-  whole_name: Oleg Gennadievich ORLOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Aleh
   last_name: Arlov
   whole_name: Aleh Arlov
@@ -80,6 +51,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Oleg
+  middle_name: Gennadievich
+  last_name: ORLOV
+  whole_name: Oleg Gennadievich ORLOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Алег
+  middle_name: Генадзевіч
+  last_name: АРЛОЎ
+  whole_name: Алег Генадзевіч АРЛОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '170973'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

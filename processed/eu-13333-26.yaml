@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13333.26
 logical_id: '176924'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александр Сергеевич УШКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Aleksandr Sergeyevich USHKO
   function: Aleksandr Ushko is the Lead Marketing Manager of LLC Open Systems Development
     Technology (LLC TROS), a Russia-based entity that manufactures metalworking equipment
@@ -35,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Александр Сергеевич УШКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

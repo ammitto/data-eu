@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7855.11
 logical_id: '138024'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,36 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexey Viktorovich PIMANOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '138029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Aleksej Viktorovitj PIMANOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139273'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Aleksej Viktorovič PIMANOV
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '139272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Aleksei Viktorovich PIMANOV
   function: Director General of Managing Organization “Creative Association Red Star;
     Head of the Krasnaya Zvezda media holding, owned by the Russian Defence Ministry
@@ -82,6 +51,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Aleksej Viktorovič PIMANOV
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '139272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Aleksej Viktorovitj PIMANOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Alexey Viktorovich PIMANOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '138029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

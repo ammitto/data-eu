@@ -1,31 +1,19 @@
 ---
 eu_reference_number: EU.12063.15
 logical_id: '168474'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2024-07-26'
-  entry_into_force_date: '2024-07-26'
-  number_title: 2024/2065(OJ L202402065)
+  publication_date: '2025-12-09'
+  entry_into_force_date: '2025-12-09'
+  number_title: 2025/2508 (OJ L202502508)
   programme: COD
-  logical_id: '200022'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+  logical_id: '223178'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502508
 subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: CS BRAVO SIERRA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - first_name: Justin
   middle_name: Gacheri
   last_name: MUSANGA
@@ -62,6 +50,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+- whole_name: CS BRAVO SIERRA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12573.29
 logical_id: '171452'
-entity_type: enterprise
 remark: "Associated entities:\n-\tOOO TKS Vektor, a.k.a. LLC TSK Vektor\n-\tXiamen
   Limbach Aviation"
 regulations:
@@ -61,13 +60,13 @@ name_aliases:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
-- street: 'Address: 1601-2, Rujun Building, No. 105, Zhongxing Road, Putian Street,
-    Longgang District,'
+- street: 2205, Logistics Center, No. 2, Bonded Logistics Center, Terminal 4th Road,
+    Baoan International Airport, Hongrui Community, Hangcheng Street, Baoan District,
   city: Shenzhen
   country_iso2_code: CN
   country_description: CHINA
   regulation_language: en
-  logical_id: '171453'
+  logical_id: '171454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -85,13 +84,13 @@ addresses:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- street: 2205, Logistics Center, No. 2, Bonded Logistics Center, Terminal 4th Road,
-    Baoan International Airport, Hongrui Community, Hangcheng Street, Baoan District,
+- street: 'Address: 1601-2, Rujun Building, No. 105, Zhongxing Road, Putian Street,
+    Longgang District,'
   city: Shenzhen
   country_iso2_code: CN
   country_description: CHINA
   regulation_language: en
-  logical_id: '171454'
+  logical_id: '171453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

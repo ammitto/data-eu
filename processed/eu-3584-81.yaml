@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3584.81
 logical_id: '6506'
-entity_type: person
 remark: Corrigendum 2025/1094 (OJ L202501094) [corr. 27/06/2025-1]
 regulations:
 - regulation_type: amendment
@@ -16,6 +15,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Moneer ADANOV
+  strong: true
+  regulation_language: en
+  logical_id: '17238'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mounir ADANOV
+  strong: true
+  regulation_language: en
+  logical_id: '17235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mouneer ADANOV
+  strong: true
+  regulation_language: en
+  logical_id: '17236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Monir ADANOV
   strong: true
   regulation_language: en
@@ -38,44 +64,6 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1094 (OJ L202501094)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
-- whole_name: Mounir ADANOV
-  strong: true
-  regulation_language: en
-  logical_id: '17235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mouneer ADANOV
-  strong: true
-  regulation_language: en
-  logical_id: '17236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: منير ادنوف
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Moneer ADANOV
-  strong: true
-  regulation_language: en
-  logical_id: '17238'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Muneer ADANOV
   strong: true
   regulation_language: en
@@ -100,6 +88,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109701'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: منير ادنوف
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13460.42
 logical_id: '177777'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,14 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksey Nikolayevich SHAVROV
+- whole_name: Андрей ПЕТРОВ
   gender: M
-  title: Military Intelligence Officer of the Main Directorate of the General Staff
-    of the Armed Forces of the Russian Federation (GRU)
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177783'
+  logical_id: '177780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -39,23 +36,25 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Aleksey Nikolayevich SHAVROV
+  gender: M
+  title: Military Intelligence Officer of the Main Directorate of the General Staff
+    of the Armed Forces of the Russian Federation (GRU)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Andrey PETROV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '177781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Андрей ПЕТРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

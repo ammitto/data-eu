@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3736.33
 logical_id: '6864'
-entity_type: person
 remark: M. Jamil Mukulu is the military Head of ADF.
 regulations:
 - regulation_type: amendment
@@ -36,37 +35,6 @@ name_aliases:
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: Talengelanimiro
-  strong: true
-  regulation_language: en
-  logical_id: '15133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Nicolas
-  last_name: Luumu
-  whole_name: Nicolas Luumu
-  strong: true
-  regulation_language: en
-  logical_id: '15132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Hussein
-  last_name: Muhammad
-  whole_name: Hussein Muhammad
-  strong: true
-  regulation_language: en
-  logical_id: '15131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
 - whole_name: Julius Elius Mashauri
   name_language: EN
   strong: true
@@ -168,6 +136,37 @@ name_aliases:
     publication_date: '2012-01-07'
     number_title: 7/2012 (OJ L4)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- first_name: Hussein
+  last_name: Muhammad
+  whole_name: Hussein Muhammad
+  strong: true
+  regulation_language: en
+  logical_id: '15131'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- first_name: Nicolas
+  last_name: Luumu
+  whole_name: Nicolas Luumu
+  strong: true
+  regulation_language: en
+  logical_id: '15132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- whole_name: Talengelanimiro
+  strong: true
+  regulation_language: en
+  logical_id: '15133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
 citizenships:
 - country_iso2_code: UG
   country_description: UGANDA
@@ -179,6 +178,19 @@ citizenships:
     number_title: 7/2012 (OJ L4)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1965
+  city: Ntoke Village, Ntenjeru Sub County, Kayunga District
+  country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '1703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
 - birthdate: '1964-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -190,19 +202,6 @@ birthdates:
   country_description: UGANDA
   regulation_language: en
   logical_id: '1704'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1965
-  city: Ntoke Village, Ntenjeru Sub County, Kayunga District
-  country_iso2_code: UG
-  country_description: UGANDA
-  regulation_language: en
-  logical_id: '1703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-01-07'

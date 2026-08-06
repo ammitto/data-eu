@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9647.95
 logical_id: '149519'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ольга
-  middle_name: Евгеньевна
-  last_name: БАС
-  whole_name: Ольга Евгеньевна БАС
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149522'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Olga
   middle_name: Yevgenyevna
   last_name: BAS
@@ -50,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Ольга
+  middle_name: Евгеньевна
+  last_name: БАС
+  whole_name: Ольга Евгеньевна БАС
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

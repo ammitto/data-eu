@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7990.95
 logical_id: '138700'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -27,11 +26,11 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Оксана Олександрівна БАБЕНКО
+- whole_name: Оксана Александровна БАБЕНКО
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '138702'
+  logical_id: '138703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -57,11 +56,11 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Оксана Александровна БАБЕНКО
+- whole_name: Оксана Олександрівна БАБЕНКО
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '138703'
+  logical_id: '138702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

@@ -1,0 +1,39 @@
+---
+eu_reference_number: EU.13996.85
+logical_id: '180662'
+remark: 'Associated entities: RSF'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/251 (OJ L202600251)
+  programme: SDNZ
+  logical_id: '220337'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Tijani Ibrahim Moussa MOHAMED
+  function: Field Commander of the RSF
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180664'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '180663'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251

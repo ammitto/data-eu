@@ -1,0 +1,87 @@
+---
+eu_reference_number: EU.14735.48
+logical_id: '184198'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Aleksei
+  middle_name: Yuryevich
+  last_name: MANIKIN
+  whole_name: Aleksei Yuryevich MANIKIN
+  function: |-
+    Associated individuals: Aleksandr Evgenievich Klukov; Aleksandr Yuryevich Iljin
+
+    Associated entities: “Beget” LLC
+  gender: M
+  title: Co-owner of “Beget”  LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Алексей
+  middle_name: Юрьевич
+  last_name: МАНИКИН
+  whole_name: Алексей Юрьевич МАНИКИН
+  gender: M
+  title: Co-owner of “Beget”  LLC
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '184200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+birthdates:
+- birthdate: '1986-07-12'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 12
+  month_of_year: 7
+  year: 1986
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '184199'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '470607765800'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

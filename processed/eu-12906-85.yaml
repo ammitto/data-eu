@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12906.85
 logical_id: '174105'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anton Krajeuski
+- whole_name: Антон Михайлович  КРАЕВСКИЙ
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174109'
+  logical_id: '174112'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -39,21 +38,10 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Anton Krajeuski
   gender: M
-  name_language: CS
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '174111'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Антон Михайлович  КРАЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174112'
+  logical_id: '174109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -70,13 +58,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Anton Mikhailavich  KRAEUSKY
-  function: Deputy Head of the Belarus President Property Management Directorate
+- whole_name: Anton Krajeuski
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174115'
+  logical_id: '174111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -88,6 +75,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174114'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Anton Mikhailavich  KRAEUSKY
+  function: Deputy Head of the Belarus President Property Management Directorate
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

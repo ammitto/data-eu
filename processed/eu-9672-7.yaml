@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9672.7
 logical_id: '149679'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,20 +25,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Олег
-  middle_name: Евгеньевич
-  last_name: БОЧАРОВ
-  whole_name: Олег Евгеньевич БОЧАРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Oleg
   middle_name: Evgenievich
   last_name: BOCHAROV
@@ -50,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Олег
+  middle_name: Евгеньевич
+  last_name: БОЧАРОВ
+  whole_name: Олег Евгеньевич БОЧАРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

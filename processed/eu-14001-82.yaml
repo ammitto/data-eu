@@ -1,0 +1,85 @@
+---
+eu_reference_number: EU.14001.82
+logical_id: '180685'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/259 (OJ L202600259)
+  programme: RUSDA
+  logical_id: '220360'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Ekaterina Sergeevna ANDREEVA
+  function: Russian television presenter, propaganda journalist, and editor; host
+    and main face of the news program “Vremya” on “Channel One” since 1997
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+- whole_name: Екатерина Сергеевна АНДРЕЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '180689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+- country_iso2_code: ME
+  country_description: MONTENEGRO
+  regulation_language: en
+  logical_id: '180688'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+- country_iso2_code: HN
+  country_description: HONDURAS
+  regulation_language: en
+  logical_id: '180687'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+birthdates:
+- birthdate: '1965-11-27'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 27
+  month_of_year: 11
+  year: 1965
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '180686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259

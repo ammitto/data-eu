@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13040.68
 logical_id: '174887'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Алексей Михайлович ЕФРЕМОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - first_name: Alexey
   middle_name: Mikhaylovich
   last_name: EFREMOV
@@ -24,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Алексей Михайлович ЕФРЕМОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12734.73
 logical_id: '172822'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrii
-  middle_name: Leonidovich
-  last_name: DERKACH
-  whole_name: Andrii Leonidovich DERKACH
-  function: Senator of the Federation Council
+- whole_name: Андрш Леошдович ДЕРКАЧ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '172827'
+  logical_id: '172825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -41,12 +36,16 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Андрш Леошдович ДЕРКАЧ
+- first_name: Andrii
+  middle_name: Leonidovich
+  last_name: DERKACH
+  whole_name: Andrii Leonidovich DERKACH
+  function: Senator of the Federation Council
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172825'
+  logical_id: '172827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

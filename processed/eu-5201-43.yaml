@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.5201.43
 logical_id: '121140'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,10 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdelrahman Mouhamad Zafir al Dabissi Juhani
+- last_name: Abdelrahman Mouhamad Zafir al Dabidi al Jahani
+  whole_name: Abdelrahman Mouhamad Zafir al Dabidi al Jahani
   strong: true
   regulation_language: en
-  logical_id: '121155'
+  logical_id: '121141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
+- whole_name: Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni
+  strong: true
+  regulation_language: en
+  logical_id: '121142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-08-21'
@@ -28,6 +37,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
+- whole_name: Abdelrahman Mouhamad Zafir al Dabissi Juhani
+  strong: true
+  regulation_language: en
+  logical_id: '121155'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-08-21'
@@ -46,43 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- whole_name: Abd al-Rahman Muhammad Thafir al-Jahni
-  strong: true
-  regulation_language: en
-  logical_id: '121152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- whole_name: Abu al-Wafa
-  strong: true
-  regulation_language: en
-  logical_id: '121151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- last_name: Abdelrahman Mouhamad Zafir al Dabidi al Jahani
-  whole_name: Abdelrahman Mouhamad Zafir al Dabidi al Jahani
-  strong: true
-  regulation_language: en
-  logical_id: '121141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- whole_name: Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni
-  strong: true
-  regulation_language: en
-  logical_id: '121142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-08-21'
@@ -160,6 +141,24 @@ name_aliases:
     publication_date: '2014-08-21'
     number_title: 914/2014 (OJ L248)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
+- whole_name: Abu al-Wafa
+  strong: true
+  regulation_language: en
+  logical_id: '121151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
+- whole_name: Abd al-Rahman Muhammad Thafir al-Jahni
+  strong: true
+  regulation_language: en
+  logical_id: '121152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
 citizenships:
 - country_iso2_code: SA
   country_description: SAUDI ARABIA
@@ -171,6 +170,19 @@ citizenships:
     number_title: 914/2014 (OJ L248)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1977
+  city: Kharj
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '121158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
 - birthdate: '1971-12-04'
   circa: false
   calendar_type: GREGORIAN
@@ -182,19 +194,6 @@ birthdates:
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '121157'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1977
-  city: Kharj
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '121158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-08-21'

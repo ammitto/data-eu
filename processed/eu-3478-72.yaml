@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3478.72
 logical_id: '106750'
-entity_type: person
 remark: "a) Physical description: eye colour: brown, hair colour: black, build: solid;
   distinguishing marks: oval face, beard, missing a right hand and left leg, speaks
   Russian, Chechen and possibly German and Arabic. \nb) Photo available for inclusion
@@ -19,19 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Akhmed
-  middle_name: Rajapovich
-  last_name: Chataev
-  whole_name: Akhmed Rajapovich Chataev
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: David Mayer
   name_language: EN
   strong: true
@@ -67,6 +53,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Akhmed
+  middle_name: Rajapovich
+  last_name: Chataev
+  whole_name: Akhmed Rajapovich Chataev
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

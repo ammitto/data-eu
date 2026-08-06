@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13013.61
 logical_id: '174792'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: STAN Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Stan« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company "Stan"
   function: LLC "STAN" is a Russian machine-tool manufacturer that produces modern
     numerical control machines for high-tech industries, including aerospace and defense.
@@ -38,11 +57,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OOO "Стан"
+- whole_name: СТАН OOO
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174798'
+  logical_id: '174799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -58,31 +77,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: СТАН OOO
+- whole_name: OOO "Стан"
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Stan« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175223'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: STAN Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175222'
+  logical_id: '174798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -102,16 +101,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '771501001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174794'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7703712332'
   country_iso2_code: RU
@@ -127,6 +116,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '771501001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

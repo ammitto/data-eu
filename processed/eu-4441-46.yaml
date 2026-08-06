@@ -2,7 +2,6 @@
 eu_reference_number: EU.4441.46
 logical_id: '116106'
 united_nation_id: QDe.158
-entity_type: enterprise
 remark: UNLI-29.03.2018
 regulations:
 - regulation_type: amendment
@@ -17,6 +16,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: KHATIBA IMAM AL-BUKHARI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '116328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - whole_name: KIB
   name_language: EN
   strong: true
@@ -37,21 +46,12 @@ name_aliases:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: KHATIBA IMAM AL-BUKHARI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '116328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 addresses:
-- country_iso2_code: AF
-  country_description: AFGHANISTAN
+- city: Khan-Shaykhun
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '116325'
+  logical_id: '116323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-05'
@@ -62,6 +62,15 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '116320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-05'
+    number_title: 2018/537 (OJ L 89 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
+- country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '116325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-05'
@@ -81,16 +90,6 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '116322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-05'
-    number_title: 2018/537 (OJ L 89 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
-- city: Khan-Shaykhun
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '116323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-05'

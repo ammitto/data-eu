@@ -2,7 +2,6 @@
 eu_reference_number: EU.2039.75
 logical_id: '5764'
 designation_details: UN designation of 09/06/2010 (no longer valid)
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: SepanirCompany
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Cuideachta Innealtóireachta Fuinnimh Ola agus Gáis Sepanir
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '162022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sepanir Oil and Gas Energy Engineering Company
   name_language: EN
   strong: true
@@ -46,16 +65,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sepanir Oil and Gas Energy Eng. Co SSK
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sepanir Oil & Gas Energy Eng. Co.
   name_language: EN
   strong: true
@@ -66,21 +75,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Cuideachta Innealtóireachta Fuinnimh Ola agus Gáis Sepanir
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '162022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SepanirCompany
+- whole_name: Sepanir Oil and Gas Energy Eng. Co SSK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162021'
+  logical_id: '162019'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8973.45
 logical_id: '145150'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Said
+  last_name: Agha Jani
+  whole_name: Said Agha Jani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-20'
+    number_title: 2022/1985 (OJ L272 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
 - whole_name: Saeed AGHAJANI
   function: Commander of the Islamic Revolutionary Guard Corps Aerospace Force (IRGC
     ASF) UAV Command
@@ -23,6 +34,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-20'
+    number_title: 2022/1985 (OJ L272 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
+- whole_name: سعید آقاجانی
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'
@@ -40,16 +61,6 @@ name_aliases:
     publication_date: '2022-10-20'
     number_title: 2022/1985 (OJ L272 I)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: سعید آقاجانی
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-20'
-    number_title: 2022/1985 (OJ L272 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
 - first_name: Said
   last_name: Ara Jani
   whole_name: Said Ara Jani
@@ -57,18 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-20'
-    number_title: 2022/1985 (OJ L272 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- first_name: Said
-  last_name: Agha Jani
-  whole_name: Said Agha Jani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'

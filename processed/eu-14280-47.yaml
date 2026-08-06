@@ -1,0 +1,125 @@
+---
+eu_reference_number: EU.14280.47
+logical_id: '182062'
+regulations:
+- regulation_type: regulation
+  organisation_type: un
+  publication_date: '2026-03-30'
+  entry_into_force_date: '2026-03-30'
+  number_title: 30.03.2026 - UNLI
+  programme: UNLI
+  logical_id: '222725'
+  publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: HAMIDAH
+  strong: true
+  regulation_language: en
+  logical_id: '182067'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: HAMIDAH NABAGALA
+  function: 'Works as a mediator in financing channels for ISIL in Central Africa,
+    has been charged with financing a bombing that occurred in the Ugandan capital,
+    Kampala, in 2021, attempted to coerce her three children in Uganda to send them
+    to ISIL camps in the Democratic Republic of the Congo. Gender: Female. INTERPOL-UN
+    Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182072'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: حميدة ناباجالا
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '182071'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: NABAGGALA
+  strong: true
+  regulation_language: en
+  logical_id: '182070'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: HAMIDA
+  strong: true
+  regulation_language: en
+  logical_id: '182068'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: NABAGGAKA
+  strong: true
+  regulation_language: en
+  logical_id: '182069'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+citizenships:
+- country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '182065'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+birthdates:
+- birthdate: '1996-03-09'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 9
+  month_of_year: 3
+  year: 1996
+  country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '182064'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+addresses:
+- country_iso2_code: CD
+  country_description: CONGO, Democratic Republic of (was Zaire)
+  regulation_language: en
+  logical_id: '182063'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+identifications:
+- identification_type_code: passport
+  number: A00044599
+  country_iso2_code: UG
+  regulation_language: en
+  logical_id: '182066'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm

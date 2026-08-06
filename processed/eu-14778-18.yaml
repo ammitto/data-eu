@@ -1,0 +1,51 @@
+---
+eu_reference_number: EU.14778.18
+logical_id: '184435'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Zulu Ships Management
+  function: Zulu Ships Management is a shipping company based in the United Arab Emirates,
+    which manages tankers transporting Russian crude oil, including for export purposes.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: Office 105, Madinat  Zayed Tower, Muroor Road,
+  city: Abu Dhabi
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
+  regulation_language: en
+  logical_id: '184436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: imo
+  number: '6509771'
+  country_iso2_code: AE
+  regulation_language: en
+  logical_id: '184437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

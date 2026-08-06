@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13770.38
 logical_id: '179375'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Гринекс
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179382'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Grinex
   function: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex
     is a major platform for trading the stablecoin A7A5, which is collateralised by
@@ -38,16 +27,17 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-addresses:
-- country_iso2_code: '00'
-  country_description: UNKNOWN
+- whole_name: Гринекс
+  name_language: RU
+  strong: true
   regulation_language: en
-  logical_id: '179376'
+  logical_id: '179382'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+addresses:
 - street: microdistrict Jal-29,  building 14/1, 35
   city: Bishkek
   region: Leninsky  district
@@ -63,7 +53,7 @@ addresses:
 - country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '179377'
+  logical_id: '179376'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -73,6 +63,15 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '179378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '179377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

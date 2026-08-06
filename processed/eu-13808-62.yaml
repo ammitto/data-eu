@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13808.62
 logical_id: '179645'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Sarapulo radijo gamykla
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '179649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: АО Сарапульский  Радиозавод
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '179650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: JSC Sarapulo radijo gamykla
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '179649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -62,21 +61,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '1021800992124'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '179647'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '1827013914'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179648'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: other
+  number: '1021800992124'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '179647'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

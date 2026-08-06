@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8578.4
 logical_id: '142695'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Товаро-разтоварителна  компания Авлита
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '142770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: AVLITA Stevedoring Company
   function: "AVLITA Stevedoring Company provides services related to loading grain
     onto ships in the port of Sevastopol in Crimea, which was \nillegally annexed
@@ -44,6 +33,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Товаро-разтоварителна  компания Авлита
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '142770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

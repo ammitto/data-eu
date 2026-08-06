@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9361.12
 logical_id: '147093'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,92 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Oroszországi Föderáció Kommunista Pártja
-  name_language: HU
+- whole_name: Коммунистическая партия Российской Федерации
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147830'
+  logical_id: '147095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Communist Party of the Russian Federation
+  function: Russian political party
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147096'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Komunistična partija Ruske federacije
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '158679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Komunistická strana Ruskej federácie
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Partidul Comunist al Federației Ruse
-  name_language: RO
+- whole_name: Kommunistische Partei der Russischen Föderation
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '147865'
+  logical_id: '147657'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Partito comunista della  Federazione russa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '147678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Parti communiste de la  Fédération de Russie
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147699'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Komunistyczna  Partia Federacji Rosyjskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Partido Comunista de la Federación de Rusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -45,11 +115,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Partido Comunista de la Federación de Rusia
-  name_language: ES
+- whole_name: Oroszországi Föderáció Kommunista Pártja
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147756'
+  logical_id: '147830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Partidul Comunist al Federației Ruse
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -145,87 +225,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Komunistická strana Ruskej federácie
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Komunistična partija Ruske federacije
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158679'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Коммунистическая партия Российской Федерации
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Communist Party of the Russian Federation
-  function: Russian political party
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Kommunistische Partei der Russischen Föderation
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Partito comunista della  Federazione russa
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '147678'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Parti communiste de la  Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Komunistyczna  Partia Federacji Rosyjskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: 3 Maly Sukharevsky Pereulok, bldg. 1
   city: Moscow

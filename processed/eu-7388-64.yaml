@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7388.64
 logical_id: '135306'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -24,19 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  last_name: Solovjov
-  whole_name: Vladimir Solovjov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -89,6 +75,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  last_name: Solovjov
+  whole_name: Vladimir Solovjov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

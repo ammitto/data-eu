@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3155.86
 logical_id: '106732'
-entity_type: person
 remark: "a) Physical description: eye colour brown, hair colour: dark, build: strong,
   straight nose, height: 180-185 cm, speaks Russian, English, Arabic. \nb) Photo available
   for inclusion in the INTERPOL-UN Security Council Special Notice."
@@ -18,6 +17,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Maghomed
+  middle_name: Maghomedzakirovich
+  last_name: Abdurakhmanov
+  whole_name: Maghomed Maghomedzakirovich Abdurakhmanov
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: Abu Banat
   name_language: EN
   strong: true
@@ -33,19 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Maghomed
-  middle_name: Maghomedzakirovich
-  last_name: Abdurakhmanov
-  whole_name: Maghomed Maghomedzakirovich Abdurakhmanov
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -80,19 +79,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: TR
-  country_description: TURKEY
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106734'
+  logical_id: '106733'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: TR
+  country_description: TURKEY
   regulation_language: en
-  logical_id: '106733'
+  logical_id: '106734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

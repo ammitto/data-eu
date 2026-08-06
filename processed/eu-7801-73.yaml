@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7801.73
 logical_id: '137689'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,16 +25,6 @@ name_aliases:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Dmitrij Jevgenevitj KULIKOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 - whole_name: Dmitry Yevgenevich KULIKOV
   function: |-
     Expert of the RF State Duma Committee on  CIS Affairs and Relations with Compatriots.
@@ -45,6 +34,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
+- whole_name: Dmitrij Jevgenevitj KULIKOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'

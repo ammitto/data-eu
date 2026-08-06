@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10420.8
 logical_id: '155567'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -56,20 +55,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Михаил
-  middle_name: Алексеевич
-  last_name: НАИМОВИЧ
-  whole_name: Михаил Алексеевич НАИМОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Mikhail
   middle_name: Alekseevich
   last_name: NEIMOVICH
@@ -81,6 +66,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Михаил
+  middle_name: Алексеевич
+  last_name: НАИМОВИЧ
+  whole_name: Михаил Алексеевич НАИМОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7531.50
 logical_id: '136126'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Arkady
-  middle_name: Viktorovich
-  last_name: MAMONTOV
-  whole_name: Arkady Viktorovich MAMONTOV
-  function: TV journalist and TV presenter, host of the TV show "Author's Program
-    of Arkady Mamontov" on Rossiya-1 TV channel, author of documentary movies.
+- first_name: Аркадий
+  middle_name: Викторович
+  last_name: МАМОНТОВ
+  whole_name: Аркадий Викторович МАМОНТОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136129'
+  logical_id: '136128'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -40,15 +38,16 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- first_name: Аркадий
-  middle_name: Викторович
-  last_name: МАМОНТОВ
-  whole_name: Аркадий Викторович МАМОНТОВ
+- first_name: Arkady
+  middle_name: Viktorovich
+  last_name: MAMONTOV
+  whole_name: Arkady Viktorovich MAMONTOV
+  function: TV journalist and TV presenter, host of the TV show "Author's Program
+    of Arkady Mamontov" on Rossiya-1 TV channel, author of documentary movies.
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136128'
+  logical_id: '136129'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

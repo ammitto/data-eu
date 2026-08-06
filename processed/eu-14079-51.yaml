@@ -1,0 +1,52 @@
+---
+eu_reference_number: EU.14079.51
+logical_id: '181433'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: АО «НТЦ РЭБ»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181435'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: SCIENTIFIC-TECHNICAL CENTER FOR ELECTRONIC WARFARE JSC NTC REB
+  function: |-
+    The Scientific-Technical Center for Electronic Warfare (JSC NTC REB) produces electronic warfare equipment for the Russian military, used on the battlefield against Ukraine. This includes the “Pole-21” and the “Repellent-1” systems.
+    Therefore, JSC NTC REB is materially supporting actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. Moreover, it is forming part of Russia’s military and industrial complex, by being involved in the development, production and supply of military technology and equipment.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Vereyskaya str. 29, pg. 135
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '121357'
+  regulation_language: en
+  logical_id: '181434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

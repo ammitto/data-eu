@@ -1,0 +1,72 @@
+---
+eu_reference_number: EU.14709.40
+logical_id: '184109'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: ПAO “НБД Банк”
+  title: Public Joint Stock Company
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: PJSC “NBD-Bank”
+  title: Public Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184113'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: NBD-Bank, societate publică pe acțiuni
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 6 Maxim Gorky Square
+  city: Nizhny Novgorod
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '603000'
+  regulation_language: en
+  logical_id: '184110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: other
+  number: '526001001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

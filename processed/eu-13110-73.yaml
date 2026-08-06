@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13110.73
 logical_id: '175504'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Luch Plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Luch Plant« Részvénytársaság"
   name_language: HU
   strong: true
@@ -35,21 +24,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “Завод ‘Луч’”
-  name_language: RU
+- whole_name: JSC “Luch Plant”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175511'
+  logical_id: '175513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество “Завод ‘Луч’”
-  name_language: RU
+- whole_name: "»Luch Plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175512'
+  logical_id: '175509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -71,11 +60,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Luch Plant”
-  name_language: EN
+- whole_name: Aкционерное общество “Завод ‘Луч’”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175513'
+  logical_id: '175512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “Завод ‘Луч’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175511'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -105,21 +104,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '6913005680'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '691301001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '6913005680'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

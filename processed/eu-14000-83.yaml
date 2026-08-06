@@ -1,0 +1,69 @@
+---
+eu_reference_number: EU.14000.83
+logical_id: '180680'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/259 (OJ L202600259)
+  programme: RUSDA
+  logical_id: '220360'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Дмитрий Викторович ГУБЕРНИЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+- whole_name: Dmitry Viktorovich GUBERNIEV
+  function: TV presenter, journalist, sports commentator; advisor to the general director
+    of TV propaganda channel “Russia”; advisor to the Minister of Sports of the Russian
+    Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '180682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
+birthdates:
+- birthdate: '1974-10-06'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 6
+  month_of_year: 10
+  year: 1974
+  city: Drezna
+  region: Moscow region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '180681'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259

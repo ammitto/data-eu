@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12854.20
 logical_id: '173792'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Rocky
+  whole_name: Rocky
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-17'
+    number_title: 2025/509 (OJ L202500509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
 - first_name: Ruki
   last_name: KARUSISI
   whole_name: Ruki KARUSISI
@@ -25,18 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-17'
-    number_title: 2025/509 (OJ L202500509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- first_name: Rocky
-  whole_name: Rocky
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'

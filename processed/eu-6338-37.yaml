@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6338.37
 logical_id: '129815'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anastasija Dmitrijevna KULIK
+- whole_name: Anastasia Dmitrievna  KULIK
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130666'
+  logical_id: '129820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -32,6 +30,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Анастасія  Дзмітрыеўна  КУЛІК
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '129819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -59,22 +68,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Анастасія  Дзмітрыеўна  КУЛІК
+- whole_name: Anastasija Dmitrijevna KULIK
   gender: F
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Anastasia Dmitrievna  KULIK
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '129820'
+  logical_id: '130666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

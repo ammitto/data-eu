@@ -1,0 +1,36 @@
+---
+eu_reference_number: EU.13992.89
+logical_id: '180603'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/267 (OJ L202600267)
+  programme: IRN
+  logical_id: '220363'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Masaf Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+addresses:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267

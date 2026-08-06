@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10950.57
 logical_id: '159899'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vasilij
+  middle_name: Petrovitj
+  last_name: TONKOSJKUROV
+  whole_name: Vasilij Petrovitj TONKOSJKUROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Vasily
   middle_name: Petrovich
   last_name: TONKOSHKUROV
@@ -54,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
-  middle_name: Petrovitj
-  last_name: TONKOSJKUROV
-  whole_name: Vasilij Petrovitj TONKOSJKUROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160689'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,0 +1,86 @@
+---
+eu_reference_number: EU.14078.52
+logical_id: '181428'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: АО "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "АНДРОИДНАЯ ТЕХНИКА")
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: JSC "SCIENTIFIC AND PRODUCTION ASSOCIATION” "ANDROID TECHNOLOGY"
+  function: |-
+    JSC "Scientific and Production Association” "Android Technology” develops and manufactures unmanned ground-based robots and unmanned aerial vehicles. One of them is an unmanned reconnaissance and strike vehicle “Marker”. The first 4 robots of this type were deployed to the front in Donbas in 2023. Moreover, the company has also developed a special drone “BAS-80” to be fitted on the robot “Marker” that also was planned to become operational in the combat zone.
+    Among the company’s main partners are Roskosmos, Rosatom, Pirogov Russian National Research Medical University, and the Institute of Higher Nervous Activity and Neurophysiology of the Russian Academy of Science. The company participates in the work of the interdepartmental working group “Robotics Laboratory” at the Military-Industrial Commission of the Russian Federation.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181432'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: 21 Murmanskiy Side St
+  city: Magnitogorsk
+  region: CHELYABINSK REGION
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '455048'
+  regulation_language: en
+  logical_id: '181430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- street: 23 Grayvoronovskaya st.
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '109518'
+  regulation_language: en
+  logical_id: '181429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: other
+  number: '1097746741894'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '7723738378'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182381'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

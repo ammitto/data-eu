@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13781.6
 logical_id: '179452'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -38,6 +37,17 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 addresses:
+- street: 'St  Maarten, Billy Folly Road #37'
+  city: Sint Maarten
+  country_iso2_code: AN
+  country_description: NETHERLANDS ANTILLES
+  regulation_language: en
+  logical_id: '179455'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - street: 9350  Wilshire Blvd
   city: Beverly Hills
   country_iso2_code: US
@@ -56,17 +66,6 @@ addresses:
   country_description: BELIZE
   regulation_language: en
   logical_id: '179454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- street: 'St  Maarten, Billy Folly Road #37'
-  city: Sint Maarten
-  country_iso2_code: AN
-  country_description: NETHERLANDS ANTILLES
-  regulation_language: en
-  logical_id: '179455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

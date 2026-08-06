@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.660.92
 logical_id: '923'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,14 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Khaled A.
-  last_name: Al-Fauwaz
-  whole_name: Khaled A. Al-Fauwaz
+- first_name: Khalid
+  last_name: Al-Fawwaz
+  whole_name: Khalid Al-Fawwaz
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1932'
+  logical_id: '1933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -112,13 +110,14 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Khalid
-  last_name: Al-Fawwaz
-  whole_name: Khalid Al-Fawwaz
+- first_name: Khaled A.
+  last_name: Al-Fauwaz
+  whole_name: Khaled A. Al-Fauwaz
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1933'
+  logical_id: '1932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

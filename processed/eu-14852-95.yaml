@@ -1,0 +1,72 @@
+---
+eu_reference_number: EU.14852.95
+logical_id: '184672'
+designation_details: 'Type of entity: State-linked military-patriotic training facility
+  for minors'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-11'
+  entry_into_force_date: '2026-05-11'
+  number_title: 2026/1055 (OJ L202601055)
+  programme: UKR
+  logical_id: '223478'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Региональное отделение ДОСААФ России г. Севастополя
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Regional Branch of DOSAAF Russia in the City of Sevastopol
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+addresses:
+- street: 15 General Ostryakov Avenue
+  city: Sevastopol
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '299029'
+  regulation_language: en
+  logical_id: '184675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+identifications:
+- identification_type_code: regnumber
+  number: '1149204019843'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '184676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- identification_type_code: taxid
+  number: '9204010042'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '184677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055

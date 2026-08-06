@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4284.95
 logical_id: '115145'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -33,15 +32,6 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: An Jong Hyok
-  strong: true
-  regulation_language: en
-  logical_id: '115148'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - whole_name: AN Jong Hyuk
   function: Representative of Saeng Pil Trading Corporation, an alias of Green Pine
     Associated Corporation, and DPRK diplomat in Egypt.
@@ -54,6 +44,15 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: An Jong Hyok
+  strong: true
+  regulation_language: en
+  logical_id: '115148'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 birthdates:
 - birthdate: '1970-03-14'
   circa: false

@@ -2,7 +2,6 @@
 eu_reference_number: EU.3863.9
 logical_id: '3782'
 designation_details: UN designation 24/03/2007 (no longer valid)
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: علی اکبر احمدیان
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158967'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ali Akbar Ahmedian
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Ali Akbar
   last_name: AHMADIAN
   whole_name: Ali Akbar AHMADIAN
@@ -32,28 +53,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Ali Akbar Ahmedian
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: علی اکبر احمدیان
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13153.43
 logical_id: '175781'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sylvain
-  last_name: AFOUA
-  whole_name: Sylvain AFOUA
-  function: Founder of the pan-African group “Ligue de défense noire Africaine” (LDNA);
-    influencer/activist known by the pseudonym “Egountchi Behanzin”
+- whole_name: Egountchi BEHANZIN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175789'
+  logical_id: '175787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -41,23 +36,27 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Egountchi BEHANZIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Эгунчи БЕХАНЗИН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '175786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- first_name: Sylvain
+  last_name: AFOUA
+  whole_name: Sylvain AFOUA
+  function: Founder of the pan-African group “Ligue de défense noire Africaine” (LDNA);
+    influencer/activist known by the pseudonym “Egountchi Behanzin”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

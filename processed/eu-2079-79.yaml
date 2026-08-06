@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2079.79
 logical_id: '5729'
-entity_type: enterprise
 regulations:
 - regulation_type: repealing
   organisation_type: commission
@@ -34,6 +33,17 @@ name_aliases:
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 addresses:
+- street: 107 Sepahbod Gharani Avenue
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '1514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 - street: Ave. Sepahbod Gharani P.O. Box 15815/1775
   city: Tehran
   country_iso2_code: IR
@@ -56,14 +66,3 @@ addresses:
     publication_date: '2010-10-27'
     number_title: 961/2010 (OJ L281)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:281:0001:0077:EN:PDF
-- street: 107 Sepahbod Gharani Avenue
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF

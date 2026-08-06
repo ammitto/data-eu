@@ -1,0 +1,112 @@
+---
+eu_reference_number: EU.14633.41
+logical_id: '183799'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Joint Stock Company “Neftechemservis”
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Акционерное общество “Нефтехимсервис”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО “НХС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Neftekhimservis
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Neftechemservis, societate pe acțiuni
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Akciová spoločnosť „Neftechemservis“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '184719'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: Pioneer Avenue (Central R-N), 58, premises. 13 3
+  city: Novokuznetsk city
+  region: Kemerovo region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '654080'
+  regulation_language: en
+  logical_id: '183800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: regnumber
+  number: '1084217001990'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '4217102358'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

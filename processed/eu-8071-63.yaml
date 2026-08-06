@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8071.63
 logical_id: '139053'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,6 +24,16 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Юрий Николаевич ТЕЛИКАНОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '139055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Yuriy Nikolaevich TELIKANOV
   function: Member of the so-called ‘People’s Council’ of the so-called ‘Luhansk People’s
     Republic’
@@ -32,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Юрий Николаевич ТЕЛИКАНОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '139055'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

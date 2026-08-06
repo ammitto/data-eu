@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9652.69
 logical_id: '149557'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Darja Sergejevna LANTRATOVA
+- first_name: Дарья
+  middle_name: Сергеевна
+  last_name: ЛАНТРАТОВА
+  whole_name: Дарья Сергеевна ЛАНТРАТОВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151001'
+  logical_id: '149560'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -42,15 +44,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Дарья
-  middle_name: Сергеевна
-  last_name: ЛАНТРАТОВА
-  whole_name: Дарья Сергеевна ЛАНТРАТОВА
+- whole_name: Darja Sergejevna LANTRATOVA
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149560'
+  logical_id: '151001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

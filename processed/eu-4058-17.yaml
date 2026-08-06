@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4058.17
 logical_id: '113291'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -20,18 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-09'
-    number_title: 2022/2401 (OJ L317)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
-- first_name: Eric
-  last_name: Ruhorimbere Ruhanga
-  whole_name: Eric Ruhorimbere Ruhanga
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '113295'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'
@@ -62,6 +49,18 @@ name_aliases:
     publication_date: '2023-12-12'
     number_title: 2023/2771 (OJ L11122013)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302771
+- first_name: Eric
+  last_name: Ruhorimbere Ruhanga
+  whole_name: Eric Ruhorimbere Ruhanga
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '113295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-09'
+    number_title: 2022/2401 (OJ L317)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

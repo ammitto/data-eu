@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4117.13
 logical_id: '107804'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ch'un Sik
-  last_name: Ch'oe
-  whole_name: Ch'un Sik Ch'oe
-  strong: true
-  regulation_language: en
-  logical_id: '114024'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - first_name: Chun-Sik
   last_name: Choe
   whole_name: Chun-Sik Choe
@@ -40,6 +28,17 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- first_name: Ch'un Sik
+  last_name: Ch'oe
+  whole_name: Ch'un Sik Ch'oe
+  strong: true
+  regulation_language: en
+  logical_id: '114024'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - first_name: Chun Sik
   last_name: Choe
   whole_name: Chun Sik Choe

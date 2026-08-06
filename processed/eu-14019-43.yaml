@@ -1,0 +1,113 @@
+---
+eu_reference_number: EU.14019.43
+logical_id: '180969'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC SKB “Piranya”
+  strong: true
+  regulation_language: en
+  logical_id: '180972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с Ограниченной Ответственностью Симбирское Конструкторское
+    Бюро “Пиранья”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC SDB “Piranya”
+  strong: true
+  regulation_language: en
+  logical_id: '180974'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО СКБ “Пиранья”
+  strong: true
+  regulation_language: en
+  logical_id: '180971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company Simbirsk Design Bureau “Piranya”
+  function: LLC SDB “Piranya” is a Russia-based company that manufactures drones used
+    by Russia in its war of aggression against Ukraine. LLC SDB “Piranya” manufactures
+    First Person View (FPV) drones and specifically the models “Piranya-7”, “Piranya-10”
+    and “Piranya-13”. The company manufactures up to 10 000 drones per month and the
+    Russian Army views its products as being extremely valuable in its military operations.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company Simbirskoe Konstruktrskoe Byuro “Piranya”
+  strong: true
+  regulation_language: en
+  logical_id: '180973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Gagarin Street, 7/15, office 1,
+  city: city of Ulyanovsk, city of Ulyanovsk,
+  region: Ulyanovsk region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '432071'
+  regulation_language: en
+  logical_id: '180970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: regnumber
+  number: '1237300010430'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '182411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: '7300024069'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

@@ -4,7 +4,6 @@ logical_id: '146090'
 designation_details: |-
   Date of EU designation: 08/12/2022
   Date of UN designation: 20/02/2024
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -18,6 +17,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Meddie
+  last_name: NKALUBO
+  whole_name: Meddie NKALUBO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146096'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - whole_name: DEFENDER
   gender: M
   name_language: EN
@@ -96,33 +107,21 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: KASIBANTE
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '165380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Meddie
-  last_name: NKALUBO
-  whole_name: Meddie NKALUBO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - whole_name: Abou SHAUKAN
   gender: M
   strong: true
   regulation_language: en
   logical_id: '165359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: KASIBANTE
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '165380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

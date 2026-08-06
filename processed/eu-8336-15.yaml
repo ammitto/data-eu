@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8336.15
 logical_id: '140664'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,21 +24,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Andrej Jauhenavitj PARSJYN
-  name_language: SV
+- whole_name: Andrei Yevgenevich PARSHIN
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '141067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Andrej Jevgenjevitj PARSJIN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141066'
+  logical_id: '140670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -79,11 +68,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Andrei Yevgenevich PARSHIN
-  gender: M
+- whole_name: Andrej Jevgenjevitj PARSJIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140670'
+  logical_id: '141066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Andrej Jauhenavitj PARSJYN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -1,0 +1,55 @@
+---
+eu_reference_number: EU.14914.32
+logical_id: '184910'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/647 (OJ L202600647)
+  programme: RUSDA
+  logical_id: '222878'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Graham Williams PHILLIPS
+  function: journalist, blogger
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/647 (OJ L202600647)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
+citizenships:
+- country_iso2_code: GB
+  country_description: UNITED KINGDOM
+  regulation_language: en
+  logical_id: '184912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/647 (OJ L202600647)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
+birthdates:
+- birthdate: '1979-01-26'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 26
+  month_of_year: 1
+  year: 1979
+  city: Dundee
+  country_iso2_code: GB
+  country_description: UNITED KINGDOM
+  regulation_language: en
+  logical_id: '184911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/647 (OJ L202600647)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647

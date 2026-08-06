@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3634.41
 logical_id: '5808'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Fred Irakeza
+  function: FDLR-FOCA Colonel
+  strong: true
+  regulation_language: en
+  logical_id: '8400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - first_name: Félicien
   last_name: Nsanzubukire
   whole_name: Félicien Nsanzubukire
@@ -22,16 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: Fred Irakeza
-  function: FDLR-FOCA Colonel
-  strong: true
-  regulation_language: en
-  logical_id: '8400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-07'

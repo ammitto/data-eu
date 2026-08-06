@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4133.58
 logical_id: '113754'
-entity_type: enterprise
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -15,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Koryo Global Credit Bank
-  strong: true
-  regulation_language: en
-  logical_id: '113884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - whole_name: Koryo Global Trust Bank
   strong: true
   regulation_language: en
@@ -48,6 +38,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- whole_name: Koryo Global Credit Bank
+  strong: true
+  regulation_language: en
+  logical_id: '113884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

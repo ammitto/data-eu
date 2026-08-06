@@ -1,41 +1,39 @@
 ---
 eu_reference_number: EU.10614.53
 logical_id: '156555'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-12-12'
-  entry_into_force_date: '2023-12-11'
-  number_title: 2023/2771 (OJ L11122013)
+  publication_date: '2025-12-09'
+  entry_into_force_date: '2025-12-09'
+  number_title: 2025/2508 (OJ L202502508)
   programme: COD
-  logical_id: '186431'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302771
+  logical_id: '223178'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502508
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Charles
+  last_name: SEMATAMA
+  whole_name: Charles SEMATAMA
+  function: Commander, Military leader of Twirwaneho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-09'
+    number_title: 2025/2508 (OJ L202502508)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502508
 - whole_name: Sebanyana
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '156558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
-- first_name: Charles
-  last_name: SEMATAMA
-  whole_name: Charles SEMATAMA
-  function: Commander, Deputy military leader of the non-governmental armed group
-    Twirwaneho in South Kivu, DR Congo
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

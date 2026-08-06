@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11699.79
 logical_id: '166391'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -20,37 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: Kavan Electronics Behrad LLC
-  function: limited liability company (LLC)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: Kavan Electronic co. LTD
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: شرکت بامسیولیت محدود
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '166395'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -76,11 +44,42 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1604 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: Kavan Electronic co. LTD
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
 - whole_name: Kavan Electronic Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '166399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: شرکت بامسیولیت محدود
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '166395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: Kavan Electronics Behrad LLC
+  function: limited liability company (LLC)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

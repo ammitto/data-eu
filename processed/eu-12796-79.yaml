@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12796.79
 logical_id: '173260'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,11 +24,23 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC ,53 Arsenal‘
+- whole_name: ОАО 53 Арсенал
+  strong: true
+  regulation_language: en
+  logical_id: '173265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company “53 Arsenal”
+  function: JSC 53 Arsenal is a Russian military industry company. JSC 53 Arsenal
+    restores and produces ammunition used by the Russian military in Russia’s war
+    of aggression against Ukraine.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173328'
+  logical_id: '173270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -54,32 +65,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: 53 Arsenal PAO
-  strong: true
-  regulation_language: en
-  logical_id: '173267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company “53 Arsenal”
-  function: JSC 53 Arsenal is a Russian military industry company. JSC 53 Arsenal
-    restores and produces ammunition used by the Russian military in Russia’s war
-    of aggression against Ukraine.
+- whole_name: JSC ,53 Arsenal‘
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ОАО 53 Арсенал
-  strong: true
-  regulation_language: en
-  logical_id: '173265'
+  logical_id: '173328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -89,6 +79,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: 53 Arsenal PAO
+  strong: true
+  regulation_language: en
+  logical_id: '173267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -118,21 +117,21 @@ identifications:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: other
-  number: '521401001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '173262'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '5214010100'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '173263'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
+  number: '521401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '173262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

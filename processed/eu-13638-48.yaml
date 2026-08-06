@@ -2,7 +2,6 @@
 eu_reference_number: EU.13638.48
 logical_id: '178745'
 designation_details: 'Date of UN designation: 24.3.2007'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,19 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bank Sepah and Bank Sepah International
-  function: Bank Sepah provides support for the Aerospace Industries Organisation
-    (AIO) and subordinates, including Shahid Hemmat Industrial Group (SHIG) and Shahid
-    Bagheri Industrial Group (SBIG).
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Bank Sepah apoia a Organização das Indústrias Aeroespaciais
   name_language: PT
   strong: true
@@ -44,6 +30,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Bank Sepah and Bank Sepah International
+  function: Bank Sepah provides support for the Aerospace Industries Organisation
+    (AIO) and subordinates, including Shahid Hemmat Industrial Group (SHIG) and Shahid
+    Bagheri Industrial Group (SBIG).
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

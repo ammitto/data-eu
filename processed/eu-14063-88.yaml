@@ -1,0 +1,62 @@
+---
+eu_reference_number: EU.14063.88
+logical_id: '181016'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC Slavneft-Krasnoyarskneftegaz
+  function: LLC Slavneft-Krasnoyarskneftegaz is a Russian company active in the energy
+    sector, in particular in the Krasnoyarskiy Kray.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181060'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО «Славнефть-Красноярскнефтегаз»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Anatoliy Gladkov Str., b. 2A
+  city: Krasnoyarsk
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '660016'
+  regulation_language: en
+  logical_id: '181017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '2464036561'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

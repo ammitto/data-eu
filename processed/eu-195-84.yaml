@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.195.84
 logical_id: '7458'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,22 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mikhail
-  middle_name: Sergeyevich
-  last_name: SHEREMET
-  whole_name: Mikhail Sergeyevich SHEREMET
-  function: Former so called ‘First Deputy Prime Minister’ of Crimea. Member of the
-    State Duma and its Committee on Security and Anti-Corruption.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Михайло
   middle_name: Сергійович
   last_name: ШЕРЕМЕТ
@@ -132,6 +115,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152146'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Mikhail
+  middle_name: Sergeyevich
+  last_name: SHEREMET
+  whole_name: Mikhail Sergeyevich SHEREMET
+  function: Former so called ‘First Deputy Prime Minister’ of Crimea. Member of the
+    State Duma and its Committee on Security and Anti-Corruption.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18141'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

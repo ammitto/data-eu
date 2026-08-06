@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6929.24
 logical_id: '133446'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,17 +25,6 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1249 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
-- whole_name: Daw Nu Mara Zan
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1249 (OJ L29042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
 - whole_name: Nu Mya Zan
   function: |-
     Deputy Minister for Religious Affairs and Culture (appointed on 2 February 2023).
@@ -46,6 +34,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1249 (OJ L29042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
+- whole_name: Daw Nu Mara Zan
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

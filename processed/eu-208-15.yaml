@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.208.15
 logical_id: '7461'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -61,19 +60,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Владимир
-  last_name: Василиев
-  whole_name: Владимир Василиев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Vladimir
   last_name: Vasiljev
   whole_name: Vladimir Vasiljev
@@ -82,6 +68,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Владимир
+  last_name: Василиев
+  whole_name: Владимир Василиев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

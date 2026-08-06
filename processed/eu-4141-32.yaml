@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4141.32
 logical_id: '113708'
-entity_type: person
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -15,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Kim Mun-ch’o’l
+  strong: true
+  regulation_language: en
+  logical_id: '113871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - first_name: Mun
   middle_name: Chol
   last_name: Kim
@@ -23,15 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
-- whole_name: Kim Mun-ch’o’l
-  strong: true
-  regulation_language: en
-  logical_id: '113871'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

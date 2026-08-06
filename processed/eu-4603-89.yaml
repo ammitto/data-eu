@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4603.89
 logical_id: '117373'
-entity_type: person
 regulations:
 - regulation_type: regulation
   organisation_type: commission
@@ -120,11 +119,10 @@ birthdates:
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 addresses:
-- city: Daina
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
+- country_iso2_code: PH
+  country_description: PHILIPPINES
   regulation_language: en
-  logical_id: '117432'
+  logical_id: '117434'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -140,26 +138,17 @@ addresses:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- country_iso2_code: PH
-  country_description: PHILIPPINES
+- city: Daina
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
   regulation_language: en
-  logical_id: '117434'
+  logical_id: '117432'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 identifications:
-- identification_type_code: other
-  number: '2135314355'
-  country_iso2_code: SA
-  regulation_language: en
-  logical_id: '117440'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - identification_type_code: passport
   number: EC6530802
   country_iso2_code: PH
@@ -175,6 +164,16 @@ identifications:
   country_iso2_code: PH
   regulation_language: en
   logical_id: '117441'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- identification_type_code: other
+  number: '2135314355'
+  country_iso2_code: SA
+  regulation_language: en
+  logical_id: '117440'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

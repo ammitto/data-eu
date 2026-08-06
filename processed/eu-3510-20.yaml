@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3510.20
 logical_id: '1079'
-entity_type: person
 remark: "(a) Passport No A-333602 has been revoked by the Government of India, (b)
   Father's name is Sheikh Ibrahim Ali Kaskar, mother's name is Amina Bi, wife's name
   is Mehjabeen Shaikh."
@@ -32,15 +31,6 @@ name_aliases:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Dawood  Ebrahim
-  strong: true
-  regulation_language: en
-  logical_id: '2393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
 - whole_name: Dawood Bhai
   name_language: EN
   strong: true
@@ -51,165 +41,6 @@ name_aliases:
     publication_date: '2016-08-27'
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Sheikh Farooqi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109377'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Bada Seth
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Bada Bhai
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Iqbal Bhai
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Mucchad
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109373'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Haji Sahab
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109372'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- whole_name: Shaikh Ismail Abdul
-  strong: true
-  regulation_language: en
-  logical_id: '5812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Ibrahim Shaikh Mohd Anis
-  strong: true
-  regulation_language: en
-  logical_id: '5811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Dowood Hassan Shaikh Ibrahim
-  strong: true
-  regulation_language: en
-  logical_id: '5810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Shaikh Mohd Ismail Abdul Rehman
-  strong: true
-  regulation_language: en
-  logical_id: '5809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Kaskar Dawood Hasan
-  strong: true
-  regulation_language: en
-  logical_id: '5808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Dawood Sabri
-  strong: true
-  regulation_language: en
-  logical_id: '5807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Dawood Ibrahim Memon
-  strong: true
-  regulation_language: en
-  logical_id: '5806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Dawood Hasan Ibrahim Kaskar
-  strong: true
-  regulation_language: en
-  logical_id: '5805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Daud Ibrahim Memon Kaskar
-  strong: true
-  regulation_language: en
-  logical_id: '5804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Daud Hasan Shaikh Ibrahim Kaskar
-  strong: true
-  regulation_language: en
-  logical_id: '5803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Aziz Dilip
-  strong: true
-  regulation_language: en
-  logical_id: '5802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - whole_name: Sheikh Dawood Hassan
   strong: true
   regulation_language: en
@@ -246,6 +77,174 @@ name_aliases:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Aziz Dilip
+  strong: true
+  regulation_language: en
+  logical_id: '5802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Daud Hasan Shaikh Ibrahim Kaskar
+  strong: true
+  regulation_language: en
+  logical_id: '5803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Daud Ibrahim Memon Kaskar
+  strong: true
+  regulation_language: en
+  logical_id: '5804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Dawood Hasan Ibrahim Kaskar
+  strong: true
+  regulation_language: en
+  logical_id: '5805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Dawood Ibrahim Memon
+  strong: true
+  regulation_language: en
+  logical_id: '5806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Dawood Sabri
+  strong: true
+  regulation_language: en
+  logical_id: '5807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Kaskar Dawood Hasan
+  strong: true
+  regulation_language: en
+  logical_id: '5808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Shaikh Mohd Ismail Abdul Rehman
+  strong: true
+  regulation_language: en
+  logical_id: '5809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Dowood Hassan Shaikh Ibrahim
+  strong: true
+  regulation_language: en
+  logical_id: '5810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Ibrahim Shaikh Mohd Anis
+  strong: true
+  regulation_language: en
+  logical_id: '5811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Shaikh Ismail Abdul
+  strong: true
+  regulation_language: en
+  logical_id: '5812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Haji Sahab
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109372'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Mucchad
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109373'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Iqbal Bhai
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Bada Bhai
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Bada Seth
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109376'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Sheikh Farooqi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109377'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- whole_name: Dawood  Ebrahim
+  strong: true
+  regulation_language: en
+  logical_id: '2393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
 citizenships:
 - country_iso2_code: IN
   country_description: INDIA
@@ -274,16 +273,6 @@ birthdates:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 addresses:
-- city: Palatial bungalow in the hilly area of Noorabad in Karachi
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '109379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - street: House No 37 – 30th Street – defence, Housing Authority
   city: Karachi
   country_iso2_code: PK
@@ -306,42 +295,22 @@ addresses:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- city: Palatial bungalow in the hilly area of Noorabad in Karachi
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '109379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 identifications:
 - identification_type_code: passport
-  number: F823692
-  country_iso2_code: IN
-  regulation_language: en
-  logical_id: '247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: P537849
+  number: H-123259
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: C-267185
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '436'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: K560098
-  country_iso2_code: IN
-  regulation_language: en
-  logical_id: '249'
+  logical_id: '437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -358,30 +327,20 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
-  number: A-333602
-  country_iso2_code: IN
-  regulation_language: en
-  logical_id: '51'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: V57865
-  country_iso2_code: IN
-  regulation_language: en
-  logical_id: '250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: G866537
+  number: C-267185
   country_iso2_code: PK
   regulation_language: en
-  logical_id: '253'
+  logical_id: '436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: P537849
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -398,6 +357,16 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
+  number: F823692
+  country_iso2_code: IN
+  regulation_language: en
+  logical_id: '247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
   number: M110522
   country_iso2_code: IN
   regulation_language: en
@@ -408,10 +377,20 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
-  number: H-123259
-  country_iso2_code: '00'
+  number: K560098
+  country_iso2_code: IN
   regulation_language: en
-  logical_id: '437'
+  logical_id: '249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: A-333602
+  country_iso2_code: IN
+  regulation_language: en
+  logical_id: '51'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -428,10 +407,30 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
+  number: G866537
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
   number: KC-285901
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: V57865
+  country_iso2_code: IN
+  regulation_language: en
+  logical_id: '250'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'

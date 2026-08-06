@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Safety Equipment Procurement Inc.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SEP Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: SEPCO
   name_language: EN
   strong: true
@@ -45,36 +25,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Safety Equipment Procurement Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SEP
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Safety Equipment Procurement
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6254'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: SAFEty Equipment Procurement Company
   name_language: LT
   strong: true
@@ -95,6 +45,56 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Safety Equipment Procurement Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Safety Equipment Procurement
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: SEP
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Safety Equipment Procurement Inc.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: SEP Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
 - city: Tehran
   country_iso2_code: IR

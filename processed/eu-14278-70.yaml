@@ -1,0 +1,41 @@
+---
+eu_reference_number: EU.14278.70
+logical_id: '182055'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Mohammad Rasulullah Corps
+  function: |-
+    The Mohammad Rasulullah Corps is responsible for coordinating Islamic Revolutionary Guard Corps (IRGC) and Basij forces in Tehran. Those forces have been involved in the violent repression of demonstrations, including during the nationwide protests in Iran that began in December 2025 where IRGC and Basij forces opened fire on protesters, resulting in deaths and injuries.
+    The Mohammad Rasulullah Corps is therefore responsible for serious human rights violations in Iran.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+addresses:
+- street: Niayesh Highway
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '182056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

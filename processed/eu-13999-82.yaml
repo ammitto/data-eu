@@ -1,0 +1,40 @@
+---
+eu_reference_number: EU.13999.82
+logical_id: '180677'
+remark: 'Associated entities: SAF; Sudan Shield Forces; Kawahla tribe; Nafeidiya clan'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/251 (OJ L202600251)
+  programme: SDNZ
+  logical_id: '220337'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Al-Tayyib AL-IMAM JODA
+  function: Emir of the Nafeidiya clan of the Kawahla tribe from the Sarhan area west
+    of Gezirah
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '180678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251

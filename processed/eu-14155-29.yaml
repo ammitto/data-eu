@@ -1,0 +1,90 @@
+---
+eu_reference_number: EU.14155.29
+logical_id: '181538'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: JSC Technodron
+  function: JSC “Technodron” develops and manufactures first-person view (FPV) drones
+    of the Skvorec (a.k.a. Skvorets, Starling) family. With the support of the Center
+    for Unmanned Systems and Technologies, this product is constantly being developed
+    to expand the range of tasks to be solved. Since 2024, drones Skvorec-7, Skvorec-10,
+    Skvorec-Z and Skvorec-PRO have been used by the Russian forces in the Russia’s
+    war of aggression against Ukraine. By order of the Russian Navy, the company developed
+    the “Starling of the Navy” (Skvorec Navy) for water area related tasks. JSC “Technodron”
+    is therefore materially supporting Russia’s military and industrial complex.
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181544'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: АО “Технодрон”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: in. territory of Moscow, municipal district Arbat, Novy Arbat str. 30/9,
+    premises. 2Н
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '121099'
+  regulation_language: en
+  logical_id: '181539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: regnumber
+  number: '1247700354175'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181542'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '770401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: '9704241986'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

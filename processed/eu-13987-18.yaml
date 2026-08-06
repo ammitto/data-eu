@@ -1,0 +1,49 @@
+---
+eu_reference_number: EU.13987.18
+logical_id: '180644'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2025-12-22'
+  entry_into_force_date: '2025-12-22'
+  number_title: 2025/2638 (OJ L202502638)
+  programme: RUS
+  logical_id: '220345'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Дмитрий Сергеевич ГОРДЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-22'
+    number_title: 2025/2638 (OJ L202502638)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638
+- whole_name: Dmitry Sergeyevich GORDEEV
+  function: Judge of the Moscow City Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-22'
+    number_title: 2025/2638 (OJ L202502638)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '180645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-22'
+    number_title: 2025/2638 (OJ L202502638)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638

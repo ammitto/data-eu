@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3318.4
 logical_id: '6861'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,11 +24,11 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Gabinete  39
-  name_language: PT
+- whole_name: Ured 39
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '143620'
+  logical_id: '143611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -81,46 +80,6 @@ name_aliases:
     publication_date: '2016-03-05'
     number_title: 2016/315 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
-- whole_name: Biuro 39
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '143607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: kancelář  39
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '143608'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Kancelária  39
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '143610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Ured 39
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '143611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: Byrå 39
   name_language: SV
   strong: true
@@ -190,21 +149,21 @@ name_aliases:
     publication_date: '2011-12-21'
     number_title: 1355/2011 (OJ L338)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:338:0039:0047:EN:PDF
-- whole_name: 39. Hivatal
-  name_language: HU
+- whole_name: Kancelária  39
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '143597'
+  logical_id: '143610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Бюро 39
-  name_language: BG
+- whole_name: kancelář  39
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '143596'
+  logical_id: '143608'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -255,6 +214,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Бюро 39
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '143596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: 39. Hivatal
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '143597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Gabinete  39
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '143620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Biuro 39
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '143607'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

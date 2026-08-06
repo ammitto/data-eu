@@ -15,46 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Quds Air Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: QAI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Qods Aviation Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: شرکت صنایع هوایی قدس
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Qods Aeronautics Industries
   name_language: EN
   strong: true
@@ -85,18 +45,47 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-addresses:
-- street: 4 Km Karaj Road
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- whole_name: Quds Air Industries
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '159479'
+  logical_id: '159475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: QAI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: شرکت صنایع هوایی قدس
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Qods Aviation Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+addresses:
 - street: Unit 207, Tarajit Maydane Taymori (or Teimori) Square, Basiri Building,
     Tarasht
   city: Tehran
@@ -104,6 +93,17 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: 4 Km Karaj Road
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

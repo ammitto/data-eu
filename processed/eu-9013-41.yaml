@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9013.41
 logical_id: '145349'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Alexéi
+  middle_name: Alexandrovich
+  last_name: ALEXANDROV
+  whole_name: Alexéi Alexandrovich ALEXANDROV
+  gender: M
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '145989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Alexéi
   middle_name: Andreevich
   last_name: FROLOV
   whole_name: Alexéi Andreevich FROLOV
@@ -24,6 +37,62 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Alexey
+  middle_name: Andreevich
+  last_name: FROLOV
+  whole_name: Alexey Andreevich FROLOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Алексей
+  middle_name: Андреевич
+  last_name: ФРОЛОВ
+  whole_name: Алексей Андреевич ФРОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Alexey
+  middle_name: Alexandrovich
+  last_name: ALEXANDROV
+  whole_name: Alexey Alexandrovich ALEXANDROV
+  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
+    Institute operative
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Алексей
+  middle_name: Александрович
+  last_name: АЛЕКСАНДРОВ
+  whole_name: Алексей Александрович АЛЕКСАНДРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -52,76 +121,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Алексей
-  middle_name: Александрович
-  last_name: АЛЕКСАНДРОВ
-  whole_name: Алексей Александрович АЛЕКСАНДРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Alexey
-  middle_name: Alexandrovich
-  last_name: ALEXANDROV
-  whole_name: Alexey Alexandrovich ALEXANDROV
-  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
-    Institute operative
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Алексей
-  middle_name: Андреевич
-  last_name: ФРОЛОВ
-  whole_name: Алексей Андреевич ФРОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Alexey
-  middle_name: Andreevich
-  last_name: FROLOV
-  whole_name: Alexey Andreevich FROLOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Alexéi
-  middle_name: Alexandrovich
-  last_name: ALEXANDROV
-  whole_name: Alexéi Alexandrovich ALEXANDROV
-  gender: M
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '145989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

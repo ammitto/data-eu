@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.13967.80
+logical_id: '180531'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/267 (OJ L202600267)
+  programme: IRN
+  logical_id: '220363'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Ruhollah Momen NASAB
+  function: Head of the Tehran branch of the government body “the Headquarters for
+    Promoting Virtue and Preventing Vice”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: روح الله مؤمن نسب
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+birthdates:
+- birthdate: '1981-01-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 1
+  year: 1981
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267

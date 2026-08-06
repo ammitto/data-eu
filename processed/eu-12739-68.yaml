@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12739.68
 logical_id: '172852'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО “Самарский Электромеханический Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC “SEMZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: SEMZ Rt.
   name_language: HU
   strong: true
@@ -45,11 +24,25 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “СЭМЗ”
+- whole_name: АО “Самарский Электромеханический Завод”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172857'
+  logical_id: '172859'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company “Samara Electromechanical Plant”
+  function: JSC “Samara Electromechanical Plant” (JSC SEMZ) is a Russian military
+    industry company. JSC SEMZ manufactures high-tech products, precision mechanics,
+    electronics and various machine parts, as well as electronic equipment units for
+    special-purpose complexes
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -65,15 +58,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company “Samara Electromechanical Plant”
-  function: JSC “Samara Electromechanical Plant” (JSC SEMZ) is a Russian military
-    industry company. JSC SEMZ manufactures high-tech products, precision mechanics,
-    electronics and various machine parts, as well as electronic equipment units for
-    special-purpose complexes
+- whole_name: АО “СЭМЗ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172857'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC “SEMZ”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172860'
+  logical_id: '172858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

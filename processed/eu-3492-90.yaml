@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3492.90
 logical_id: '7602'
-entity_type: person
 remark: 'Other information: (a) Physical description: eye colour: brown; height: 172
   cm; (b) Photo available for inclusion in the Interpol-UN Security Council Special
   Notice; (c) Father''s name is Taher Ouni Harzi, mother''s name is Borkana Bedairia.
@@ -19,6 +18,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abou Omar Al Tounisi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-04-21'
+    number_title: 2015/617 (OJ L102)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 - first_name: Tarak
   middle_name: Ben Taher Ben Faleh
   last_name: Ouni Harzi
@@ -27,16 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-04-21'
-    number_title: 2015/617 (OJ L102)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
-- whole_name: Abou Omar Al Tounisi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18743'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'
@@ -79,24 +78,6 @@ addresses:
     publication_date: '2016-09-20'
     number_title: 2016/1683 (OJ L254)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '109550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-20'
-    number_title: 2016/1683 (OJ L254)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '109551'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-20'
-    number_title: 2016/1683 (OJ L254)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 - street: 18 Mediterranean Street
   city: Ariana
   country_iso2_code: TN
@@ -108,6 +89,24 @@ addresses:
     publication_date: '2015-04-21'
     number_title: 2015/617 (OJ L102)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '109551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-20'
+    number_title: 2016/1683 (OJ L254)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
+- country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '109550'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-20'
+    number_title: 2016/1683 (OJ L254)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 identifications:
 - identification_type_code: id
   number: '04711809'

@@ -1,0 +1,71 @@
+---
+eu_reference_number: EU.14737.46
+logical_id: '184209'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Aleksandr
+  middle_name: Evgenievich
+  last_name: Klukov
+  whole_name: Aleksandr Evgenievich Klukov
+  function: |-
+    Associated individuals: Aleksei Yuryevich Manikin; Aleksandr Yuryevich Iljin
+
+    Associated entities: “Beget” LLC
+  gender: M
+  title: Founder and  General Director  of “Beget” LLC  and “Beget  Kazakhstan” LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Александр
+  middle_name: Евгеньевич
+  last_name: Клюков
+  whole_name: Александр Евгеньевич Клюков
+  gender: M
+  title: Founder and  General Director  of “Beget” LLC  and “Beget  Kazakhstan” LLC
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '184210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: taxid
+  number: '781430645940'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

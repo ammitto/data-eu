@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9658.63
 logical_id: '149596'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Олег
-  middle_name: Алексеевич
-  last_name: МИХАЙЛОВ
-  whole_name: Олег Алексеевич МИХАЙЛОВ
+- whole_name: Oleg Aleksejevitj MICHAJLOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149599'
+  logical_id: '151006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -44,12 +40,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Oleg Aleksejevitj MICHAJLOV
+- first_name: Олег
+  middle_name: Алексеевич
+  last_name: МИХАЙЛОВ
+  whole_name: Олег Алексеевич МИХАЙЛОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151006'
+  logical_id: '149599'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

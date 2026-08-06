@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10132.45
 logical_id: '153593'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Олег
+  middle_name: Михайлович
+  last_name: СВИРИДЕНКО
+  whole_name: Олег Михайлович СВИРИДЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '153596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Oleg
   middle_name: Michajlovič
   last_name: SVIRIDENKO
@@ -24,19 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Oleg
-  last_name: Sviriděnko
-  whole_name: Oleg Sviriděnko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -56,20 +56,6 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Олег
-  middle_name: Михайлович
-  last_name: СВИРИДЕНКО
-  whole_name: Олег Михайлович СВИРИДЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '153596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Oleg
   middle_name: Mikhailovich
   last_name: SVIRIDENKO
@@ -80,6 +66,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Oleg
+  last_name: Sviriděnko
+  whole_name: Oleg Sviriděnko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

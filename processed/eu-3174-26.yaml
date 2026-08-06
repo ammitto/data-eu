@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3174.26
 logical_id: '106534'
-entity_type: person
 remark: "a) Physical description: eye colour: brown; hair colour: brown/black. \nb)
   Photo available for inclusion in the INTERPOL-UN Security Council Special Notice."
 regulations:
@@ -17,16 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu- Sa'id Al Britani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106630'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Omar
   middle_name: Ali
   last_name: Hussain
@@ -35,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Abu- Sa'id Al Britani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -69,19 +68,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: GB
+  country_description: UNITED KINGDOM
   regulation_language: en
-  logical_id: '106626'
+  logical_id: '106625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: GB
-  country_description: UNITED KINGDOM
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106625'
+  logical_id: '106626'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

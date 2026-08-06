@@ -2,7 +2,6 @@
 eu_reference_number: EU.3983.73
 logical_id: '110174'
 designation_details: 14.11.2016
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -27,21 +26,21 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Rima AL-KADIRI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: ريما القادري
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '125084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Rima AL-KADIRI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6821.23
 logical_id: '132838'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Nicaraguan televiestintä- ja postihallinto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '158149'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-10'
+    number_title: 2023/2125 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
+- whole_name: Nicaraguan Institute of Telecommunications and Postal Services
+  strong: true
+  regulation_language: en
+  logical_id: '132840'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
 - whole_name: Nicaraguanisches Institut für Telekommunikation und Postdienste
   name_language: DE
   strong: true
@@ -235,25 +253,6 @@ name_aliases:
     publication_date: '2023-10-10'
     number_title: 2023/2125 (OJ L10102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
-- whole_name: Nicaraguan televiestintä- ja postihallinto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '158149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2125 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
-- whole_name: Nicaraguan Institute of Telecommunications and Postal Services
-  strong: true
-  regulation_language: en
-  logical_id: '132840'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
 addresses:
 - street: Avenida Bolívar, Esquina diagonal al edifico de la Cancillería, Aptdo 2664
   city: Managua

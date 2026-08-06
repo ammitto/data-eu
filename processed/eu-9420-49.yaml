@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9420.49
 logical_id: '147350'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: société par actions “Usine Zavolzhsky de tracteurs à chenilles”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: ЗАО „Заволжски завод за гъсенични трактори“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Zavolžski roomiktraktorite  tehas
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '148106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ЗЗГТ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147352'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: ЗАО Заволжский завод гусеничных тягачей
   name_language: RU
   strong: true
@@ -65,6 +24,26 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: "«Fabrica de tractoare pe șenile din Zavolzhsky» SA"
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Заволжски завод за гъсенични трактори
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: ZZGT
   name_language: EN
   strong: true
@@ -86,16 +65,16 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: JSC “Zavolzhsky plant of crawler vehicle Plant”
-  name_language: EN
+- whole_name: société par actions “Usine Zavolzhsky de tracteurs à chenilles”
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '173906'
+  logical_id: '147723'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Fábrica de tractores oruga Zavolzhsky S.A.
   name_language: ES
   strong: true
@@ -116,21 +95,41 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: "«Fabrica de tractoare pe șenile din Zavolzhsky» SA"
-  name_language: RO
+- whole_name: ЗЗГТ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147892'
+  logical_id: '147352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Заволжски завод за гъсенични трактори
+- whole_name: JSC “Zavolzhsky plant of crawler vehicle Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: ЗАО „Заволжски завод за гъсенични трактори“
   name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '148024'
+  logical_id: '158449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Zavolžski roomiktraktorite  tehas
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '148106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

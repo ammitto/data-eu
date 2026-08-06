@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6716.40
 logical_id: '132127'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,25 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ААТ «ГАСЦІНІЦА ПЛАНЕТА»
-  strong: true
-  regulation_language: en
-  logical_id: '132130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Atviroji akcinė bendrovė „HOTEL PLANETA“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '132434'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Cuideachta Comhstoic Oscailte ‘HOTEL PLANETA’
   name_language: GA
   strong: true
@@ -44,11 +24,11 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Sociedade por ações aberta "HOTEL PLANETA"
-  name_language: PT
+- whole_name: Javno dioničko društvo „HOTEL PLANETA”
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '132437'
+  logical_id: '132435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -94,11 +74,30 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Javno dioničko društvo „HOTEL PLANETA”
-  name_language: HR
+- whole_name: Sociedade por ações aberta "HOTEL PLANETA"
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '132435'
+  logical_id: '132437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Atviroji akcinė bendrovė „HOTEL PLANETA“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '132434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: ААТ «ГАСЦІНІЦА ПЛАНЕТА»
+  strong: true
+  regulation_language: en
+  logical_id: '132130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

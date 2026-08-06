@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12790.85
 logical_id: '173209'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,39 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Orion Scientific Production Association
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество НПО “Орион”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company NPO “Orion”
-  function: JSC NPO Orion is a Russian research and manufacturing company, which is
-    developing and producing high-tech electronical components, including for the
-    development of the Russian military-industrial complex.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173216'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: JSC NPO “Orion”
   name_language: EN
   strong: true
@@ -63,6 +29,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Акционерное общество НПО “Орион”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Orion Scientific Production Association
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company NPO “Orion”
+  function: JSC NPO Orion is a Russian research and manufacturing company, which is
+    developing and producing high-tech electronical components, including for the
+    development of the Russian military-industrial complex.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173216'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

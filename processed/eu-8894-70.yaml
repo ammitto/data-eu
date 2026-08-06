@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8894.70
 logical_id: '144861'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,25 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hajj Ahmad
-  last_name: MIRZAYI
-  whole_name: Hajj Ahmad MIRZAYI
+- whole_name: حاج احمد میرزایی
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '144865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- first_name: Hajahmad
-  last_name: MIRZAEI
-  whole_name: Hajahmad MIRZAEI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144866'
+  logical_id: '144867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -53,11 +38,25 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: حاج احمد میرزایی
+- first_name: Hajahmad
+  last_name: MIRZAEI
+  whole_name: Hajahmad MIRZAEI
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '144867'
+  logical_id: '144866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- first_name: Hajj Ahmad
+  last_name: MIRZAYI
+  whole_name: Hajj Ahmad MIRZAYI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

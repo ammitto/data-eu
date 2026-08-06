@@ -2,7 +2,6 @@
 eu_reference_number: EU.4382.9
 logical_id: '115714'
 united_nation_id: QDi.412
-entity_type: person
 remark: UNLI-06.03.2018
 regulations:
 - regulation_type: amendment
@@ -17,6 +16,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Omar
+  middle_name: Mahmood
+  last_name: Irhayyim
+  whole_name: Omar Mahmood Irhayyim
+  strong: true
+  regulation_language: en
+  logical_id: '115798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: UMAR
   middle_name: MAHMUD IRHAYYIM
   last_name: AL-KUBAYSI
@@ -43,18 +54,6 @@ name_aliases:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- first_name: Omar
-  middle_name: Mahmood Irhayyim
-  last_name: Al-Fayyadh
-  whole_name: Omar Mahmood Irhayyim Al-Fayyadh
-  strong: true
-  regulation_language: en
-  logical_id: '115803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: Umar
   last_name: al-Kubaysi
   whole_name: Umar al-Kubaysi
@@ -66,22 +65,22 @@ name_aliases:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- whole_name: Umar Mahmud Rahim
+- whole_name: Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi
   strong: true
   regulation_language: en
-  logical_id: '115802'
+  logical_id: '115797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: Omar
-  middle_name: Mahmood
-  last_name: Irhayyim
-  whole_name: Omar Mahmood Irhayyim
+  middle_name: Mahmood Irhayyim
+  last_name: Al-Fayyadh
+  whole_name: Omar Mahmood Irhayyim Al-Fayyadh
   strong: true
   regulation_language: en
-  logical_id: '115798'
+  logical_id: '115803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -123,10 +122,10 @@ name_aliases:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- whole_name: Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi
+- whole_name: Umar Mahmud Rahim
   strong: true
   regulation_language: en
-  logical_id: '115797'
+  logical_id: '115802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -187,11 +186,11 @@ addresses:
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 identifications:
-- identification_type_code: nationcert
-  number: '540763'
+- identification_type_code: id
+  number: '00405771'
   country_iso2_code: IQ
   regulation_language: en
-  logical_id: '115793'
+  logical_id: '115794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -207,11 +206,11 @@ identifications:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- identification_type_code: id
-  number: '00405771'
+- identification_type_code: nationcert
+  number: '540763'
   country_iso2_code: IQ
   regulation_language: en
-  logical_id: '115794'
+  logical_id: '115793'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

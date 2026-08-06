@@ -2,7 +2,6 @@
 eu_reference_number: EU.13904.75
 logical_id: '180121'
 designation_details: 'Date of EU designation: 24.6.2008 (UN: 9.6.2010)'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministry of Defense Logistics Export
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: MODLEX
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Ministry of Defense Logistics Export
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11786.25
 logical_id: '166904'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -35,6 +34,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Moszkvai »Előre« Gépgyár Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: JSC Moscow Machine-Building Plant "Vpered"
   function: One of the oldest enterprises in the Russian aviation industry, operating
     since 1931.
@@ -42,16 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Moszkvai »Előre« Gépgyár Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

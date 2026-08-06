@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3980.81
 logical_id: '7556'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexandr
+  middle_name: Vasilievich
+  last_name: SHUBIN
+  whole_name: Alexandr Vasilievich SHUBIN
+  function: "Former so-called “Minister of Justice” and former “Deputy Defence Minister”
+    of the illegal so-called “Luhansk People's Republic”. \nFormer chairman of the
+    “Central Election Commission” of the so- called “Luhansk People's Republic”. \nDismissed
+    as chairman of the “Central Election Commission” of the so-called “Luhansk People's
+    Republic” in June 2018. Registered as a notary in Luhansk."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18529'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Александр
   middle_name: Васильевич
   last_name: ШУБИН
@@ -38,25 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131442'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Alexandr
-  middle_name: Vasilievich
-  last_name: SHUBIN
-  whole_name: Alexandr Vasilievich SHUBIN
-  function: "Former so-called “Minister of Justice” and former “Deputy Defence Minister”
-    of the illegal so-called “Luhansk People's Republic”. \nFormer chairman of the
-    “Central Election Commission” of the so- called “Luhansk People's Republic”. \nDismissed
-    as chairman of the “Central Election Commission” of the so-called “Luhansk People's
-    Republic” in June 2018. Registered as a notary in Luhansk."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6139.18
 logical_id: '127429'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: حسن شاهوارپور
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '164882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - first_name: Hassan
   last_name: SHAHVARPOUR
   whole_name: Hassan SHAHVARPOUR
@@ -26,17 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- whole_name: حسن شاهوارپور
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '164882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

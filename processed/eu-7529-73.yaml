@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7529.73
 logical_id: '136112'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  last_name: ЛАВЛИНСКИЙ
-  whole_name: Евгений ЛАВЛИНСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136114'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Yevgeniy
   last_name: LAVLINSKIY
   whole_name: Yevgeniy LAVLINSKIY
@@ -53,11 +39,43 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Jevgenij LAVLINSKIJ
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Zachar PRILEPIN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Jevgenij Nikolajevitj PRILEPIN
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '144021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Zakhar
+  last_name: PRILEPIN
+  whole_name: Zakhar PRILEPIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '136117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -92,33 +110,14 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Zachar PRILEPIN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Jevgenij LAVLINSKIJ
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Zakhar
-  last_name: PRILEPIN
-  whole_name: Zakhar PRILEPIN
+- first_name: Евгений
+  last_name: ЛАВЛИНСКИЙ
+  whole_name: Евгений ЛАВЛИНСКИЙ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136117'
+  logical_id: '136114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

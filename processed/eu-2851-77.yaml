@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2851.77
 logical_id: '6942'
-entity_type: person
 remark: 'Date of designation referred to in Article 2a(4)(b): 5.3.2012'
 regulations:
 - regulation_type: amendment
@@ -73,12 +72,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1977
+  year: 1975
   city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1764'
+  logical_id: '1765'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'
@@ -86,12 +85,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1975
+  year: 1977
   city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1765'
+  logical_id: '1764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'

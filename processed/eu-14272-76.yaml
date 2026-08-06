@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.14272.76
+logical_id: '181969'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: امیرحسین تاریان
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '181972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: Amirhossein TARIAN
+  function: |-
+    Amirhossein Tarian is one of the Deputy Prosecutors of the First Branch of the Prosecutor’s Office for Tehran’s District 33 (a.k.a. Evin Prosecution Office). In that role, he was involved in several cases where citizens were summoned, charged and subsequently tried without fair trial guarantees, leading to severe punishments, including the death penalty.
+    Amirhossein Tarian is therefore responsible for serious human rights violations in Iran.
+  gender: M
+  title: Deputy Prosecutor of the First Branch of the Prosecutor’s Office for Tehran’s
+    District 33 (a.k.a. Evin Prosecution Office)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1980
+  city: Nowshahr
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

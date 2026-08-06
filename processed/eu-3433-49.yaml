@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3433.49
 logical_id: '107689'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,11 +14,46 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ali Awas
+- first_name: Ali
+  middle_name: Musa
+  last_name: Al-Shawakh
+  whole_name: Ali Musa Al-Shawakh
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107745'
+  logical_id: '107690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Abu Luqman al- Sahl
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Ibrahim
+  last_name: al-Shawwakh
+  whole_name: Ibrahim al-Shawwakh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Muhammad 'Ali al-Shawakh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -32,29 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Ali al-Hamoud al-Shawakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Ali
-  middle_name: Musa
-  last_name: Al-Shawakh
-  whole_name: Ali Musa Al-Shawakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -80,11 +91,11 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Abu Luqman al- Sahl
+- whole_name: Ali al-Hamoud al-Shawakh
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107742'
+  logical_id: '107751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -105,6 +116,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107744'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Ali Awas
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107745'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -135,28 +156,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Muhammad 'Ali al-Shawakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Ibrahim
-  last_name: al-Shawwakh
-  whole_name: Ibrahim al-Shawwakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107750'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

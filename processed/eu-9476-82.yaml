@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9476.82
 logical_id: '148305'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,13 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ismail
-  last_name: KOSHA
-  whole_name: Ismail KOSHA
+- first_name: Esmaeil Zarei
+  last_name: KOUSHA
+  whole_name: Esmaeil Zarei KOUSHA
+  function: Governor of Kurdistan province
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '148309'
+  logical_id: '148311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -38,14 +38,13 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- first_name: Esmaeil Zarei
-  last_name: KOUSHA
-  whole_name: Esmaeil Zarei KOUSHA
-  function: Governor of Kurdistan province
+- first_name: Ismail
+  last_name: KOSHA
+  whole_name: Ismail KOSHA
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '148311'
+  logical_id: '148309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

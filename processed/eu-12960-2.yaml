@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12960.2
 logical_id: '174481'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: osrednji zapor v Shirazu
-  name_language: SL
+- whole_name: Príosún  Lárnach Shiraz
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '174530'
+  logical_id: '174511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-04-14'
+    number_title: 2025/776 (OJ L202500776)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
+- whole_name: Централен затвор в Shiraz
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '174512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-04-14'
+    number_title: 2025/776 (OJ L202500776)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
+- whole_name: Središnji zatvor u Shirazu
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '174513'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-04-14'
+    number_title: 2025/776 (OJ L202500776)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
+- whole_name: închisoarea centrală din  Schiraz
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '174532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'
@@ -35,11 +64,11 @@ name_aliases:
     publication_date: '2025-04-14'
     number_title: 2025/776 (OJ L202500776)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: închisoarea centrală din  Schiraz
-  name_language: RO
+- whole_name: osrednji zapor v Shirazu
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '174532'
+  logical_id: '174530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'
@@ -115,11 +144,12 @@ name_aliases:
     publication_date: '2025-04-14'
     number_title: 2025/776 (OJ L202500776)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Centralne więzienie w Szirazie
-  name_language: PL
+- whole_name: Shiraz Central Prison
+  function: Prison
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174522'
+  logical_id: '174484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'
@@ -145,12 +175,11 @@ name_aliases:
     publication_date: '2025-04-14'
     number_title: 2025/776 (OJ L202500776)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Shiraz Central Prison
-  function: Prison
-  name_language: EN
+- whole_name: Ústřední věznice Šíráz
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174484'
+  logical_id: '174519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'
@@ -206,41 +235,11 @@ name_aliases:
     publication_date: '2025-04-14'
     number_title: 2025/776 (OJ L202500776)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Središnji zatvor u Shirazu
-  name_language: HR
+- whole_name: Centralne więzienie w Szirazie
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '174513'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-14'
-    number_title: 2025/776 (OJ L202500776)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Централен затвор в Shiraz
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '174512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-14'
-    number_title: 2025/776 (OJ L202500776)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Príosún  Lárnach Shiraz
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '174511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-14'
-    number_title: 2025/776 (OJ L202500776)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- whole_name: Ústřední věznice Šíráz
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174519'
+  logical_id: '174522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'

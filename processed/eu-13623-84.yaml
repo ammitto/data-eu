@@ -2,7 +2,6 @@
 eu_reference_number: EU.13623.84
 logical_id: '178666'
 designation_details: 'Date of UN designation: 24.3.2007'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,6 +25,16 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Mohammad Raza Zahedi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Mohammad Reza Zahedi
   function: Commander of IRGC Ground Forces
   title: Brigadier General
@@ -33,16 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Mohammad Raza Zahedi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

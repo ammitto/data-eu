@@ -1,0 +1,98 @@
+---
+eu_reference_number: EU.14234.4
+logical_id: '181838'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/589 (OJ L202600589)
+  programme: CYB
+  logical_id: '222538'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Jesse Chen
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181883'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: CHEN Cheng
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: 陈诚
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '181884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: lengmo
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: l3n6m0
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '181881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+citizenships:
+- country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '181880'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+birthdates:
+- birthdate: '1984-10-20'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 20
+  month_of_year: 10
+  year: 1984
+  city: Yancheng
+  region: Jiangsu
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '181839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4046.86
 logical_id: '3229'
-entity_type: person
 remark: 'Date of listing: 6.12.2005'
 regulations:
 - regulation_type: amendment
@@ -16,37 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Radulan
-  last_name: Sajirun
-  whole_name: Radulan Sajirun
-  strong: true
-  regulation_language: en
-  logical_id: '4426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-12-10'
-    number_title: 2018/2005 (OJ L324)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
-- whole_name: Commander Putol
-  strong: true
-  regulation_language: en
-  logical_id: '4427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-12-10'
-    number_title: 2018/2005 (OJ L324)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
-- first_name: Radulan
-  last_name: Sahirun
-  whole_name: Radulan Sahirun
-  strong: true
-  regulation_language: en
-  logical_id: '4425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-12-10'
-    number_title: 2018/2005 (OJ L324)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
 - first_name: Radullan
   last_name: Sahiron
   whole_name: Radullan Sahiron
@@ -64,6 +32,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-12-10'
+    number_title: 2018/2005 (OJ L324)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
+- whole_name: Commander Putol
+  strong: true
+  regulation_language: en
+  logical_id: '4427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-12-10'
+    number_title: 2018/2005 (OJ L324)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
+- first_name: Radulan
+  last_name: Sajirun
+  whole_name: Radulan Sajirun
+  strong: true
+  regulation_language: en
+  logical_id: '4426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-12-10'
+    number_title: 2018/2005 (OJ L324)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
+- first_name: Radulan
+  last_name: Sahirun
+  whole_name: Radulan Sahirun
+  strong: true
+  regulation_language: en
+  logical_id: '4425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-12-10'

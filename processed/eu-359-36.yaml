@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.359.36
 logical_id: '597'
-entity_type: person
 remark: "Father of Sirajuddin Jallaloudine Haqqani, Nasiruddin Haqqani and Badruddin
   Haqqani (deceased). Brother of Mohammad Ibrahim Omari and Khalil Ahmed Haqqani.
   He is an active Taliban leader. \nBelieved to be in Afghanistan/Pakistan border
@@ -22,6 +21,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Jallalouddin
+  last_name: Haqqani
+  whole_name: Jallalouddin Haqqani
+  strong: true
+  regulation_language: en
+  logical_id: '101806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 - first_name: Jalaluddin
   last_name: Haqani
   whole_name: Jalaluddin Haqani
@@ -42,17 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '101804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
-- first_name: Jallalouddin
-  last_name: Haqqani
-  whole_name: Jallalouddin Haqqani
-  strong: true
-  regulation_language: en
-  logical_id: '101806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -107,10 +106,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1942
+  city: Neka District, Paktika Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111353'
+  logical_id: '101803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'
@@ -119,11 +119,10 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1942
-  city: Neka District, Paktika Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '101803'
+  logical_id: '111353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.5956.43
 logical_id: '126263'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Aliaksey Aliaksandravich VOLKAU
+  function: Former First Deputy Chairman of the Investigative Committee; currently
+    Chairman of the State Committee for Forensic Expertise
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '126268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Alexei Alexandrovich VOLKOV
   gender: M
   strong: true
@@ -64,18 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128161'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Aliaksey Aliaksandravich VOLKAU
-  function: Former First Deputy Chairman of the Investigative Committee; currently
-    Chairman of the State Committee for Forensic Expertise
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '126268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

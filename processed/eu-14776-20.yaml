@@ -1,0 +1,50 @@
+---
+eu_reference_number: EU.14776.20
+logical_id: '184426'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Общество с ограниченной ответственностью  А71
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Limited Liability Company A71
+  function: Owned by PSB Bank, a Russian State owned enterprise. Limited Liability
+    Company A7 was co-created by PSB Bank to launch A7A5, a stablecoin which is backed
+    by fiat rouble deposits in the bank accounts of PSB Bank.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: regnumber
+  number: '1247700638514'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

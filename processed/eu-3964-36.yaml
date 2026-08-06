@@ -2,7 +2,6 @@
 eu_reference_number: EU.3964.36
 logical_id: '3826'
 designation_details: UN designation 24/03/2007 (no longer valid)
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -150,22 +149,22 @@ addresses:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159444'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Pasdaran Road 15
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -1,0 +1,38 @@
+---
+eu_reference_number: EU.14919.27
+logical_id: '184936'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-08'
+  entry_into_force_date: '2026-06-08'
+  number_title: 2026/1225 (OJ L202601225)
+  programme: IRN
+  logical_id: '225855'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Islamic Revolutionary Guard Corps Navy (IRGCN) Hormozgan Provincial
+    Command
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+identifications:
+- identification_type_code: regnumber
+  number: "-"
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '184937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225

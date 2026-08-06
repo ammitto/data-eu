@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12178.85
 logical_id: '169312'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,26 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aliaksei Iurievich KRIAKVIN
-  function: Propagandist on the All-National Television (ONT) TV channel.
+- whole_name: Аляксей Юр’евіч КРАКВIН
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Aljaksej
-  last_name: Krakvin
-  whole_name: Aljaksej Krakvin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169552'
+  logical_id: '169316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -51,12 +36,13 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Аляксей Юр’евіч КРАКВIН
+- whole_name: Aliaksei Iurievich KRIAKVIN
+  function: Propagandist on the All-National Television (ONT) TV channel.
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169316'
+  logical_id: '169318'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -70,6 +56,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Aljaksej
+  last_name: Krakvin
+  whole_name: Aljaksej Krakvin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169552'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

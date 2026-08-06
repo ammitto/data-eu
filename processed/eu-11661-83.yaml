@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11661.83
 logical_id: '166192'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: CHKPZ Nyrt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Cseljabinszki Préskovácsoló Üzem nyilvánosan működő részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167219'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Societatea publică pe acțiuni „Chelyabinsk Forge and Press Plant”
   name_language: RO
   strong: true
@@ -45,41 +64,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: PJSC “CHKPZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166197'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: PJSC  CHKPZ, Čeljabinská kovárna a válcovna, otevřená a. s.
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '167549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Cseljabinszki Préskovácsoló Üzem nyilvánosan működő részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167219'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: CHKPZ Nyrt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167218'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -94,6 +83,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166199'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: PJSC “CHKPZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166197'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2725.66
 logical_id: '7445'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -29,19 +28,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Said
-  last_name: Arif
-  whole_name: Said Arif
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -83,6 +69,15 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Omar Gharib
+  strong: true
+  regulation_language: en
+  logical_id: '18107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - whole_name: Abdallah
   strong: true
   regulation_language: en
@@ -101,20 +96,24 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Said Mohamed Arif
+- first_name: Said
+  last_name: Arif
+  whole_name: Said Arif
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '18106'
+  logical_id: '18105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Omar Gharib
+- whole_name: Said Mohamed Arif
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '18107'
+  logical_id: '18106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

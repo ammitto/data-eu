@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.831.6
 logical_id: '796'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -20,18 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- first_name: Tharwat
-  middle_name: Salah Shihata
-  last_name: Ali
-  whole_name: Tharwat Salah Shihata Ali
-  strong: true
-  regulation_language: en
-  logical_id: '8574'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'
@@ -64,6 +51,18 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- first_name: Tharwat
+  middle_name: Salah Shihata
+  last_name: Ali
+  whole_name: Tharwat Salah Shihata Ali
+  strong: true
+  regulation_language: en
+  logical_id: '8574'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT

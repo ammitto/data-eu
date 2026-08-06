@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8332.19
 logical_id: '140633'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,11 +24,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Денис Александрович МИКУШЕВ
-  name_language: RU
+- whole_name: Дзяніс Аляксандравіч МІКУШЭЎ
+  gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '140636'
+  logical_id: '140637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -55,6 +55,16 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Денис Александрович МИКУШЕВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Dzianis Aliaksandravich MIKUSHEU
   function: Head of the Department for Supervision of Compliance with the Law of Court
     Decisions in Criminal Cases of the Prosecutor’s Office of the Gomel Region/Oblast;
@@ -73,17 +83,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Дзяніс Аляксандравіч МІКУШЭЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '140637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9018.36
 logical_id: '145386'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -29,26 +28,14 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Кирилл
-  last_name: ВАСИЛЬЕВ
-  whole_name: Кирилл ВАСИЛЬЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Kirill
-  last_name: VASILYEV
-  whole_name: Kirill VASILYEV
+  last_name: VASILJEV
+  whole_name: Kirill VASILJEV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145391'
+  logical_id: '145982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -83,14 +70,26 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Kirill
-  last_name: VASILJEV
-  whole_name: Kirill VASILJEV
+- first_name: Кирилл
+  last_name: ВАСИЛЬЕВ
+  whole_name: Кирилл ВАСИЛЬЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '145982'
+  logical_id: '145390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Kirill
+  last_name: VASILYEV
+  whole_name: Kirill VASILYEV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145391'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

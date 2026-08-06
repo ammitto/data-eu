@@ -2,7 +2,6 @@
 eu_reference_number: EU.3845.34
 logical_id: '110149'
 designation_details: date of listing:14.11.2016
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,12 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: نبيل الحسن
+- whole_name: Nabil AL-HASAN
+  function: |-
+    Former Minister of Water Resources.
+    Appointed in July 2016.
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '124794'
+  logical_id: '110152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -38,14 +39,12 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Nabil AL-HASAN
-  function: |-
-    Former Minister of Water Resources.
-    Appointed in July 2016.
+- whole_name: نبيل الحسن
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '110152'
+  logical_id: '124794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

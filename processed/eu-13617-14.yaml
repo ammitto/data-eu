@@ -2,7 +2,6 @@
 eu_reference_number: EU.13617.14
 logical_id: '178635'
 designation_details: 'Date of UN designation: 24.3.2007.'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,23 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Morteza Safari
-  function: Commander of IRGC Navy
-  title: Rear Admiral
+- whole_name: Morteza Saferi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '178640'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Murtaza Safari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178636'
+  logical_id: '178638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -48,11 +35,23 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Morteza Saferi
+- whole_name: Murtaza Safari
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '178638'
+  logical_id: '178636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Morteza Safari
+  function: Commander of IRGC Navy
+  title: Rear Admiral
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178640'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

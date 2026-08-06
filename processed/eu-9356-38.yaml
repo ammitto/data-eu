@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9356.38
 logical_id: '147070'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -36,23 +35,12 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos federalinės ryšių, informacinių technologijų ir žiniasklaidos
-    priežiūros  tarnyba
-  name_language: LT
+- whole_name: Roskomnadzor
+  function: Russian state agency responsible for communications, information technology
+    and mass media
   strong: true
   regulation_language: en
-  logical_id: '147950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ομοσπονδιακή Υπηρεσία Εποπτείας των Επικοινωνιών, της Τεχνολογίας των
-    Πληροφοριών και των Μέσων Μαζικής Ενημέρωσης
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '147932'
+  logical_id: '147075'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -63,17 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Roskomnadzor
-  function: Russian state agency responsible for communications, information technology
-    and mass media
-  strong: true
-  regulation_language: en
-  logical_id: '147075'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -184,6 +161,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ομοσπονδιακή Υπηρεσία Εποπτείας των Επικοινωνιών, της Τεχνολογίας των
+    Πληροφοριών και των Μέσων Μαζικής Ενημέρωσης
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Rusijos federalinės ryšių, informacinių technologijų ir žiniasklaidos
+    priežiūros  tarnyba
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

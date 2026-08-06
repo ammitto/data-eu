@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3298.47
 logical_id: '5529'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -208,20 +207,20 @@ birthdates:
     number_title: 290/2010 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:087:0029:0030:EN:PDF
 addresses:
-- country_iso2_code: EG
-  country_description: EGYPT
-  regulation_language: en
-  logical_id: '1383'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - city: Khan Dari
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
   logical_id: '1381'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- country_iso2_code: EG
+  country_description: EGYPT
+  regulation_language: en
+  logical_id: '1383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'

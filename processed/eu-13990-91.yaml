@@ -1,0 +1,70 @@
+---
+eu_reference_number: EU.13990.91
+logical_id: '180750'
+remark: 'Type of entity: Private Limited Company'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/262 (OJ L202600262)
+  programme: IRN
+  logical_id: '220351'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: پیشگامان تجارت رفیع نوین
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180754'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: Pishgaman Tejarat Rafi Novin Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180755'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+addresses:
+- street: Tehran Leyzan Hossein Abad Javanshir Street, Corner of Ordibehesht St.,
+    No. 10
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+identifications:
+- identification_type_code: other
+  number: '10103503385'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- identification_type_code: regnumber
+  number: '311045'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '180753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262

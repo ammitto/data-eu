@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12743.43
 logical_id: '172880'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,50 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Stowarzyszenie Produkcji Naukowej Orion
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173360'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint-Stock Company “Morion”
-  function: JSC Morion is a leading Russian enterprise in the development and serial
-    production of piezoelectric frequency stabilisation and selection devices (namely
-    quartz generators, filters and resonators), which it supplies to the Russian defence
-    industry.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “МОРИОН”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Morion« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173368'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: АО “МОРИОН”
   name_language: RU
   strong: true
@@ -79,11 +34,55 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Акционерное общество “МОРИОН”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint-Stock Company “Morion”
+  function: JSC Morion is a leading Russian enterprise in the development and serial
+    production of piezoelectric frequency stabilisation and selection devices (namely
+    quartz generators, filters and resonators), which it supplies to the Russian defence
+    industry.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint-Stock Company „Morion”
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Morion Rt.
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '173367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Morion« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -99,11 +98,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint-Stock Company „Morion”
-  name_language: HR
+- whole_name: Stowarzyszenie Produkcji Naukowej Orion
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '173449'
+  logical_id: '173360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

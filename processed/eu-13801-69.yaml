@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13801.69
 logical_id: '179599'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -20,17 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Общество с Ограниченной Ответсвенностью “Центр Управления Городской
-    Аэромобильностью”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -75,6 +63,17 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Общество с Ограниченной Ответсвенностью “Центр Управления Городской
+    Аэромобильностью”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: "»UAMOC« Kft."
   name_language: HU
   strong: true
@@ -110,21 +109,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: fiscalcode
-  number: '9731094770'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179602'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: other
   number: '1227700378553'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179601'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: fiscalcode
+  number: '9731094770'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

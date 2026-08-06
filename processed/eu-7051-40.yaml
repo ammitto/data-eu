@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7051.40
 logical_id: '133939'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,17 +24,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Sergey Georgiyevich LEVCHENKO
-  function: Member of the State Duma
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '133942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Сергей
   middle_name: Георгиевич
   last_name: ЛЕВЧЕНКО
@@ -45,6 +33,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Sergey Georgiyevich LEVCHENKO
+  function: Member of the State Duma
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '133942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

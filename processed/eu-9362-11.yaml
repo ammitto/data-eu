@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9362.11
 logical_id: '147097'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ 'БУРЕВЕСТНИК'
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: JSC CENTRAL RESEARCH INSTITUTE "BUREVESTNIK"
   function: Russian arms industry company
   name_language: EN
@@ -101,6 +90,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: АО ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ 'БУРЕВЕСТНИК'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147099'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

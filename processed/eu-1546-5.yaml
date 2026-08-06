@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.1546.5
 logical_id: '3081'
-entity_type: person
 remark: Son of Sabawi Ibrahim Hasan Al-Tikriti, former Presidential Advisor to Saddam
   Hussein
 regulations:
@@ -110,22 +109,22 @@ addresses:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- city: Damascus
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '861'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-04'
-    number_title: 1286/2005 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
 - street: Al-Shahid Street, Al-Mahata Neighbourhood
   city: Az Zabadani
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-04'
+    number_title: 1286/2005 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
+- city: Damascus
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'

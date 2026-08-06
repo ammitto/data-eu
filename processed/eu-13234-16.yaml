@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13234.16
 logical_id: '176318'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: 33-ти централен институт за научни изследвания и изпитвания на Министерство
+    на отбраната на Руската федерация
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '176372'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: 33. centrale institut for videnskabelig forskning og afprøvning under
     Den Russiske Føderations forsvarsministerium
   name_language: DA
@@ -26,12 +36,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33-ти централен институт за научни изследвания и изпитвания на Министерство
-    на отбраната на Руската федерация
-  name_language: BG
+- whole_name: 33. zentrales wissenschaftliches Forschungs- und Versuchsinstitut des
+    russischen Verteidigungsministeriums
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '176372'
+  logical_id: '176370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -158,28 +168,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Al 33-lea Institut Central de Cercetare Științifică și Testare al Ministerului
-    Apărării din Federația Rusă
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '176358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Ryska försvarsministeriets 33:e centrala institut för vetenskaplig forskning
-    och testning
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '176357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: 33rd Central Scientific Research and Testing Institute of the Ministry
     of Defence of the Russian Federation
   function: The Russian Ministry of Defence 33rd Central Scientific Research and Testing
@@ -207,12 +195,23 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33. zentrales wissenschaftliches Forschungs- und Versuchsinstitut des
-    russischen Verteidigungsministeriums
-  name_language: DE
+- whole_name: Ryska försvarsministeriets 33:e centrala institut för vetenskaplig forskning
+    och testning
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '176370'
+  logical_id: '176357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Al 33-lea Institut Central de Cercetare Științifică și Testare al Ministerului
+    Apărării din Federația Rusă
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '176358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

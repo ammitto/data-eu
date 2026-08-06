@@ -1,0 +1,105 @@
+---
+eu_reference_number: EU.14097.88
+logical_id: '181159'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Aleksei Streltšenko
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '182322'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Alexej Streľčenko
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '182321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Алексей
+  middle_name: Алексеевич
+  last_name: СТРЕЛЬЧЕНКО
+  whole_name: Алексей Алексеевич СТРЕЛЬЧЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181163'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Alexey
+  middle_name: Alekseyevich
+  last_name: STRELCHENKO
+  whole_name: Alexey Alekseyevich STRELCHENKO
+  function: CEO and General Director of JSC Perspective Technologies Agency (UPT)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181164'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '181161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+birthdates:
+- birthdate: '1955-08-10'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 10
+  month_of_year: 8
+  year: 1955
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '181160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: passport
+  number: '770803182739'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

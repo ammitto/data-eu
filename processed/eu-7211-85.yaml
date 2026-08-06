@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7211.85
 logical_id: '134580'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -29,16 +28,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Sergej  Jurjevitj BIDONKO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Сергей
   middle_name: Юрьевич
   last_name: БИДОНЬКО
@@ -48,6 +37,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Sergej  Jurjevitj BIDONKO
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

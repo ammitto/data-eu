@@ -1,0 +1,49 @@
+---
+eu_reference_number: EU.13933.80
+logical_id: '180482'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/267 (OJ L202600267)
+  programme: IRN
+  logical_id: '220363'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Haidar OLFATI
+  function: Commander of the Islamic Revolutionary Guard Corps (IRGC) in Ilam Province
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Heydar OLFATI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267

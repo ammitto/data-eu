@@ -1,0 +1,81 @@
+---
+eu_reference_number: EU.14013.49
+logical_id: '180792'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC “RN-Komsomolsk Refinery”
+  strong: true
+  regulation_language: en
+  logical_id: '180796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company “RN-Komsomolsk Refinery”
+  function: LLC “RN-Komsomolsk Refinery” is a Russian entity operating an oil refinery
+    in the Khabarovsk Territory.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью “РН-КОмсомольский Нпз”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Leningradskaya st., d. 11 5,
+  city: Komsomolsk-on-Amur city
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '681007'
+  regulation_language: en
+  logical_id: '180793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '2703032881'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1052740255358'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '180795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

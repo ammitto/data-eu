@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3429.32
 logical_id: '107681'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -36,19 +35,6 @@ citizenships:
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1975
-  city: Dushanbe
-  country_iso2_code: TJ
-  country_description: TAJIKISTAN
-  regulation_language: en
-  logical_id: '107716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - birthdate: '1975-05-14'
   circa: false
   calendar_type: GREGORIAN
@@ -60,6 +46,19 @@ birthdates:
   country_description: TAJIKISTAN
   regulation_language: en
   logical_id: '107717'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1975
+  city: Dushanbe
+  country_iso2_code: TJ
+  country_description: TAJIKISTAN
+  regulation_language: en
+  logical_id: '107716'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

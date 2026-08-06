@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8412.90
 logical_id: '141403'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abou Abdel Hamid Al Kidali
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Abdelhakim al-Kidali
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Abu Qarwani
   strong: true
   regulation_language: en
@@ -34,28 +53,6 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Asidan Ag
-  last_name: Hitta
-  whole_name: Asidan Ag Hitta
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abou Abdel Hamid Al Kidali
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - first_name: Sidan Ag
   last_name: HITTA
   whole_name: Sidan Ag HITTA
@@ -68,11 +65,13 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Abdelhakim al-Kidali
+- first_name: Asidan Ag
+  last_name: Hitta
+  whole_name: Asidan Ag Hitta
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141409'
+  logical_id: '141411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

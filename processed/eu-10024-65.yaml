@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10024.65
 logical_id: '152827'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Imad Abu
-  last_name: ZUREIQ
-  whole_name: Imad Abu ZUREIQ
-  function: member of a regime-affiliated militia in Southwest Syria
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Emad Abu
   last_name: ZURAIQ
   whole_name: Emad Abu ZURAIQ
@@ -43,6 +28,31 @@ name_aliases:
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Imad Abu
+  last_name: ZUREIQ
+  whole_name: Imad Abu ZUREIQ
+  function: member of a regime-affiliated militia in Southwest Syria
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: عماد أبو زريق
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Imad Abu
   last_name: ZREIK
   whole_name: Imad Abu ZREIK
   gender: M
@@ -50,17 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: عماد أبو زريق
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

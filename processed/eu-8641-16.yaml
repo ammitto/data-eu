@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8641.16
 logical_id: '143289'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александър
-  last_name: Белски
-  whole_name: Александър Белски
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Alexander
   middle_name: Nikolaevich
   last_name: BELSKIY
@@ -41,19 +27,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Alexandr
-  last_name: Bělskij
-  whole_name: Alexandr Bělskij
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -79,6 +52,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Alexandr
+  last_name: Bělskij
+  whole_name: Alexandr Bělskij
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Александър
+  last_name: Белски
+  whole_name: Александър Белски
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164767'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

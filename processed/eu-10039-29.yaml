@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10039.29
 logical_id: '152927'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,30 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ali Mhanna
-  last_name: SULEIMAN
-  whole_name: Ali Mhanna SULEIMAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: علي مهنا سليمان
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '166991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Ali Mhanna
   last_name: Sulejman
   whole_name: Ali Mhanna Sulejman
   gender: M
@@ -52,6 +27,30 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: علي مهنا سليمان
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '166991'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Ali Mhanna
+  last_name: SULEIMAN
+  whole_name: Ali Mhanna SULEIMAN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

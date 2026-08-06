@@ -4,7 +4,6 @@ logical_id: '5286'
 designation_details: |-
   UN designation 09/06/2010 (no longer valid).
   Previous EU designation 24/06/2008
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -18,21 +17,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Malek Ashtar Egyetem
-  name_language: HU
+- whole_name: Universidad Malek Ashtar
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '162000'
+  logical_id: '161976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Politechnika Malek Asztar
-  name_language: PL
+- whole_name: Malek Ashtar Egyetem
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '162001'
+  logical_id: '162000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -48,21 +47,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Университет Malek Ashtar
-  name_language: BG
+- whole_name: Malek Ashtari Ülikooli
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '6651'
+  logical_id: '162129'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Universidad Malek Ashtar
-  name_language: ES
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Politechnika Malek Asztar
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '161976'
+  logical_id: '162001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -78,6 +77,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Университет Malek Ashtar
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '6651'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Univerzita Maleka Aštara
   name_language: CS
   strong: true
@@ -158,33 +167,12 @@ name_aliases:
     publication_date: '2008-06-24'
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Malek Ashtari Ülikooli
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '162129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
 - city: Isfahan
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '162185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Shahin Shahr  Township, End of Ferdowsi  Avenue
-  city: Isfahan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159403'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -201,3 +189,14 @@ addresses:
     publication_date: '2012-03-24'
     number_title: 267/2012 (OJ L88)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:088:0001:0112:EN:PDF
+- street: Shahin Shahr  Township, End of Ferdowsi  Avenue
+  city: Isfahan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196

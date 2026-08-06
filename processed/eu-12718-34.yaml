@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12718.34
 logical_id: '172702'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -30,16 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173414'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: CJSC Donobuv
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172707'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -84,6 +73,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: CJSC Donobuv
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172707'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

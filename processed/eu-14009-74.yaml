@@ -1,0 +1,76 @@
+---
+eu_reference_number: EU.14009.74
+logical_id: '180728'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/262 (OJ L202600262)
+  programme: IRN
+  logical_id: '220351'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: حسین بخشایش
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: Hossein BAKSHAYESH
+  function: CEO and Managing Director of Sahara Thunder
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+birthdates:
+- birthdate: '1964-05-22'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 22
+  month_of_year: 5
+  year: 1964
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '180729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+identifications:
+- identification_type_code: other
+  number: '1189810190'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262

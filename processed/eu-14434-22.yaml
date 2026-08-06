@@ -1,0 +1,60 @@
+---
+eu_reference_number: EU.14434.22
+logical_id: '182838'
+designation_details: 'Type of entity: State-linked military-patriotic training facility
+  for minors'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-11'
+  entry_into_force_date: '2026-05-11'
+  number_title: 2026/1055 (OJ L202601055)
+  programme: UKR
+  logical_id: '223478'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Avangard Military-Patriotic Training Centre
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Военно-патриотический центр “Авангард”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182840'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Avangard Military Camp
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+addresses:
+- city: Volgograd
+  region: Volgograd Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '182839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055

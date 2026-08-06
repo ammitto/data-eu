@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13193.16
 logical_id: '176036'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ταξιαρχία Suleiman Shah
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '176052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: Brigada Sultan Sulaiman Shah
   name_language: RO
   strong: true
@@ -35,11 +24,11 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Briogáid Sultan Sulaiman Shah
-  name_language: GA
+- whole_name: Ταξιαρχία Sultan Sulaiman Shah
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '176047'
+  logical_id: '176053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -50,40 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Sultan Sulaiman Shah Brigade
-  function: The Sultan Sulaiman Shah Brigade is an armed militia created in 2016,
-    active in the Syrian civil war. It was founded in 2016 in Jarabulus by Muhammad
-    Hussein al-Jasim, also known as Abu Amsha and claims to have more than 2 000 fighters,
-    mainly Turkmen.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176039'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Suleiman Shah Brigade
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176038'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: فرقة السلطان سليمان شاه
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -119,11 +74,21 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Ταξιαρχία Sultan Sulaiman Shah
+- whole_name: Ταξιαρχία Suleiman Shah
   name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '176053'
+  logical_id: '176052'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Briogáid Sultan Sulaiman Shah
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '176047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -134,6 +99,40 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Sultan Sulaiman Shah Brigade
+  function: The Sultan Sulaiman Shah Brigade is an armed militia created in 2016,
+    active in the Syrian civil war. It was founded in 2016 in Jarabulus by Muhammad
+    Hussein al-Jasim, also known as Abu Amsha and claims to have more than 2 000 fighters,
+    mainly Turkmen.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176039'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Suleiman Shah Brigade
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176038'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: فرقة السلطان سليمان شاه
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12570.32
 logical_id: '171434'
-entity_type: enterprise
 remark: 'Associated individual: Artem Mikhaylovich Yamshchikov'
 regulations:
 - regulation_type: amendment
@@ -16,31 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: TSK Vektor Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: LLC TSK Vektor
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: ООО ТСК Вектор
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '171438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: TSK Vektor Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -56,6 +45,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: LLC TSK Vektor
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13461.41
 logical_id: '177784'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,33 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Федеральное государственное унитарное предприятие “Российская телевизионная
-    и радиовещательная сеть”
+- whole_name: Întreprinderea deținută de statul federal «Rețeaua Rusă de Televiziune
+    și Radiodifuziune»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '177797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Федерално държавно предприятие „Руска мрежа за телевизионно и радиоразпръскване“
-    (РТРС)
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: entreprise publique fédérale “Réseau russe de télévision et de radiodiffusion”,
-    ou RTRS
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177793'
+  logical_id: '177788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -63,12 +41,22 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Ομοσπονδιακή κρατική επιχείρηση “Russian Television and Radio Broadcasting
-    Network” (RTRS)
-  name_language: EL
+- whole_name: Федеральное государственное унитарное предприятие “Российская телевизионная
+    и радиовещательная сеть”
   strong: true
   regulation_language: en
-  logical_id: '177794'
+  logical_id: '177797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Федерално държавно предприятие „Руска мрежа за телевизионно и радиоразпръскване“
+    (РТРС)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -85,33 +73,34 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Întreprinderea deținută de statul federal «Rețeaua Rusă de Televiziune
-    și Radiodifuziune»
-  name_language: RO
+- whole_name: Ομοσπονδιακή κρατική επιχείρηση “Russian Television and Radio Broadcasting
+    Network” (RTRS)
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '177788'
+  logical_id: '177794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Empresa pública federal Rede de teledifusão e radiodifusão russa (RTRS)
-  name_language: PT
+- whole_name: entreprise publique fédérale “Réseau russe de télévision et de radiodiffusion”,
+    ou RTRS
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '177789'
+  logical_id: '177793'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Federalne przedsiębiorstwo państwowe »Sieć Radiowo-Telewizyjna Rosji«
-    (RTRS)
-  name_language: PL
+- whole_name: Savezno poduzeće u državnom vlasništvu ‚Russian Television and Radio
+    Broadcasting Network’ (RTRS)
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '177790'
+  logical_id: '177792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -128,12 +117,22 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Savezno poduzeće u državnom vlasništvu ‚Russian Television and Radio
-    Broadcasting Network’ (RTRS)
-  name_language: HR
+- whole_name: Federalne przedsiębiorstwo państwowe »Sieć Radiowo-Telewizyjna Rosji«
+    (RTRS)
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '177792'
+  logical_id: '177790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Empresa pública federal Rede de teledifusão e radiodifusão russa (RTRS)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

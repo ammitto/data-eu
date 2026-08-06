@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9482.55
 logical_id: '148345'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,13 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Youssuf
-  last_name: POURANVARI
-  whole_name: Youssuf POURANVARI
+- whole_name: یوسف پورانواری
   gender: M
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '148349'
+  logical_id: '148350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -41,12 +39,13 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: یوسف پورانواری
+- first_name: Youssuf
+  last_name: POURANVARI
+  whole_name: Youssuf POURANVARI
   gender: M
-  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '148350'
+  logical_id: '148349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13424.65
 logical_id: '177548'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,6 +25,18 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1433 (OJ L202501433)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Jeff LAROSE
+  gender: M
+  title: Canaan gang leader (affiliated with G-Pép and Viv Ansanm coalitions of gangs)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Gwo Lwa
   gender: M
   name_language: EN
@@ -43,18 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Jeff LAROSE
-  gender: M
-  title: Canaan gang leader (affiliated with G-Pép and Viv Ansanm coalitions of gangs)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177554'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

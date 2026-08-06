@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12832.84
 logical_id: '173760'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: завод за ремонт на радиоелектронни въоръжения
-  name_language: BG
+- whole_name: 2566-os számú ZRREV Nyrt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173763'
+  logical_id: '173764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -59,21 +58,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: 2566-os számú ZRREV Nyrt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: 2566-os számú Rádióelektronikaifegyver-javító Üzem
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '173765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: завод за ремонт на радиоелектронни въоръжения
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '173763'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

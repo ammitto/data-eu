@@ -1,0 +1,93 @@
+---
+eu_reference_number: EU.14313.76
+logical_id: '182208'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/505 (OJ L202600505)
+  programme: BLR
+  logical_id: '222925'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: ЗАО Белорусская нефтяная компания
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: BelOil
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: БНК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: CJSC Belarusian Oil Company
+  function: 'Associated entities: State Production Association “Belorusneft”; Open
+    Joint Stock Company “Naftan”'
+  title: Closed Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: BNK
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+addresses:
+- street: 4A-305,  Leshchinsky Street
+  city: Minsk
+  country_iso2_code: BY
+  country_description: BELARUS
+  zip_code: '220140'
+  regulation_language: en
+  logical_id: '182209'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+identifications:
+- identification_type_code: regnumber
+  number: '190832326'
+  country_iso2_code: BY
+  regulation_language: en
+  logical_id: '182210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505

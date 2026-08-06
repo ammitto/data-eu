@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12727.4
 logical_id: '172765'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Novo-Viatka
-  name_language: EN
+- whole_name: Novo-Vyatka Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172770'
+  logical_id: '173401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Novo-Vyatka
-  name_language: EN
+- whole_name: Novo-Viatka Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172771'
+  logical_id: '173400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -57,21 +56,20 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Novo-Vyatka« Mechanikai Üzem"
-  name_language: HU
+- whole_name: Mechanical Plant “Novo-Vyatka”
   strong: true
   regulation_language: en
-  logical_id: '173399'
+  logical_id: '173485'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “Ново-Вятка”
-  name_language: RU
+- whole_name: "»Novo-Vyatka« Mechanikai Üzem"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173486'
+  logical_id: '173399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -87,30 +85,31 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Novo-Vyatka Rt.
-  name_language: HU
+- whole_name: JSC Novo-Viatka
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173401'
+  logical_id: '172770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Novo-Viatka Rt.
-  name_language: HU
+- whole_name: Акционерное общество “Ново-Вятка”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173400'
+  logical_id: '173486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Mechanical Plant “Novo-Vyatka”
+- whole_name: JSC Novo-Vyatka
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173485'
+  logical_id: '172771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -130,11 +129,11 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '4345029946'
+- identification_type_code: regnumber
+  number: '1034316578680'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '172768'
+  logical_id: '172769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -150,11 +149,11 @@ identifications:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: regnumber
-  number: '1034316578680'
+- identification_type_code: fiscalcode
+  number: '4345029946'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '172769'
+  logical_id: '172768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

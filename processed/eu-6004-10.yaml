@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6004.10
 logical_id: '126546'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohammad Fayez
+  last_name: AL-BARASHA
+  whole_name: Mohammad Fayez AL-BARASHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: محمد فايز برشة
   gender: M
   name_language: AR
@@ -40,19 +52,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammad Fayez
-  last_name: AL-BARASHA
-  whole_name: Mohammad Fayez AL-BARASHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Mohamad Fayez
   last_name: AL-BARSHA
   whole_name: Mohamad Fayez AL-BARSHA
@@ -61,19 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohamad Fayez
-  last_name: AL-BARASHA
-  whole_name: Mohamad Fayez AL-BARASHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126551'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -100,6 +86,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Mohamad Fayez
+  last_name: AL-BARASHA
+  whole_name: Mohamad Fayez AL-BARASHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126551'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

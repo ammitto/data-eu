@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8794.61
 logical_id: '144480'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Mikhaylovich
-  last_name: GAZMANOV
-  whole_name: Oleg Mikhaylovich GAZMANOV
-  function: Russian musician, member of the Public Council of the Ministry of Defense
-    of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Oleg
   middle_name: Michajlovitj
   last_name: GAZMANOV
@@ -53,6 +37,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Oleg
+  middle_name: Mikhaylovich
+  last_name: GAZMANOV
+  whole_name: Oleg Mikhaylovich GAZMANOV
+  function: Russian musician, member of the Public Council of the Ministry of Defense
+    of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

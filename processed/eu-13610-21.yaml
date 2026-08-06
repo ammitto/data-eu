@@ -2,7 +2,6 @@
 eu_reference_number: EU.13610.21
 logical_id: '178602'
 designation_details: "(16.11.2013, suspended since 16.1.2016)"
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Iráni Exportfejlesztési Bank
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '178607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: Export Development Bank of Iran
   name_language: EN
   strong: true
@@ -26,11 +35,11 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: Iráni Exportfejlesztési Bank
-  name_language: HU
+- whole_name: El Banco de Desarrollo de la Exportación de Irán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '178607'
+  logical_id: '178609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -55,17 +64,29 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: El Banco de Desarrollo de la Exportación de Irán
-  name_language: ES
-  strong: true
+addresses:
+- street: No. 129, 21 ‘s Khaled Eslamboli, No.  1 Building
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '178609'
+  logical_id: '178603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-addresses:
+- street: Tose’e Tower, corner of 15th St,  Ahmad Qasir Ave., Argentine Square
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '178604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - street: Export Development Building, 21st  floor, Tose’e tower, 15th st, Ahmad Qasir
     Ave
   city: Tehran
@@ -84,28 +105,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: No. 129, 21 ‘s Khaled Eslamboli, No.  1 Building
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '178603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Tose’e Tower, corner of 15th St,  Ahmad Qasir Ave., Argentine Square
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '178604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

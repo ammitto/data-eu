@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6896.92
 logical_id: '133340'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -26,6 +25,16 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/236 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Александр  Евгеньевич  ЧМЫХАЛОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '133342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/236 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Aleksandr  Evgenevich  CHMYHALOV
   function: Deputy Head of Sevastopol electoral commission; Member of the ruling ‘United
     Russia’ party
@@ -33,16 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/236 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Александр  Евгеньевич  ЧМЫХАЛОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '133342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

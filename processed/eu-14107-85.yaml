@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.14107.85
+logical_id: '181213'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Alexander Andreyevich ZHDANOV
+  gender: M
+  title: Limited partner in the UrSeCo Handels GmbH & Co. KG.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181216'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Aleksandr Andreyevich ZHDANOV
+  gender: M
+  title: Limited partner in  the UrSeCo Handels GmbH  & Co. KG
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Александр Андреевич ЖДАНОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+birthdates:
+- birthdate: '1958-11-24'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 24
+  month_of_year: 11
+  year: 1958
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '181214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

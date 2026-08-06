@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9398.9
 logical_id: '147281'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,31 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vezérkari  Számítástechnikai  Főközpont
-  name_language: HU
+- whole_name: Hlavné  výpočtové centrum generálneho štábu
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '147852'
+  logical_id: '148130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Centro informatico principale dello Stato maggiore
-  name_language: IT
+- whole_name: centre de calcul principal de  l’état-major général
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147686'
+  logical_id: '147721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: generalstabens  huvuddatacenter
-  name_language: SV
+- whole_name: Glavni računalni centar glavnog stožer
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '148000'
+  logical_id: '148042'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Yleisesikunnan tietokonekesku
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -75,41 +84,31 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Hlavné  výpočtové centrum generálneho štábu
-  name_language: SK
+- whole_name: Centro informatico principale dello Stato maggiore
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '148130'
+  logical_id: '147686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rekencentrum van de generale  staf
-  name_language: NL
+- whole_name: Centro de  Computação Principal  do Estado-Maior General
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '147918'
+  logical_id: '147817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Glavni računalni centar glavnog stožer
-  name_language: HR
+- whole_name: Vezérkari  Számítástechnikai  Főközpont
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '148042'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Yleisesikunnan tietokonekesku
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148053'
+  logical_id: '147852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -125,11 +124,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: centre de calcul principal de  l’état-major général
-  name_language: FR
+- whole_name: generalstabens  huvuddatacenter
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '147721'
+  logical_id: '148000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -140,6 +139,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Hauptrechenzentrum (GWZ) des Generalstabs
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '147669'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -174,21 +183,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Hauptrechenzentrum (GWZ) des Generalstabs
-  name_language: DE
+- whole_name: Rekencentrum van de generale  staf
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '147669'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Centro de  Computação Principal  do Estado-Maior General
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147817'
+  logical_id: '147918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

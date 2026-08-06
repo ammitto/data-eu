@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9383.45
 logical_id: '147205'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Nižnij Novgorodo pergalės septyniasdešimtmečio gamykla
-  name_language: LT
+- whole_name: Uzina celei de a 70-a aniversări a Victoriei din Nizhny Novgorod
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147975'
+  logical_id: '147878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -30,6 +29,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: A Győzelem 70. Évfordulójáról Elnevezett Nyizsnyij Novgorod-i Üzem
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -74,21 +83,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: A Győzelem 70. Évfordulójáról Elnevezett Nyizsnyij Novgorod-i Üzem
-  name_language: HU
+- whole_name: Nižnij Novgorodo pergalės septyniasdešimtmečio gamykla
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Uzina celei de a 70-a aniversări a Victoriei din Nizhny Novgorod
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147878'
+  logical_id: '147975'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

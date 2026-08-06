@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3626.67
 logical_id: '7179'
-entity_type: enterprise
 remark: 'Owned by Mohammed Qasim Mir Wali Khudai Rahim. Also associated Mohammad Naim
   Barich Khudaidad. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5282195'
 regulations:
@@ -63,12 +62,12 @@ name_aliases:
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
 addresses:
-- street: 'Branch Office 8: Chaman'
-  city: Baluchistan Province
+- street: 'Branch Office 7: Kandahari Bazaar'
+  city: Quetta
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2468'
+  logical_id: '2467'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
@@ -107,35 +106,12 @@ addresses:
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 7: Haji Mohammed Plaza, Tol Aram Road, near Jamaluddin Afghani
-    Road'
-  city: Quetta
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
 - street: 'Branch Office 4: Lashkar Gah'
   city: Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 7: Kandahari Bazaar'
-  city: Quetta
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2467'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
@@ -152,12 +128,46 @@ addresses:
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 8: Chaman'
+  city: Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 7: Haji Mohammed Plaza, Tol Aram Road, near Jamaluddin Afghani
+    Road'
+  city: Quetta
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2466'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
 - street: 'Branch Office 3: Safaar Bazaar, Garmser District'
   city: Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 9: Chaghi Bazaar'
+  city: Chaghi, Baluchistan Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
@@ -170,17 +180,6 @@ addresses:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 9: Chaghi Bazaar'
-  city: Chaghi, Baluchistan Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'

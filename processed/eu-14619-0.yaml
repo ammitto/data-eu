@@ -1,0 +1,86 @@
+---
+eu_reference_number: EU.14619.0
+logical_id: '183700'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Geradotovich
+  last_name: DEMURCHIEV
+  whole_name: Geradotovich DEMURCHIEV
+  function: Major General; Deputy commander of the 20th Combined Arms Army within
+    the Western Group of Forces of the Russian Armed Forces
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183705'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Роман Герадотович
+  last_name: ДЕМУРЧИЕВ
+  whole_name: Роман Герадотович ДЕМУРЧИЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+birthdates:
+- birthdate: '1976-08-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 8
+  year: 1976
+  city: Tatarstan
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183702'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: Karbysheva, 13, sq. 39
+  city: Tatarstan
+  region: Volgograd region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '74507'
+  regulation_language: en
+  logical_id: '183701'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: passport
+  number: '9204926737'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

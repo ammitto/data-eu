@@ -1,0 +1,55 @@
+---
+eu_reference_number: EU.14277.71
+logical_id: '182051'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Naji Research and Development Company (NRDC)
+  function: |-
+    Naji Research and Development Company (NRDC) is an Iranian IT-services and consultancy company that is responsible for developing the Nazer mobile application for Iran’s Law Enforcement Forces.
+    The Nazer mobile application is used as a surveillance tool to monitor and control citizens in Iran. It enables state-vetted individuals to report other individuals for hijab violations and for behaviour that goes against public morality. Individuals reported through the Nazer mobile application could be subjected to criminal trials and punishments, including fines, imprisonment and lashings.
+    The NRDC is therefore responsible for serious human rights violations in Iran.
+  title: Private Joint-Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: شرکت پژوهش و توسعه ناجی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '182053'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+addresses:
+- street: Mirdamad Blvd
+  city: Tehran
+  region: Tehran Province
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  zip_code: '1518964613'
+  regulation_language: en
+  logical_id: '182052'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

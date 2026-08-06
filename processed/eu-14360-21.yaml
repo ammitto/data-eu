@@ -1,0 +1,62 @@
+---
+eu_reference_number: EU.14360.21
+logical_id: '182535'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2025-12-15'
+  entry_into_force_date: '2025-12-15'
+  number_title: 2025/2588 (OJ L202502588)
+  programme: UKR
+  logical_id: '222866'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: SeverTransBunker Company Limited
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+addresses:
+- street: Office 601, prospect Budyonnovskiy 2
+  city: Rostov-on-Don
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '344002'
+  regulation_language: en
+  logical_id: '182536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+- street: Office 207A, Lit A, ul Yakornaya 13
+  city: Saint Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '195027'
+  regulation_language: en
+  logical_id: '182537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+identifications:
+- identification_type_code: imo
+  number: '6197187'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588

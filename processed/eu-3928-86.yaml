@@ -2,7 +2,6 @@
 eu_reference_number: EU.3928.86
 logical_id: '6694'
 designation_details: UN designation 18/04/2012 (no longer valid)
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,30 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: عظیم اقاجانی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '162249'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Hosein
-  last_name: AGHAJANI
-  whole_name: Hosein AGHAJANI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158903'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Azim
   last_name: AGHAJANI
   whole_name: Azim AGHAJANI
@@ -62,6 +37,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: عظیم اقاجانی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '162249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Hosein
+  last_name: AGHAJANI
+  whole_name: Hosein AGHAJANI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158903'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -4,7 +4,6 @@ logical_id: '3846'
 designation_details: |-
   UN designation 09/06/2010 (no longer valid).
   Previous EU designation 24/07/2007
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -38,31 +37,31 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Specialioji chemijos,biologijos ir branduolinė pramonė
+- whole_name: Gynybos ministerijos specialiosios pramonės grupės
   name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '162126'
+  logical_id: '162119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Specialiosios pramonės skyrius
+- whole_name: Gynybos ministerijos specialiosios pramonės grupė
   name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '162125'
+  logical_id: '162118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Specialiosios pramonės padalinys
+- whole_name: Specialiosios pramonės organizacija
   name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '162124'
+  logical_id: '162117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -208,6 +207,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: gruppo delle industrie speciali del ministero della  difesa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '161977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Különleges Iparágak Csoportja
   name_language: HU
   strong: true
@@ -248,16 +257,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: gruppo delle industrie speciali del ministero della  difesa
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '161977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Special Industries Group
   name_language: EN
   strong: true
@@ -288,46 +287,6 @@ name_aliases:
     publication_date: '2007-04-24'
     number_title: 2007/242/EC (OJ L106)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Specialiosios pramonės grupė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Specialiosios pramonės organizacija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Gynybos ministerijos specialiosios pramonės grupė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162118'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Gynybos ministerijos specialiosios pramonės grupės
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Specialioji grupė
   name_language: LT
   strong: true
@@ -353,6 +312,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Specialiosios pramonės padalinys
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Specialiosios pramonės skyrius
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Specialioji chemijos,biologijos ir branduolinė pramonė
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Specialiosios pramonės grupė
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162116'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

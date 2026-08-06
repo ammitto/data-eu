@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.365.94
 logical_id: '640'
-entity_type: person
 regulations:
 - regulation_type: regulation
   organisation_type: council
@@ -15,25 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mekmud, Sultan Baishiruddin
-  strong: true
-  regulation_language: en
-  logical_id: '1434'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Mehmood,  Bashir Uddin
-  title: Dr.
-  strong: true
-  regulation_language: en
-  logical_id: '1433'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Mahmood, Sultan Bashiruddin
   strong: true
   regulation_language: en
@@ -53,6 +33,25 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Mekmud, Sultan Baishiruddin
+  strong: true
+  regulation_language: en
+  logical_id: '1434'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Mehmood,  Bashir Uddin
+  title: Dr.
+  strong: true
+  regulation_language: en
+  logical_id: '1433'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 citizenships:
 - country_iso2_code: PK
   country_description: PAKISTAN
@@ -64,18 +63,6 @@ citizenships:
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1940
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '269'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1941
@@ -90,35 +77,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1939
+  year: 1940
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '268'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1944
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '273'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1938
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '267'
+  logical_id: '269'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -138,18 +101,6 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1942
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '271'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
   year: 1937
   country_iso2_code: '00'
   country_description: UNKNOWN
@@ -162,11 +113,59 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
+  year: 1938
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '267'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1939
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '268'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
   year: 1943
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '272'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1942
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '271'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1944
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '273'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'

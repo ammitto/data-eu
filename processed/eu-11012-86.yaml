@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11012.86
 logical_id: '160287'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad de responsabilidad limitada Bolshaya Troika
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160763'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: LLC Bolshaya Troika
   function: an entity that operates in the Russian IT sector
   name_language: EN
@@ -51,6 +40,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad de responsabilidad limitada Bolshaya Troika
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160763'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

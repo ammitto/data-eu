@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3971.45
 logical_id: '109426'
-entity_type: person
 remark: Son of LRA leader Joseph Kony
 regulations:
 - regulation_type: amendment
@@ -49,11 +48,14 @@ name_aliases:
     publication_date: '2016-09-01'
     number_title: 2016/1442 (OJ L235)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
-- whole_name: Simon Salim Obol
+- first_name: Salim
+  last_name: KONY
+  whole_name: Salim KONY
+  title: Deputy, Lord's Resistance Army
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109432'
+  logical_id: '109438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -79,14 +81,11 @@ name_aliases:
     publication_date: '2016-09-01'
     number_title: 2016/1442 (OJ L235)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
-- first_name: Salim
-  last_name: KONY
-  whole_name: Salim KONY
-  title: Deputy, Lord's Resistance Army
+- whole_name: Simon Salim Obol
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109438'
+  logical_id: '109432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -130,20 +129,20 @@ birthdates:
     number_title: 2016/1442 (OJ L235)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 addresses:
-- country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '109427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-01'
-    number_title: 2016/1442 (OJ L235)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 - city: Kafia Kingi
   country_iso2_code: SD
   country_description: SUDAN
   regulation_language: en
   logical_id: '109428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-01'
+    number_title: 2016/1442 (OJ L235)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
+- country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '109427'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'

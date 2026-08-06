@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13773.35
 logical_id: '179403'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -36,26 +35,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: BUMMASH« Gyár Korlátolt  Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: BUMMASH
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179407'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Oбщество с ограниченной  ответственностью завод  БУММАШ
   name_language: RU
   strong: true
@@ -76,6 +55,16 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: BUMMASH« Gyár Korlátolt  Felelősségű Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Societatea cu  răspundere limitată Uzina - BUMMASH
   name_language: RO
   strong: true
@@ -91,6 +80,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: BUMMASH
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

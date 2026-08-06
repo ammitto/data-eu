@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8050.29
 logical_id: '138970'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,51 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Valsts transporta nomas uzņēmums
-  name_language: LV
+- whole_name: GLTK, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '139224'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: State Transport Leasing Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: sociedad anónima GTLK
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '164734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Societate de leasing de stat în domeniul transporturilor
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '164752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Állami Közlekedési Lízingvállalat Rt
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164746'
+  logical_id: '164835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -76,11 +35,11 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: GLTK, a. s.
-  name_language: CS
+- whole_name: Valsts transporta nomas uzņēmums
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '164835'
+  logical_id: '139224'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -116,11 +75,51 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Állami Közlekedési Lízingvállalat Rt
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: State Transport Leasing Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Държавно транспортно лизингово дружество
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '152392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Societate de leasing de stat în domeniul transporturilor
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '164752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: sociedad anónima GTLK
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

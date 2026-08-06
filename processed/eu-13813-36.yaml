@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13813.36
 logical_id: '179680'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,13 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company - Navitron
-  function: A Russian company operating in the Russian high-tech sector. It develops
-    and tests satellite navigation chips for use in the military industry
+- whole_name: OOO - Navitron
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179693'
+  logical_id: '179691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -37,11 +34,13 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: OOO - Navitron
+- whole_name: Limited Liability Company - Navitron
+  function: A Russian company operating in the Russian high-tech sector. It develops
+    and tests satellite navigation chips for use in the military industry
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179691'
+  logical_id: '179693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -57,11 +56,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: NTLAB-SK LLC
-  name_language: EN
+- whole_name: Общество с Ограниченной  Ответственностью - НТЛАБ-СК
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179689'
+  logical_id: '179687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -77,21 +76,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Общество с Ограниченной  Ответственностью - НТЛАБ-СК
-  name_language: RU
+- whole_name: NTLAB-SK LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ООО НТЛАБ-СК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179686'
+  logical_id: '179689'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -102,6 +91,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: ООО НТЛАБ-СК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -120,21 +119,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1157746406971'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: other
   number: '773501001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1157746406971'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179682'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

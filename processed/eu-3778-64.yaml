@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3778.64
 logical_id: '113213'
-entity_type: person
 remark: 'Date of listing: 18.07.2017'
 regulations:
 - regulation_type: amendment
@@ -16,12 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد ضرار خلودي
+- whole_name: Mohammad Darar KHALUDI
+  function: Mohammad Darar Khaludi is an engineer at the Syrian Scientific Studies
+    and Research Centre.
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '124814'
+  logical_id: '113215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -41,13 +41,12 @@ name_aliases:
     publication_date: '2017-07-18'
     number_title: 2017/1327 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1327&from=EN
-- whole_name: Mohammad Darar KHALUDI
-  function: Mohammad Darar Khaludi is an engineer at the Syrian Scientific Studies
-    and Research Centre.
+- whole_name: محمد ضرار خلودي
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '113215'
+  logical_id: '124814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

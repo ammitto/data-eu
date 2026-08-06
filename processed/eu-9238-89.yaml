@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9238.89
 logical_id: '146570'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -60,11 +59,11 @@ birthdates:
   day_of_month: 19
   month_of_year: 4
   year: 1952
-  city: Leningrad
+  city: St. Petersburg
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '146571'
+  logical_id: '147641'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -76,11 +75,11 @@ birthdates:
   day_of_month: 19
   month_of_year: 4
   year: 1952
-  city: St. Petersburg
+  city: Leningrad
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '147641'
+  logical_id: '146571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

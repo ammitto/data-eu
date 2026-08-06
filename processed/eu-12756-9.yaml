@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12756.9
 logical_id: '172978'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Кристина Андреевна ПОТУПЧИК
-  gender: F
-  title: Кристина Андреевна ПОТУПЧИК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Kristina
   middle_name: Andreevna
   last_name: POTUPCHIK
@@ -37,6 +24,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Кристина Андреевна ПОТУПЧИК
+  gender: F
+  title: Кристина Андреевна ПОТУПЧИК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

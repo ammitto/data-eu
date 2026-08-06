@@ -1,0 +1,70 @@
+---
+eu_reference_number: EU.14066.85
+logical_id: '181075'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Alghaf Marine DMCC
+  function: Alghaf Marine DMCC is a UAE company, which supplies Russian crude oil.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: س.م.د.م مارين الغاف
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '181079'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Almas-49-A18, Almas Tower, JLT-PH1-A0, Jumeirah Lakes Towers,
+  city: Dubai
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
+  regulation_language: en
+  logical_id: '181076'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: regnumber
+  number: DMCC201071
+  country_iso2_code: AE
+  regulation_language: en
+  logical_id: '181078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: 984500SAI1E9CB88DC54
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181077'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

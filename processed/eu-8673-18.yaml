@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8673.18
 logical_id: '143351'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Viktor
+  last_name: Ianoukovitch
+  whole_name: Viktor Ianoukovitch
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Wiktor
   last_name: Janukowycz
   whole_name: Wiktor Janukowycz
@@ -55,13 +67,15 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Viktor
-  last_name: Janukovyč
-  whole_name: Viktor Janukovyč
+  middle_name: Fedorovych
+  last_name: YANUKOVYCH
+  whole_name: Viktor Fedorovych YANUKOVYCH
+  function: former president of Ukraine (2010-2014), leading businessperson
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158460'
+  logical_id: '143356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -75,35 +89,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Viktor
-  middle_name: Fedorovici
-  last_name: IANUKOVICI
-  whole_name: Viktor Fedorovici IANUKOVICI
-  gender: M
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '143362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Viktor
-  middle_name: Fedorovych
-  last_name: YANUKOVYCH
-  whole_name: Viktor Fedorovych YANUKOVYCH
-  function: former president of Ukraine (2010-2014), leading businessperson
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -138,13 +123,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Viktor
-  last_name: Ianoukovitch
-  whole_name: Viktor Ianoukovitch
+  middle_name: Fedorovici
+  last_name: IANUKOVICI
+  whole_name: Viktor Fedorovici IANUKOVICI
   gender: M
-  name_language: FR
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '158181'
+  logical_id: '143362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -161,6 +147,19 @@ name_aliases:
     publication_date: '2022-08-04'
     number_title: 2022/1354 (OJ L204I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
+- first_name: Viktor
+  last_name: Janukovyč
+  whole_name: Viktor Janukovyč
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE

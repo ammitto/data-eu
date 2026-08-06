@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9720.76
 logical_id: '149919'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nikolay
+  middle_name: Mikhailovich
+  last_name: PARSHIN
+  whole_name: Nikolay Mikhailovich PARSHIN
+  function: Russian military leader - Head of the Main Rocket and Artillery Directorate
+    of the Ministry of Defense of the Russian Federation
+  gender: M
+  title: Lieutenant- General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Nikolaj Michajlovitj PARSJIN
   gender: M
   name_language: SV
@@ -35,23 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Nikolay
-  middle_name: Mikhailovich
-  last_name: PARSHIN
-  whole_name: Nikolay Mikhailovich PARSHIN
-  function: Russian military leader - Head of the Main Rocket and Artillery Directorate
-    of the Ministry of Defense of the Russian Federation
-  gender: M
-  title: Lieutenant- General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

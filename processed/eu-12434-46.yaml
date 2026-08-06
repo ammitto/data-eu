@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12434.46
 logical_id: '170977'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -32,20 +31,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Андрей
-  middle_name: Алексеевич
-  last_name: РЫБАКОВ
-  whole_name: Андрей Алексеевич РЫБАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Andrej
   last_name: Rybakov
   whole_name: Andrej Rybakov
@@ -67,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Андрей
+  middle_name: Алексеевич
+  last_name: РЫБАКОВ
+  whole_name: Андрей Алексеевич РЫБАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

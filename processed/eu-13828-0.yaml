@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13828.0
 logical_id: '179869'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Yadran-Group
-  name_language: EN
+- whole_name: Yadran-Group - Korlátolt  Felelősségű Társaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '179877'
+  logical_id: '179873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Ответственность - Ядран-Групп
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Общество с ограниченной
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -30,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: LLC Yadran-Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -48,41 +77,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Общество с ограниченной
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Sociedade de responsabilidade limitada  Yadran-Group
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '179872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Ответственность - Ядран-Групп
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179874'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Yadran-Group - Korlátolt  Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179873'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

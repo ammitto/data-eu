@@ -2,7 +2,6 @@
 eu_reference_number: EU.1807.55
 logical_id: '3840'
 designation_details: Ministry of Defense for Armed Forces Logistics (MODAFL)
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,66 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: OLI
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '5506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Organisation des industries aérospatiales
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '5507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Organisation der Luft- und Raumfahrtindustrien
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '5505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Órganização das Indústrias Aeroespaciais
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '5509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Organizzazione delle industrie aerospaziali
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '5523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '5533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Aerospace Industries Organisation
   function: Aerospace Industries Organisation (AIO) is a subsidiary of the EU-listed
     Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL) in charge of overseeing
@@ -40,16 +99,6 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '5533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Организация за авиационна промишленост
   name_language: BG
   strong: true
@@ -95,56 +144,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '5496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Organisation der Luft- und Raumfahrtindustrien
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '5505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: OLI
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '5506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Organisation des industries aérospatiales
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '5507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Órganização das Indústrias Aeroespaciais
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '5509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Organizzazione delle industrie aerospaziali
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '5523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-24'

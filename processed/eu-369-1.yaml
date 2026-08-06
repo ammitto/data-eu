@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.369.1
 logical_id: '534'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -77,20 +76,20 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Bakr al-Jaziri
-  strong: true
-  regulation_language: en
-  logical_id: '122179'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: أبوبكر الجزائري
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '149634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abu Bakr al-Jaziri
+  strong: true
+  regulation_language: en
+  logical_id: '122179'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

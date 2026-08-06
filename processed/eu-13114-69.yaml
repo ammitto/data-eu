@@ -2,7 +2,6 @@
 eu_reference_number: EU.13114.69
 logical_id: '175543'
 designation_details: Shandong OreeLaser Technology Co.Ltd
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,6 +15,18 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Shandong OreeLaser Technology Co.Ltd
+  function: Shandong OreeLaser Technology Co. Ltd is a Chinese entity specialized
+    in the manufacturing of machine tools.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Shandong Ou Rui Laser Technology Co.Ltd
   strong: true
   regulation_language: en
@@ -35,19 +46,18 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Shandong OreeLaser Technology Co.Ltd
-  function: Shandong OreeLaser Technology Co. Ltd is a Chinese entity specialized
-    in the manufacturing of machine tools.
-  name_language: EN
-  strong: true
+addresses:
+- street: Room 302, Building 45,
+  city: Liancheng
+  country_iso2_code: CN
+  country_description: CHINA
   regulation_language: en
-  logical_id: '175549'
+  logical_id: '175545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-addresses:
 - street: 19-1, Industrial Park, Jiyang Street,
   city: Jinan City,
   region: Shandong Province
@@ -55,17 +65,6 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '175544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- street: Room 302, Building 45,
-  city: Liancheng
-  country_iso2_code: CN
-  country_description: CHINA
-  regulation_language: en
-  logical_id: '175545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

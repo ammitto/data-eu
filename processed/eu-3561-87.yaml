@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3561.87
 logical_id: '7387'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,97 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Suhail
-  last_name: Hasan
-  whole_name: Suhail Hasan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
-  last_name: Hasan
-  whole_name: Suheil Hasan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
-  last_name: HASSAN
-  whole_name: Suheil HASSAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suhail
-  last_name: al-Hassan
-  whole_name: Suhail al-Hassan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suhail
-  last_name: al-Hasan
-  whole_name: Suhail al-Hasan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
-  last_name: al-Hasan
-  whole_name: Suheil al-Hasan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
-  last_name: al-Hassan
-  whole_name: Suheil al-Hassan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Suhayl
   last_name: Hasan
   whole_name: Suhayl Hasan
@@ -248,45 +156,92 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "‚Tygr‘"
+- first_name: Suhail
+  last_name: Hasan
+  whole_name: Suhail Hasan
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166997'
+  logical_id: '113616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "‚Tiger‘"
+- first_name: Suheil
+  last_name: Hasan
+  whole_name: Suheil Hasan
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167005'
+  logical_id: '113617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "«Tigrul»"
+- first_name: Suheil
+  last_name: HASSAN
+  whole_name: Suheil HASSAN
   gender: M
-  name_language: RO
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167012'
+  logical_id: '113618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: Tigar
+- first_name: Suhail
+  last_name: al-Hassan
+  whole_name: Suhail al-Hassan
   gender: M
-  name_language: HR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167048'
+  logical_id: '113619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Suhail
+  last_name: al-Hasan
+  whole_name: Suhail al-Hasan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Suheil
+  last_name: al-Hasan
+  whole_name: Suheil al-Hasan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Suheil
+  last_name: al-Hassan
+  whole_name: Suheil al-Hassan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -358,6 +313,39 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "‚Tygr‘"
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "‚Tiger‘"
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "«Tigrul»"
+  gender: M
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: "“el Tigre”"
   gender: M
   name_language: ES
@@ -375,6 +363,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: Tigar
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '167048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

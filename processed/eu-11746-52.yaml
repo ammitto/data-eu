@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11746.52
 logical_id: '166655'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валерий
-  middle_name: Владимирович
-  last_name: ЛЕОНОВ
-  whole_name: Валерий Владимирович ЛЕОНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Valeriy
   middle_name: Vladimirovich
   last_name: LEONOV
@@ -40,6 +25,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166659'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Валерий
+  middle_name: Владимирович
+  last_name: ЛЕОНОВ
+  whole_name: Валерий Владимирович ЛЕОНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

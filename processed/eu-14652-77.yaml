@@ -1,0 +1,73 @@
+---
+eu_reference_number: EU.14652.77
+logical_id: '183898'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Sergey
+  middle_name: Vladimirovich
+  last_name: BELOV
+  whole_name: Sergey Vladimirovich BELOV
+  gender: M
+  title: Deputy Governor of the Central Bank of Russia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: БЕЛОВ
+  whole_name: Сергей Владимирович БЕЛОВ
+  gender: M
+  title: Deputy Governor of the Central Bank of Russia
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+birthdates:
+- birthdate: '1970-09-14'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 14
+  month_of_year: 9
+  year: 1970
+  city: Tambov
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '183899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

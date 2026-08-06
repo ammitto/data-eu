@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12913.57
 logical_id: '174179'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alena Bušava
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Алена БУШЕВА
   gender: F
   name_language: RU
@@ -37,23 +25,13 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Алена БУШАВА
+- whole_name: Alena BUSHAVA
+  function: Judge of the Court of the Frunzensky District of the City of Minsk
   gender: F
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Alena Bušava
-  gender: F
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '174182'
+  logical_id: '174188'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -70,6 +48,28 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Alena Bušava
+  gender: F
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Алена БУШАВА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Alena BUSHEVA
   gender: F
   name_language: EN
@@ -81,13 +81,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Alena BUSHAVA
-  function: Judge of the Court of the Frunzensky District of the City of Minsk
+- whole_name: Alena Bušava
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174188'
+  logical_id: '174184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

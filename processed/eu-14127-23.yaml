@@ -1,0 +1,92 @@
+---
+eu_reference_number: EU.14127.23
+logical_id: '181413'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Общество с ограниченной ответственностью "Лукойл-Пермнефтеоргсинтез"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО "Лукойл-Пермнефтеоргсинтез"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC LUKOIL-Permnefteorgsintez
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company LUKOIL-Permnefteorgsintez
+  function: Limited Liability Company LUKOIL-Permnefteorgsintez is a Russian entity
+    operating an oil refinery in Perm Krai.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Industrial street, 84
+  city: Perm
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '614055'
+  regulation_language: en
+  logical_id: '181414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '5905099475'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1025901216571'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

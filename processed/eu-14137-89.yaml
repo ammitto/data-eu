@@ -1,0 +1,74 @@
+---
+eu_reference_number: EU.14137.89
+logical_id: '181495'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: ОOO "АЭРОМАКС"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC "AEROMAKS"
+  function: LLC “AEROMAKS” develops software for drones to perform various aviation
+    operation including aerial photography, collection, processing, and preparation
+    of cartographic data and space information. It is also a manufacturer of helicopter
+    type drones of SH-3000/-750/-450/-350, and in general develops 11 types of drones.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Milyutinsky per., 13, building 1, 5th floor
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '101000'
+  regulation_language: en
+  logical_id: '181496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: other
+  number: '7725347482'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '1177746007900'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

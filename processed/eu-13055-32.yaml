@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13055.32
 logical_id: '175016'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное общество “Научно-Исследовательский Институт Систем Связи
-    и Управления”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company “Research Institute of Communication and Control
     Systems”
   function: JSC “Research Institute of Communication and Control Systems” (JSC NIISSU)
@@ -41,21 +29,22 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»NIISSU« Rt."
-  name_language: HU
+- whole_name: Акционерное общество “Научно-Исследовательский Институт Систем Связи
+    и Управления”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175250'
+  logical_id: '175025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO NIISSU
+- whole_name: АО “Научно-Исследовательский Институт Систем Связи и Управления”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175022'
+  logical_id: '175024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -71,11 +60,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “Научно-Исследовательский Институт Систем Связи и Управления”
+- whole_name: AO NIISSU
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175024'
+  logical_id: '175022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -111,6 +100,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»NIISSU« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Starokaluzhskoe shosse, 58
   city: Moscow
@@ -125,6 +124,16 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: regnumber
+  number: '1127746262390'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '772801001'
   country_iso2_code: RU
@@ -140,16 +149,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1127746262390'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175020'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

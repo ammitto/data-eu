@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7045.67
 logical_id: '133915'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Andrejevitj JUSJTJENKO
-  name_language: SV
+- first_name: Alexander
+  middle_name: Andreevich
+  last_name: YUSHCHENKO
+  whole_name: Alexander Andreevich YUSHCHENKO
+  function: Member of the State Duma
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '143835'
+  logical_id: '133918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +42,11 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Alexander
-  middle_name: Andreevich
-  last_name: YUSHCHENKO
-  whole_name: Alexander Andreevich YUSHCHENKO
-  function: Member of the State Duma
-  gender: M
+- whole_name: Aleksandr Andrejevitj JUSJTJENKO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '133918'
+  logical_id: '143835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

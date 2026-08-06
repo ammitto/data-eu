@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6141.92
 logical_id: '127441'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Φυλακή Evin
-  name_language: EL
+- whole_name: Evini vangla
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '129273'
+  logical_id: '152244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Evinfængslet
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '152243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: затвор Evin
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '129259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Prisión de Evin
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '129266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Věznice Evín
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '129267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
@@ -30,6 +69,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Φυλακή Evin
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '129273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Prison d’Evin
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '129279'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
@@ -165,26 +224,6 @@ name_aliases:
     publication_date: '2023-04-03'
     number_title: 2023/721 (OJ L94)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Evinfængslet
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '152243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Evini vangla
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '152244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
 - whole_name: Príosún Evin
   name_language: GA
   strong: true
@@ -195,16 +234,6 @@ name_aliases:
     publication_date: '2023-04-03'
     number_title: 2023/721 (OJ L94)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Prison d’Evin
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '129279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - whole_name: Evin Prison
   function: detention centre in Tehran, Iran
   name_language: EN
@@ -216,36 +245,6 @@ name_aliases:
     publication_date: '2023-04-03'
     number_title: 2023/721 (OJ L94)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: затвор Evin
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '129259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prisión de Evin
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '129266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Věznice Evín
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '129267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 addresses:
 - street: District 2, Dasht-e Behesht
   city: Tehran

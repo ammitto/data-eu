@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13769.60
 logical_id: '179367'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -56,26 +55,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Société publique par actions Polyus
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '179511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Julkinen Polyus-osakeyhtiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '179508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Polyus - Nyilvánosan Működő  Részvénytársaság
   name_language: HU
   strong: true
@@ -86,11 +65,31 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Société publique par actions Polyus
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '179511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Societatea publică pe  acțiuni - Polyus
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '179509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Julkinen Polyus-osakeyhtiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '179508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

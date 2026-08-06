@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12441.18
 logical_id: '171038'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,6 +24,16 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: ТАА "ВЛАТЭ Лагістык"
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '171042'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - whole_name: Vlate Logistik LLC
   function: a Belarusian company which owns two border checkpoints on the EU-Belarus
     border
@@ -32,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: ТАА "ВЛАТЭ Лагістык"
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '171042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

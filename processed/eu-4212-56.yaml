@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4212.56
 logical_id: '108659'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 리학철
+- whole_name: RI Hak Cheol
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142085'
+  logical_id: '108666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -48,33 +48,17 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: RI Hak Cheol
+- whole_name: 리학철
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108666'
+  logical_id: '142085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 birthdates:
-- birthdate: '1966-05-08'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 8
-  month_of_year: 5
-  year: 1966
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '108660'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-20'
-    number_title: 2016/780 (OJ L131)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_131_R_0007&from=EN
 - birthdate: '1963-01-19'
   circa: false
   calendar_type: GREGORIAN
@@ -85,6 +69,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '108661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-05-20'
+    number_title: 2016/780 (OJ L131)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_131_R_0007&from=EN
+- birthdate: '1966-05-08'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 8
+  month_of_year: 5
+  year: 1966
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '108660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-05-20'

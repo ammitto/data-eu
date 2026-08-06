@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9289.30
 logical_id: '146815'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,27 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Anton
-  last_name: Šatun
-  whole_name: Anton Šatun
+  middle_name: Olegovitj
+  last_name: SJATUN
+  whole_name: Anton Olegovitj SJATUN
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Антон
-  middle_name: Олегович
-  last_name: ШАТУН
-  whole_name: Антон Олегович ШАТУН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146817'
+  logical_id: '152019'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -59,20 +45,33 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Anton
-  middle_name: Olegovitj
-  last_name: SJATUN
-  whole_name: Anton Olegovitj SJATUN
+- first_name: Антон
+  middle_name: Олегович
+  last_name: ШАТУН
+  whole_name: Антон Олегович ШАТУН
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152019'
+  logical_id: '146817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Anton
+  last_name: Šatun
+  whole_name: Anton Šatun
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152322'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12156.52
 logical_id: '169154'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,34 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Виктор Александрович ДУБРОВКА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169157'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Viktor Alexandrovich DUBROVKA
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '169159'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Віктар Аляксандравіч ДУБРОЎКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -56,6 +33,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Виктор Александрович ДУБРОВКА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169157'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Віктар Аляксандравіч ДУБРОЎКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

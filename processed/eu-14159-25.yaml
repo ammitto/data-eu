@@ -1,0 +1,107 @@
+---
+eu_reference_number: EU.14159.25
+logical_id: '181578'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: OОО «АТЛАНТ АЭРО»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC “ATLANT AERO”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью «АТЛАНТ АЭРО»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Limited Liability Company “Atlant Aero
+  function: LLC “Atlant Aero” is a Russian aerospace manufacturer. The company is
+    known for its development of “Orion”, “Lightning 1” and “Lightning 1 II” (Molniya)
+    first-person view (FPV) drones, which are manually guided for precision strikes.
+    LLC “Atlant Aero” contributes to the production of components for advanced combat
+    drones “Orion” and is engaged in creating electronic warfare systems and digital
+    integration systems for loitering munitions.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Instrumentalnaya street, building. 2-7, p. 1
+  city: Taganrog
+  region: Rostov region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '181579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: other
+  number: '615401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181580'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1236100025633'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: '6154165878'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

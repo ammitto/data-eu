@@ -1,0 +1,91 @@
+---
+eu_reference_number: EU.14625.70
+logical_id: '183740'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “ИЖЕВСКИЙ РАДИОЗАВОД”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183744'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО “ИРЗ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JOINT-STOCK COMPANY “IZHEVSK RADIO PLANT”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC “IRZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: ul. Bazisnaya, zd. 19
+  city: Izhevsk
+  region: Udmurt Republic
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '426034'
+  regulation_language: en
+  logical_id: '183741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: other
+  number: '1833013253'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '1021801502183'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

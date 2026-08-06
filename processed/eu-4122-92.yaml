@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4122.92
 logical_id: '107814'
-entity_type: person
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -15,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yong
-  middle_name: Sang
-  last_name: Jon
-  whole_name: Yong Sang Jon
-  strong: true
-  regulation_language: en
-  logical_id: '113895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - first_name: Myong
   middle_name: Guk
   last_name: Jon
@@ -36,6 +23,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- first_name: Yong
+  middle_name: Sang
+  last_name: Jon
+  whole_name: Yong Sang Jon
+  strong: true
+  regulation_language: en
+  logical_id: '113895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

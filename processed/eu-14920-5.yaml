@@ -1,0 +1,83 @@
+---
+eu_reference_number: EU.14920.5
+logical_id: '184943'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1817 (OJ L202601817)
+  programme: BLR
+  logical_id: '225873'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: OOO Европейская Трейдинговая Компания (ETK)
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- whole_name: European Trading Company LLC
+  function: 'Associated entities: OJSC Naftan; OJSC Mozyr Oil Refinery; State Production
+    Association Belorusneft; Belarusian Oil Company (BNK)'
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+addresses:
+- street: Room 1, 2; 4a Tenishevoy st.
+  city: Smolensk
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '21400'
+  regulation_language: en
+  logical_id: '184944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+identifications:
+- identification_type_code: taxid
+  number: '6732050064'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- identification_type_code: taxid
+  number: '673201001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184946'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- identification_type_code: regnumber
+  number: '1126733000063'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184947'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817

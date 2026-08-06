@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4032.31
 logical_id: '7561'
-entity_type: person
 remark: 'date of listing: 16/02/2015'
 regulations:
 - regulation_type: amendment
@@ -16,50 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Evgeny
-  middle_name: Vladimirovich
-  last_name: MANUYLOV
-  whole_name: Evgeny Vladimirovich MANUYLOV
-  function: So-called “Minister of Finance and Taxes” of the so-called “Luhansk People’s
-    Republic”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Евгений
-  middle_name: Владимирович
-  last_name: МАНУЙЛОВ
-  whole_name: Евгений Владимирович МАНУЙЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18540'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yevhen
-  middle_name: Volodymyrovych
-  last_name: MANUYLOV
-  whole_name: Yevhen Volodymyrovych MANUYLOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Євген
   middle_name: Володимирович
   last_name: МАНУЙЛОВ
@@ -111,6 +66,50 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152120'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Evgeny
+  middle_name: Vladimirovich
+  last_name: MANUYLOV
+  whole_name: Evgeny Vladimirovich MANUYLOV
+  function: So-called “Minister of Finance and Taxes” of the so-called “Luhansk People’s
+    Republic”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Евгений
+  middle_name: Владимирович
+  last_name: МАНУЙЛОВ
+  whole_name: Евгений Владимирович МАНУЙЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Yevhen
+  middle_name: Volodymyrovych
+  last_name: MANUYLOV
+  whole_name: Yevhen Volodymyrovych MANUYLOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

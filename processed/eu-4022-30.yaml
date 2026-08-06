@@ -2,7 +2,6 @@
 eu_reference_number: EU.4022.30
 logical_id: '113355'
 united_nation_id: QDi.405
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -16,13 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Malik
-  middle_name: Ruslanovich
-  last_name: Barkhanoev
-  whole_name: Malik Ruslanovich Barkhanoev
+- whole_name: Saifuddin al-Ingushi
   strong: true
   regulation_language: en
-  logical_id: '113491'
+  logical_id: '113493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -37,10 +33,13 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Saifuddin al-Ingushi
+- first_name: Malik
+  middle_name: Ruslanovich
+  last_name: Barkhanoev
+  whole_name: Malik Ruslanovich Barkhanoev
   strong: true
   regulation_language: en
-  logical_id: '113493'
+  logical_id: '113491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

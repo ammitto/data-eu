@@ -2,7 +2,6 @@
 eu_reference_number: EU.4085.28
 logical_id: '112342'
 united_nation_id: KPi.049
-entity_type: person
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -16,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Han Se
-  last_name: Pak
-  whole_name: Han Se Pak
-  function: Vice Chairman of the Second Economic Committee
-  strong: true
-  regulation_language: en
-  logical_id: '112347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-09'
-    number_title: 2017/970 (OJ L146)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
 - first_name: Myong Chol
   last_name: Kang
   whole_name: Myong Chol Kang
@@ -35,6 +22,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-09'
+    number_title: 2017/970 (OJ L146)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
+- first_name: Han Se
+  last_name: Pak
+  whole_name: Han Se Pak
+  function: Vice Chairman of the Second Economic Committee
+  strong: true
+  regulation_language: en
+  logical_id: '112347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-06-09'

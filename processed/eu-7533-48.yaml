@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7533.48
 logical_id: '136134'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexey
-  middle_name: Yurevich
-  last_name: AVDEEV
-  whole_name: Alexey Yurevich AVDEEV
-  function: Deputy Commander of the Southern Military District
+- first_name: Алексей
+  middle_name: Юрьевич
+  last_name: АВДЕЕВ
+  whole_name: Алексей Юрьевич АВДЕЕВ
   gender: M
-  title: Lieutenant General
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136137'
+  logical_id: '136136'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -41,15 +39,16 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- first_name: Алексей
-  middle_name: Юрьевич
-  last_name: АВДЕЕВ
-  whole_name: Алексей Юрьевич АВДЕЕВ
+- first_name: Alexey
+  middle_name: Yurevich
+  last_name: AVDEEV
+  whole_name: Alexey Yurevich AVDEEV
+  function: Deputy Commander of the Southern Military District
   gender: M
-  name_language: RU
+  title: Lieutenant General
   strong: true
   regulation_language: en
-  logical_id: '136136'
+  logical_id: '136137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

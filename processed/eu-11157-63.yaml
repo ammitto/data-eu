@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11157.63
 logical_id: '162170'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -23,6 +22,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Алексей
+  middle_name: Александрович
+  last_name: РОЩИН
+  whole_name: Алексей Александрович РОЩИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -51,20 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Алексей
-  middle_name: Александрович
-  last_name: РОЩИН
-  whole_name: Алексей Александрович РОЩИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

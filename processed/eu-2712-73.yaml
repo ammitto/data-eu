@@ -2,7 +2,6 @@
 eu_reference_number: EU.2712.73
 logical_id: '6697'
 designation_details: 'Date of UN designation: 10/12/2012 (no longer valid).'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,46 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Yas Air Kish
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Pars Air
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: YasAir Cargo Airline
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Pars Aviation Service Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Yas Air
   function: an Iranian cargo airline
   name_language: EN
@@ -102,6 +61,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Pars Aviation Service Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Pars Air
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: YasAir Cargo Airline
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Yas Air Kish
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

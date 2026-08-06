@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.571.57
 logical_id: '844'
-entity_type: person
 remark: 'Believed to be in Afghanistan/Pakistan border area. Belongs to Kharoti (Taraki)
   tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded
   on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5741615'
@@ -43,19 +42,6 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1966
-  city: Janda District, Ghazni Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-03-15'
-    number_title: 263/2014 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1966
   city: Shahjoi District, Zabul Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -66,3 +52,16 @@ birthdates:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1966
+  city: Janda District, Ghazni Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-03-15'
+    number_title: 263/2014 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6820.24
 logical_id: '132834'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,61 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Det øverste valgråd
-  name_language: DA
+- whole_name: Korkein vaalineuvosto
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '133149'
+  logical_id: '133165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Najwyższa Rada Wyborcza
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '133164'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Najvyššia volebná rada
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '133167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Consiliul Electoral Suprem
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '133168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Det högsta valrådet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '133169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Vrhovni volilni svet
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '133166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'
@@ -40,6 +89,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Consejo Supremo Electoral
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '132836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Supreme Electoral Council
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Det øverste valgråd
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '133149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'
@@ -180,86 +259,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Najwyższa Rada Wyborcza
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '133164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Korkein vaalineuvosto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '133165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Vrhovni volilni svet
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '133166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Najvyššia volebná rada
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '133167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Consiliul Electoral Suprem
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '133168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Det högsta valrådet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '133169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Consejo Supremo Electoral
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '132836'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Supreme Electoral Council
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'

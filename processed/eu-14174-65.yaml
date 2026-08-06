@@ -1,0 +1,53 @@
+---
+eu_reference_number: EU.14174.65
+logical_id: '181713'
+regulations:
+- regulation_type: regulation
+  organisation_type: un
+  publication_date: '2026-02-24'
+  entry_into_force_date: '2026-02-24'
+  number_title: UNLI 20260225
+  programme: UNLI
+  logical_id: '222299'
+  publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Al-Fateh
+  middle_name: Abdullah
+  last_name: IDRIS
+  whole_name: Al-Fateh Abdullah IDRIS
+  function: Brigadier General of Rapid Support Forces
+  gender: M
+  title: Brigadier General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181716'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+- whole_name: Abu Lulu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181715'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181714'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm

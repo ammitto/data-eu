@@ -1,0 +1,113 @@
+---
+eu_reference_number: EU.14440.92
+logical_id: '182893'
+designation_details: 'Type of entity: Federal State Budgetary Educational Institution'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-11'
+  entry_into_force_date: '2026-05-11'
+  number_title: 2026/1055 (OJ L202601055)
+  programme: UKR
+  logical_id: '223478'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: All-Russian Children’s Centre “Scarlet Sails”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Всероссийский детский центр “Алые паруса”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Федеральное государственное бюджетное образовательное учреждение «Всероссийский
+    детский центр “Алые паруса”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: All-Russian Children’s Centre “Alye Parusa”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Federal State Budgetary Educational Institution All-Russian Children’s
+    Centre “Scarlet Sails”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+addresses:
+- street: Lenin Ave., 23/26
+  city: Yevpatoria
+  country_iso2_code: UA
+  country_description: UKRAINE
+  zip_code: '297408'
+  regulation_language: en
+  logical_id: '182894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+identifications:
+- identification_type_code: taxid
+  number: '9110005664'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '182896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- identification_type_code: other
+  number: '1149102101774'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '182897'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- identification_type_code: other
+  number: '911001001'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '182895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055

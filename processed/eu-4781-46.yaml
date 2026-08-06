@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4781.46
 logical_id: '118547'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,12 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Taha
-  last_name: al-Khuwayt
-  whole_name: Taha al-Khuwayt
+- whole_name: Hajji Abd al-Nasr
   strong: true
   regulation_language: en
-  logical_id: '118548'
+  logical_id: '118549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: Mullah Khuwayt
+  strong: true
+  regulation_language: en
+  logical_id: '141004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -43,24 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '118550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Hajji Abd al-Nasr
-  strong: true
-  regulation_language: en
-  logical_id: '118549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Mullah Khuwayt
-  strong: true
-  regulation_language: en
-  logical_id: '141004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -89,6 +77,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- first_name: Taha
+  last_name: al-Khuwayt
+  whole_name: Taha al-Khuwayt
+  strong: true
+  regulation_language: en
+  logical_id: '118548'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

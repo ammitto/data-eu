@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11194.39
 logical_id: '162344'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Andrej Kozlov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Andrej Kozlov
   gender: M
   name_language: SK
@@ -46,17 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162345'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Andrej Kozlov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

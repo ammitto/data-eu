@@ -2,7 +2,6 @@
 eu_reference_number: EU.13342.93
 logical_id: '176973'
 united_nation_id: HTe.001
-entity_type: enterprise
 regulations:
 - regulation_type: regulation
   organisation_type: un
@@ -16,21 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Baz Gran Grif
+- whole_name: Gran Grif de Savien
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176975'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2025-07-08'
-    number_title: UNLI Haiti 9.07.2025
-    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: GRAN GRIF
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176978'
+  logical_id: '176977'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2025-07-08'
@@ -46,11 +35,21 @@ name_aliases:
     publication_date: '2025-07-08'
     number_title: UNLI Haiti 9.07.2025
     publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: Gran Grif de Savien
+- whole_name: Baz Gran Grif
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176977'
+  logical_id: '176975'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2025-07-08'
+    number_title: UNLI Haiti 9.07.2025
+    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
+- whole_name: GRAN GRIF
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176978'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2025-07-08'

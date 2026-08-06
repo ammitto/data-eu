@@ -1,0 +1,28 @@
+---
+eu_reference_number: EU.14128.22
+logical_id: '181441'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Hunan Haotyanyi
+  function: Hunan Haotyanyi is a Chinese company manufacturing strike UAVs as well
+    as intelligence, surveillance and reconnaissance UAVs.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

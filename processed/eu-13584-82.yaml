@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13584.82
 logical_id: '178461'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,12 +62,12 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Unit 13 (C), Main Office Tower, Financial Park Labuan Complex, Jalan Merdeka,
-  city: Labuan
-  country_iso2_code: MY
-  country_description: MALAYSIA
+- street: Menara Prima 17th floor Jalan Lingkar Mega Kuningan Blok 6.2
+  city: Jakarta
+  country_iso2_code: ID
+  country_description: INDONESIA
   regulation_language: en
-  logical_id: '178462'
+  logical_id: '178464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -86,12 +85,12 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Menara Prima 17th floor Jalan Lingkar Mega Kuningan Blok 6.2
-  city: Jakarta
-  country_iso2_code: ID
-  country_description: INDONESIA
+- street: Unit 13 (C), Main Office Tower, Financial Park Labuan Complex, Jalan Merdeka,
+  city: Labuan
+  country_iso2_code: MY
+  country_description: MALAYSIA
   regulation_language: en
-  logical_id: '178464'
+  logical_id: '178462'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

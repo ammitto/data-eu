@@ -1,0 +1,83 @@
+---
+eu_reference_number: EU.14065.86
+logical_id: '181068'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: PJSC Slavneft-Yanos
+  function: PJSC Slavneft-Yanos is a Russian company active in the energy sector.
+    PJSC Slavneft-Yanos engages in oil refining and controls a processing plant owned
+    by PJSC Slavneft.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181074'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ПАО «Славнефть-Ярославнефтеоргсинтез»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181073'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: PJSC Slavneft-Yaroslavnefteorgsintez
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181072'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ПАО «Славнефть-ЯНОС»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Moskovsky prospect, b. 130
+  city: Yaroslavl
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '150023'
+  regulation_language: en
+  logical_id: '181069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '7601001107'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181070'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

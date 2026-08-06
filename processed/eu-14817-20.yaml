@@ -1,0 +1,52 @@
+---
+eu_reference_number: EU.14817.20
+logical_id: '184581'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-23'
+  entry_into_force_date: '2026-07-23'
+  number_title: 2026/1845 (OJ L202601845)
+  programme: UKR
+  logical_id: '223678'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Astute Maritime Services Private Limited
+  function: Astute Maritime Services Private Limited is a shipping company based in
+    Singapore and specialized in providing technical support
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
+- street: 03 32, Nordic European Centre 3, International  Business Park
+  city: Singapore
+  country_iso2_code: SG
+  country_description: SINGAPORE
+  zip_code: '609927'
+  regulation_language: en
+  logical_id: '184582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
+- identification_type_code: imo
+  number: '6266269'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845

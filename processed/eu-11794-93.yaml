@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11794.93
 logical_id: '166948'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО "Спецхимия"
-  name_language: RU
+- whole_name: Specchimija, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akciová spoločnosť Specchemistry
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "«Specchemistry» S.A."
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167616'
+  logical_id: '167618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -55,31 +34,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: JSC “Spetskhimiya”
-  name_language: EN
+- whole_name: "«Specchemistry» S.A."
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '166951'
+  logical_id: '167616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Specchimija, a. s.
-  name_language: CS
+- whole_name: Akciová spoločnosť Specchemistry
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '167618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: JSC  “Specchemistry”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166953'
+  logical_id: '167615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -90,6 +59,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: JSC “Spetskhimiya”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: АО "Спецхимия"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: JSC  “Specchemistry”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

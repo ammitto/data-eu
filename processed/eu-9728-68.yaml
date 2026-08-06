@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9728.68
 logical_id: '149959'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -35,31 +34,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Den Alrussiske Folkefront
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '151231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Allryska  folkfronten
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Общоруски народен фронт
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '151273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Frontul Popular Panrus
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Den Alrussiske Folkefront
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '151231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -184,11 +183,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Frontul Popular Panrus
-  name_language: RO
+- whole_name: Allryska  folkfronten
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '151230'
+  logical_id: '151272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

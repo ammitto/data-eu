@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8789.87
 logical_id: '144455'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sergey
+  middle_name: Borisovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borisovich RYZHKOV
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '144663'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Sergey
+  middle_name: Borisovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borisovich RYZHKOV
+  gender: M
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '144667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Сергей
   middle_name: Борисович
   last_name: РЫЖКОВ
@@ -53,34 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borisovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
-  gender: M
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '144667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borisovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '144663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

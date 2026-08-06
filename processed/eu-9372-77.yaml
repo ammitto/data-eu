@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9372.77
 logical_id: '147149'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: KONTROLIUOJANČIOJI BENDROVĖ „EGO-HOLDING“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: ЭГО-ХОЛДИНГ(ООО 'ХОЛДИНГОВАЯ КОМПАНИЯ "ЭГО-ХОЛДИНГ"')
   strong: true
   regulation_language: en
@@ -43,16 +52,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: KONTROLIUOJANČIOJI BENDROVĖ „EGO-HOLDING“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 addresses:
 - street: str. Butlerova, 13, letter A, room. 20Н
   city: St. Petersburg
@@ -67,21 +66,21 @@ addresses:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 identifications:
-- identification_type_code: regnumber
-  number: '1027802486580'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '147152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: other
   number: '7804070635'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- identification_type_code: regnumber
+  number: '1027802486580'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '147152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

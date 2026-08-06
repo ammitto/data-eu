@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13812.37
 logical_id: '179673'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,13 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Streit Group  Vámszabadterületi Kft
-  name_language: HU
+- whole_name: Streit Group FZE
+  function: A military-industrial company, specialising in the production of armoured
+    personnel carriers
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179677'
+  logical_id: '179679'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -36,13 +37,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Streit Group FZE
-  function: A military-industrial company, specialising in the production of armoured
-    personnel carriers
-  name_language: EN
+- whole_name: Streit Group  Vámszabadterületi Kft
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '179679'
+  logical_id: '179677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9017.37
 logical_id: '145381'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,14 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Artur
-  middle_name: Aleksandrovitj
-  last_name: ZJIROV
-  whole_name: Artur Aleksandrovitj ZJIROV
+  middle_name: Aleksandrovich
+  last_name: ZHIROV
+  whole_name: Artur Aleksandrovich ZHIROV
+  function: a chemical weapons expert and Director of SC Signal
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145981'
+  logical_id: '145385'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -44,14 +43,14 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Artur
-  middle_name: Aleksandrovich
-  last_name: ZHIROV
-  whole_name: Artur Aleksandrovich ZHIROV
-  function: a chemical weapons expert and Director of SC Signal
+  middle_name: Aleksandrovitj
+  last_name: ZJIROV
+  whole_name: Artur Aleksandrovitj ZJIROV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145385'
+  logical_id: '145981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

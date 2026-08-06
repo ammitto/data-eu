@@ -15,29 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Fereidoun
+- first_name: Fereidoon
   last_name: ABASSI-DAVANI
-  whole_name: Fereidoun ABASSI-DAVANI
-  function: |-
-    member of parliament in Iran;
-    former senior Ministry of Defence and Armed Forces Logistics (MODAFL) scientist;
-    former Head of the Atomic Energy Organization of Iran
+  whole_name: Fereidoon ABASSI-DAVANI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: فریدون عباسی دوانی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158976'
+  logical_id: '158977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -83,19 +68,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- first_name: Fereidoon
-  last_name: ABASSI-DAVANI
-  whole_name: Fereidoon ABASSI-DAVANI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Fereidun
   last_name: ABASSI-DAVANI
   whole_name: Fereidun ABASSI-DAVANI
@@ -104,6 +76,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: فریدون عباسی دوانی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Fereidoun
+  last_name: ABASSI-DAVANI
+  whole_name: Fereidoun ABASSI-DAVANI
+  function: |-
+    member of parliament in Iran;
+    former senior Ministry of Defence and Armed Forces Logistics (MODAFL) scientist;
+    former Head of the Atomic Energy Organization of Iran
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -120,6 +120,19 @@ citizenships:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1959
+  city: Abadan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - birthdate: '1958-07-11'
   circa: false
   calendar_type: GREGORIAN
@@ -137,19 +150,6 @@ birthdates:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1959
-  city: Abadan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '181760'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - circa: false
   calendar_type: GREGORIAN
   year: 1958

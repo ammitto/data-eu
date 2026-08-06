@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6172.95
 logical_id: '127732'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  middle_name: Ivanovič
-  last_name: BASTRYKIN
-  whole_name: Alexandr Ivanovič BASTRYKIN
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '171100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - first_name: Alexander
   middle_name: Ivanovitj
   last_name: BASTRYKIN
@@ -57,19 +42,19 @@ name_aliases:
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Alexandr
-  middle_name: Ivanovitj
+  middle_name: Ivanovič
   last_name: BASTRYKIN
-  whole_name: Alexandr Ivanovitj BASTRYKIN
+  whole_name: Alexandr Ivanovič BASTRYKIN
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '128068'
+  logical_id: '171100'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - first_name: Alexander
   middle_name: Ivanovich
   last_name: BASTRYKIN
@@ -85,20 +70,6 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Alexandr
-  middle_name: Ivanovich
-  last_name: BASTRYKIN
-  whole_name: Alexandr Ivanovich BASTRYKIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '127736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Алексaндр
   middle_name: Ивaнович
   last_name: БАСТРЫКИН
@@ -108,6 +79,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Alexandr
+  middle_name: Ivanovitj
+  last_name: BASTRYKIN
+  whole_name: Alexandr Ivanovitj BASTRYKIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Alexandr
+  middle_name: Ivanovich
+  last_name: BASTRYKIN
+  whole_name: Alexandr Ivanovich BASTRYKIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '127736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'

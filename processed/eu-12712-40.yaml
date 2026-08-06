@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12712.40
 logical_id: '172648'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,17 +71,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: den federala statligt finansierade institutionen för högre utbildning
-    ’Ryska presidentens akademi för nationalekonomi och offentlig förvaltning
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '173330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Präsidialakademie  für Volkswirtschaft und  öffentliche Verwaltung
   name_language: DE
   strong: true
@@ -120,6 +108,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: den federala statligt finansierade institutionen för högre utbildning
+    ’Ryska presidentens akademi för nationalekonomi och offentlig förvaltning
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '173330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

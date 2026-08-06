@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9722.74
 logical_id: '149929'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ramil Rachmatullovitj IBATULLIN
+- first_name: Рамиль
+  middle_name: Рахматуллович
+  last_name: ИБАТУЛЛИН
+  whole_name: Рамиль Рахматуллович ИБАТУЛЛИН
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151058'
+  logical_id: '149932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -43,15 +45,12 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Рамиль
-  middle_name: Рахматуллович
-  last_name: ИБАТУЛЛИН
-  whole_name: Рамиль Рахматуллович ИБАТУЛЛИН
+- whole_name: Ramil Rachmatullovitj IBATULLIN
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149932'
+  logical_id: '151058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

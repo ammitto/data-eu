@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12896.88
 logical_id: '174005'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -27,6 +26,17 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Elena Konstantinovna  KUNTSEVICH
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Елена Константиновна  КУНЦЕВИЧ
   gender: F
   name_language: RU
@@ -44,17 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Elena Konstantinovna  KUNTSEVICH
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174013'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

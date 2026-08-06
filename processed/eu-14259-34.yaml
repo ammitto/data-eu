@@ -1,0 +1,68 @@
+---
+eu_reference_number: EU.14259.34
+logical_id: '182002'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Yadollah BOUALI
+  function: |-
+    Yadollah Bouali is the Commander of the Islamic Revolutionary Guard Corps (IRGC) Fajr Corps in Fars Province. Under his command, the IRGC forces in Fars Province have been involved in the violent repression of demonstrations, including during the nationwide protests in Iran that began in December 2025 where IRGC forces opened fire on protesters, resulting in deaths and injuries.
+    Yadollah Bouali is therefore responsible for serious human rights violations in Iran.
+  gender: M
+  title: Commander of the Islamic Revolutionary Guard Corps (IRGC) Fajr Corps in Fars
+    Province
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: Yadollah BUALI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '182004'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+birthdates:
+- birthdate: '1965-09-07'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 7
+  month_of_year: 9
+  year: 1965
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '182003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

@@ -2,7 +2,6 @@
 eu_reference_number: EU.13366.27
 logical_id: '177115'
 designation_details: Joint Stock Company
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Research Institute of Modern Telecommunication Technologies”
-  strong: true
-  regulation_language: en
-  logical_id: '177121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: АО “НИИ СТТ”
   strong: true
   regulation_language: en
@@ -50,6 +40,15 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: AO “NII STT”
+  strong: true
+  regulation_language: en
+  logical_id: '177120'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Акционерное Общество “Научно Исследовательский Институт Современных
     Телекоммуникационных Технологий”
   name_language: RU
@@ -61,10 +60,10 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: AO “NII STT”
+- whole_name: JSC “Research Institute of Modern Telecommunication Technologies”
   strong: true
   regulation_language: en
-  logical_id: '177120'
+  logical_id: '177121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

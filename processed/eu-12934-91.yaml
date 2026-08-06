@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12934.91
 logical_id: '174295'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,56 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Republičko unitarno poduzeće Bjeloruska lutrija
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '174308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Respublikinė  unitarinė įmonė „Belorusskiye Loterei“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '174307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Belorusskiye Loterei  köztársasági központosított vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '174306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: L-intrapriża unitarja Repubblikana Belorusskiye Loterei
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '174305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Onder de Republiek  Belarus vallende gecentraliseerde onderneming Belorusskiye  Loterei
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '174304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Republican unitary enterprise Belorusskiye Loterei
   function: Runs lotteries
   name_language: EN
@@ -91,56 +140,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Onder de Republiek  Belarus vallende gecentraliseerde onderneming Belorusskiye  Loterei
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '174304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: L-intrapriża unitarja Repubblikana Belorusskiye Loterei
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '174305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Belorusskiye Loterei  köztársasági központosított vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '174306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Respublikinė  unitarinė įmonė „Belorusskiye Loterei“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '174307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Republičko unitarno poduzeće Bjeloruska lutrija
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '174308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

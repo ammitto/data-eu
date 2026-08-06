@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.205.12
 logical_id: '106389'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -153,21 +152,21 @@ addresses:
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 identifications:
-- identification_type_code: id
-  number: '27263401275'
-  country_iso2_code: QA
-  regulation_language: en
-  logical_id: '129097'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - identification_type_code: passport
   number: '00966737'
   country_iso2_code: QA
   regulation_language: en
   logical_id: '106393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- identification_type_code: id
+  number: '27263401275'
+  country_iso2_code: QA
+  regulation_language: en
+  logical_id: '129097'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

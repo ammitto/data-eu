@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3195.90
 logical_id: '106532'
-entity_type: person
 remark: "a) Physical description: hair colour: brown/black. \nb) Photo available for
   inclusion in the INTERPOL-UN Security Council Special Notice."
 regulations:
@@ -17,14 +16,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abu
-  middle_name: Al-Yemeni
+- first_name: Abdul
   last_name: Muthana
-  whole_name: Abu Al-Yemeni Muthana
+  whole_name: Abdul Muthana
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106615'
+  logical_id: '106617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -44,6 +42,18 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Abu
+  last_name: Muthanna
+  whole_name: Abu Muthanna
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Nasir
   last_name: Muthana
   whole_name: Nasir Muthana
@@ -56,13 +66,14 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Abdul
+- first_name: Abu
+  middle_name: Al-Yemeni
   last_name: Muthana
-  whole_name: Abdul Muthana
+  whole_name: Abu Al-Yemeni Muthana
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106617'
+  logical_id: '106615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -75,18 +86,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Abu
-  last_name: Muthanna
-  whole_name: Abu Muthanna
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -121,19 +120,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: GB
+  country_description: UNITED KINGDOM
   regulation_language: en
-  logical_id: '106610'
+  logical_id: '106609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: GB
-  country_description: UNITED KINGDOM
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106609'
+  logical_id: '106610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

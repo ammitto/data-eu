@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3873.10
 logical_id: '106568'
-entity_type: enterprise
 remark: Operates in Java and Sulawesi, Indonesia and also active in Indonesia's eastern
   provinces.
 regulations:
@@ -17,16 +16,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Mujahidin of Western Indonesia
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: Mujahidin Indonesia Timor
   name_language: EN
   strong: true
@@ -37,31 +26,11 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Mujahidin of Eastern Indonesia
+- whole_name: Mujahidin of Western Indonesia
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106575'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: MIT
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Mujahidin Indonesian Timur
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106577'
+  logical_id: '106570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -87,11 +56,41 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Mujahidin Indonesian Timur
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: East Indonesia Mujahideen
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '106574'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Mujahidin of Eastern Indonesia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106575'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: MIT
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106576'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

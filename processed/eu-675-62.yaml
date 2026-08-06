@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.675.62
 logical_id: '716'
-entity_type: person
 remark: 'Has a prosthetic right leg.Member of Taliban Supreme Council as of mid-2013,
   acted as deputy of Mullah Mohammed Omar in Mar. 2010. Believed to be in Afghanistan/Pakistan
   border area. Belongs to Achekzai tribe. Review pursuant to Security Council Resolution
@@ -20,6 +19,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Gud Mullah Mohammad
+  last_name: Hassan
+  whole_name: Gud Mullah Mohammad Hassan
+  strong: true
+  regulation_language: en
+  logical_id: '16057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - first_name: Mohammad Hasan
   last_name: Rahmani
   whole_name: Mohammad Hasan Rahmani
@@ -33,17 +43,6 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- first_name: Gud Mullah Mohammad
-  last_name: Hassan
-  whole_name: Gud Mullah Mohammad Hassan
-  strong: true
-  regulation_language: en
-  logical_id: '16057'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -55,6 +54,19 @@ citizenships:
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 birthdates:
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1963
+  city: Charchino District, Uruzgan Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '109768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
   year: 1963
@@ -81,16 +93,3 @@ birthdates:
     publication_date: '2016-09-30'
     number_title: 2016/1736 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1963
-  city: Charchino District, Uruzgan Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '109768'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

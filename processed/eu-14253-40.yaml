@@ -1,0 +1,85 @@
+---
+eu_reference_number: EU.14253.40
+logical_id: '181942'
+regulations:
+- regulation_type: regulation
+  organisation_type: un
+  publication_date: '2026-03-26'
+  entry_into_force_date: '2026-03-26'
+  number_title: UNLI 26.03.2026 - 2
+  programme: UNLI
+  logical_id: '222639'
+  publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: عبد الحميد سالم إبراهيم بروكان الخاتوني
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '181947'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+- whole_name: ABU OMAR AL SARRAF
+  strong: true
+  regulation_language: en
+  logical_id: '181946'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+- whole_name: Abd El Hamid Salim Ibrahim Brukan al-Khatouniv
+  function: 'Served as a senior leader in ISIL (Da’esh) listed as Al-Qaida in Iraq
+    (QDe.115) as its financial management officer. Mother’s name: Khadija Hattab Ismail.
+    Gender: Male. INTERPOL-UN Security Council Special Notice web link:  https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181948'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+citizenships:
+- country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '181945'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+birthdates:
+- birthdate: '1970-09-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 9
+  year: 1970
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '181944'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+addresses:
+- country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '181943'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm

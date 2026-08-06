@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.5329.79
 logical_id: '121750'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,34 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yuriy
-  middle_name: Mikhailovich
-  last_name: GOTSANYUK
-  whole_name: Yuriy Mikhailovich GOTSANYUK
+- whole_name: Юрій Михайлович ГОЦАНЮК
   function: Prime Minister of the so‐called “Republic of Crimea”
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '121756'
+  logical_id: '121752'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-01-28'
-    number_title: 2020/119 (OJ L 22I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0119
-- first_name: Iurii
-  middle_name: Mykhailovych
-  last_name: HOTSANIUK
-  whole_name: Iurii Mykhailovych HOTSANIUK
-  function: Prime Minister of the so‐called “Republic of Crimea”
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '121753'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-28'
-    number_title: 2020/119 (OJ L 22I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0119
+    publication_date: '2020-09-11'
+    number_title: 2020/1267 (OJ L298)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 - first_name: Юрий
   middle_name: Михайлович
   last_name: ГОЦАНЮК
@@ -71,17 +53,34 @@ name_aliases:
     publication_date: '2020-01-28'
     number_title: 2020/119 (OJ L 22I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0119
-- whole_name: Юрій Михайлович ГОЦАНЮК
+- first_name: Yuriy
+  middle_name: Mikhailovich
+  last_name: GOTSANYUK
+  whole_name: Yuriy Mikhailovich GOTSANYUK
   function: Prime Minister of the so‐called “Republic of Crimea”
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '121752'
+  logical_id: '121756'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-09-11'
-    number_title: 2020/1267 (OJ L298)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
+    publication_date: '2020-01-28'
+    number_title: 2020/119 (OJ L 22I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0119
+- first_name: Iurii
+  middle_name: Mykhailovych
+  last_name: HOTSANIUK
+  whole_name: Iurii Mykhailovych HOTSANIUK
+  function: Prime Minister of the so‐called “Republic of Crimea”
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '121753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-28'
+    number_title: 2020/119 (OJ L 22I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0119
 birthdates:
 - birthdate: '1966-07-18'
   circa: false

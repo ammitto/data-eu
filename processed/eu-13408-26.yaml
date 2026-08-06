@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13408.26
 logical_id: '177391'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ACE (HK) Electronics  Technology Co., Ltd
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: ACE Electronic HK Co., Limited
   function: ACE Electronic HK Co., Limited (“ACE Electronic”) is an entity registered
     in Hong Kong that supplies electronic components to Russian industries, including
@@ -38,36 +27,24 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-addresses:
-- street: E2 Unit, 22/F Kingsway Industrial Building  Phase II, 147-175 Wo Yi Hop
-    Road
-  country_iso2_code: HK
-  country_description: HONG KONG
+- whole_name: ACE (HK) Electronics  Technology Co., Ltd
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '177395'
+  logical_id: '177400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- street: 9F International Technology  Building No. 3007, Shennan Avenue
+addresses:
+- street: 18F Block B, World Trade Plaza, No. 9  Fuhong Road
   city: Shenzhen
-  region: Futian  District
+  region: Futian District
   country_iso2_code: CN
   country_description: CHINA
   regulation_language: en
-  logical_id: '177396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- street: E2 Unit, 22/F Kingsway Industrial Building  Phase II, 167-175 Wo Yi Hop
-    Road
-  country_iso2_code: HK
-  country_description: HONG KONG
-  regulation_language: en
-  logical_id: '177394'
+  logical_id: '177397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -93,13 +70,35 @@ addresses:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- street: 18F Block B, World Trade Plaza, No. 9  Fuhong Road
+- street: E2 Unit, 22/F Kingsway Industrial Building  Phase II, 147-175 Wo Yi Hop
+    Road
+  country_iso2_code: HK
+  country_description: HONG KONG
+  regulation_language: en
+  logical_id: '177395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- street: E2 Unit, 22/F Kingsway Industrial Building  Phase II, 167-175 Wo Yi Hop
+    Road
+  country_iso2_code: HK
+  country_description: HONG KONG
+  regulation_language: en
+  logical_id: '177394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- street: 9F International Technology  Building No. 3007, Shennan Avenue
   city: Shenzhen
-  region: Futian District
+  region: Futian  District
   country_iso2_code: CN
   country_description: CHINA
   regulation_language: en
-  logical_id: '177397'
+  logical_id: '177396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -107,20 +106,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
 - identification_type_code: regnumber
-  number: '69987857'
+  number: '2756979'
   country_iso2_code: HK
   regulation_language: en
-  logical_id: '177399'
+  logical_id: '177398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
-  number: '2756979'
+  number: '69987857'
   country_iso2_code: HK
   regulation_language: en
-  logical_id: '177398'
+  logical_id: '177399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

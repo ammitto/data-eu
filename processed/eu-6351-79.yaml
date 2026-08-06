@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6351.79
 logical_id: '129905'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexei Vladimirovich  YEGOROV
+- whole_name: Аляксей  Уладзіміравіч ЯГОРАЎ
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '129910'
+  logical_id: '129909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -36,12 +36,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Аляксей  Уладзіміравіч ЯГОРАЎ
+- whole_name: Алексей  Владимирович ЕГОРОВ
   gender: M
-  name_language: BE
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129909'
+  logical_id: '129908'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -58,6 +58,16 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Alexei Vladimirovich  YEGOROV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129910'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Aliaksei  Uladzimiravich IAHORAU
   function: "Member of the House \nof Representatives of the National Assembly of
     the Republic of Belarus, Deputy Chairperson of the Standing Commission on Law"
@@ -65,17 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Алексей  Владимирович ЕГОРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129908'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

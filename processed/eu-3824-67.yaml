@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3824.67
 logical_id: '110118'
-entity_type: person
 remark: Former Minister of Information.
 regulations:
 - regulation_type: amendment
@@ -16,14 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohamed Ramez
+- first_name: Mohammad Ramez
   last_name: TOURJMAN
-  whole_name: Mohamed Ramez TOURJMAN
+  whole_name: Mohammad Ramez TOURJMAN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '110126'
+  logical_id: '110124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -54,6 +53,19 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Mohamed Ramez
+  last_name: TOURJMAN
+  whole_name: Mohamed Ramez TOURJMAN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Muhammad Ramez
   last_name: TOURJMAN
   whole_name: Muhammad Ramez TOURJMAN
@@ -62,19 +74,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammad Ramez
-  last_name: TOURJMAN
-  whole_name: Mohammad Ramez TOURJMAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

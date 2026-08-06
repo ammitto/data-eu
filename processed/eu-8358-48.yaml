@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8358.48
 logical_id: '140934'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Павел
-  middle_name: Евгеньевич
-  last_name: ПРИГОЖИН
-  whole_name: Павел Евгеньевич ПРИГОЖИН
+- first_name: Pavel
+  last_name: Prigožin
+  whole_name: Pavel Prigožin
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '140938'
+  logical_id: '158523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Pavel
+  last_name: Prigožin
+  whole_name: Pavel Prigožin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pavel
+  middle_name: Evgenevich
+  last_name: PRIGOZHIN
+  whole_name: Pavel Evgenevich PRIGOZHIN
+  function: Pavel Prigozhin has publicly confirmed that he is the commander of the
+    Wagner Group.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '140939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Pavel
   middle_name: Jevgenievič
   last_name: PRIGOŽIN
@@ -38,19 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pavel
-  last_name: Prigožin
-  whole_name: Pavel Prigožin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -69,35 +83,20 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Pavel
-  last_name: Prigožin
-  whole_name: Pavel Prigožin
+- first_name: Павел
+  middle_name: Евгеньевич
+  last_name: ПРИГОЖИН
+  whole_name: Павел Евгеньевич ПРИГОЖИН
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158523'
+  logical_id: '140938'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Pavel
-  middle_name: Evgenevich
-  last_name: PRIGOZHIN
-  whole_name: Pavel Evgenevich PRIGOZHIN
-  function: Pavel Prigozhin has publicly confirmed that he is the commander of the
-    Wagner Group.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '140939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

@@ -1,0 +1,49 @@
+---
+eu_reference_number: EU.14314.75
+logical_id: '182216'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/505 (OJ L202600505)
+  programme: BLR
+  logical_id: '222925'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: China Space Sanjiang Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182219'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: 中国航天三 江集团有限公司
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '182218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+addresses:
+- street: No. 9 Jinshan  Avenue
+  city: Wuhan City
+  region: Hubei Province
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '182217'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505

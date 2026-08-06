@@ -1,0 +1,82 @@
+---
+eu_reference_number: EU.14235.3
+logical_id: '181886'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/589 (OJ L202600589)
+  programme: CYB
+  logical_id: '222538'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: WU Haibo
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: 吴海波
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '181890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: shutdown
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: shutd0wn
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+citizenships:
+- country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '181865'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '181887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589

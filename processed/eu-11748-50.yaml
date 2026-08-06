@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11748.50
 logical_id: '166665'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vostochnaya Árurakodó Vállalat Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167284'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: VSC
   name_language: EN
   strong: true
@@ -55,6 +44,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: ООО “ВСК”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: LLC Vostochnaya Stevedoring Company
   function: Operates the shipment of containers in Vostochny port in the Primorsky
     region of Russia.
@@ -67,11 +66,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: ООО “ВСК”
-  name_language: RU
+- whole_name: Vostochnaya Árurakodó Vállalat Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '166668'
+  logical_id: '167284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

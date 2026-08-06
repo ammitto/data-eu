@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10873.80
 logical_id: '159341'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrej
+  last_name: Chochlun
+  whole_name: Andrej Chochlun
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
   middle_name: Rostislavovitj
   last_name: KHOKHLUN
@@ -37,19 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Andrej
-  last_name: Chochlun
-  whole_name: Andrej Chochlun
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -112,17 +111,6 @@ birthdates:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
-- street: Malija  97
-  country_iso2_code: SI
-  country_description: SLOVENIA
-  zip_code: '6310'
-  regulation_language: en
-  logical_id: '159350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - street: Balaklavskiy Prospect 16
   city: Moscow
   country_iso2_code: RU
@@ -130,6 +118,17 @@ addresses:
   zip_code: '117452'
   regulation_language: en
   logical_id: '159346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- street: Malija  97
+  country_iso2_code: SI
+  country_description: SLOVENIA
+  zip_code: '6310'
+  regulation_language: en
+  logical_id: '159350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

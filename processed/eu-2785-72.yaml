@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2785.72
 logical_id: '6463'
-entity_type: person
 remark: "(a) Father’s name is Ahmed Othman Al Omirah (b) Date of designation referred
   to in Article 2a(4)(b): 16.6.2011."
 regulations:
@@ -130,6 +129,18 @@ citizenships:
     number_title: 621/2011 (OJ L166)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1973
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '104139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-25'
+    number_title: 621/2011 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
 - birthdate: '1979-05-27'
   circa: false
   calendar_type: GREGORIAN
@@ -140,18 +151,6 @@ birthdates:
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '104138'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-25'
-    number_title: 621/2011 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1973
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '104139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'

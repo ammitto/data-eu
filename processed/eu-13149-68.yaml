@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13149.68
 logical_id: '175755'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Виктор ВАСИЛЬЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Viktor VASILEV
   gender: M
   name_language: EN
@@ -26,12 +36,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Виктор ВАСИЛЬЕВ
+- whole_name: Виктор Александрович ЛУКОВЕНКО
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175758'
+  logical_id: '175760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -47,17 +57,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Виктор Александрович ЛУКОВЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13171.80
 logical_id: '175887'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Валентин Валентинович ЕРШОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Valentin Valentinovich ERSHOV
   function: Valentin Ershov is the Deputy Chairman of the Moscow Regional Court. In
     the past, he held the position of judge of the Presnensky District Court of Moscow,
@@ -40,6 +28,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
+- whole_name: Валентин Валентинович ЕРШОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

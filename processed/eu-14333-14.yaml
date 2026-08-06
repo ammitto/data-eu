@@ -1,0 +1,65 @@
+---
+eu_reference_number: EU.14333.14
+logical_id: '182330'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Raw Materials Cellulose LLC
+  function: Raw Materials Cellulose LLC is an Uzbek company producing cotton pulp.
+    Raw Materials Cellulose LLC supplies cotton pulp to Russian military-industrial
+    companies, including the FSE Tambov Gunpowder Plant, which use it to produce gunpowder.
+    Therefore, Raw Materials Cellulose LLC is supporting Russia’s military and industrial
+    complex by being involved in supply of military technology and equipment.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО “Raw Materials Cellulose”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- city: Jizzakh
+  region: Jizzakh region
+  country_iso2_code: UZ
+  country_description: UZBEKISTAN
+  zip_code: '130100'
+  regulation_language: en
+  logical_id: '182331'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '305134690'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

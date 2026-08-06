@@ -15,6 +15,96 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Defence Industries Organization
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: DIO
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: سازمان صنایع دفاع جمهوری اسلامی ایران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159369'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organisation der Verteidigungsindustrien
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '159509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organisation des industries de la défense
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '159513'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organización de Industrias de Defensa
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '161974'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organizzazione delle industrie della difesa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '161975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organização das Indústrias de Defesa
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161991'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Védelmi Iparágak Szervezete
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Organizacja Przemysłu Obronnego
   name_language: PL
   strong: true
@@ -115,96 +205,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Defence Industries Organization
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: DIO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5188'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: سازمان صنایع دفاع جمهوری اسلامی ایران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159369'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organisation der Verteidigungsindustrien
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '159509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organisation des industries de la défense
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '159513'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organización de Industrias de Defensa
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '161974'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organizzazione delle industrie della difesa
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '161975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organização das Indústrias de Defesa
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Védelmi Iparágak Szervezete
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
 - street: Amin Industrial Estate, Khalage Rd., Seyedi District
   city: Mashad

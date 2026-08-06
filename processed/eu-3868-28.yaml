@@ -3,7 +3,6 @@ eu_reference_number: EU.3868.28
 logical_id: '7199'
 designation_details: Listed pursuant to paragraph 19 of UN Security Council Resolution
   1973 (2011) (Asset Freeze).
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,25 +16,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: SAFÍJA FARKAŠ
-  last_name: AL-BARÁSÍ
-  whole_name: SAFÍJA FARKAŠ AL-BARÁSÍ
-  name_language: CS
+- first_name: Safia Farkash
+  last_name: Mohammed Al-Hadad
+  whole_name: Safia Farkash Mohammed Al-Hadad
+  gender: F
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/757 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
-- first_name: SAFIYA FARKASH
-  last_name: AL-BARASI
-  whole_name: SAFIYA FARKASH AL-BARASI
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164151'
+  logical_id: '105191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -54,19 +42,6 @@ name_aliases:
     number_title: 2024/757 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
 - first_name: Safia Farkash
-  last_name: Mohammed Al-Hadad
-  whole_name: Safia Farkash Mohammed Al-Hadad
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/757 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
-- first_name: Safia Farkash
   last_name: AL-BARASSI
   whole_name: Safia Farkash AL-BARASSI
   gender: F
@@ -74,6 +49,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/757 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
+- first_name: SAFIYA FARKASH
+  last_name: AL-BARASI
+  whole_name: SAFIYA FARKASH AL-BARASI
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '164151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/757 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
+- first_name: SAFÍJA FARKAŠ
+  last_name: AL-BARÁSÍ
+  whole_name: SAFÍJA FARKAŠ AL-BARÁSÍ
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

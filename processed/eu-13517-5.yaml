@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13517.5
 logical_id: '178193'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe acțiuni  Volgotanker
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '179519'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Volgotanker Joint Stock Company
   function: Volgotanker Joint Stock Company is a shipping company based in Russia
     and specialized in the business of tank storage and transporting oil and oil products.
@@ -48,6 +37,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Societatea pe acțiuni  Volgotanker
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '179519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

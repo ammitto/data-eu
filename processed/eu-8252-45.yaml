@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8252.45
 logical_id: '140165'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -35,22 +34,22 @@ name_aliases:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Faik Sameddin ogly MAMEDOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141101'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Faik Sameddin ogly MAMEDOV
   function: Major of the 64th Separate Motorized Rifle Brigade of the 35th Army of
     Russian Federation
   gender: M
   strong: true
   regulation_language: en
   logical_id: '140172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Faik Sameddin ogly MAMEDOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -83,21 +82,21 @@ birthdates:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 identifications:
-- identification_type_code: id
-  number: '802348'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '140168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: passport
   number: 9902 119102
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '140169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- identification_type_code: id
+  number: '802348'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '140168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

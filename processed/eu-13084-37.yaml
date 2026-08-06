@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13084.37
 logical_id: '175182'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,40 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Moszkvai Fegyvergyártó Vállalat« Kft."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Moszkvai Fegyvergyártó Vállalat« Korlátolt Felelősségű Társaság"
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '175305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Общество с Ограниченной Ответственностью “Московская Оружейная Компания”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC “Moscow Arms Company”
-  strong: true
-  regulation_language: en
-  logical_id: '175188'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -67,6 +37,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Общество с Ограниченной Ответственностью “Московская Оружейная Компания”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175189'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: BespokeGun
   strong: true
   regulation_language: en
@@ -76,10 +56,29 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Moszkvai Fegyvergyártó Vállalat« Kft."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: OOO “Московская Оружейная Компания”
   strong: true
   regulation_language: en
   logical_id: '175187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: LLC “Moscow Arms Company”
+  strong: true
+  regulation_language: en
+  logical_id: '175188'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.14422.55
+logical_id: '182763'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-11'
+  entry_into_force_date: '2026-05-11'
+  number_title: 2026/1055 (OJ L202601055)
+  programme: UKR
+  logical_id: '223478'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Андраник Саркисович ГАСПАРЯН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Andranik Sarkisovich GASPARYAN
+  function: Commander of the Centre for Military and Patriotic Training and Education
+    of Youth “Warrior”; Colonel in the Russian Armed Forces
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182767'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '182765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+birthdates:
+- birthdate: '1983-09-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 9
+  year: 1983
+  country_iso2_code: AM
+  country_description: ARMENIA
+  regulation_language: en
+  logical_id: '182764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055

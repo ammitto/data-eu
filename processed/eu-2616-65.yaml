@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2616.65
 logical_id: '6832'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Khald AL-TAWEEL
-  function: Political Security Division
+- whole_name: خالد الطويل
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '15019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Khaled AL-TAWEEL
-  strong: true
-  regulation_language: en
-  logical_id: '17342'
+  logical_id: '124614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -44,21 +34,30 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: خالد الطويل
-  gender: M
-  name_language: AR
+- whole_name: Khald AL-TAWIL
   strong: true
   regulation_language: en
-  logical_id: '124614'
+  logical_id: '17344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Khald AL-TAWIL
+- whole_name: Khaled AL-TAWEEL
   strong: true
   regulation_language: en
-  logical_id: '17344'
+  logical_id: '17342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Khald AL-TAWEEL
+  function: Political Security Division
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '15019'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

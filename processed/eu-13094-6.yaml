@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13094.6
 logical_id: '175352'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: "»’Polet’ Kutató- és Termelővállalat Részvénytársaság«"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175371'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: AO “NPP ‘Polet’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерное Общество “Научно-Производственное Предприятие ‘Полет’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company “Research And Production Enterprise ‘Polet’”
   function: JSC Research And Production Enterprise “Polet” is one of the leading developers
     and manufacturers of aviation radio communication equipment for military bodies.
@@ -33,11 +62,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO “NPP ‘Polet’”
+- whole_name: JSC Research And Production Enterprise “Polet”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175358'
+  logical_id: '175357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -48,36 +77,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175370'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное Общество “Научно-Производственное Предприятие ‘Полет’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»’Polet’ Kutató- és Termelővállalat Részvénytársaság«"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175371'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC Research And Production Enterprise “Polet”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,0 +1,64 @@
+---
+eu_reference_number: EU.13966.81
+logical_id: '180526'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/267 (OJ L202600267)
+  programme: IRN
+  logical_id: '220363'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: علي عبداللهي علي أبادي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180529'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Ali Abdollahi ALIABADI
+  function: Commander of Khatam al-Anbiya Central Headquarters
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180528'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1959
+  city: ALIABAD
+  region: Rudbar County
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267

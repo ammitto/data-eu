@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4483.17
 logical_id: '116473'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: KIM Su-Kwang
+- whole_name: KIM Su-gwang
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Son-Kwang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116477'
+  logical_id: '117817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -40,26 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 김수광
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '142087'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Sou-Kwang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -77,11 +46,41 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Su-gwang
+- whole_name: KIM Sou-Kwang
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '117817'
+  logical_id: '116479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Sou-Gwang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Son-Kwang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 김수광
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '142087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -97,11 +96,11 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Sou-Gwang
+- whole_name: KIM Su-Kwang
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116478'
+  logical_id: '116476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

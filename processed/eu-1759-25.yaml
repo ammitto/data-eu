@@ -2,7 +2,6 @@
 eu_reference_number: EU.1759.25
 logical_id: '4288'
 designation_details: UN designation 03/03/2008 (no longer valid)
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -187,6 +186,18 @@ name_aliases:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
+- street: Next to Shahid Babaei Exp. way, Nobonyad Sq.
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  zip_code: '16689'
+  regulation_language: en
+  logical_id: '159423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: End of Pasdaran Avenue, Nobonyad Square,
   city: Tehran
   country_iso2_code: IR
@@ -215,18 +226,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Next to Shahid Babaei Exp. way, Nobonyad Sq.
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  zip_code: '16689'
-  regulation_language: en
-  logical_id: '159423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

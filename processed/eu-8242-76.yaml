@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8242.76
 logical_id: '140094'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,21 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitrij Ivanovitj LVOV
-  name_language: SV
+- whole_name: Dmitrii Ivanovich LVOV
+  function: Lieutenant Colonel of the 64th Separate Motorized Rifle Brigade of the
+    35th Army of Russian Federation
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '141092'
+  logical_id: '140101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Дмитрий Иванович ЛЬВОВ
-  name_language: RU
+- whole_name: Dmitrij Ivanovitj LVOV
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140099'
+  logical_id: '141092'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -44,13 +45,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Dmitrii Ivanovich LVOV
-  function: Lieutenant Colonel of the 64th Separate Motorized Rifle Brigade of the
-    35th Army of Russian Federation
-  gender: M
+- whole_name: Дмитрий Иванович ЛЬВОВ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140101'
+  logical_id: '140099'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -83,21 +82,21 @@ birthdates:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 identifications:
-- identification_type_code: passport
-  number: 7603 794013
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '140098'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: id
   number: Ф-620752
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '140097'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- identification_type_code: passport
+  number: 7603 794013
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '140098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

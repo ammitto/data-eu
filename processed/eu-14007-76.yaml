@@ -1,0 +1,65 @@
+---
+eu_reference_number: EU.14007.76
+logical_id: '180717'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-01-29'
+  entry_into_force_date: '2026-01-29'
+  number_title: 2026/262 (OJ L202600262)
+  programme: IRN
+  logical_id: '220351'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Hossein HEMSI
+  function: CEO and shareholder of Fanavaran Sanat Ertebatat Company
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180721'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180719'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+birthdates:
+- birthdate: '1982-10-27'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 27
+  month_of_year: 10
+  year: 1982
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '180718'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+identifications:
+- identification_type_code: other
+  number: '0532987276'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '180720'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262

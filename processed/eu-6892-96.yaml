@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6892.96
 logical_id: '133323'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -29,20 +28,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Alexey
-  middle_name: Yurievich
-  last_name: CHERNYAK
-  whole_name: Alexey Yurievich CHERNYAK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Aleksei
   middle_name: Yurievich
   last_name: CHERNIAK
@@ -70,6 +55,20 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/236 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- first_name: Alexey
+  middle_name: Yurievich
+  last_name: CHERNYAK
+  whole_name: Alexey Yurievich CHERNYAK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

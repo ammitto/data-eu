@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9696.38
 logical_id: '149817'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрій
-  middle_name: Юрійович
-  last_name: ТРОФІМОB
-  whole_name: Андрій Юрійович ТРОФІМОB
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '149821'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Андрей
   middle_name: Юрьевич
   last_name: ТРОФИМОВ
@@ -66,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Андрій
+  middle_name: Юрійович
+  last_name: ТРОФІМОB
+  whole_name: Андрій Юрійович ТРОФІМОB
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '149821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

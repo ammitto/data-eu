@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4602.90
 logical_id: '117360'
-entity_type: person
 regulations:
 - regulation_type: regulation
   organisation_type: commission
@@ -74,31 +73,11 @@ birthdates:
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 addresses:
-- region: Basilan Province
-  country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '117450'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - city: Jeddah
   country_iso2_code: SA
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '117448'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- city: Daina
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '117447'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -114,12 +93,32 @@ addresses:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- region: Basilan Province
+  country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '117450'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- city: Daina
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '117447'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 identifications:
-- identification_type_code: electionid
-  number: 73320881AG1191MAM20000
+- identification_type_code: other
+  number: '200801087'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '117455'
+  logical_id: '117454'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -135,11 +134,11 @@ identifications:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- identification_type_code: other
-  number: '200801087'
+- identification_type_code: electionid
+  number: 73320881AG1191MAM20000
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '117454'
+  logical_id: '117455'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

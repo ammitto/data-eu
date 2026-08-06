@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.9095.82
 logical_id: '145807'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: رفیعی عنایاتولله
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Enayatollah
   last_name: RAFIEI
   whole_name: Enayatollah RAFIEI
@@ -25,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- whole_name: رفیعی عنایاتولله
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

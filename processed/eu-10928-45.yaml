@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.10928.45
 logical_id: '159783'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  last_name: Kurďumov
-  whole_name: Alexandr Kurďumov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Александр
   middle_name: Борисович
   last_name: КУРДЮМОВ
@@ -37,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alexandr
+  last_name: Kurďumov
+  whole_name: Alexandr Kurďumov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,0 +1,100 @@
+---
+eu_reference_number: EU.14372.85
+logical_id: '182580'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Joint Stock Company “Scientific and production association of automation
+    named by academician N.A. Semikhatov”
+  function: JSC «Scientific and production association of automation named by academician
+    N.A. Semikhatov» is a company active in the field of development and production
+    of control systems and radio-electronic equipment for rocket and space technology,
+    and industrial automation. The company develops and produces components for intercontinental
+    and maritime ballistic missiles, as well as carriers of Soyuz-2, Bulava, Syneva
+    rockets.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182587'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Акционерное общество “Научно-Производственное Объединение Автоматики
+    имени академика Н.А. Семихатова”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: JSC “Scientific and production association of automation named by academician
+    N.A. Semikhatov”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Mamina-Sibiryaka street, 145
+  city: Yekaterinburg city
+  region: Sverdlovsk region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '620000'
+  regulation_language: en
+  logical_id: '182581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: taxid
+  number: '6685066917'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1146685026509'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '182582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: other
+  number: '668501001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '182584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

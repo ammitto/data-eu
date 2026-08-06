@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13273.87
 logical_id: '176466'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Gabinete de fabrico de sistemas integrados
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '176471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ООО "КБИС"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: LLC Design Bureau of Integrated Systems
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: LLC KBIS
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО "Конструкторское Бюро Интегрированньтх Систем”
   name_language: RU
   strong: true
@@ -31,26 +70,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ООО "КБИС"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC KBIS
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -107,26 +126,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Gabinete de fabrico de sistemas integrados
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '176471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC Design Bureau of Integrated Systems
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Lenin street, Zd. 61, Str. 1, Office 1.
   region: Kaluga
@@ -141,11 +140,11 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1037703022158'
+- identification_type_code: fiscalcode
+  number: '7703371192'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '176468'
+  logical_id: '176470'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -161,11 +160,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '7703371192'
+- identification_type_code: regnumber
+  number: '1037703022158'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '176470'
+  logical_id: '176468'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

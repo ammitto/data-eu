@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.2968.89
 logical_id: '7535'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Luganskij ekonomičeskij sajuz
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '128616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Luhanský hospodársky zväz
   name_language: SK
   strong: true
@@ -287,6 +276,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Luganskij ekonomičeskij sajuz
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '128616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

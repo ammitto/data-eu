@@ -2,7 +2,6 @@
 eu_reference_number: EU.3759.27
 logical_id: '110874'
 united_nation_id: QDi.401
-entity_type: person
 remark: Corrigendum 2017/326 (OJ L49) [corr. 05/04/2017-1]
 regulations:
 - regulation_type: amendment
@@ -17,6 +16,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ghalib al Zaydi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 - whole_name: GHALIB ABDULLAH AL-ZAIDI
   name_language: EN
   strong: true
@@ -42,16 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Ghalib al Zaydi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111179'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

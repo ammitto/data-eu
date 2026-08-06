@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8245.73
 logical_id: '140116'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Анатолий Александрович ШИПИЦЫН
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Anatolii Aleksandrovich SHIPITSYN
   function: Lieutenant Colonel of the 64th Separate Motorized Rifle Brigade of the
     35th Army of Russian Federation
@@ -22,16 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Анатолий Александрович ШИПИЦЫН
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

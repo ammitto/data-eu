@@ -1,0 +1,94 @@
+---
+eu_reference_number: EU.14153.31
+logical_id: '181521'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-04-23'
+  entry_into_force_date: '2026-04-23'
+  number_title: 2026/509 (OJ L202600509)
+  programme: UKR
+  logical_id: '221340'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLP “United Trading Group”
+  function: |-
+    LLP “United Trading Group” is a Kazakhstan-based company. Its founder and director, Alimzhan Bekov, is a representative of UrSeCo Handels GmbH & Co. KG.
+    The German company UrSeCo Handels GmbH & Co. KG supplies high-purity hydrogen chloride (HCl) produced by Wacker Chemie AG, a critical chemical for semiconductor wafer processing, to “United Trading Group”. “United Trading Group” then supplies HCl to the Russian companies LLC “Siltron” and Electronsnab. The supply chain goes through Poland, Türkiye and Kazakhstan. LLC “Siltron” is directly connected to UrSeCo Handels as one of the partners in UrSeCo is the father of the majority shareholder of LLC “Siltron”.
+  title: Limited Liability Partnership
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLP “United Trade Group”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: "„LLP Jungtinė prekybos grupė“"
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '182329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: "“United Trading Group” “Жауапкершілігі Шектеулі Серіктестігі”"
+  name_language: KK
+  strong: true
+  regulation_language: en
+  logical_id: '181525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+addresses:
+- street: Medeu District, Taimanov street, house 136, apt. 86
+  city: Almaty
+  country_iso2_code: KZ
+  country_description: KAZAKHSTAN
+  zip_code: '050059'
+  regulation_language: en
+  logical_id: '181522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+identifications:
+- identification_type_code: regnumber
+  number: '220340023728'
+  country_iso2_code: KZ
+  regulation_language: en
+  logical_id: '181524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: 60001-1229370
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509

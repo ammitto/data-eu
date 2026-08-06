@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8634.44
 logical_id: '143247'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,10 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юрий Викторович ЯШИН
+- whole_name: Jurij Viktorovitj JASJIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143251'
+  logical_id: '143250'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -38,11 +38,10 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Jurij Viktorovitj JASJIN
-  name_language: SV
+- whole_name: Юрий Викторович ЯШИН
   strong: true
   regulation_language: en
-  logical_id: '143250'
+  logical_id: '143251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

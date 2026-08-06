@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13760.69
 logical_id: '179264'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Максим Юрьевич СОКОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - first_name: Maksim
   middle_name: Yurievich
   last_name: SOKOLOV
@@ -25,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Максим Юрьевич СОКОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6696.74
 logical_id: '131986'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Igor
-  middle_name: Nikolajevitj
-  last_name: GUTNIK
-  whole_name: Igor Nikolajevitj GUTNIK
+- first_name: Ihar
+  middle_name: Mikalajevitj
+  last_name: HUTNIK
+  whole_name: Ihar Mikalajevitj HUTNIK
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132341'
+  logical_id: '132342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -88,6 +87,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igor
+  middle_name: Nikolajevitj
+  last_name: GUTNIK
+  whole_name: Igor Nikolajevitj GUTNIK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Игор
   last_name: Гутник
   whole_name: Игор Гутник
@@ -109,20 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihar
-  middle_name: Mikalajevitj
-  last_name: HUTNIK
-  whole_name: Ihar Mikalajevitj HUTNIK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

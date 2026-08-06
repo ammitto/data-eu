@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7132.13
 logical_id: '134264'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,11 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nadezjda Vasiljevna SJKOLKINA
-  name_language: SV
+- first_name: Надежда
+  middle_name: Васильевна
+  last_name: ШКОЛКИНА
+  whole_name: Надежда Васильевна ШКОЛКИНА
+  gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143789'
+  logical_id: '134266'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +42,11 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Надежда
-  middle_name: Васильевна
-  last_name: ШКОЛКИНА
-  whole_name: Надежда Васильевна ШКОЛКИНА
-  gender: F
-  name_language: RU
+- whole_name: Nadezjda Vasiljevna SJKOLKINA
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134266'
+  logical_id: '143789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

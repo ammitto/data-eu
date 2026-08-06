@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6164.27
 logical_id: '127568'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -69,16 +68,6 @@ birthdates:
     number_title: 2022/2194 (OJ L292)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2194
 identifications:
-- identification_type_code: other
-  number: V-6357038
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '127572'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-22'
-    number_title: 2021/275 (OJ L60I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.060.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A060I%3ATOC
 - identification_type_code: passport
   number: '001234503'
   country_iso2_code: VE
@@ -89,3 +78,13 @@ identifications:
     publication_date: '2022-11-11'
     number_title: 2022/2194 (OJ L292)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2194
+- identification_type_code: other
+  number: V-6357038
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '127572'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-22'
+    number_title: 2021/275 (OJ L60I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.060.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A060I%3ATOC

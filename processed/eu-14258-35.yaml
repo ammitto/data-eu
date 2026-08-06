@@ -1,0 +1,77 @@
+---
+eu_reference_number: EU.14258.35
+logical_id: '181996'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/648 (OJ L202600648)
+  programme: IRN
+  logical_id: '222578'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Mohammad Moazzami GOUDARZI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: محمد معظمی گودرزی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '181999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: Mohammad Moazami GOUDARZI
+  function: |-
+    Mohammad Moazami Goudarzi is Chief of the Preventive Police, Deputy Chief of the Greater Tehran Police and former Police Commander of Karaj and Alborz. In his current and previous positions, he has been directly involved in the violent suppression of protests in Iran. During the December 2025 and January 2026 protests, he was directly responsible for directing relief units, police stations and strike teams on the streets of Tehran.
+    Mohammad Moazami Goudarzi is therefore responsible for serious human rights violations in Iran.
+  gender: M
+  title: Chief of the Preventive Police; Deputy Chief of the Greater Tehran Police
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+birthdates:
+- birthdate: '1957-03-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 3
+  year: 1957
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '181997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648

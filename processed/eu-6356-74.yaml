@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6356.74
 logical_id: '129944'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ольга Николаевна  ЧЕМОДАНОВА
+- whole_name: Вольга Мікалаеўна  ЧАМАДАНАВА
   gender: F
-  name_language: RU
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '129948'
+  logical_id: '129949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Olga Nikolajevna TJEMODANOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -40,11 +50,12 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Olga Nikolaevna  CHEMODANOVA
+- whole_name: Ольга Николаевна  ЧЕМОДАНОВА
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129950'
+  logical_id: '129948'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -61,23 +72,11 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Olga Nikolajevna TJEMODANOVA
+- whole_name: Olga Nikolaevna  CHEMODANOVA
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130702'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Вольга Мікалаеўна  ЧАМАДАНАВА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '129949'
+  logical_id: '129950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12440.19
 logical_id: '171028'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,37 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ruzekspeditsiya LLC
-  function: Company established in the Bremino-Orsha Special Economic Zone
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171037'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: TAA «Рузэкспедыцыя»
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '171033'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: RUZSPEDITION LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - whole_name: OOO RUDENSKI UDOBRENCHESKI ZAVOD
   strong: true
   regulation_language: en
@@ -64,6 +32,37 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: Ruzekspeditsiya LLC
+  function: Company established in the Bremino-Orsha Special Economic Zone
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171037'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: RUZSPEDITION LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: TAA «Рузэкспедыцыя»
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '171033'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - whole_name: OOO «Рузэкспедиция»
   name_language: RU
   strong: true
@@ -75,17 +74,6 @@ name_aliases:
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 addresses:
-- street: 1K Zavodzkaya  St., room 36
-  country_iso2_code: BY
-  country_description: BELARUS
-  zip_code: '211004'
-  regulation_language: en
-  logical_id: '171030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - street: 40 Nemiga St., room 304
   city: Minsk
   country_iso2_code: BY
@@ -93,6 +81,17 @@ addresses:
   zip_code: '220004'
   regulation_language: en
   logical_id: '171029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- street: 1K Zavodzkaya  St., room 36
+  country_iso2_code: BY
+  country_description: BELARUS
+  zip_code: '211004'
+  regulation_language: en
+  logical_id: '171030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

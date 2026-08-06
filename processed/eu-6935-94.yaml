@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6935.94
 logical_id: '133467'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -25,20 +24,20 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/239 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Htoo Group of Companies
-  strong: true
-  regulation_language: en
-  logical_id: '133469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/239 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: grupo de empresas Htoo
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '133813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/239 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Htoo Group of Companies
+  strong: true
+  regulation_language: en
+  logical_id: '133469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

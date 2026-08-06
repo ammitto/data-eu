@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.7502.45
 logical_id: '135876'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -29,18 +28,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergei
-  middle_name: Dmitrevich
+- first_name: Sergej
+  middle_name: Dmitrijevitj
   last_name: SIMONENKO
-  whole_name: Sergei Dmitrevich SIMONENKO
-  function: Former Deputy Minister of Defence for Armament and Chief of Armament of
-    Belarus
+  whole_name: Sergej Dmitrijevitj SIMONENKO
   gender: M
-  title: Major General
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135878'
+  logical_id: '136008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -72,15 +68,18 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergej
-  middle_name: Dmitrijevitj
+- first_name: Sergei
+  middle_name: Dmitrevich
   last_name: SIMONENKO
-  whole_name: Sergej Dmitrijevitj SIMONENKO
+  whole_name: Sergei Dmitrevich SIMONENKO
+  function: Former Deputy Minister of Defence for Armament and Chief of Armament of
+    Belarus
   gender: M
-  name_language: SV
+  title: Major General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '136008'
+  logical_id: '135878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

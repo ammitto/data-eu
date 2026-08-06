@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12713.39
 logical_id: '172657'
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,23 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Institutul de Cercetare Științifică pentru Complexe Computaționale denumit
-    după M.A. Karțev
-  name_language: RO
+- whole_name: Naukowy instytut badań nad układami komputerowymi im. M. A. Karcewa
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '173338'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»M.A. Kartsevről elnevezett, Szá-mítástechnikai Rendszerekkel Foglalkozó
-    Tudományos Kuta-tóintézet« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173426'
+  logical_id: '173353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -105,38 +92,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Naukowy instytut badań nad układami komputerowymi im. M. A. Karcewa
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»M.A. Kartsevről elnevezett, Számítástechnikai Rendszerekkel Foglalkozó
-    Tudo-mányos Kutatóintézet« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo Scientific Re-search Institute of Computing Complexes
-    Named After M.A. Kartsev
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173464'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Akcinė bendrovė Scientific Research Institute of Computing Complexes
     Named After M. A. Kartsev
   name_language: LT
@@ -159,6 +114,50 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Dioničko društvo Scientific Re-search Institute of Computing Complexes
+    Named After M.A. Kartsev
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»M.A. Kartsevről elnevezett, Számítástechnikai Rendszerekkel Foglalkozó
+    Tudo-mányos Kutatóintézet« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»M.A. Kartsevről elnevezett, Szá-mítástechnikai Rendszerekkel Foglalkozó
+    Tudományos Kuta-tóintézet« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Institutul de Cercetare Științifică pentru Complexe Computaționale denumit
+    după M.A. Karțev
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173338'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
 - street: Profsoyuznaya street 108
   city: Moscow
@@ -172,21 +171,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: regnumber
-  number: '1037700128828'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172660'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '7728032882'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172659'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: regnumber
+  number: '1037700128828'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

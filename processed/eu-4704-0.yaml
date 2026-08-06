@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4704.0
 logical_id: '117974'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -15,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abtol
-  last_name: Rahman
-  whole_name: Abtol Rahman
-  strong: true
-  regulation_language: en
-  logical_id: '117982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 - whole_name: Muhammed Reza Lahaman Kiram
   strong: true
   regulation_language: en
@@ -39,6 +27,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- first_name: Abtol
+  last_name: Rahman
+  whole_name: Abtol Rahman
+  strong: true
+  regulation_language: en
+  logical_id: '117982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
@@ -92,20 +91,20 @@ addresses:
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '117976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 - city: Zamboanga
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '117977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '117976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'

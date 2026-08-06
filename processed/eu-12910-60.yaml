@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12910.60
 logical_id: '174150'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Мирзоевич  АВАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Сяргей Мірзаевіч  АВАКАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174156'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Sergey Mirzoevich  AVAKOV
   gender: M
   name_language: EN
@@ -48,24 +25,23 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Siarhei Mirzaevich  AVAKAU
-  function: Businessperson, CEO of OJSC Planar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Sjarhei Avakau
   gender: M
   name_language: FI
   strong: true
   regulation_language: en
   logical_id: '174152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Сергей Мирзоевич  АВАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174155'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -88,6 +64,29 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Сяргей Мірзаевіч  АВАКАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Siarhei Mirzaevich  AVAKAU
+  function: Businessperson, CEO of OJSC Planar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.12518.16
 logical_id: '171219'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Денис Александрович
-  last_name: СМОЛЯНИНОВ
-  whole_name: Денис Александрович СМОЛЯНИНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171223'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
 - first_name: Denis Alexandrovich
   last_name: SMOLYANINOV
   whole_name: Denis Alexandrovich SMOLYANINOV
@@ -37,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- first_name: Денис Александрович
+  last_name: СМОЛЯНИНОВ
+  whole_name: Денис Александрович СМОЛЯНИНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171223'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

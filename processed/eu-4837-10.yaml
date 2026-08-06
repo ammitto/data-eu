@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.4837.10
 logical_id: '118733'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ekaterina
-  middle_name: Vasilievna
-  last_name: TERESHCHENKO
-  whole_name: Ekaterina Vasilievna TERESHCHENKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '118738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Kateryna
   middle_name: Vasylivna
   last_name: TERESJTJENKO
@@ -57,31 +42,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Екатерина
-  middle_name: Васильевна
-  last_name: ТЕРЕЩЕНКО
-  whole_name: Екатерина Васильевна ТЕРЕЩЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '118737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Ekaterina
-  middle_name: Vasilyevna
+  middle_name: Vasilievna
   last_name: TERESHCHENKO
-  whole_name: Ekaterina Vasilyevna TERESHCHENKO
-  function: So-called 'Secretary' of the so-called 'Central Electoral Commission'
-    of the so‐called 'Luhansk People's Republic'.
+  whole_name: Ekaterina Vasilievna TERESHCHENKO
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '118739'
+  logical_id: '118738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -101,6 +70,34 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Катерина
+  middle_name: Василiвна
+  last_name: ТЕРЕЩЕНКО
+  whole_name: Катерина Василiвна ТЕРЕЩЕНКО
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '118735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Екатерина
+  middle_name: Васильевна
+  last_name: ТЕРЕЩЕНКО
+  whole_name: Екатерина Васильевна ТЕРЕЩЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '118737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Ekaterina
   middle_name: Vasilievna
   last_name: TERESHCHENKO
@@ -115,15 +112,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Катерина
-  middle_name: Василiвна
-  last_name: ТЕРЕЩЕНКО
-  whole_name: Катерина Василiвна ТЕРЕЩЕНКО
+- first_name: Ekaterina
+  middle_name: Vasilyevna
+  last_name: TERESHCHENKO
+  whole_name: Ekaterina Vasilyevna TERESHCHENKO
+  function: So-called 'Secretary' of the so-called 'Central Electoral Commission'
+    of the so‐called 'Luhansk People's Republic'.
   gender: F
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '118735'
+  logical_id: '118739'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

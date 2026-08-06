@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.379.63
 logical_id: '519'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -282,6 +281,22 @@ birthdates:
     publication_date: '2007-08-18'
     number_title: 969/2007 (OJ L215)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- birthdate: '1974-03-14'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 14
+  month_of_year: 3
+  year: 1974
+  city: Zanzibar
+  country_iso2_code: TZ
+  country_description: TANZANIA, UNITED REPUBLIC OF
+  regulation_language: en
+  logical_id: '228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
 - birthdate: '1974-04-13'
   circa: false
   calendar_type: GREGORIAN
@@ -309,22 +324,6 @@ birthdates:
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
   logical_id: '231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- birthdate: '1974-03-14'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 3
-  year: 1974
-  city: Zanzibar
-  country_iso2_code: TZ
-  country_description: TANZANIA, UNITED REPUBLIC OF
-  regulation_language: en
-  logical_id: '228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-08-18'

@@ -2,7 +2,6 @@
 eu_reference_number: EU.13117.66
 logical_id: '175563'
 designation_details: State Unitary Enterprise
-entity_type: enterprise
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,32 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ГУП ДНР “РОС”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Государственное Унитарное Предприятие Донецкой Народной Республыкы “Республыканский
     Оператор Связи” (“Оператор Мобильной Связи “Феникс”)
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '175585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: SUE DPR “RTO”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -61,6 +40,26 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: SUE DPR “RTO”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175568'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ГУП ДНР “РОС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Artema Str. 169K
   city: Donetsk city,
@@ -75,21 +74,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1229300088423'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '930801335'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1229300088423'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175566'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

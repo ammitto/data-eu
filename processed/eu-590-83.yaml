@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.590.83
 logical_id: '928'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -98,22 +97,6 @@ citizenships:
     number_title: 36/2011 (OJ L14)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 birthdates:
-- birthdate: '1969-02-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 2
-  year: 1969
-  city: Tripoli
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - birthdate: '1970-02-05'
   circa: false
   calendar_type: GREGORIAN
@@ -125,6 +108,22 @@ birthdates:
   country_description: TUNISIA
   regulation_language: en
   logical_id: '1364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- birthdate: '1969-02-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 2
+  year: 1969
+  city: Tripoli
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'

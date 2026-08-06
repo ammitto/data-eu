@@ -1,0 +1,50 @@
+---
+eu_reference_number: EU.14916.30
+logical_id: '184925'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-08'
+  entry_into_force_date: '2026-06-08'
+  number_title: 2026/1225 (OJ L202601225)
+  programme: IRN
+  logical_id: '225855'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Mohammad AKBARZADEH
+  function: Deputy Commander for Political Affairs of the Islamic Revolutionary Guard
+    Corps Navy (IRGCN)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+- whole_name: محمد اکبرزاده
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '184927'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '184926'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225

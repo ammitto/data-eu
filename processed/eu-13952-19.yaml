@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.13952.19
 logical_id: '180400'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Андрей Вадимович МИХАЙЛИЧЕНКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180405'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-11-20'
+    number_title: 2025/2356 (OJ L202502356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
 - whole_name: Andrey Vadimovich MIKHAILICHENKO
   function: |-
     Deputy Director for Security and Operational Work of Pre-Trial Detention Centre No. 2 of the Main Directorate of the Federal Penitentiary Service for the Rostov Oblast, Russian Federation
@@ -25,16 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-11-20'
-    number_title: 2025/2356 (OJ L202502356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
-- whole_name: Андрей Вадимович МИХАЙЛИЧЕНКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-11-20'
@@ -67,21 +66,21 @@ birthdates:
     number_title: 2025/2356 (OJ L202502356)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
 identifications:
-- identification_type_code: fiscalcode
-  number: '615490520223'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '180403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-11-20'
-    number_title: 2025/2356 (OJ L202502356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
 - identification_type_code: passport
   number: '175625'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '180404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-11-20'
+    number_title: 2025/2356 (OJ L202502356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
+- identification_type_code: fiscalcode
+  number: '615490520223'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '180403'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-11-20'

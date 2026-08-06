@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.661.93
 logical_id: '965'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -27,10 +26,10 @@ name_aliases:
     publication_date: '2005-09-23'
     number_title: 1551/2005 (OJ L247)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:247:0030:0031:EN:PDF
-- whole_name: Abderrahmane Al Maghribi
+- whole_name: Zouheir Al Maghribi
   strong: true
   regulation_language: en
-  logical_id: '8445'
+  logical_id: '8443'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'
@@ -45,10 +44,10 @@ name_aliases:
     publication_date: '2011-01-19'
     number_title: 36/2011 (OJ L14)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- whole_name: Zouheir Al Maghribi
+- whole_name: Abderrahmane Al Maghribi
   strong: true
   regulation_language: en
-  logical_id: '8443'
+  logical_id: '8445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'
@@ -105,10 +104,10 @@ addresses:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
 identifications:
 - identification_type_code: passport
-  number: 28 642 163
-  country_iso2_code: DE
+  number: '954242'
+  country_iso2_code: MA
   regulation_language: en
-  logical_id: '15'
+  logical_id: '134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'
@@ -125,10 +124,10 @@ identifications:
     number_title: 36/2011 (OJ L14)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - identification_type_code: passport
-  number: '954242'
-  country_iso2_code: MA
+  number: 28 642 163
+  country_iso2_code: DE
   regulation_language: en
-  logical_id: '134'
+  logical_id: '15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'

@@ -1,0 +1,50 @@
+---
+eu_reference_number: EU.14233.5
+logical_id: '181834'
+designation_details: 'Date of UN designation: 24 February 2026'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-05'
+  entry_into_force_date: '2026-03-05'
+  number_title: 2026/531 (OJ L202600531)
+  programme: SDN
+  logical_id: '222487'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: MOHAMED Tijani Ibrahim Moussa
+  gender: M
+  title: Field Commander of the Rapid Support Forces
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+- whole_name: Al Zeir Salem
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+citizenships:
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '181835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531

@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.8793.62
 logical_id: '144475'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,6 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nikolay
+  middle_name: Viacheslavovich
+  last_name: RASTORGUEV
+  whole_name: Nikolay Viacheslavovich RASTORGUEV
+  function: Russian singer and member of the Public Council of the Ministry of Defense
+    of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Nikolay
   middle_name: Viacheslavovich
   last_name: RASTORGUYEV
@@ -38,21 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Nikolay
-  middle_name: Viacheslavovich
-  last_name: RASTORGUEV
-  whole_name: Nikolay Viacheslavovich RASTORGUEV
-  function: Russian singer and member of the Public Council of the Ministry of Defense
-    of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

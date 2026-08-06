@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.6346.8
 logical_id: '129870'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -21,6 +20,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Vatslavovitj GRUSJKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Vatslavavitj HRUSJKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -61,28 +82,6 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Andrej Vatslavavitj HRUSJKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrej Vatslavovitj GRUSJKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

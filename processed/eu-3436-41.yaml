@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.3436.41
 logical_id: '107695'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -28,6 +27,16 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Muhammad Abd-al-Halim Humaydah
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - first_name: Muhammad
   middle_name: Hameida
   last_name: Saleh
@@ -36,16 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Muhammad Abd-al-Halim Humaydah
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107772'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

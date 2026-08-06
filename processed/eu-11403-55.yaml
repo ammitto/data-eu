@@ -1,7 +1,6 @@
 ---
 eu_reference_number: EU.11403.55
 logical_id: '163605'
-entity_type: person
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,13 +15,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Maria
-  last_name: Albotová
-  whole_name: Maria Albotová
+  last_name: ALBOT
+  whole_name: Maria ALBOT
+  function: |-
+    External relations advisor to the Bashkan (governor) of Gagauzia;
+    Administrator of the “Miron Shor” Foundation; Shareholder of the “Banca Socială”
   gender: F
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163629'
+  logical_id: '163609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
@@ -42,16 +44,13 @@ name_aliases:
     number_title: 2024/739 (OJ L22022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
 - first_name: Maria
-  last_name: ALBOT
-  whole_name: Maria ALBOT
-  function: |-
-    External relations advisor to the Bashkan (governor) of Gagauzia;
-    Administrator of the “Miron Shor” Foundation; Shareholder of the “Banca Socială”
+  last_name: Albotová
+  whole_name: Maria Albotová
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163609'
+  logical_id: '163629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
