@@ -95,6 +95,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1981
+  year_range_to: 1983
   region: Pwani Region
   country_iso2_code: TZ
   country_description: TANZANIA, UNITED REPUBLIC OF

@@ -58,6 +58,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1975
+  year_range_to: 1976
   city: Darweshan village, Garmser District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -70,6 +72,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1975
+  year_range_to: 1976
   city: Minar village, Garmser District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN

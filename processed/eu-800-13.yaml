@@ -65,6 +65,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1963
+  year_range_to: 1968
   city: Uruzgan
   country_iso2_code: AF
   country_description: AFGHANISTAN

@@ -94,6 +94,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1975
+  year_range_to: 1979
   city: Masaka
   country_iso2_code: UG
   country_description: UGANDA

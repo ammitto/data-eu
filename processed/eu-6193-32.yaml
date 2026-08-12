@@ -55,6 +55,8 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1957
+  year_range_to: 1962
   city: Xararadheere
   country_iso2_code: SO
   country_description: SOMALIA

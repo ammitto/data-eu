@@ -63,6 +63,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1972
+  year_range_to: 1973
   city: Arghandab District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -75,6 +77,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1972
+  year_range_to: 1973
   city: Sarpolad village
   region: Helmand Province
   place: Washer District

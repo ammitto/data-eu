@@ -39,6 +39,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1960
+  year_range_to: 1975
   country_iso2_code: MM
   country_description: MYANMAR
   regulation_language: en

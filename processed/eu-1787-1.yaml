@@ -98,6 +98,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1977
+  year_range_to: 1978
   city: Neka district, Paktika province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -110,6 +112,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1977
+  year_range_to: 1978
   city: Khost province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -122,6 +126,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1977
+  year_range_to: 1978
   city: Danda, Miramshah, North Waziristan
   country_iso2_code: PK
   country_description: PAKISTAN
@@ -134,6 +140,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1977
+  year_range_to: 1978
   city: Srana village, Garda Saray district, Paktia province
   country_iso2_code: AF
   country_description: AFGHANISTAN

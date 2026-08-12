@@ -53,6 +53,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1959
+  year_range_to: 1960
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

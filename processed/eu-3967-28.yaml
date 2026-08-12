@@ -84,6 +84,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1984
+  year_range_to: 1986
   city: Sa'dah Governorate
   country_iso2_code: YE
   country_description: YEMEN

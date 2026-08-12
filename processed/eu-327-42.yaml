@@ -43,6 +43,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1940
+  year_range_to: 1941
   city: Siyachoy village, Panjwai District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN

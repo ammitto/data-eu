@@ -68,6 +68,7 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_to: 1980
   country_iso2_code: ER
   country_description: ERITREA
   regulation_language: en

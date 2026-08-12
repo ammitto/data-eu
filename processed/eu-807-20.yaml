@@ -51,6 +51,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1968
+  year_range_to: 1973
   city: Nawi Deh village, Daman district, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -63,6 +65,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1968
+  year_range_to: 1973
   city: Marghankecha village, Daman District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN

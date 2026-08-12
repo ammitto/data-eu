@@ -51,6 +51,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1958
+  year_range_to: 1963
   city: Spin boldak district
   region: Kandahar province
   place: Robat village

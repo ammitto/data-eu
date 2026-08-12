@@ -42,6 +42,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1966
+  year_range_to: 1967
   region: Laghman Province
   place: Alingar District
   country_iso2_code: AF

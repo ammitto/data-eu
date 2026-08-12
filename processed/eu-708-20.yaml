@@ -59,6 +59,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1956
+  year_range_to: 1957
   city: Charmistan village, Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -71,6 +73,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1956
+  year_range_to: 1957
   city: Marghi village, Nawa District, Ghazni Province
   country_iso2_code: AF
   country_description: AFGHANISTAN

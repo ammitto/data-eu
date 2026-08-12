@@ -59,6 +59,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1962
+  year_range_to: 1963
   city: Khatak village, Gelan District, Ghazni Province
   country_iso2_code: AF
   country_description: AFGHANISTAN

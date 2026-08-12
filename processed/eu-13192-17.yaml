@@ -110,6 +110,8 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1987
+  year_range_to: 1988
   city: Bza’ah
   region: al-Bab District
   country_iso2_code: SY

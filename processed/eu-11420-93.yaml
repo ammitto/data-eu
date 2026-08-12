@@ -52,6 +52,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1980
+  year_range_to: 1990
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en

@@ -106,6 +106,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1965
+  year_range_to: 1969
   city: Tall 'Afar
   country_iso2_code: IQ
   country_description: IRAQ

@@ -59,6 +59,8 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1953
+  year_range_to: 1958
   city: Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -71,6 +73,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1953
+  year_range_to: 1958
   city: Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN

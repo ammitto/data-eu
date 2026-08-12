@@ -42,6 +42,8 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
+  year_range_from: 1954
+  year_range_to: 1955
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en

@@ -84,6 +84,8 @@ name_aliases:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1957
+  year_range_to: 1959
   place: Mayom County Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
@@ -96,6 +98,8 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - circa: true
   calendar_type: GREGORIAN
+  year_range_from: 1957
+  year_range_to: 1959
   place: Mayan, Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
