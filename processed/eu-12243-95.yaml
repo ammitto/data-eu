@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.12243.95
 logical_id: '170110'
 regulations:
@@ -55,9 +54,10 @@ name_aliases:
     number_title: 2024/2697 (OJL14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
 - whole_name: Iran Alumina Company
-  function: "Iran’s sole producer of aluminum oxide (Al2O3) or alumina powder;\na
-    subsidiary of the state-owned mines and metal holding company Iranian Mines and
-    Mining Industries Development and Renovation Organisation \n(IMIDRO)"
+  function: |-
+    Iran’s sole producer of aluminum oxide (Al2O3) or alumina powder;
+    a subsidiary of the state-owned mines and metal holding company Iranian Mines and Mining Industries Development and Renovation Organisation 
+    (IMIDRO)
   name_language: EN
   strong: true
   regulation_language: en

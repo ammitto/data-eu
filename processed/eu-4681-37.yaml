@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4681.37
 logical_id: '117856'
 regulations:
@@ -17,8 +16,9 @@ name_aliases:
 - first_name: Malek
   last_name: REUBEN RIAK RENGU
   whole_name: Malek REUBEN RIAK RENGU
-  function: "a) Deputy Chief of General Staff for Logistics; \nb) Deputy Chief of
-    Defence Staff and Inspector General of the Army"
+  function: |-
+    a) Deputy Chief of General Staff for Logistics; 
+    b) Deputy Chief of Defence Staff and Inspector General of the Army
   title: Lieutenant General
   strong: true
   regulation_language: en

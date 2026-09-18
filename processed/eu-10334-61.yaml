@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10334.61
 logical_id: '154574'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Sergeevich
   last_name: ALYOSHIN
   whole_name: Boris Sergeevich ALYOSHIN
-  function: "Deputy Chairman of LLC “SoyuzMash Russia”; \nAdvisor to the General Director
-    of PJSC “United Aircraft Corporation” on science and technology"
+  function: |-
+    Deputy Chairman of LLC “SoyuzMash Russia”; 
+    Advisor to the General Director of PJSC “United Aircraft Corporation” on science and technology
   gender: M
   name_language: EN
   strong: true

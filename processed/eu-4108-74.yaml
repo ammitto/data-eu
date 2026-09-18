@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4108.74
 logical_id: '113778'
 regulations:
@@ -52,7 +51,10 @@ name_aliases:
   middle_name: Vladimirovich
   last_name: CHEREZOV
   whole_name: Andrey Vladimirovich CHEREZOV
-  function: "Former Vice-Minister for \nEnergy of the Russian \nFederation."
+  function: |-
+    Former Vice-Minister for 
+    Energy of the Russian 
+    Federation.
   gender: M
   strong: true
   regulation_language: en

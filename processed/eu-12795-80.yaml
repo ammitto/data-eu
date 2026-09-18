@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.12795.80
 logical_id: '173255'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική
-    εκπαίδευση της νεολαίας “WARRIOR”
+- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική εκπαίδευση της νεολαίας “WARRIOR”
   name_language: EL
   strong: true
   regulation_language: en
@@ -25,8 +23,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Zentrum für Militärsporttraining und patriotische Erziehung der Jugend
-    (‚KRIEGER‘)
+- whole_name: Zentrum für Militärsporttraining und patriotische Erziehung der Jugend (‚KRIEGER‘)
   name_language: DE
   strong: true
   regulation_language: en
@@ -36,8 +33,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: An tIonad um Oiliúint Spóirt Mhíleata agus um Oideachas tírghrách d’aos
-    óg “WARRIOR”
+- whole_name: An tIonad um Oiliúint Spóirt Mhíleata agus um Oideachas tírghrách d’aos óg “WARRIOR”
   name_language: GA
   strong: true
   regulation_language: en
@@ -47,8 +43,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centar za vojno sportsko osposobljavanje i domoljubno obrazovanje mladih
-    ‚WARRIOR’ (‚RATNIK’)
+- whole_name: Centar za vojno sportsko osposobljavanje i domoljubno obrazovanje mladih ‚WARRIOR’ (‚RATNIK’)
   name_language: HR
   strong: true
   regulation_language: en
@@ -58,8 +53,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrumet för militär idrottsträning och patriotisk ungdomsutbildning
-    ’WARRIOR’
+- whole_name: Centrumet för militär idrottsträning och patriotisk ungdomsutbildning ’WARRIOR’
   name_language: SV
   strong: true
   regulation_language: en
@@ -78,8 +72,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrul pentru instruire sportivă militară și educație patriotică a
-    tineretului «WARRIOR»
+- whole_name: Centrul pentru instruire sportivă militară și educație patriotică a tineretului «WARRIOR»
   name_language: RO
   strong: true
   regulation_language: en
@@ -89,8 +82,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centro de Formação Desportiva Militar e Educação Patriótica da Juventude
-    “WARRIOR"
+- whole_name: Centro de Formação Desportiva Militar e Educação Patriótica da Juventude “WARRIOR"
   name_language: PT
   strong: true
   regulation_language: en
@@ -120,8 +112,7 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrum Sportowego Szkolenia Wojskowego i Edukacji Patriotycznej Młodzieży
-    „WARRIOR”
+- whole_name: Centrum Sportowego Szkolenia Wojskowego i Edukacji Patriotycznej Młodzieży „WARRIOR”
   name_language: PL
   strong: true
   regulation_language: en
@@ -161,11 +152,8 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Center for Military Sports Training and patriotic education of youth
-    “WARRIOR”
-  function: The Center for Military Sports Training and patriotic education of youth
-    “WARRIOR” is a state-led youth organisation established in the Russian Federation
-    to develop patriotic and military education.
+- whole_name: Center for Military Sports Training and patriotic education of youth “WARRIOR”
+  function: The Center for Military Sports Training and patriotic education of youth “WARRIOR” is a state-led youth organisation established in the Russian Federation to develop patriotic and military education.
   name_language: EN
   strong: true
   regulation_language: en

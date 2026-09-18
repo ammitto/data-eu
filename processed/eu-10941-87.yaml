@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10941.87
 logical_id: '159849'
 regulations:
@@ -32,8 +31,10 @@ name_aliases:
   middle_name: Nurgasimovich
   last_name: SULTEEV
   whole_name: Rustem Nurgasimovich SULTEEV
-  function: "First Deputy Chairman of the Management Board of TAIF PSC; \nshareholder
-    of SIBUR; \nco-owner of Vulkan LLC"
+  function: |-
+    First Deputy Chairman of the Management Board of TAIF PSC; 
+    shareholder of SIBUR; 
+    co-owner of Vulkan LLC
   gender: M
   name_language: EN
   strong: true

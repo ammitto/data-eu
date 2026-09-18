@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3583.19
 logical_id: '7510'
 regulations:
@@ -17,8 +16,9 @@ name_aliases:
 - first_name: Ghassan Ahmed
   last_name: GHANNAM
   whole_name: Ghassan Ahmed GHANNAM
-  function: "Member of the Syrian Armed Forces of the rank of Colonel and the equivalent
-    or higher in post after May 2011. \nCommander of the 155th Missile Brigade."
+  function: |-
+    Member of the Syrian Armed Forces of the rank of Colonel and the equivalent or higher in post after May 2011. 
+    Commander of the 155th Missile Brigade.
   gender: M
   title: Major General
   name_language: EN

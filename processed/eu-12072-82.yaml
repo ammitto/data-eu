@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.12072.82
 logical_id: '168554'
 regulations:
@@ -35,9 +34,9 @@ name_aliases:
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - whole_name: Alliance Fleuve Congo (AFC)
-  function: "The “Alliance Fleuve Congo” (AFC) is a politico-military movement operating
-    in Eastern DRC and is openly associated with several \nnon-governmental armed
-    groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC)."
+  function: |-
+    The “Alliance Fleuve Congo” (AFC) is a politico-military movement operating in Eastern DRC and is openly associated with several 
+    non-governmental armed groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC).
   name_language: EN
   strong: true
   regulation_language: en

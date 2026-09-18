@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10413.36
 logical_id: '155531'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Anatolyevich
   last_name: LYSENKO
   whole_name: Eduard Anatolyevich LYSENKO
-  function: "Minister of the Government of Moscow;  \nHead of the Department of Information
-    Technologies of the City of Moscow"
+  function: |-
+    Minister of the Government of Moscow;  
+    Head of the Department of Information Technologies of the City of Moscow
   gender: M
   name_language: EN
   strong: true

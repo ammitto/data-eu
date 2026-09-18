@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.7890.86
 logical_id: '138212'
 regulations:
@@ -73,11 +72,10 @@ name_aliases:
   middle_name: Vladimirovich
   last_name: DERIPASKA
   whole_name: Oleg Vladimirovich DERIPASKA
-  function: "businessperson, owner of Russian Machines, Military Industrial Company
-    and Arzamas Machine-Building Plant;\nowner of Rusal, one of the world’s largest
-    companies in the global aluminium industry; \nbeneficial owner of GAZ Group, a
-    Russian automotive conglomerate which includes the Military Industrial Company
-    LLC"
+  function: |-
+    businessperson, owner of Russian Machines, Military Industrial Company and Arzamas Machine-Building Plant;
+    owner of Rusal, one of the world’s largest companies in the global aluminium industry; 
+    beneficial owner of GAZ Group, a Russian automotive conglomerate which includes the Military Industrial Company LLC
   gender: M
   name_language: EN
   strong: true

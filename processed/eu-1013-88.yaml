@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.1013.88
 logical_id: '1012'
 regulations:
@@ -41,8 +40,7 @@ name_aliases:
     publication_date: '2003-03-06'
     number_title: 414/2003 (OJ L62)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
-- whole_name: The Sabotage and Military Surveillance Group of the Riyadh al-Salihin
-    Martyrs
+- whole_name: The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs
   strong: true
   regulation_language: en
   logical_id: '2173'

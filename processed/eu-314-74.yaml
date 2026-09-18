@@ -1,9 +1,6 @@
----
 eu_reference_number: EU.314.74
 logical_id: '544'
-remark: 'Belongs to Andar tribe. Review pursuant to Security Council Resolution 1822
-  (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice
-  web link: https://www.interpol.int/en/ notice/search/un/1427388'
+remark: 'Belongs to Andar tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/ notice/search/un/1427388'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -21,8 +18,7 @@ name_aliases:
   middle_name: Taher
   last_name: Anwari
   whole_name: Muhammad Taher Anwari
-  function: "(a) Director of Administrative Affairs under the Taliban regime, (b)
-    Minister of Finance under the Taliban regime."
+  function: "(a) Director of Administrative Affairs under the Taliban regime, (b) Minister of Finance under the Taliban regime."
   title: Mullah
   strong: true
   regulation_language: en

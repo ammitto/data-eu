@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11119.88
 logical_id: '161952'
 regulations:
@@ -39,8 +38,9 @@ name_aliases:
 - first_name: María Consuelo
   last_name: PORRAS ARGUETA DE PORRES
   whole_name: María Consuelo PORRAS ARGUETA DE PORRES
-  function: "Attorney General of Guatemala, \nHead of the Public Ministry (Ministerio
-    Público) of Guatemala"
+  function: |-
+    Attorney General of Guatemala, 
+    Head of the Public Ministry (Ministerio Público) of Guatemala
   gender: F
   name_language: ES
   strong: true

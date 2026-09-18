@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4190.72
 logical_id: '5502'
 regulations:
@@ -43,10 +42,7 @@ name_aliases:
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
 - whole_name: Namchongang Trading Corporation
-  function: Namchongang is a North Korean trading company subordinate to the GBAE.
-    Namchongang has been involved in the procurement of Japanese-origin vacuum pumps
-    that were identified at a North Korean nuclear facility, as well as nuclear-related
-    procurement associated with a German individual.
+  function: Namchongang is a North Korean trading company subordinate to the GBAE. Namchongang has been involved in the procurement of Japanese-origin vacuum pumps that were identified at a North Korean nuclear facility, as well as nuclear-related procurement associated with a German individual.
   strong: true
   regulation_language: en
   logical_id: '7227'

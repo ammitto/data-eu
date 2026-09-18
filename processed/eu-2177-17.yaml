@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.2177.17
 logical_id: '5278'
 regulations:
@@ -15,7 +14,9 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Mohammad  SHAFI'I RUDSARI
-  function: "Former MODAFL \nDeputy for Coordination"
+  function: |-
+    Former MODAFL 
+    Deputy for Coordination
   title: Rear Admiral
   strong: true
   regulation_language: en

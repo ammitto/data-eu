@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10944.84
 logical_id: '159865'
 regulations:
@@ -58,8 +57,9 @@ name_aliases:
   middle_name: Okroevich
   last_name: OKROYAN
   whole_name: Mkrtich Okroevich OKROYAN
-  function: "Chief Designer at Soyuz, an entity of Russia’s military-industrial complex;
-    \nBoard member of OJSC Balashikha Casting and Mechanical Plant"
+  function: |-
+    Chief Designer at Soyuz, an entity of Russia’s military-industrial complex; 
+    Board member of OJSC Balashikha Casting and Mechanical Plant
   gender: M
   strong: true
   regulation_language: en

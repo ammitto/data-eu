@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4178.81
 logical_id: '108637'
 regulations:
@@ -28,10 +27,9 @@ name_aliases:
 - first_name: Jong-gak
   last_name: KIM
   whole_name: Jong-gak KIM
-  function: "Former Director of the General Political Department of the Korean's People's
-    Army.  Vice Marshal in the Korean People's Army, rector \nof  the Military University
-    of Kim Il-Sung, former Minister of the People's Armed Forces and  former member
-    of  the Central Military Commission of  the Workers' Party of Korea."
+  function: |-
+    Former Director of the General Political Department of the Korean's People's Army.  Vice Marshal in the Korean People's Army, rector 
+    of  the Military University of Kim Il-Sung, former Minister of the People's Armed Forces and  former member of  the Central Military Commission of  the Workers' Party of Korea.
   gender: M
   name_language: EN
   strong: true

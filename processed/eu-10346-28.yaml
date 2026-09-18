@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10346.28
 logical_id: '154635'
 regulations:
@@ -46,8 +45,9 @@ name_aliases:
   middle_name: Valeryevich
   last_name: SLADKOV
   whole_name: Alexander Valeryevich SLADKOV
-  function: "Member of the “working group special military operation” established
-    per decree by President Putin; \nJournalist, War correspondent for VGTRK"
+  function: |-
+    Member of the “working group special military operation” established per decree by President Putin; 
+    Journalist, War correspondent for VGTRK
   gender: M
   name_language: EN
   strong: true

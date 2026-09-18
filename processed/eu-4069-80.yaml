@@ -1,8 +1,6 @@
----
 eu_reference_number: EU.4069.80
 logical_id: '110317'
-remark: Son Mun San is the Director-General of the External Affairs Bureau of the
-  General Bureau of Atomic Energy (GBAE), a designated entity.
+remark: Son Mun San is the Director-General of the External Affairs Bureau of the General Bureau of Atomic Energy (GBAE), a designated entity.
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -20,8 +18,7 @@ name_aliases:
   middle_name: San
   last_name: Son
   whole_name: Mun San Son
-  function: Son Mun San is the Director-General of the External Affairs Bureau of
-    the General Bureau of Atomic Energy (GBAE), a designated entity.
+  function: Son Mun San is the Director-General of the External Affairs Bureau of the General Bureau of Atomic Energy (GBAE), a designated entity.
   name_language: EN
   strong: true
   regulation_language: en

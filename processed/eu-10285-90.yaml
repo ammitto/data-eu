@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10285.90
 logical_id: '154396'
 regulations:
@@ -18,9 +17,9 @@ name_aliases:
   middle_name: Vladimirovich
   last_name: BURDINSKIY
   whole_name: Yevgeniy Vladimirovich BURDINSKIY
-  function: "Head of the Main Organisational and Mobilization Directorate of the General
-    Staff of the Armed Forces of the Russian Federation; \nDeputy Chief of the General
-    Staff of the Armed Forces of the Russian Federation"
+  function: |-
+    Head of the Main Organisational and Mobilization Directorate of the General Staff of the Armed Forces of the Russian Federation; 
+    Deputy Chief of the General Staff of the Armed Forces of the Russian Federation
   gender: M
   title: Colonel  General
   name_language: EN

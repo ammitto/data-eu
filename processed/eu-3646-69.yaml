@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3646.69
 logical_id: '7298'
 remark: none
@@ -33,8 +32,10 @@ name_aliases:
   middle_name: Eduardovich
   last_name: SLUTSKI
   whole_name: Leonid Eduardovich SLUTSKI
-  function: "Chairman of the LDPR party, \nHead of the State Duma LDPR faction,  \nChairperson
-    of the Foreign Affairs Committee of the State Duma of the Russian Federation."
+  function: |-
+    Chairman of the LDPR party, 
+    Head of the State Duma LDPR faction,  
+    Chairperson of the Foreign Affairs Committee of the State Duma of the Russian Federation.
   gender: M
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10253.88
 logical_id: '154207'
 regulations:
@@ -46,9 +45,9 @@ name_aliases:
   middle_name: Vladimirovich
   last_name: GORSHENIN
   whole_name: Oleg Vladimirovich GORSHENIN
-  function: "Head of the National Defence Control Center of the Russian Federation;
-    Member of the “working \ngroup special military operation” established per decree
-    by President Putin"
+  function: |-
+    Head of the National Defence Control Center of the Russian Federation; Member of the “working 
+    group special military operation” established per decree by President Putin
   gender: M
   title: Major General
   name_language: EN

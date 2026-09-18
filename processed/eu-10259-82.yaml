@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10259.82
 logical_id: '154240'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Evgenievich
   last_name: PODDUBNYY
   whole_name: Evgeniy Evgenievich PODDUBNYY
-  function: "Member of the “working group special military operation” established
-    per decree by President Putin; \nJournalist, War correspondent for VGTRK"
+  function: |-
+    Member of the “working group special military operation” established per decree by President Putin; 
+    Journalist, War correspondent for VGTRK
   gender: M
   name_language: EN
   strong: true

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10303.58
 logical_id: '154486'
 regulations:
@@ -32,10 +31,10 @@ name_aliases:
   middle_name: Abdulvagapovich
   last_name: SABITOV
   whole_name: Rifat Abdulvagapovich SABITOV
-  function: "Deputy Director General of All-Russia Television and Radio Broadcasting
-    Company (VGTRK); \nChairman of the Commission for the Development of the Information
-    Society, Mass Media and Mass Communications of Civic Chamber of the RF;\nChairman
-    of the Public Council under the Ministry of Digital Development of Russia"
+  function: |-
+    Deputy Director General of All-Russia Television and Radio Broadcasting Company (VGTRK); 
+    Chairman of the Commission for the Development of the Information Society, Mass Media and Mass Communications of Civic Chamber of the RF;
+    Chairman of the Public Council under the Ministry of Digital Development of Russia
   gender: M
   name_language: EN
   strong: true

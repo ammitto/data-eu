@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6020.49
 logical_id: '126698'
 regulations:
@@ -60,10 +59,9 @@ name_aliases:
   middle_name: Kanstantinavich
   last_name: DUNKA
   whole_name: Arciom Kanstantinavich DUNKA
-  function: "Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department
-    of Financial Investigations of the State Control Committee, \nformer Senior Inspector
-    for Special Matters of the Department of Financial Investigations of the State
-    Control Committee"
+  function: |-
+    Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department of Financial Investigations of the State Control Committee, 
+    former Senior Inspector for Special Matters of the Department of Financial Investigations of the State Control Committee
   gender: M
   name_language: EN
   strong: true

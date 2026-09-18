@@ -1,8 +1,6 @@
----
 eu_reference_number: EU.4402.72
 logical_id: '115960'
-remark: Brigadier General; Doctor; Head of Security Office, Scientific Studies and
-  Research Centre (SSRC)
+remark: Brigadier General; Doctor; Head of Security Office, Scientific Studies and Research Centre (SSRC)
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -40,8 +38,7 @@ name_aliases:
 - first_name: Yusuf
   last_name: Ajeeb
   whole_name: Yusuf Ajeeb
-  function: Brigadier General; Doctor; Head of Security Office, Scientific Studies
-    and Research Centre (SSRC)
+  function: Brigadier General; Doctor; Head of Security Office, Scientific Studies and Research Centre (SSRC)
   gender: M
   strong: true
   regulation_language: en

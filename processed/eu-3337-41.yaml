@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3337.41
 logical_id: '108470'
 regulations:
@@ -47,9 +46,7 @@ name_aliases:
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - whole_name: Muhammad Sholeh Ibrahim
-  function: 'Has served as the acting emir of Jemmah Anshorut Tauhid (JAT) since 2014
-    and has supported Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
-    in Iraq. Profession: Lecturer/Private Teacher.'
+  function: 'Has served as the acting emir of Jemmah Anshorut Tauhid (JAT) since 2014 and has supported Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq. Profession: Lecturer/Private Teacher.'
   title: Ustad
   name_language: EN
   strong: true
@@ -106,8 +103,7 @@ birthdates:
     number_title: 2016/647 (OJ L109)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
 addresses:
-- city: Masjid Baitul Amin, Waringinrejo RT 01 RW 02, Grogol, Cemani, Sukoharjo, Jawa
-    Tengah
+- city: Masjid Baitul Amin, Waringinrejo RT 01 RW 02, Grogol, Cemani, Sukoharjo, Jawa Tengah
   country_iso2_code: ID
   country_description: INDONESIA
   zip_code: '57572'
@@ -118,8 +114,7 @@ addresses:
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- city: Desa Cemani, Waringinrejo RT 001/021, Kecamatan Grogol, Kabupaten Sukoharjo,
-    Jawa Tengah
+- city: Desa Cemani, Waringinrejo RT 001/021, Kecamatan Grogol, Kabupaten Sukoharjo, Jawa Tengah
   country_iso2_code: ID
   country_description: INDONESIA
   regulation_language: en

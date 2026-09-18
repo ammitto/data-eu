@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6393.50
 logical_id: '130197'
 regulations:
@@ -94,8 +93,9 @@ name_aliases:
   middle_name: Henadzevich
   last_name: BAKHANOVICH
   whole_name: Aliaksandr Henadzevich BAKHANOVICH
-  function: "First Deputy Minister of Education, \nformer Rector of the Brest State
-    Technical University"
+  function: |-
+    First Deputy Minister of Education, 
+    former Rector of the Brest State Technical University
   gender: M
   name_language: EN
   strong: true

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.2522.47
 logical_id: '6214'
 regulations:
@@ -17,9 +16,9 @@ name_aliases:
 - first_name: Mohammad-Reza
   last_name: NAQDI
   whole_name: Mohammad-Reza NAQDI
-  function: "Deputy Coordinator of the Islamic Revolutionary Guard Corps (IRGC). Former
-    Deputy Chief of the IRGC for cultural and social affairs. \nFormer Commander of
-    the Basij (2009-2016)."
+  function: |-
+    Deputy Coordinator of the Islamic Revolutionary Guard Corps (IRGC). Former Deputy Chief of the IRGC for cultural and social affairs. 
+    Former Commander of the Basij (2009-2016).
   gender: M
   title: Brigadier-General
   strong: true

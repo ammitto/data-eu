@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3505.38
 logical_id: '7289'
 regulations:
@@ -18,10 +17,10 @@ name_aliases:
   middle_name: Alekseevich
   last_name: OZEROV
   whole_name: Viktor Alekseevich OZEROV
-  function: "Consultant of the Foundation Rospolitika since October 2019. \nDeputy
-    Head of the Consulting Centre \"Tactical Solutions Agency\" in the Russian Presidential
-    Academy of National Economy and Public Administration. \nChairman of the Coordinating
-    Council of the Non-State Sphere of Security of the Russian Federation."
+  function: |-
+    Consultant of the Foundation Rospolitika since October 2019. 
+    Deputy Head of the Consulting Centre "Tactical Solutions Agency" in the Russian Presidential Academy of National Economy and Public Administration. 
+    Chairman of the Coordinating Council of the Non-State Sphere of Security of the Russian Federation.
   gender: M
   strong: true
   regulation_language: en

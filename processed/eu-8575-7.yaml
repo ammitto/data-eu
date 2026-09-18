@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.8575.7
 logical_id: '142675'
 regulations:
@@ -24,11 +23,12 @@ name_aliases:
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Alexei WEITZ
-  function: "Alexei Weitz is a member and spiritual leader of the nationalist \nmotorcycle
-    club Nightwolves MC, with close personal links to the \nNightwolves MC leader
-    Alexander Zaldostanov. He is responsible for \nlinking the Nightwolves MC with
-    the Russian Orthodox Church and \nshaping its leaders’ worldview. He has previously
-    acted as press secre ..."
+  function: |-
+    Alexei Weitz is a member and spiritual leader of the nationalist 
+    motorcycle club Nightwolves MC, with close personal links to the 
+    Nightwolves MC leader Alexander Zaldostanov. He is responsible for 
+    linking the Nightwolves MC with the Russian Orthodox Church and 
+    shaping its leaders’ worldview. He has previously acted as press secre ...
   gender: M
   strong: true
   regulation_language: en

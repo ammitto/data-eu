@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.7555.81
 logical_id: '136282'
 regulations:
@@ -59,10 +58,10 @@ name_aliases:
   middle_name: Leonidovich
   last_name: VOINOV
   whole_name: Oleg Leonidovich VOINOV
-  function: "Director of National Historical Archives of Belarus.\nFormer Head of
-    the International Military Cooperation Department of the Belarusian Ministry of
-    Defence and Assistant to the Minister of \nDefence for International Military
-    Cooperation."
+  function: |-
+    Director of National Historical Archives of Belarus.
+    Former Head of the International Military Cooperation Department of the Belarusian Ministry of Defence and Assistant to the Minister of 
+    Defence for International Military Cooperation.
   gender: M
   name_language: EN
   strong: true

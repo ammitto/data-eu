@@ -1,9 +1,8 @@
----
 eu_reference_number: EU.3717.93
 logical_id: '7495'
-remark: "Address: Located in the Afghanistan / Pakistan Border Area. \nINTERPOL-UN
-  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/
-  un/5807181"
+remark: |-
+  Address: Located in the Afghanistan / Pakistan Border Area. 
+  INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/ un/5807181
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -18,8 +17,7 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Muhammad Omar Zadran
-  function: Haqqani Network (HQN) leader in command of over 100 militants active in
-    Khost Province, Afghanistan as of 2013.
+  function: Haqqani Network (HQN) leader in command of over 100 militants active in Khost Province, Afghanistan as of 2013.
   title: "(a) Maulavi, (b) Mullah"
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.8813.28
 logical_id: '144585'
 regulations:
@@ -45,8 +44,7 @@ name_aliases:
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: Central Election Commission (CEC)
-  function: Russian state body responsible for organizing elections and referendums
-    for the Russian Federation
+  function: Russian state body responsible for organizing elections and referendums for the Russian Federation
   strong: true
   regulation_language: en
   logical_id: '144587'

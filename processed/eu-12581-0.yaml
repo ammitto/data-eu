@@ -1,8 +1,9 @@
----
 eu_reference_number: EU.12581.0
 logical_id: '171497'
-remark: "Associated individual: Li Xiaocui (“Sofya Li”, “Sophia Li”)\nAssociated entities:\n-\tShijiazhuang
-  Hanqiang Technology Co. Ltd"
+remark: |-
+  Associated individual: Li Xiaocui (“Sofya Li”, “Sophia Li”)
+  Associated entities:
+  -	Shijiazhuang Hanqiang Technology Co. Ltd
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,11 +18,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: ARCLM International Trading Co. Ltd
-  function: ARCLM International Trading Co. Ltd is a Hong Kong based provider for
-    various types of machinery. ARCLM International Trading Co. repeatedly exported
-    products of European origin to Russian companies while those products were subject
-    to Union export restrictions, notably to the company Unimatik, a major actor in
-    the Russian Military-Industrial Complex.
+  function: ARCLM International Trading Co. Ltd is a Hong Kong based provider for various types of machinery. ARCLM International Trading Co. repeatedly exported products of European origin to Russian companies while those products were subject to Union export restrictions, notably to the company Unimatik, a major actor in the Russian Military-Industrial Complex.
   name_language: EN
   strong: true
   regulation_language: en

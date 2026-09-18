@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10943.85
 logical_id: '159860'
 regulations:
@@ -46,8 +45,9 @@ name_aliases:
   middle_name: Musavirovich
   last_name: AFZALOV
   whole_name: Viktor Musavirovich AFZALOV
-  function: "Acting Commander-in-Chief of Russian Aerospace Forces; \nChief of the
-    General Staff of Russian Aerospace Forces"
+  function: |-
+    Acting Commander-in-Chief of Russian Aerospace Forces; 
+    Chief of the General Staff of Russian Aerospace Forces
   gender: M
   title: Colonel-General
   name_language: EN

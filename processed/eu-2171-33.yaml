@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.2171.33
 logical_id: '5271'
 regulations:
@@ -18,8 +17,9 @@ name_aliases:
   middle_name: Ali
   last_name: JAFARI
   whole_name: Mohammad Ali JAFARI
-  function: "Former Commander of the IRGC. Currently head of the Hazrat Baqiatollah
-    al-Azam Cultural and Social \nHeadquarters."
+  function: |-
+    Former Commander of the IRGC. Currently head of the Hazrat Baqiatollah al-Azam Cultural and Social 
+    Headquarters.
   gender: M
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11836.92
 logical_id: '167349'
 regulations:
@@ -17,8 +16,10 @@ name_aliases:
 - first_name: Mustafa Ibrahim
   last_name: ABDEL NABI MOHAMED
   whole_name: Mustafa Ibrahim ABDEL NABI MOHAMED
-  function: "Director of al-Khaleej Bank; \nmajority shareholder of Shield Protective
-    Solutions Co. Ltd. (Sudan); \nfinancial adviser to the leader of the RSF"
+  function: |-
+    Director of al-Khaleej Bank; 
+    majority shareholder of Shield Protective Solutions Co. Ltd. (Sudan); 
+    financial adviser to the leader of the RSF
   gender: M
   name_language: EN
   strong: true

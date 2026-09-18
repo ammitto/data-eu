@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.14160.3
 logical_id: '181587'
 regulations:
@@ -98,8 +97,7 @@ name_aliases:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 addresses:
-- street: Skolkovo Innovation Center Territory, Nobelya Street, 7, Floor 4, Room/Workplace
-    15/6,
+- street: Skolkovo Innovation Center Territory, Nobelya Street, 7, Floor 4, Room/Workplace 15/6,
   city: Moscow
   region: internal territory of Mozhaysky municipal district
   country_iso2_code: RU

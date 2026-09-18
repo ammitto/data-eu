@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10306.55
 logical_id: '154503'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Andreevich
   last_name: ZLATOPOLSKIY
   whole_name: Anton Andreevich ZLATOPOLSKIY
-  function: "First Deputy Director General of All-Russia Television and Radio Broadcasting
-    Company (VGTRK); \nDirector General of Rossiya 1 TV Channel"
+  function: |-
+    First Deputy Director General of All-Russia Television and Radio Broadcasting Company (VGTRK); 
+    Director General of Rossiya 1 TV Channel
   gender: M
   name_language: EN
   strong: true

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6412.17
 logical_id: '130334'
 regulations:
@@ -69,7 +68,10 @@ name_aliases:
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Uladzimir Iosifavich LAPYR
-  function: "Deputy Head of the \nAkrestina Temporary \nDetention Centre"
+  function: |-
+    Deputy Head of the 
+    Akrestina Temporary 
+    Detention Centre
   gender: M
   strong: true
   regulation_language: en

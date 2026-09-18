@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10258.83
 logical_id: '154234'
 regulations:
@@ -32,9 +31,9 @@ name_aliases:
   middle_name: Andreevich
   last_name: MEDVEDEV
   whole_name: Andrey Andreevich MEDVEDEV
-  function: "Deputy Chairman of the Moscow (City) Duma; deputy general director of
-    VGTRK; Member of the “working \ngroup special military operation” established
-    per decree by President Putin; journalist"
+  function: |-
+    Deputy Chairman of the Moscow (City) Duma; deputy general director of VGTRK; Member of the “working 
+    group special military operation” established per decree by President Putin; journalist
   gender: M
   name_language: EN
   strong: true

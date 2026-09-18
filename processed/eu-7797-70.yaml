@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.7797.70
 logical_id: '137672'
 regulations:
@@ -73,11 +72,10 @@ name_aliases:
   middle_name: Nikolayevich
   last_name: SHOKHIN
   whole_name: Alexander Nikolayevich SHOKHIN
-  function: "President of the Russian Union of Industrialists and Entrepreneurs (RSPP)
-    – a lobby group, which promotes the interests of business in Russia; He also chairs
-    the Coordinating Council on Import Substitution and Technological Independence
-    of RSPP.  \nFormer Deputy Chairman of Mechel PAO's Board of Directors. \nMember
-    of the Bureau of the General Council of political party \"United Russia\""
+  function: |-
+    President of the Russian Union of Industrialists and Entrepreneurs (RSPP) – a lobby group, which promotes the interests of business in Russia; He also chairs the Coordinating Council on Import Substitution and Technological Independence of RSPP.  
+    Former Deputy Chairman of Mechel PAO's Board of Directors. 
+    Member of the Bureau of the General Council of political party "United Russia"
   gender: M
   name_language: EN
   strong: true

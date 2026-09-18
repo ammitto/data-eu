@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4054.60
 logical_id: '7571'
 regulations:
@@ -15,12 +14,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Sparta battalion
-  function: "Armed separatist group which has actively sup­ported actions \nwhich
-    undermine the territorial integrity,  sovereignty and  independence of Ukraine
-    and further destabilise Ukraine. \nPart  of  the  so-called ‘1st  Army  Corps’
-    \ of  the ‘Donetsk People's Republic’. Referred  to  as  the military  unit  08806.
-    \nIn  November 2017, the unit  was  named in  honour of  the  assassinated separatist
-    military  commander Arsen Pavlov \n(aka Motorola)."
+  function: |-
+    Armed separatist group which has actively sup­ported actions 
+    which undermine the territorial integrity,  sovereignty and  independence of Ukraine and further destabilise Ukraine. 
+    Part  of  the  so-called ‘1st  Army  Corps’  of  the ‘Donetsk People's Republic’. Referred  to  as  the military  unit  08806. 
+    In  November 2017, the unit  was  named in  honour of  the  assassinated separatist military  commander Arsen Pavlov 
+    (aka Motorola).
   strong: true
   regulation_language: en
   logical_id: '18559'

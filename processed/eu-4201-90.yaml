@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4201.90
 logical_id: '6854'
 regulations:
@@ -15,8 +14,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Korea Kwangsong Trading Corporation
-  function: The Korea Ryongbong General Corporation is the parent company of Korea
-    Kwangsong Trading Corporation.
+  function: The Korea Ryongbong General Corporation is the parent company of Korea Kwangsong Trading Corporation.
   strong: true
   regulation_language: en
   logical_id: '15081'

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13823.5
 logical_id: '179811'
 regulations:
@@ -15,9 +14,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Prom Composite Limited  Liability Company
-  function: "A Russian company developing and producing unmanned aerial vehicles (UAVs).
-    Its portfolio includes UAV models such as UAV-KT “Lisa”, \nUAV-KT “Volk”, first-person
-    view (FPV) UAV “Dozor” and FPV UAV “Vespa”, as well as large radar domes."
+  function: |-
+    A Russian company developing and producing unmanned aerial vehicles (UAVs). Its portfolio includes UAV models such as UAV-KT “Lisa”, 
+    UAV-KT “Volk”, first-person view (FPV) UAV “Dozor” and FPV UAV “Vespa”, as well as large radar domes.
   name_language: EN
   strong: true
   regulation_language: en

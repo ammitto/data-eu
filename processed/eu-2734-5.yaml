@@ -1,8 +1,6 @@
----
 eu_reference_number: EU.2734.5
 logical_id: '7195'
-designation_details: 'Associated entities: Aerospace Industries Organization (AIO);
-  Islamic Revolutionary Guard Corps (IRGC)'
+designation_details: 'Associated entities: Aerospace Industries Organization (AIO); Islamic Revolutionary Guard Corps (IRGC)'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,10 +15,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Sharif University of Technology
-  function: Sharif University of Technology (SUT) has a number of cooperation agreements
-    with Iranian Government organisations which are designated by the UN and/or the
-    EU and which operate in military or military-related fields, particularly in the
-    field of ballistic missile production and procurement.
+  function: Sharif University of Technology (SUT) has a number of cooperation agreements with Iranian Government organisations which are designated by the UN and/or the EU and which operate in military or military-related fields, particularly in the field of ballistic missile production and procurement.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10946.82
 logical_id: '159876'
 regulations:
@@ -86,8 +85,9 @@ name_aliases:
   middle_name: Aleksandrovna
   last_name: KLYMENKO
   whole_name: Yulia Aleksandrovna KLYMENKO
-  function: "Leader of “Yug Molodoy” movement; \nChairperson of the regional wing
-    of the “Young Guard” of President Putin’s “United Russia” party"
+  function: |-
+    Leader of “Yug Molodoy” movement; 
+    Chairperson of the regional wing of the “Young Guard” of President Putin’s “United Russia” party
   gender: F
   name_language: EN
   strong: true

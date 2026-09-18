@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13990.91
 logical_id: '180750'
 remark: 'Type of entity: Private Limited Company'
@@ -36,8 +35,7 @@ name_aliases:
     number_title: 2026/262 (OJ L202600262)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
 addresses:
-- street: Tehran Leyzan Hossein Abad Javanshir Street, Corner of Ordibehesht St.,
-    No. 10
+- street: Tehran Leyzan Hossein Abad Javanshir Street, Corner of Ordibehesht St., No. 10
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en

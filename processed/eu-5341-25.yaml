@@ -1,9 +1,10 @@
----
 eu_reference_number: EU.5341.25
 logical_id: '121825'
-remark: "Amendment of Regulation 881/2002 in preparation\nExecutive of the Organization
-  of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). \nEye colour: brown. Hair colour:
-  dark\nUNLI-4.2.2020"
+remark: |-
+  Amendment of Regulation 881/2002 in preparation
+  Executive of the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014). 
+  Eye colour: brown. Hair colour: dark
+  UNLI-4.2.2020
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -68,8 +69,7 @@ name_aliases:
 - first_name: Amadou
   last_name: Koufa
   whole_name: Amadou Koufa
-  function: Executive of the Organization of Al-Qaida in the Islamic Maghreb (AQIM)
-    (QDe.014)
+  function: Executive of the Organization of Al-Qaida in the Islamic Maghreb (AQIM) (QDe.014)
   gender: M
   strong: true
   regulation_language: en

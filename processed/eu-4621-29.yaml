@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4621.29
 logical_id: '117485'
 designation_details: 'Date of listing: 25/06/2018'
@@ -18,9 +17,9 @@ name_aliases:
 - first_name: Aung Kyaw
   last_name: Zaw
   whole_name: Aung Kyaw Zaw
-  function: "Lieutenant General Aung Kyaw Zaw was the Commander of  the  Bureau of
-    \ Special Operations No. 3 of the Myanmar Armed Forces \n(Tatmadaw) from August
-    2015 to the end of 2017."
+  function: |-
+    Lieutenant General Aung Kyaw Zaw was the Commander of  the  Bureau of  Special Operations No. 3 of the Myanmar Armed Forces 
+    (Tatmadaw) from August 2015 to the end of 2017.
   gender: M
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.14438.18
 logical_id: '182872'
 designation_details: 'Type of entity: Federal State Public Educational Institution'
@@ -55,9 +54,7 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Федеральное государственное казённое общеобразовательное учреждение
-    “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской
-    Федерации”
+- whole_name: Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”
   name_language: RU
   strong: true
   regulation_language: en
@@ -67,8 +64,7 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Federal State Public Educational Institution “Nakhimov Naval School
-    of the Order of Honor of the Ministry of Defense of the Russian Federation”
+- whole_name: Federal State Public Educational Institution “Nakhimov Naval School of the Order of Honor of the Ministry of Defense of the Russian Federation”
   name_language: EN
   strong: true
   regulation_language: en

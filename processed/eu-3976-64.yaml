@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3976.64
 logical_id: '3829'
 designation_details: UN designation 23/12/2006 (no longer valid)
@@ -236,8 +235,7 @@ name_aliases:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- street: Damavand Tehran Highway, No 5, Eslami St., Golestane Sevvom St., Pasdaran
-    St.
+- street: Damavand Tehran Highway, No 5, Eslami St., Golestane Sevvom St., Pasdaran St.
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

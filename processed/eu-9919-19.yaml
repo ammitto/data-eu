@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.9919.19
 logical_id: '151447'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Rakhmatulovich
   last_name: IBATULLIN
   whole_name: Ramil Rakhmatulovich IBATULLIN
-  function: "Member of the armed forces of the Russian Federation, \nformer commander
-    of the 90th guards tank division"
+  function: |-
+    Member of the armed forces of the Russian Federation, 
+    former commander of the 90th guards tank division
   gender: M
   title: Colonel
   name_language: EN

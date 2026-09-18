@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.5837.95
 logical_id: '125666'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Федеральное государственное унитарное предприятие «Крымская железная
-    дорога»
+- whole_name: Федеральное государственное унитарное предприятие «Крымская железная дорога»
   strong: true
   regulation_language: en
   logical_id: '125670'

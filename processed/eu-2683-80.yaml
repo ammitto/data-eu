@@ -1,8 +1,6 @@
----
 eu_reference_number: EU.2683.80
 logical_id: '6688'
-remark: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing equipment
-  and materials, which have direct applications in the Iranian nuclear programme.
+remark: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing equipment and materials, which have direct applications in the Iranian nuclear programme.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,8 +14,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: TABA (Iran Cutting Tools Manufacturing company - Taba Towlid Abzar Boreshi
-    Iran)
+- whole_name: TABA (Iran Cutting Tools Manufacturing company - Taba Towlid Abzar Boreshi Iran)
   strong: true
   regulation_language: en
   logical_id: '14845'

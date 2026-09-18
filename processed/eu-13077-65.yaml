@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13077.65
 logical_id: '175120'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с Ограниченной Ответственностью “Центр Комплексных Беспилотных
-    Решений”
+- whole_name: Общество с Ограниченной Ответственностью “Центр Комплексных Беспилотных Решений”
   name_language: RU
   strong: true
   regulation_language: en
@@ -26,8 +24,7 @@ name_aliases:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company “Center for Integrated Unmanned Solutions”
-  function: LLC “Center for Integrated Unmanned Solutions” is a company based in Zhukovsky
-    in the Moscow Oblast and part of the Russian military and industrial complex.
+  function: LLC “Center for Integrated Unmanned Solutions” is a company based in Zhukovsky in the Moscow Oblast and part of the Russian military and industrial complex.
   title: Limited Liability Company
   name_language: EN
   strong: true
@@ -77,8 +74,7 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű
-    \ Társaság"
+- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű  Társaság"
   name_language: HU
   strong: true
   regulation_language: en

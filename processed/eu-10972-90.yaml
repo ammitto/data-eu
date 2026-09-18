@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10972.90
 logical_id: '160052'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: S.A. “Institut de recherche scientifique en ingénierie instrumentale
-    V.V.Tikhomirov”
+- whole_name: S.A. “Institut de recherche scientifique en ingénierie instrumentale V.V.Tikhomirov”
   name_language: FR
   strong: true
   regulation_language: en
@@ -125,8 +123,7 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima “Instituto de Investigación de Ingeniería de Instrumentación
-    V.V. Tikhomirov”
+- whole_name: sociedad anónima “Instituto de Investigación de Ingeniería de Instrumentación V.V. Tikhomirov”
   name_language: ES
   strong: true
   regulation_language: en

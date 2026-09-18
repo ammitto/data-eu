@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10345.29
 logical_id: '154630'
 regulations:
@@ -46,8 +45,9 @@ name_aliases:
   middle_name: Sergeevich
   last_name: ZVINCHUK
   whole_name: Mikhail Sergeevich ZVINCHUK
-  function: "Member of the “working group special military operation” established
-    per decree by President Putin; \nCreator of the military telegram channel “Rybar”"
+  function: |-
+    Member of the “working group special military operation” established per decree by President Putin; 
+    Creator of the military telegram channel “Rybar”
   gender: M
   name_language: EN
   strong: true

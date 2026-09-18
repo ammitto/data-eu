@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.8974.44
 logical_id: '145157'
 regulations:
@@ -44,9 +43,7 @@ name_aliases:
     number_title: 2022/1985 (OJ L272 I)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
 - whole_name: Shahed Aviation Industries
-  function: an Islamic Revolutionary Guard Corps Aerospace Force-linked company in
-    Iran responsible for the design and development of the Shahed series of Iranian
-    Unmanned Aerial Vehicles (UAVs)
+  function: an Islamic Revolutionary Guard Corps Aerospace Force-linked company in Iran responsible for the design and development of the Shahed series of Iranian Unmanned Aerial Vehicles (UAVs)
   strong: true
   regulation_language: en
   logical_id: '145159'

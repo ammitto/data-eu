@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4684.34
 logical_id: '117898'
 regulations:
@@ -25,10 +24,10 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Adnan Abou Walid Al-Sahraoui
-  function: "Former spokesperson of the Mouvement pour l’Unification et le Jihad en
-    Afrique de l’Ouest (MUJAO). \nEmir of the Al-Mourabitoun group in Mali. \nPledged
-    allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
-    in Iraq."
+  function: |-
+    Former spokesperson of the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO). 
+    Emir of the Al-Mourabitoun group in Mali. 
+    Pledged allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq.
   name_language: EN
   strong: true
   regulation_language: en

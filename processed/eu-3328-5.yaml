@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3328.5
 logical_id: '6509'
 regulations:
@@ -43,8 +42,9 @@ name_aliases:
 - first_name: Samir
   last_name: HASSAN
   whole_name: Samir HASSAN
-  function: "Leading businessperson operating in Syria. \nPresident of the Syria-Russia
-    Business Council."
+  function: |-
+    Leading businessperson operating in Syria. 
+    President of the Syria-Russia Business Council.
   gender: M
   name_language: EN
   strong: true

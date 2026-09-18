@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11512.34
 logical_id: '165149'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ФКП “КГКПЗ”, Федеральное Казенное Предприятие “Казанский Государственный
-    Казенный Пороховой Завод”
+- whole_name: ФКП “КГКПЗ”, Федеральное Казенное Предприятие “Казанский Государственный Казенный Пороховой Завод”
   name_language: RU
   strong: true
   regulation_language: en

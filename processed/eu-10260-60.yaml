@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10260.60
 logical_id: '154246'
 regulations:
@@ -46,8 +45,9 @@ name_aliases:
   middle_name: Yurievich
   last_name: CHAIKA
   whole_name: Igor Yurievich CHAIKA
-  function: "Russian businessman; Chairman of the Public \nCouncil under Rossotrudnichestvo
-    since 2022"
+  function: |-
+    Russian businessman; Chairman of the Public 
+    Council under Rossotrudnichestvo since 2022
   gender: M
   name_language: EN
   strong: true

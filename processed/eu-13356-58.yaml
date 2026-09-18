@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13356.58
 logical_id: '177053'
 designation_details: Limited Liability Company
@@ -15,8 +14,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с ограниченной ответственностью “Ульяновский станкостроительный
-    завод”
+- whole_name: Общество с ограниченной ответственностью “Ульяновский станкостроительный завод”
   name_language: RU
   strong: true
   regulation_language: en
@@ -36,11 +34,7 @@ name_aliases:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "“Ulyanovsk Machine Tool Plant”"
-  function: LLC “Ulyanovsk Machine Tool Plant” is a Russian company specialising in
-    the production of Computer Numerical Control machine tools and therefore active
-    in an important field for Russia’s military and industrial complex. The company
-    was previously owned by the German companies Gildemeister Beteiligungen GmbH and
-    DMG Mori.
+  function: LLC “Ulyanovsk Machine Tool Plant” is a Russian company specialising in the production of Computer Numerical Control machine tools and therefore active in an important field for Russia’s military and industrial complex. The company was previously owned by the German companies Gildemeister Beteiligungen GmbH and DMG Mori.
   name_language: EN
   strong: true
   regulation_language: en

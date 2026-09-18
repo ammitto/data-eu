@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.7661.63
 logical_id: '136726'
 regulations:
@@ -60,10 +59,12 @@ name_aliases:
   middle_name: Igorevich
   last_name: POLUBOYARINOV
   whole_name: Mikhail Igorevich POLUBOYARINOV
-  function: "Member of the boards of directors of State Transport Leasing Company
-    and JSC EXIMBANK OF RUSSIA\nMember of the Supervisory Board of DOM.RF\nChairman
-    of the Board of Directors of LLC Pobeda\nformer CEO of OJSC Aeroflot; \nformer
-    Member of IATA Board of Governors."
+  function: |-
+    Member of the boards of directors of State Transport Leasing Company and JSC EXIMBANK OF RUSSIA
+    Member of the Supervisory Board of DOM.RF
+    Chairman of the Board of Directors of LLC Pobeda
+    former CEO of OJSC Aeroflot; 
+    former Member of IATA Board of Governors.
   gender: M
   name_language: EN
   strong: true

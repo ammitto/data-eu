@@ -1,8 +1,6 @@
----
 eu_reference_number: EU.12604.60
 logical_id: '171642'
-remark: 'Associated individual: Andrey Viktorovich Kocherga (General Director) (TIN
-  772740415741)'
+remark: 'Associated individual: Andrey Viktorovich Kocherga (General Director) (TIN 772740415741)'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -85,8 +83,7 @@ name_aliases:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Public Joint Stock Company “Stavropol Radio Plant Signal”
-  function: PJSC “Stavropol Radio Plant Signal” is one of the main manufacturers of
-    radio-electronic devices for the Armed Forces of the Russian Federation.
+  function: PJSC “Stavropol Radio Plant Signal” is one of the main manufacturers of radio-electronic devices for the Armed Forces of the Russian Federation.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13989.16
 logical_id: '180744'
 remark: 'Type of entity: Private company'
@@ -36,8 +35,7 @@ name_aliases:
     number_title: 2026/262 (OJ L202600262)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
 addresses:
-- street: ousef Abad Neighbourhood, Kordestan Express Way, Seyyed Sohrab Akhlaqi street
-    37
+- street: ousef Abad Neighbourhood, Kordestan Express Way, Seyyed Sohrab Akhlaqi street 37
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

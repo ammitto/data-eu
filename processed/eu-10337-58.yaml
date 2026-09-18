@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10337.58
 logical_id: '154593'
 regulations:
@@ -46,8 +45,9 @@ name_aliases:
   middle_name: Karalbiyevich
   last_name: KUMPILOV
   whole_name: Murat Karalbiyevich KUMPILOV
-  function: "Head of the Republic of Adygea of the Russian Federation; \nsecretary
-    of the Adygea regional branch of United Russia (Edinaya Rossiya)"
+  function: |-
+    Head of the Republic of Adygea of the Russian Federation; 
+    secretary of the Adygea regional branch of United Russia (Edinaya Rossiya)
   gender: M
   name_language: EN
   strong: true

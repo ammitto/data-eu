@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11833.95
 logical_id: '167330'
 regulations:
@@ -56,8 +55,10 @@ name_aliases:
 - first_name: Mohamed
   last_name: EL AWAD EL AMIN EL TAHIR
   whole_name: Mohamed EL AWAD EL AMIN EL TAHIR
-  function: "Commander of the Sudanese Air Force since 1 September 2022;\nFormer Dean
-    of the Sudanese Air Force College; \nFormer Commander of the Khartoum Air Base"
+  function: |-
+    Commander of the Sudanese Air Force since 1 September 2022;
+    Former Dean of the Sudanese Air Force College; 
+    Former Commander of the Khartoum Air Base
   gender: M
   title: Lieutenant General
   name_language: EN

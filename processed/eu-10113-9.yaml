@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10113.9
 logical_id: '153508'
 regulations:
@@ -17,7 +16,9 @@ name_aliases:
 - first_name: Seyyed Mohammad Amin
   last_name: AGHAMIRI
   whole_name: Seyyed Mohammad Amin AGHAMIRI
-  function: "secretary of Iran’s Supreme Council \nof Cyberspace (SCC)"
+  function: |-
+    secretary of Iran’s Supreme Council 
+    of Cyberspace (SCC)
   gender: M
   name_language: EN
   strong: true

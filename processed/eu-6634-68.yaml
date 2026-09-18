@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6634.68
 logical_id: '131573'
 regulations:
@@ -15,8 +14,7 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Yevgeniy Sergeevich KOLPIKOV
-  function: Prosecutor of the Military Prosecutor’s Office of the Southern Military
-    District of the Russian Federation in Rostov-on-Don.
+  function: Prosecutor of the Military Prosecutor’s Office of the Southern Military District of the Russian Federation in Rostov-on-Don.
   gender: M
   strong: true
   regulation_language: en
@@ -99,8 +97,7 @@ birthdates:
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 addresses:
-- street: Military Prosecutor's Office of the Southern Military District of the Russian
-    Federation. Pushkinskaya Ulitsa, 72А
+- street: Military Prosecutor's Office of the Southern Military District of the Russian Federation. Pushkinskaya Ulitsa, 72А
   city: Rostov
   region: Rostov Oblast
   country_iso2_code: RU

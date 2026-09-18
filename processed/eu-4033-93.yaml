@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4033.93
 logical_id: '7565'
 regulations:
@@ -18,10 +17,10 @@ name_aliases:
   middle_name: Ivanovich
   last_name: ANTONOV
   whole_name: Anatoly Ivanovich ANTONOV
-  function: "Former Deputy Minister of Defence and, in that capacity, involved in
-    supporting the deployment of Russian troops in Ukraine. \nFormer Deputy Minister
-    of Foreign Affairs. \nHolds a position of an Ambassador in the diplomatic corps
-    of the Russian Federation."
+  function: |-
+    Former Deputy Minister of Defence and, in that capacity, involved in supporting the deployment of Russian troops in Ukraine. 
+    Former Deputy Minister of Foreign Affairs. 
+    Holds a position of an Ambassador in the diplomatic corps of the Russian Federation.
   gender: M
   name_language: EN
   strong: true

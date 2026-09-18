@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13118.65
 logical_id: '175572'
 designation_details: 'Type of entity: Museum'
@@ -15,8 +14,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ФГБУК Государственный историко-археологический музей-заповедник “Херсонес
-    Таврический”
+- whole_name: ФГБУК Государственный историко-археологический музей-заповедник “Херсонес Таврический”
   name_language: RU
   strong: true
   regulation_language: en
@@ -27,8 +25,7 @@ name_aliases:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: State Museum-Preserve “Tauric Chersonese”
-  function: The State Museum-Preserve “Tauric Chersonese” is a museum operating in
-    Sevastopol
+  function: The State Museum-Preserve “Tauric Chersonese” is a museum operating in Sevastopol
   name_language: EN
   strong: true
   regulation_language: en

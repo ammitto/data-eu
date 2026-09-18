@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10267.53
 logical_id: '154289'
 regulations:
@@ -32,10 +31,10 @@ name_aliases:
   middle_name: Alexandrovich
   last_name: KARAGANOV
   whole_name: Sergey Alexandrovich KARAGANOV
-  function: "Member of the Presidential Council for Civil Society and Human Rights;\nScientific
-    Supervisor of the Faculty of World Economy and International Affairs, Higher School
-    of Economics; \nHonorary Chairman of the Presidium of the Council on Foreign and
-    Defense Policy (SVOP)"
+  function: |-
+    Member of the Presidential Council for Civil Society and Human Rights;
+    Scientific Supervisor of the Faculty of World Economy and International Affairs, Higher School of Economics; 
+    Honorary Chairman of the Presidium of the Council on Foreign and Defense Policy (SVOP)
   gender: M
   name_language: EN
   strong: true

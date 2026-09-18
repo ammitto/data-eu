@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13355.59
 logical_id: '177046'
 designation_details: Limited Liability Company
@@ -16,10 +15,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Shandong ODES Industry Co. Ltd.
-  function: Shandong ODES Industry Co. Ltd. is a Chinese company manufacturing and
-    selling all-terrain vehicles (ATVs). After the start of Russia’s war of aggression
-    against Ukraine, the company started to supply the Russian armed forces with ATVs,
-    which have been used for military operations in Ukraine.
+  function: Shandong ODES Industry Co. Ltd. is a Chinese company manufacturing and selling all-terrain vehicles (ATVs). After the start of Russia’s war of aggression against Ukraine, the company started to supply the Russian armed forces with ATVs, which have been used for military operations in Ukraine.
   name_language: EN
   strong: true
   regulation_language: en
@@ -51,8 +47,7 @@ addresses:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- street: Warehouse No. 4, 5, 6, 7, 8, Zibo Bonded Logistics Park, Zibo High-tech
-    Industrial Development Zone
+- street: Warehouse No. 4, 5, 6, 7, 8, Zibo Bonded Logistics Park, Zibo High-tech Industrial Development Zone
   city: Zibo
   region: Shandong Province
   country_iso2_code: CN

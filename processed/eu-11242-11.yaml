@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11242.11
 logical_id: '162631'
 regulations:
@@ -14,8 +13,7 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное общество "машиностроительное конструкторское бюро ‘искра’
-    имени Ивана Ивановича Картукова"
+- whole_name: Акционерное общество "машиностроительное конструкторское бюро ‘искра’ имени Ивана Ивановича Картукова"
   name_language: RU
   strong: true
   regulation_language: en

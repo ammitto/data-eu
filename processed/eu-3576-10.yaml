@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3576.10
 logical_id: '7575'
 regulations:
@@ -15,11 +14,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Oplot battalion
-  function: "Armed  separatist group which has  actively supported actions which undermine
-    the territorial integrity, sovereignty and independence \nof Ukraine and further
-    destabilise Ukraine. Also  referred  to  as  the  5th  Separate Motor Rifle  Brigade,
-    \ which  since  October  2018  is named after  Alexander Zakharchenko.  Reportedly
-    \ part  of  the  so-called ‘1st  Army Corps’ of the ‘Donetsk People's \nRepublic’."
+  function: |-
+    Armed  separatist group which has  actively supported actions which undermine the territorial integrity, sovereignty and independence 
+    of Ukraine and further destabilise Ukraine. Also  referred  to  as  the  5th  Separate Motor Rifle  Brigade,  which  since  October  2018  is named after  Alexander Zakharchenko.  Reportedly  part  of  the  so-called ‘1st  Army Corps’ of the ‘Donetsk People's 
+    Republic’.
   strong: true
   regulation_language: en
   logical_id: '18567'

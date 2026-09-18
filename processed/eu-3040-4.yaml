@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3040.4
 logical_id: '7334'
 remark: Head of ‘Novorossia’ public movement.
@@ -18,9 +17,7 @@ name_aliases:
 - first_name: Igor
   last_name: STRELKOV
   whole_name: Igor STRELKOV
-  function: Staff of Main Intelligence Directorate of the General Staff of the Armed
-    Forces of the Russian Federation (GRU). Assistant on security issues to Sergey
-    Aksionov, self- proclaimed prime-minister of Crimea.
+  function: Staff of Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). Assistant on security issues to Sergey Aksionov, self- proclaimed prime-minister of Crimea.
   gender: M
   name_language: EN
   strong: true
@@ -62,9 +59,9 @@ name_aliases:
   middle_name: Vsevolodovich
   last_name: GIRKIN
   whole_name: Igor Vsevolodovich GIRKIN
-  function: "Identified as staff of Main Intelligence Directorate of the General Staff
-    of the Armed Forces of the Russian Federation (GRU). \nFormer ‘Minister of Defence’
-    of the so-called ‘Donetsk People's Republic’."
+  function: |-
+    Identified as staff of Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). 
+    Former ‘Minister of Defence’ of the so-called ‘Donetsk People's Republic’.
   gender: M
   name_language: EN
   strong: true

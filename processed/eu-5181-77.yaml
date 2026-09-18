@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.5181.77
 logical_id: '121025'
 regulations:
@@ -17,9 +16,9 @@ name_aliases:
 - first_name: Néstor Neptali
   last_name: BLANCO HURTADO
   whole_name: Néstor Neptali BLANCO HURTADO
-  function: "Commander in military counterintelligence zone No 32 in the Los Llanos
-    region. \nMajor in the Bolivarian National Guard (GNB) since at least December
-    2017."
+  function: |-
+    Commander in military counterintelligence zone No 32 in the Los Llanos region. 
+    Major in the Bolivarian National Guard (GNB) since at least December 2017.
   gender: M
   title: Major
   name_language: ES

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.7567.48
 logical_id: '136351'
 regulations:
@@ -71,8 +70,9 @@ name_aliases:
   middle_name: Fridrikhovich
   last_name: KILCHEVSKY
   whole_name: Vitaly Fridrikhovich KILCHEVSKY
-  function: "Head of the Armoured Vehicles Directorate of the Ministry of Defence,
-    \nformer Deputy Commander for Armaments and former Head of Armaments,"
+  function: |-
+    Head of the Armoured Vehicles Directorate of the Ministry of Defence, 
+    former Deputy Commander for Armaments and former Head of Armaments,
   gender: M
   title: Colonel
   name_language: EN

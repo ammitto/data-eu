@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.11398.53
 logical_id: '163556'
 regulations:
@@ -64,8 +63,7 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Открытое Акционерное Общество Межгосударственная Акционерная Корпорация
-    Вымпел
+- whole_name: Открытое Акционерное Общество Межгосударственная Акционерная Корпорация Вымпел
   name_language: RU
   strong: true
   regulation_language: en
@@ -76,8 +74,7 @@ name_aliases:
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: JSC MAK Vympel
-  function: a Russian military-industrial state enterprise that develops anti-ballistic
-    missile systems and space control systems
+  function: a Russian military-industrial state enterprise that develops anti-ballistic missile systems and space control systems
   name_language: EN
   strong: true
   regulation_language: en

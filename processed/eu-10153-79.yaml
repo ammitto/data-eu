@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10153.79
 logical_id: '153792'
 regulations:
@@ -31,8 +30,10 @@ name_aliases:
 - first_name: Grigore
   last_name: CARAMALAC
   whole_name: Grigore CARAMALAC
-  function: "president of the IFAVIS Foundation; \nvice-president of the Russian Federation
-    of Wrestling; \nassistant to the senator for the Kursk region, Alexander Bryksin"
+  function: |-
+    president of the IFAVIS Foundation; 
+    vice-president of the Russian Federation of Wrestling; 
+    assistant to the senator for the Kursk region, Alexander Bryksin
   gender: M
   name_language: EN
   strong: true

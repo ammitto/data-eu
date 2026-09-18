@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4303.62
 logical_id: '115231'
 regulations:
@@ -17,8 +16,9 @@ name_aliases:
 - first_name: Tarek William
   last_name: SAAB HALABI
   whole_name: Tarek William SAAB HALABI
-  function: "President of the Republican Moral Council since December 2023. \nVenezuelan
-    Attorney General appointed by the Constituent Assembly."
+  function: |-
+    President of the Republican Moral Council since December 2023. 
+    Venezuelan Attorney General appointed by the Constituent Assembly.
   gender: M
   name_language: EN
   strong: true

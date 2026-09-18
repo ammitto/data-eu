@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.2320.90
 logical_id: '5925'
 remark: |-
@@ -109,8 +108,7 @@ birthdates:
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 addresses:
-- city: Kayla Village near Miram Shah, North Waziristan Agency (NWA), Federally Administered
-    Tribal Areas (FATA)
+- city: Kayla Village near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
@@ -131,8 +129,7 @@ addresses:
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - street: Near Dergey Manday Madrasa
-  city: Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally
-    Administered Tribal Areas (FATA)
+  city: Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en

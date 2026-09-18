@@ -1,9 +1,6 @@
----
 eu_reference_number: EU.327.42
 logical_id: '643'
-remark: 'Review pursuant to Security Council Resolution 1822 (2008) was concluded
-  on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/
-  4652765'
+remark: 'Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/ 4652765'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -18,8 +15,7 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Abdul Manan Mohammad Ishak
-  function: "(a) First Secretary, Taliban Embassy, Riyadh, Saudi Arabia, (b) Commercial
-    Attaché, Taliban Embassy, Abu Dhabi, United Arab Emirates."
+  function: "(a) First Secretary, Taliban Embassy, Riyadh, Saudi Arabia, (b) Commercial Attaché, Taliban Embassy, Abu Dhabi, United Arab Emirates."
   gender: M
   title: Maulavi
   strong: true

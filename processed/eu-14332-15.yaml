@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.14332.15
 logical_id: '182238'
 regulations:
@@ -15,8 +14,9 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Andrei Viktorovich MARCHENKO
-  function: "Deputy Head of the Radiological, Chemical and Biological Defence Troops
-    of Russia (the 35th Guards Radiation, Chemical and Biological \nProtection Regiment)"
+  function: |-
+    Deputy Head of the Radiological, Chemical and Biological Defence Troops of Russia (the 35th Guards Radiation, Chemical and Biological 
+    Protection Regiment)
   gender: M
   name_language: EN
   strong: true

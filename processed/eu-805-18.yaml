@@ -1,10 +1,6 @@
----
 eu_reference_number: EU.805.18
 logical_id: '725'
-remark: 'Deputy Head (Intelligence) of the Quetta Military Council as of 2009. Believed
-  to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution
-  1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special
-  Notice web link: https://www.interpol.int/en/notice/ search/un/4678333'
+remark: 'Deputy Head (Intelligence) of the Quetta Military Council as of 2009. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/ search/un/4678333'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -19,8 +15,7 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Habibullah Reshad
-  function: Head of Investigation Department, Ministry of Security (Intelligence)
-    under the Taliban regime.
+  function: Head of Investigation Department, Ministry of Security (Intelligence) under the Taliban regime.
   title: Mullah
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6378.10
 logical_id: '130089'
 regulations:
@@ -15,8 +14,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Siarhei  Aliaksandravich VAREIKA
-  function: "Head of Moskovski \nDistrict Police Department \nof Minsk, former Deputy
-    \nHead of the Zavodsky \nDistrict Police Department \nof Minsk"
+  function: |-
+    Head of Moskovski 
+    District Police Department 
+    of Minsk, former Deputy 
+    Head of the Zavodsky 
+    District Police Department 
+    of Minsk
   gender: M
   strong: true
   regulation_language: en

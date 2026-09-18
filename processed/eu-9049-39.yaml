@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.9049.39
 logical_id: '145526'
 regulations:
@@ -55,9 +54,7 @@ name_aliases:
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - whole_name: State Administration Council (SAC)
-  function: Public entity established on 2 February 2021 following the military coup
-    in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and
-    judicial powers of the State
+  function: Public entity established on 2 February 2021 following the military coup in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and judicial powers of the State
   strong: true
   regulation_language: en
   logical_id: '145527'

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.12619.24
 logical_id: '171784'
 regulations:
@@ -45,9 +44,7 @@ name_aliases:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Joint Stock Company Scientific Production Enterprise “Aerosila”
-  function: JSC SPE “Aerosila” is a Russian developer and manufacturer of various
-    aircraft parts, such as engines, propellers and fans. JSC SPE “Aerosila” provides
-    its products to domestic aviation manufacturers.
+  function: JSC SPE “Aerosila” is a Russian developer and manufacturer of various aircraft parts, such as engines, propellers and fans. JSC SPE “Aerosila” provides its products to domestic aviation manufacturers.
   name_language: EN
   strong: true
   regulation_language: en
@@ -57,8 +54,7 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Акционерное Общество “Научно-Производственное Предприятие ‘Аэросила’”
-    (НПП Аэросила)
+- whole_name: Акционерное Общество “Научно-Производственное Предприятие ‘Аэросила’” (НПП Аэросила)
   name_language: RU
   strong: true
   regulation_language: en

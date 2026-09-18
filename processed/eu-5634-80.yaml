@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.5634.80
 logical_id: '124337'
 regulations:
@@ -15,9 +14,11 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: José Gregorio NORIEGA FIGUEROA
-  function: "Member of the non-democratically elected \nNational Assembly. Former
-    member and \nillegitimately elected second Vice-President of the National Assembly
-    elected \nin 2015."
+  function: |-
+    Member of the non-democratically elected 
+    National Assembly. Former member and 
+    illegitimately elected second Vice-President of the National Assembly elected 
+    in 2015.
   gender: M
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6366.43
 logical_id: '130005'
 regulations:
@@ -15,8 +14,9 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Mikhail  Viachaslavavich  HRYB
-  function: "Head of the Main \nDepartment of Internal Affairs of the Minsk City Executive
-    Committee"
+  function: |-
+    Head of the Main 
+    Department of Internal Affairs of the Minsk City Executive Committee
   gender: M
   strong: true
   regulation_language: en

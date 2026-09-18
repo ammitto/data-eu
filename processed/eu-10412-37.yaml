@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10412.37
 logical_id: '155526'
 regulations:
@@ -18,8 +17,9 @@ name_aliases:
   middle_name: Anatolyevich
   last_name: BARANOV
   whole_name: Oleg Anatolyevich BARANOV
-  function: "Head of the Main Directorate of Internal Affairs of the City of Moscow;
-    \nLieutenant General of the Police"
+  function: |-
+    Head of the Main Directorate of Internal Affairs of the City of Moscow; 
+    Lieutenant General of the Police
   gender: M
   name_language: EN
   strong: true

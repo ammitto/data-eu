@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.3998.93
 logical_id: '7339'
 regulations:
@@ -51,9 +50,12 @@ name_aliases:
   middle_name: Grigorievich
   last_name: KOZYURA
   whole_name: Oleg Grigorievich KOZYURA
-  function: "Former Head of the Federal Migration Service office for Sevastopol. Former
-    Chief of Staff of the \nLegislative Assembly of \nSevastopol.\nAdvisor to the
-    Governor of \nSevastopol."
+  function: |-
+    Former Head of the Federal Migration Service office for Sevastopol. Former Chief of Staff of the 
+    Legislative Assembly of 
+    Sevastopol.
+    Advisor to the Governor of 
+    Sevastopol.
   gender: M
   strong: true
   regulation_language: en

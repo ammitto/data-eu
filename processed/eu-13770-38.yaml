@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.13770.38
 logical_id: '179375'
 regulations:
@@ -15,9 +14,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Grinex
-  function: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex
-    is a major platform for trading the stablecoin A7A5, which is collateralised by
-    PSB Bank
+  function: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex is a major platform for trading the stablecoin A7A5, which is collateralised by PSB Bank
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10756.33
 logical_id: '157619'
 regulations:
@@ -60,8 +59,9 @@ name_aliases:
   middle_name: Viktorovich
   last_name: KRAPKO
   whole_name: Viktor Viktorovich KRAPKO
-  function: "Judge of the “Supreme Court of the Republic of Crimea”; \nFormer Judge
-    at the Kiev District Court of Simferopol"
+  function: |-
+    Judge of the “Supreme Court of the Republic of Crimea”; 
+    Former Judge at the Kiev District Court of Simferopol
   gender: M
   name_language: EN
   strong: true

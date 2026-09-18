@@ -1,10 +1,6 @@
----
 eu_reference_number: EU.3589.3
 logical_id: '6303'
-remark: Member of the Syria Armed Forces of the rank of ‘colonel’ and the equivalent
-  or higher in post after May 2011; Major General of the 42nd Brigade and former Brigadier
-  Commander of the Army's 4th Armoured Division. Member of the Assad family; brother
-  of President Bashar Al-Assad.
+remark: Member of the Syria Armed Forces of the rank of ‘colonel’ and the equivalent or higher in post after May 2011; Major General of the 42nd Brigade and former Brigadier Commander of the Army's 4th Armoured Division. Member of the Assad family; brother of President Bashar Al-Assad.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -30,8 +26,7 @@ name_aliases:
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Maher AL-ASSAD
-  function: Major General of the 42nd Brigade and former Brigadier Commander of the
-    Army's 4th Armoured Division
+  function: Major General of the 42nd Brigade and former Brigadier Commander of the Army's 4th Armoured Division
   gender: M
   strong: true
   regulation_language: en

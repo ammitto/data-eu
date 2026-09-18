@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.9366.7
 logical_id: '147118'
 regulations:
@@ -145,8 +144,9 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: JSC KAZAN OPTICAL AND MECHANICAL PLANT
-  function: "Russian company specialising in the development and production of optical
-    devices and electronic warfare equipment (including radars, \nbinoculars, etc.)."
+  function: |-
+    Russian company specialising in the development and production of optical devices and electronic warfare equipment (including radars, 
+    binoculars, etc.).
   name_language: EN
   strong: true
   regulation_language: en

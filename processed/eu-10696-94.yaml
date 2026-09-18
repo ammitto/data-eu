@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.10696.94
 logical_id: '157292'
 regulations:
@@ -18,9 +17,11 @@ name_aliases:
   middle_name: Frantzavich
   last_name: GIGIN
   whole_name: Vadzim Frantzavich GIGIN
-  function: "Director of the National Library of Belarus; \nformer Head of the Belarus
-    governmental society “Knowledge”, and \nDean of the Faculty of Philosophy and
-    Social Sciences of the Belarus State University, \ncandidate of Historical Science"
+  function: |-
+    Director of the National Library of Belarus; 
+    former Head of the Belarus governmental society “Knowledge”, and 
+    Dean of the Faculty of Philosophy and Social Sciences of the Belarus State University, 
+    candidate of Historical Science
   gender: M
   name_language: EN
   strong: true

@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.6696.74
 logical_id: '131986'
 regulations:
@@ -32,8 +31,9 @@ name_aliases:
   middle_name: Mikalaevich
   last_name: GUTNIK
   whole_name: Ihar Mikalaevich GUTNIK
-  function: "Deputy Chairman of the State Border Committee, \nformer Head of the Brest
-    Border Group"
+  function: |-
+    Deputy Chairman of the State Border Committee, 
+    former Head of the Brest Border Group
   gender: M
   title: Colonel
   name_language: EN

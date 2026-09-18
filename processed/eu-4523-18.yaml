@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4523.18
 logical_id: '116724'
 regulations:
@@ -53,9 +52,10 @@ name_aliases:
   middle_name: Yurevich
   last_name: PETUKHOV
   whole_name: Aleksandr Yurevich PETUKHOV
-  function: "Former Chair of the Sevastopol Electoral Commission. Chief Federal Inspector
-    of the Moscow region. Since 6 April 2021, Assistant to the Plenipotentiary \nRepresentative
-    of the President of the Russian \nFederation in the Central Federal District."
+  function: |-
+    Former Chair of the Sevastopol Electoral Commission. Chief Federal Inspector of the Moscow region. Since 6 April 2021, Assistant to the Plenipotentiary 
+    Representative of the President of the Russian 
+    Federation in the Central Federal District.
   gender: M
   strong: true
   regulation_language: en

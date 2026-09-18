@@ -1,4 +1,3 @@
----
 eu_reference_number: EU.4231.93
 logical_id: '7283'
 regulations:
@@ -81,10 +80,10 @@ name_aliases:
   middle_name: Ilmirovich
   last_name: TEMIRGALIEV
   whole_name: Rustam Ilmirovich TEMIRGALIEV
-  function: "Former Deputy Prime Minister of Crimea.\nOn 11 June 2014, he resigned
-    from his function as ‘First Deputy Prime Minister’ of the so-called ‘Republic
-    of Crimea’. \nFormer General Director of the Managing Company of the Russian-Chinese
-    Investment Fund for Regional Development."
+  function: |-
+    Former Deputy Prime Minister of Crimea.
+    On 11 June 2014, he resigned from his function as ‘First Deputy Prime Minister’ of the so-called ‘Republic of Crimea’. 
+    Former General Director of the Managing Company of the Russian-Chinese Investment Fund for Regional Development.
   gender: M
   strong: true
   regulation_language: en
