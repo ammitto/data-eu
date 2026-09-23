@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6793.86
 logical_id: '132603'
 regulations:
@@ -13,22 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergei Aleksandrovich EPIKHOV
+- whole_name: Sergej Aleksandrovitj JEPICHOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Siarhei Aliaksandravich EPIKHAU
-  function: Judge at the Minsk Regional Court
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132615'
+  logical_id: '132610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -67,12 +58,22 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Sergej Aleksandrovitj JEPICHOV
+- whole_name: Sergei Aleksandrovich EPIKHOV
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132610'
+  logical_id: '132614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Siarhei Aliaksandravich EPIKHAU
+  function: Judge at the Minsk Regional Court
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -105,6 +106,17 @@ birthdates:
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 addresses:
+- street: 14 Kedyshko St., apt. 11
+  city: Minsk
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '132604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - street: 59 L.Tolstoy St., apt. 80
   city: Vileika
   country_iso2_code: BY
@@ -122,17 +134,6 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '132606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- street: 14 Kedyshko St., apt. 11
-  city: Minsk
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '132604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

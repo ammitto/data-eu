@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6020.49
 logical_id: '126698'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artem
-  middle_name: Konstantinovich
-  last_name: DUNKO
-  whole_name: Artem Konstantinovich DUNKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126701'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Артем
   middle_name: Константинович
   last_name: ДУНЬКО
@@ -41,6 +28,38 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Arciom
+  middle_name: Kanstantinavich
+  last_name: DUNKA
+  whole_name: Arciom Kanstantinavich DUNKA
+  function: "Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department
+    of Financial Investigations of the State Control Committee, \nformer Senior Inspector
+    for Special Matters of the Department of Financial Investigations of the State
+    Control Committee"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126702'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Artem
+  middle_name: Konstantinovich
+  last_name: DUNKO
+  whole_name: Artem Konstantinovich DUNKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126701'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Арцём
   middle_name: Канстанцiнавiч
   last_name: ДУНЬКА
@@ -50,23 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126700'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Arciom
-  middle_name: Kanstantinavich
-  last_name: DUNKA
-  whole_name: Arciom Kanstantinavich DUNKA
-  function: |-
-    Deputy Head of the Vitebsk/Viciebsk Region/Oblast Office of the Department of Financial Investigations of the State Control Committee, 
-    former Senior Inspector for Special Matters of the Department of Financial Investigations of the State Control Committee
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

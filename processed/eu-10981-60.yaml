@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10981.60
 logical_id: '160108'
 regulations:
@@ -13,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: PJSC Aviation Complex επ’ ονόματι του S.V. Ilyushin
-  name_language: EL
+- whole_name: PJSC Ilyushin
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161258'
+  logical_id: '160110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ПАО Авиационный комплекс имени С. В. Ильюшина
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -44,21 +55,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: PJSC Ilyushin
-  name_language: EN
+- whole_name: PJSC Aviation Complex επ’ ονόματι του S.V. Ilyushin
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '160110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ПАО Авиационный комплекс имени С. В. Ильюшина
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160111'
+  logical_id: '161258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

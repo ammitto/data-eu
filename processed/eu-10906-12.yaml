@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10906.12
 logical_id: '159631'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Серафим
-  middle_name: Викентьевич
-  last_name: ИВАНОВ
-  whole_name: Серафим Викентьевич ИВАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Serafim
   middle_name: Vikentievitj
   last_name: IVANOV
@@ -45,14 +32,27 @@ name_aliases:
   middle_name: Vikentevich
   last_name: IVANOV
   whole_name: Serafim Vikentevich IVANOV
-  function: |-
-    Press secretary in the organisation “Volunteer Squad”; 
-    Head of the regional headquarters of Yunarmiya VVPOD in the Kherson region
+  function: "Press secretary in the organisation “Volunteer Squad”; \nHead of the
+    regional headquarters of Yunarmiya VVPOD in the Kherson region"
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '159634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Серафим
+  middle_name: Викентьевич
+  last_name: ИВАНОВ
+  whole_name: Серафим Викентьевич ИВАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

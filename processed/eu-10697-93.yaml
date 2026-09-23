@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10697.93
 logical_id: '157303'
 regulations:
@@ -14,14 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Zinaida
-  middle_name: Vasiľevna
-  last_name: BALABALAVOVÁ
-  whole_name: Zinaida Vasiľevna BALABALAVOVÁ
+  middle_name: Vasiljevna
+  last_name: BALABOLAVA
+  whole_name: Zinaida Vasiljevna BALABOLAVA
   gender: F
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157304'
+  logical_id: '157306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -41,14 +42,14 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Zinaida
-  middle_name: Vasiljevna
-  last_name: BALABOLAVA
-  whole_name: Zinaida Vasiljevna BALABOLAVA
+  middle_name: Vasiľevna
+  last_name: BALABALAVOVÁ
+  whole_name: Zinaida Vasiľevna BALABALAVOVÁ
   gender: F
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157306'
+  logical_id: '157304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

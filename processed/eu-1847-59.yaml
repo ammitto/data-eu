@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1847.59
 logical_id: '3842'
 designation_details: |-
@@ -16,36 +17,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Výzkumné středisko obranné technologie a vědy
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '162107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Istraživački centar za obrambenu tehnologiju i znanost
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '162110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Gynybos švietimo ir mokslinių tyrimų institutas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162114'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Defense Technology and Science Research Centre
   name_language: EN
   strong: true
@@ -400,6 +371,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Výzkumné středisko obranné technologie a vědy
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '162107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Istraživački centar za obrambenu tehnologiju i znanost
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '162110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Gynybos švietimo ir mokslinių tyrimų institutas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

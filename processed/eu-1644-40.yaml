@@ -1,8 +1,7 @@
+---
 eu_reference_number: EU.1644.40
 logical_id: '3841'
-designation_details: |-
-  UN designation 09/06/2010 
-  preceded by EU designation 24/04/2007
+designation_details: "UN designation 09/06/2010 \npreceded by EU designation 24/04/2007"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,8 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: گروه صنایع تسلیحاتی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Armament Industries Group
-  function: Armament Industries Group (AIG) manufacturers and services a variety of small arms and light weapons, including large- and medium-calibre guns and related technology. AIG conducts the majority of its procurement activity through Hadid Industries Complex.
+  function: Armament Industries Group (AIG) manufacturers and services a variety of
+    small arms and light weapons, including large- and medium-calibre guns and related
+    technology. AIG conducts the majority of its procurement activity through Hadid
+    Industries Complex.
   name_language: EN
   strong: true
   regulation_language: en
@@ -37,11 +49,11 @@ name_aliases:
     publication_date: '2010-06-19'
     number_title: 532/2010 (OJ L154)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:154:0005:0008:EN:PDF
-- whole_name: گروه صنایع تسلیحاتی
-  name_language: FA
+- whole_name: AIG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159368'
+  logical_id: '162176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -77,18 +89,9 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: AIG
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- street: Sepah Islam Road, Karaj Special Road Km 10, Iran; Pasdaran Ave., P.O. Box 19585/777
+- street: Sepah Islam Road, Karaj Special Road Km 10, Iran; Pasdaran Ave., P.O. Box
+    19585/777
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

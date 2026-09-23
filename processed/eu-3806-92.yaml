@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3806.92
 logical_id: '105631'
 regulations:
@@ -23,21 +24,19 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Marial Chan
+- first_name: Marial
+  middle_name: Chanuong Yol
+  last_name: MANGOK
+  whole_name: Marial Chanuong Yol MANGOK
+  function: Mangok is the commander of the South Sudanese Government's Presidential
+    Guard, which led the operations in Juba following the fighting that began December
+    15, 2013.
+  title: Sudan People's Liberation Army Major General / Commander, Presidential Guard
+    Unit
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Marial Chanoung Yol
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105635'
+  logical_id: '105638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -53,16 +52,21 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- first_name: Marial
-  middle_name: Chanuong Yol
-  last_name: MANGOK
-  whole_name: Marial Chanuong Yol MANGOK
-  function: Mangok is the commander of the South Sudanese Government's Presidential Guard, which led the operations in Juba following the fighting that began December 15, 2013.
-  title: Sudan People's Liberation Army Major General / Commander, Presidential Guard Unit
+- whole_name: Marial Chan
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105638'
+  logical_id: '105636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Marial Chanoung Yol
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

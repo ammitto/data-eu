@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.269.0
 logical_id: '7459'
 remark: Date of listing 12.9.2014
@@ -58,6 +59,19 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jurij
+  last_name: Vorobjov
+  whole_name: Jurij Vorobjov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jurij
   middle_name: Leonidovitj
   last_name: VOROBJOV
   whole_name: Jurij Leonidovitj VOROBJOV
@@ -79,19 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Jurij
-  last_name: Vorobjov
-  whole_name: Jurij Vorobjov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158305'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

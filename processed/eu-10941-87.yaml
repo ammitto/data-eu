@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10941.87
 logical_id: '159849'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Rustem
+  middle_name: Nurgasimovitj
+  last_name: SULTEJEV
+  whole_name: Rustem Nurgasimovitj SULTEJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Рустем
   middle_name: Нургасимович
   last_name: СУЛЬТЕЕВ
@@ -31,15 +46,26 @@ name_aliases:
   middle_name: Nurgasimovich
   last_name: SULTEEV
   whole_name: Rustem Nurgasimovich SULTEEV
-  function: |-
-    First Deputy Chairman of the Management Board of TAIF PSC; 
-    shareholder of SIBUR; 
-    co-owner of Vulkan LLC
+  function: "First Deputy Chairman of the Management Board of TAIF PSC; \nshareholder
+    of SIBUR; \nco-owner of Vulkan LLC"
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '159854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Rustěm
+  last_name: Sultějev
+  whole_name: Rustěm Sultějev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -59,39 +85,12 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Rustem
-  middle_name: Nurgasimovitj
-  last_name: SULTEJEV
-  whole_name: Rustem Nurgasimovitj SULTEJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Rustem
   last_name: Sultejev
   whole_name: Rustem Sultejev
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '160915'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Rustěm
-  last_name: Sultějev
-  whole_name: Rustěm Sultějev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

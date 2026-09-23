@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14563.36
 logical_id: '183453'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sociedad de responsabilidad limitada GRUPPA PROMAVTO
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '184814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ООО ГРУППА ПРОМАВТО
   name_language: RU
   strong: true
@@ -44,16 +55,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Sociedad de responsabilidad limitada GRUPPA PROMAVTO
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '184814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
 - street: Nizhniy Novgorod, 7A Zaovrazhnaya Street
   city: Nizhny Novgorod Oblast
@@ -69,20 +70,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '1125263004162'
-  country_iso2_code: '00'
+  number: '5263093100'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '183456'
+  logical_id: '183455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '5263093100'
-  country_iso2_code: RU
+  number: '1125263004162'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '183455'
+  logical_id: '183456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

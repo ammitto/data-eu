@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9385.43
 logical_id: '147217'
 regulations:
@@ -13,21 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Veřejná akciová společnost Motovilichinské závody
-  name_language: CS
+- whole_name: Публичное  акционерного общество специального машиностроения и металлургии
+    “Мотовилихинские заводы”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Motovilikhinskiye Zavody ÁRt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '158444'
+  logical_id: '158171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -54,11 +46,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Публичное  акционерного общество специального машиностроения и металлургии “Мотовилихинские заводы”
-  name_language: RU
+- whole_name: Motovilikhinskiye Zavody ÁRt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '158171'
+  logical_id: '158444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -69,6 +61,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147713'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Veřejná akciová společnost Motovilichinské závody
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158443'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

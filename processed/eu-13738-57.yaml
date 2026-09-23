@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13738.57
 logical_id: '179177'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
@@ -15,7 +16,15 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Machine Sazi Arak
-  function: Machine Sazi Arak is an Iranian industrial machinery and equipment manufacturing company. It manufactures equipment for proliferation sensitive activities and lists the Atomic Energy Organization of Iran (AEOI) as well as MODAFL as its customers. It is also affiliated with IDRO that provides manufacturing support to the nuclear programme. Machine Sazi Arak was also involved in the construction of the Arak heavy-water reactor. It also supports oil and gas exploration activities overseen by the Ministry of Petroleum as well as NIOC and its subsidiaries. Therefore, Machine Sazi Arak is involved in the nuclear missile programme, and it provides support to the Government of Iran.
+  function: Machine Sazi Arak is an Iranian industrial machinery and equipment manufacturing
+    company. It manufactures equipment for proliferation sensitive activities and
+    lists the Atomic Energy Organization of Iran (AEOI) as well as MODAFL as its customers.
+    It is also affiliated with IDRO that provides manufacturing support to the nuclear
+    programme. Machine Sazi Arak was also involved in the construction of the Arak
+    heavy-water reactor. It also supports oil and gas exploration activities overseen
+    by the Ministry of Petroleum as well as NIOC and its subsidiaries. Therefore,
+    Machine Sazi Arak is involved in the nuclear missile programme, and it provides
+    support to the Government of Iran.
   name_language: EN
   strong: true
   regulation_language: en

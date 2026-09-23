@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12234.28
 logical_id: '170058'
 regulations:
@@ -24,6 +25,19 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2697 (OJL14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
+- first_name: Alí
+  last_name: Džafarabádí
+  whole_name: Alí Džafarabádí
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '170244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2697 (OJL14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
 - first_name: Ali
   last_name: JAFARABADI
   whole_name: Ali JAFARABADI
@@ -33,19 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2697 (OJL14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
-- first_name: Alí
-  last_name: Džafarabádí
-  whole_name: Alí Džafarabádí
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '170244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

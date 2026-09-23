@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4003.90
 logical_id: '7412'
 remark: 'date of listing: 25/07/2014'
@@ -17,7 +18,11 @@ name_aliases:
 - first_name: Vladimir
   last_name: ANTYUFEYEV
   whole_name: Vladimir ANTYUFEYEV
-  function: Former 'Minister of State Security' in the separatist region of Transnistria. Former vice-prime minister of the 'Donetsk People's Republic', responsible for security and law enforcement. Board member and Deputy Director General of the State-owned enterprise 'United Engine Corporation', board member of the State-owned JSC Research and Production Enterprise 'Temp' named after F. Korotkov.
+  function: Former 'Minister of State Security' in the separatist region of Transnistria.
+    Former vice-prime minister of the 'Donetsk People's Republic', responsible for
+    security and law enforcement. Board member and Deputy Director General of the
+    State-owned enterprise 'United Engine Corporation', board member of the State-owned
+    JSC Research and Production Enterprise 'Temp' named after F. Korotkov.
   gender: M
   name_language: EN
   strong: true
@@ -55,14 +60,13 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Vladimir
-  middle_name: Iurievici
-  last_name: ANTIUFEEV
-  whole_name: Vladimir Iurievici ANTIUFEEV
+  last_name: ANTIUFEJEV
+  whole_name: Vladimir ANTIUFEJEV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '17990'
+  logical_id: '158562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -97,13 +101,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Vladimir
-  last_name: ANTIUFEJEV
-  whole_name: Vladimir ANTIUFEJEV
+  middle_name: Iurievici
+  last_name: ANTIUFEEV
+  whole_name: Vladimir Iurievici ANTIUFEEV
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158562'
+  logical_id: '17990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

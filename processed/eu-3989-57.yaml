@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3989.57
 logical_id: '6626'
 regulations:
@@ -16,26 +17,14 @@ name_aliases:
 - first_name: Ghassan
   last_name: BELAL
   whole_name: Ghassan BELAL
-  function: Head of the 4th Division security bureau, head of the 555th paratrooper regiment. Adviser to Maher al‐Assad and coor­dinator of security operations.
+  function: Head of the 4th Division security bureau, head of the 555th paratrooper
+    regiment. Adviser to Maher al‐Assad and coor­dinator of security operations.
   gender: M
   title: General
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '14773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Ghassan
-  last_name: Bilal
-  whole_name: Ghassan Bilal
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '123918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -52,6 +41,19 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Ghassan
+  last_name: Bilal
+  whole_name: Ghassan Bilal
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '123918'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 birthdates:
 - birthdate: '1966-09-19'
   circa: false

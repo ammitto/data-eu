@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4441.46
 logical_id: '116106'
 united_nation_id: QDe.158
@@ -46,44 +47,6 @@ name_aliases:
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 addresses:
-- city: Khan-Shaykhun
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '116323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-05'
-    number_title: 2018/537 (OJ L 89 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
-- city: Khama
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '116320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-05'
-    number_title: 2018/537 (OJ L 89 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
-- country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '116325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-05'
-    number_title: 2018/537 (OJ L 89 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
-- country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '116324'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-05'
-    number_title: 2018/537 (OJ L 89 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
 - city: Idlib
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
@@ -99,6 +62,44 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '116321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-05'
+    number_title: 2018/537 (OJ L 89 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
+- city: Khan-Shaykhun
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '116323'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-05'
+    number_title: 2018/537 (OJ L 89 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
+- country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '116324'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-05'
+    number_title: 2018/537 (OJ L 89 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
+- country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '116325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-05'
+    number_title: 2018/537 (OJ L 89 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0537&from=EN
+- city: Khama
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '116320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-05'

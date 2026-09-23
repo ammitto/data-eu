@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13913.45
 logical_id: '180205'
 regulations:
@@ -14,7 +15,12 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Andrey Andreievich SUSHENTSOV
-  function: Director of the Institute for International Studies (IIS), Moscow State Institute of International Relations (MGIMO University) – a diplomatic academy under the Ministry of Foreign Affairs of the Russian Federation; Programme Director of the Valdai Discussion Club; member of the Council on Foreign and Defence Policy (SVOP); frequent commentator for Russian state media and author for Russia in Global Affairs and other Kremlin-aligned outlets
+  function: Director of the Institute for International Studies (IIS), Moscow State
+    Institute of International Relations (MGIMO University) – a diplomatic academy
+    under the Ministry of Foreign Affairs of the Russian Federation; Programme Director
+    of the Valdai Discussion Club; member of the Council on Foreign and Defence Policy
+    (SVOP); frequent commentator for Russian state media and author for Russia in
+    Global Affairs and other Kremlin-aligned outlets
   gender: M
   name_language: EN
   strong: true

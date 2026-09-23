@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4042.32
 logical_id: '113393'
 united_nation_id: QDe.154
@@ -23,10 +24,10 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Silsalat al Dhab
+- whole_name: Silsilah Money Exchange Company
   strong: true
   regulation_language: en
-  logical_id: '113537'
+  logical_id: '113535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -41,28 +42,10 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Silsilah Money Exchange Company
+- whole_name: Silsalat al Dhab
   strong: true
   regulation_language: en
-  logical_id: '113535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Silsilet al Thahab
-  strong: true
-  regulation_language: en
-  logical_id: '113534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: SELSELAT AL-THAHAB
-  strong: true
-  regulation_language: en
-  logical_id: '113532'
+  logical_id: '113537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -77,24 +60,42 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-addresses:
-- street: Al-Kadhumi Complex, Al-Harthia
-  city: Baghdad
-  country_iso2_code: IQ
-  country_description: IRAQ
+- whole_name: SELSELAT AL-THAHAB
+  strong: true
   regulation_language: en
-  logical_id: '113531'
+  logical_id: '113532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: Silsilet al Thahab
+  strong: true
+  regulation_language: en
+  logical_id: '113534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+addresses:
 - street: Al-Abbas Street
   city: Karbala
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
   logical_id: '113530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- street: Al-Kadhumi Complex, Al-Harthia
+  city: Baghdad
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '113531'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

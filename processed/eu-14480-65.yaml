@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14480.65
 logical_id: '183068'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Joint -Stock Commercial  Bank Absolut Bank
-  function: PJSC Joint Stock Commercial Bank Absolut Bank is a Moscow-based credit institution which is among the top 30 Russian banks by asset size.
+  function: PJSC Joint Stock Commercial Bank Absolut Bank is a Moscow-based credit
+    institution which is among the top 30 Russian banks by asset size.
   name_language: EN
   strong: true
   regulation_language: en

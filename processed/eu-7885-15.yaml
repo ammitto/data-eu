@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7885.15
 logical_id: '138190'
 remark: corrigendum surname OJ L 39 of 9.2.2023
@@ -14,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Людмила
-  last_name: Рукавишникова
-  whole_name: Людмила Рукавишникова
-  gender: F
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158599'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Lyudmila
   last_name: RUKAVISHNIKOVA
   whole_name: Lyudmila RUKAVISHNIKOVA
@@ -48,6 +36,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151963'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Людмила
+  last_name: Рукавишникова
+  whole_name: Людмила Рукавишникова
+  gender: F
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158599'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

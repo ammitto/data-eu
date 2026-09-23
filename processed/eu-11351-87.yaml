@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11351.87
 logical_id: '163274'
 regulations:
@@ -23,21 +24,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Общество с ограниченной ответственностью Сонатек
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163277'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Limited Liability Company Sonatek
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '163278'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Общество с ограниченной ответственностью Сонатек
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

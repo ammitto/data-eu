@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4019.75
 logical_id: '113326'
 united_nation_id: QDi.408
@@ -26,6 +27,21 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Alexanda
+  middle_name: Amon
+  last_name: Kotey
+  whole_name: Alexanda Amon Kotey
+  function: Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL),
+    listed as Al-Qaida in Iraq
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Alexe
   last_name: Kotey
   whole_name: Alexe Kotey
@@ -33,20 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Alexanda
-  middle_name: Amon
-  last_name: Kotey
-  whole_name: Alexanda Amon Kotey
-  function: Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113470'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

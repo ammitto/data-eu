@@ -1,6 +1,12 @@
+---
 eu_reference_number: EU.3763.44
 logical_id: '7024'
-remark: 'Represents and provides financial and logistical support to the Haqqani Network, which is based in Afghanistan/Pakistan border area. Member of the Taliban Financial Council. Has travelled abroad to raise funds on behalf of Sirajuddin Jallaloudine Haqqani, Jalaluddin Haqqani, the Haqqani network and the Taliban. Believed to be in Afghanistan/Pakistan border area. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678547'
+remark: 'Represents and provides financial and logistical support to the Haqqani Network,
+  which is based in Afghanistan/Pakistan border area. Member of the Taliban Financial
+  Council. Has travelled abroad to raise funds on behalf of Sirajuddin Jallaloudine
+  Haqqani, Jalaluddin Haqqani, the Haqqani network and the Taliban. Believed to be
+  in Afghanistan/Pakistan border area. INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/notice/search/un/4678547'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,10 +20,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Fazl Rabbi
+- whole_name: Faisal Rabbi
   strong: true
   regulation_language: en
-  logical_id: '16028'
+  logical_id: '16030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -33,19 +39,19 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Fazal Rabi
+- whole_name: Fazl Rabbi
   strong: true
   regulation_language: en
-  logical_id: '16029'
+  logical_id: '16028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Faisal Rabbi
+- whole_name: Fazal Rabi
   strong: true
   regulation_language: en
-  logical_id: '16030'
+  logical_id: '16029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -76,23 +82,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  city: Kabul Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  year: 1972
+  country_iso2_code: '00'
+  country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1851'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  city: Nangarhar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1850'
+  logical_id: '1881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -112,11 +106,23 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1972
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+  city: Nangarhar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1881'
+  logical_id: '1850'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  city: Kabul Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

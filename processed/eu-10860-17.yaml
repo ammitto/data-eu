@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10860.17
 logical_id: '159196'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: نادر خون سیاوش
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159199'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - first_name: Nader Chún
   last_name: Sijávaš
   whole_name: Nader Chún Sijávaš
@@ -32,6 +22,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- whole_name: نادر خون سیاوش
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159199'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

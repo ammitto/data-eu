@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8066.89
 logical_id: '139033'
 regulations:
@@ -27,23 +28,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Natalya
-  middle_name: Vladimirovna
-  last_name: SERGUN
-  whole_name: Natalya Vladimirovna SERGUN
-  function: |-
-    Member of the so-called “People’s Council” of the so-called “Luhansk People’s Republic”. 
-    Chairman of the Trade Union of Railway Transport Workers of the so-called “Luhansk People’s Republic”.
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Natalja
   middle_name: Vladimirovna
   last_name: SERGUN
@@ -53,6 +37,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Natalya
+  middle_name: Vladimirovna
+  last_name: SERGUN
+  whole_name: Natalya Vladimirovna SERGUN
+  function: "Member of the so-called “People’s Council” of the so-called “Luhansk
+    People’s Republic”. \nChairman of the Trade Union of Railway Transport Workers
+    of the so-called “Luhansk People’s Republic”."
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139036'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

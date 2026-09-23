@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1588.36
 logical_id: '7400'
 regulations:
@@ -17,26 +18,13 @@ name_aliases:
   middle_name: Vasilievich
   last_name: BORTNIKOV
   whole_name: Aleksandr Vasilievich BORTNIKOV
-  function: Permanent member of the Security Council of the Russian Federation; Director of the Federal Security Service (FSB).
+  function: Permanent member of the Security Council of the Russian Federation; Director
+    of the Federal Security Service (FSB).
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '17963'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Александр
-  middle_name: Васильевич
-  last_name: БОРТНИКОВ
-  whole_name: Александр Васильевич БОРТНИКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '17964'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -51,6 +39,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Александр
+  middle_name: Васильевич
+  last_name: БОРТНИКОВ
+  whole_name: Александр Васильевич БОРТНИКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '17964'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

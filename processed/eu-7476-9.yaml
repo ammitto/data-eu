@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7476.9
 logical_id: '135768'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Roza Basirovna TJEMERIS
+- whole_name: Роза  Басировна Чемерис
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135982'
+  logical_id: '135770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -35,11 +35,12 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Роза  Басировна Чемерис
+- whole_name: Roza Basirovna TJEMERIS
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135770'
+  logical_id: '135982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14419.79
 logical_id: '182746'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Алевтина Васильевна АНДРЕЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Alevtina Vasilievna ANDREEVA
   function: Commissioner for Children’s Rights in the Murmansk Region
   gender: F
@@ -31,6 +21,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Алевтина Васильевна АНДРЕЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182750'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

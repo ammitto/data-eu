@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9780.84
 logical_id: '150274'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  middle_name: Sergejevič
-  last_name: Manděl
-  whole_name: Andrej Sergejevič Manděl
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '171323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - first_name: Андрей
   middle_name: Сергеевич
   last_name: МАНДЕЛЬ
@@ -45,7 +32,8 @@ name_aliases:
   middle_name: Sergeevich
   last_name: MANDEL
   whole_name: Andrei Sergeevich MANDEL
-  function: head of M-Invest, a cover entity for the Wagner Group’s operations in Sudan
+  function: head of M-Invest, a cover entity for the Wagner Group’s operations in
+    Sudan
   gender: M
   name_language: EN
   strong: true
@@ -67,6 +55,20 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- first_name: Andrej
+  middle_name: Sergejevič
+  last_name: Manděl
+  whole_name: Andrej Sergejevič Manděl
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '171323'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - whole_name: Andrej Sergejevitj MANDEL
   gender: M
   name_language: SV

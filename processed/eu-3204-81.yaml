@@ -1,8 +1,8 @@
+---
 eu_reference_number: EU.3204.81
 logical_id: '506'
-remark: |-
-  Father's name: Abd al-Razzaq Abd al-Baqi, Mother's name: Nadira Ayoub Asaad. 
-  Photo available for inclusion in the INTERPOL-UN Security Council Special Notice
+remark: "Father's name: Abd al-Razzaq Abd al-Baqi, Mother's name: Nadira Ayoub Asaad.
+  \nPhoto available for inclusion in the INTERPOL-UN Security Council Special Notice"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,26 +65,6 @@ name_aliases:
     publication_date: '2016-01-07'
     number_title: 2016/13 (OJ L4/10)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
-- whole_name: Abd al-Muhayman
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107245'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-01-07'
-    number_title: 2016/13 (OJ L4/10)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
-- whole_name: Abd al-Hadi al-Ansari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107246'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-01-07'
-    number_title: 2016/13 (OJ L4/10)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
 - whole_name: Omar Uthman Mohammed
   name_language: EN
   strong: true
@@ -100,6 +80,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107248'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-01-07'
+    number_title: 2016/13 (OJ L4/10)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
+- whole_name: Abd al-Muhayman
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-01-07'
+    number_title: 2016/13 (OJ L4/10)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
+- whole_name: Abd al-Hadi al-Ansari
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-07'

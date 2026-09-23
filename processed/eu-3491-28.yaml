@@ -1,6 +1,10 @@
+---
 eu_reference_number: EU.3491.28
 logical_id: '7601'
-remark: 'Physical description: eye colour: brown; height: 171 cm; (b) Photo available for inclusion in the Interpol-UN Security Council Special Notice; (c) Father''s name is Taher Ouni Harzi, mother''s name is Borkana Bedairia. Reportedly killed in an airstrike in Mosul, Iraq, in Jun. 2015.'
+remark: 'Physical description: eye colour: brown; height: 171 cm; (b) Photo available
+  for inclusion in the Interpol-UN Security Council Special Notice; (c) Father''s
+  name is Taher Ouni Harzi, mother''s name is Borkana Bedairia. Reportedly killed
+  in an airstrike in Mosul, Iraq, in Jun. 2015.'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -65,6 +69,24 @@ birthdates:
     number_title: 2015/617 (OJ L102)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 addresses:
+- country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '109547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-20'
+    number_title: 2016/1683 (OJ L254)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '109548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-20'
+    number_title: 2016/1683 (OJ L254)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 - street: 18 Mediterranean Street
   city: Ariana
   country_iso2_code: TN
@@ -80,24 +102,6 @@ addresses:
   country_description: LIBYA
   regulation_language: en
   logical_id: '109546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-20'
-    number_title: 2016/1683 (OJ L254)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '109548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-20'
-    number_title: 2016/1683 (OJ L254)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '109547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-20'

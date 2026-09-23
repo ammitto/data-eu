@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.502.12
 logical_id: '521'
-remark: 'Believed to be in Afghanistan/ Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/ 4678353'
+remark: 'Believed to be in Afghanistan/ Pakistan border area. Review pursuant to Security
+  Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security
+  Council Special Notice web link: https://www.interpol.int/en/notice/search/un/ 4678353'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -58,11 +61,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1953
   year_range_to: 1958
-  city: Tirin Kot District, Uruzgan Province
+  city: Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1865'
+  logical_id: '101683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -72,11 +75,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1953
   year_range_to: 1958
-  city: Kandahar province
+  city: Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '101683'
+  logical_id: '1865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

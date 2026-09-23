@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7810.43
 logical_id: '137724'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Kurganmashzavod
-  function: a Russian military-industrial-complex company
-  name_language: EN
+- whole_name: Kurganmasjzavod
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '137726'
+  logical_id: '152594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -34,11 +34,12 @@ name_aliases:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Kurganmasjzavod
-  name_language: SV
+- whole_name: JSC Kurganmashzavod
+  function: a Russian military-industrial-complex company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152594'
+  logical_id: '137726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

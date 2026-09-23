@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4036.85
 logical_id: '7417'
 regulations:
@@ -23,11 +24,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Comunidad rusa “Sobol”
-  name_language: ES
+- whole_name: Руска общност „Собол“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '131452'
+  logical_id: '131402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -221,11 +222,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Руска общност „Собол“
-  name_language: BG
+- whole_name: Comunidad rusa “Sobol”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '131402'
+  logical_id: '131452'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

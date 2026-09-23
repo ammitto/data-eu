@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.2417.3
 logical_id: '6428'
-remark: Engineering firm that procures equipment for Iran's IR-40 heavy water research reactor. Date of listing 23.5.2011.
+remark: Engineering firm that procures equipment for Iran's IR-40 heavy water research
+  reactor. Date of listing 23.5.2011.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,19 +16,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Taghtiran  Kashan Company
+- whole_name: Taghtiran
   strong: true
   regulation_language: en
-  logical_id: '177686'
+  logical_id: '12446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'
     number_title: 2025/1559 (OJ L202501559)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
-- whole_name: Taghtiran
+- whole_name: Taghtiran  Kashan Company
   strong: true
   regulation_language: en
-  logical_id: '12446'
+  logical_id: '177686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2912.3
 logical_id: '7482'
 regulations:
@@ -109,19 +110,6 @@ citizenships:
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1976
-  city: Al-Shura, Mosul
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '172107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - birthdate: '1976-06-01'
   circa: false
   calendar_type: GREGORIAN
@@ -164,6 +152,19 @@ birthdates:
   country_description: IRAQ
   regulation_language: en
   logical_id: '172106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1976
+  city: Al-Shura, Mosul
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '172107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'

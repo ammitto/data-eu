@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12908.83
 logical_id: '174127'
 regulations:
@@ -24,56 +25,13 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitryj Švedka
+- whole_name: Dzmitry Mikalaevich  SHVEDKA
+  function: Businessman, majority shareholder and director of Ridotto LLC.
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitryj Švedka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmiry Shvedka
-  gender: M
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '174133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Дмитрий Николаевич  ШВЕДКO
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Дзмітрый Мікалаевіч  ШВЕДКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174135'
+  logical_id: '174137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -90,13 +48,56 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzmitry Mikalaevich  SHVEDKA
-  function: Businessman, majority shareholder and director of Ridotto LLC.
+- whole_name: Дзмітрый Мікалаевіч  ШВЕДКА
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174137'
+  logical_id: '174135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Дмитрий Николаевич  ШВЕДКO
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174134'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzmiry Shvedka
+  gender: M
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '174133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzmitryj Švedka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzmitryj Švedka
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '174131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

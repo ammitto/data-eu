@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10552.19
 logical_id: '155976'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hamid Reza
-  last_name: Sharifi-Tehrani
-  whole_name: Hamid Reza Sharifi-Tehrani
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156004'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1496 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Hamidreza
   last_name: Sharifi-Tehrani
   whole_name: Hamidreza Sharifi-Tehrani
@@ -34,6 +22,31 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1496 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
+- whole_name: مید رضا شریفی تهرانی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '155980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1496 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
+- first_name: Hamid Reza
+  last_name: SHARIFI TEHRANI
+  whole_name: Hamid Reza SHARIFI TEHRANI
+  function: Member of the Board of Directors of Qods Aviation Industries
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -65,26 +78,27 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
-- whole_name: مید رضا شریفی تهرانی
+- first_name: Hamidreza
+  last_name: SHARIFI TEHRANI
+  whole_name: Hamidreza SHARIFI TEHRANI
   gender: M
-  name_language: FA
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155980'
+  logical_id: '155979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Hamid Reza
-  last_name: SHARIFI TEHRANI
-  whole_name: Hamid Reza SHARIFI TEHRANI
-  function: Member of the Board of Directors of Qods Aviation Industries
+  last_name: Sharifi-Tehrani
+  whole_name: Hamid Reza Sharifi-Tehrani
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '155981'
+  logical_id: '156004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -124,19 +138,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1496 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
-- first_name: Hamidreza
-  last_name: SHARIFI TEHRANI
-  whole_name: Hamidreza SHARIFI TEHRANI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

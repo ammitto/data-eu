@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.12605.59
 logical_id: '171651'
-remark: 'Associated entity: Managed by the United Aircraft Corporation (registration number: 1067759884598)'
+remark: 'Associated entity: Managed by the United Aircraft Corporation (registration
+  number: 1067759884598)'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,27 +56,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Joint Stock Company “ODK Star”
-  function: JSC “ODK-Star” is a developer and a serial producer of fuel-supply and control systems for air, ground and marine gas turbine engines. JSC “ODK-Star” is involved in the most important programmes of Russian engine building, including in the creation of D30-KP and PD-8 engines.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Societatea pe acțiuni «ODK-Star»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '172142'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: "»Sztár« Rt."
   name_language: HU
   strong: true
@@ -105,6 +86,30 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Societatea pe acțiuni «ODK-Star»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '172142'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Joint Stock Company “ODK Star”
+  function: JSC “ODK-Star” is a developer and a serial producer of fuel-supply and
+    control systems for air, ground and marine gas turbine engines. JSC “ODK-Star”
+    is involved in the most important programmes of Russian engine building, including
+    in the creation of D30-KP and PD-8 engines.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
 - street: Kuibysheva Street, 140A
   city: PERM
@@ -119,16 +124,6 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: other
-  number: '590401001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172147'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: regnumber
   number: '1025900895712'
   country_iso2_code: RU
@@ -144,6 +139,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172146'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: other
+  number: '590401001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

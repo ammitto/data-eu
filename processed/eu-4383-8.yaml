@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4383.8
 logical_id: '115730'
 united_nation_id: QDe.157
@@ -26,6 +27,15 @@ name_aliases:
     publication_date: '2018-03-09'
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
+- whole_name: Al Kawthar Company
+  strong: true
+  regulation_language: en
+  logical_id: '115809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - whole_name: Al Kawthar Co.
   strong: true
   regulation_language: en
@@ -36,19 +46,13 @@ name_aliases:
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - whole_name: AL-KAWTHAR MONEY EXCHANGE
-  function: Facilitated financial transactions on behalf of companies associated with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Established in 2000 under License number 202, issued on 17 May 2000, and since withdrawn.
+  function: Facilitated financial transactions on behalf of companies associated with
+    Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115).
+    Established in 2000 under License number 202, issued on 17 May 2000, and since
+    withdrawn.
   strong: true
   regulation_language: en
   logical_id: '115811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- whole_name: Al Kawthar Company
-  strong: true
-  regulation_language: en
-  logical_id: '115809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

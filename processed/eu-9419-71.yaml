@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9419.71
 logical_id: '147341'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Voislav
-  last_name: TORDEN
-  whole_name: Voislav TORDEN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Jan
   last_name: Petrovskij
   whole_name: Jan Petrovskij
@@ -34,20 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Yan
-  middle_name: Igorevich
-  last_name: PETROVSKIY
-  whole_name: Yan Igorevich PETROVSKIY
-  gender: M
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '164757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -63,19 +37,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Ян
-  last_name: Петровски
-  whole_name: Ян Петровски
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Veliki Slavian
   gender: M
   strong: true
@@ -99,14 +60,56 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Jan
-  last_name: PETROVSKY
-  whole_name: Jan PETROVSKY
+- first_name: Yan
+  middle_name: Igorevich
+  last_name: PETROVSKIY
+  whole_name: Yan Igorevich PETROVSKIY
+  gender: M
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '164757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Voislav
+  last_name: TORDEN
+  whole_name: Voislav TORDEN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '147347'
+  logical_id: '164483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Ян
+  last_name: Петровски
+  whole_name: Ян Петровски
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Yan
+  middle_name: Igorovich
+  last_name: PETROVSKIY
+  whole_name: Yan Igorovich PETROVSKIY
+  function: leader and commander of the Russian paramilitary group 'Task Force 'Rusich''
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -126,16 +129,14 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Yan
-  middle_name: Igorovich
-  last_name: PETROVSKIY
-  whole_name: Yan Igorovich PETROVSKIY
-  function: leader and commander of the Russian paramilitary group 'Task Force 'Rusich''
+- first_name: Jan
+  last_name: PETROVSKY
+  whole_name: Jan PETROVSKY
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '147349'
+  logical_id: '147347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3802.38
 logical_id: '7351'
 regulations:
@@ -13,55 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Nusrah Front for the People of the Levant
+- whole_name: Levantine Mujahideen on the Battlefields of Jihad
   strong: true
   regulation_language: en
-  logical_id: '17799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-11'
-    number_title: 2018/855 (OJ L146)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.146.01.0003.01.ENG&toc=OJ:L:2018:146:TOC
-- whole_name: Hay'at Tahrir al-Sham (HTS)
-  strong: true
-  regulation_language: en
-  logical_id: '116997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-11'
-    number_title: 2018/855 (OJ L146)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.146.01.0003.01.ENG&toc=OJ:L:2018:146:TOC
-- whole_name: Jabhat al-Nusrah
-  strong: true
-  regulation_language: en
-  logical_id: '17801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-05-29'
-    number_title: 583/2014 (OJ L160)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Jabhet al-Nusra
-  strong: true
-  regulation_language: en
-  logical_id: '17802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-05-29'
-    number_title: 583/2014 (OJ L160)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Al-Nusrah Front
-  strong: true
-  regulation_language: en
-  logical_id: '17803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-05-29'
-    number_title: 583/2014 (OJ L160)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Al-Nusra Front
-  strong: true
-  regulation_language: en
-  logical_id: '17804'
+  logical_id: '17806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-05-29'
@@ -76,24 +32,6 @@ name_aliases:
     publication_date: '2014-05-29'
     number_title: 583/2014 (OJ L160)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Levantine Mujahideen on the Battlefields of Jihad
-  strong: true
-  regulation_language: en
-  logical_id: '17806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-05-29'
-    number_title: 583/2014 (OJ L160)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Front for the Conquest of Syria
-  strong: true
-  regulation_language: en
-  logical_id: '112501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-14'
-    number_title: 2017/998 (OJ L150)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0998&from=EN
 - whole_name: Front for the Liberation of the Levant
   strong: true
   regulation_language: en
@@ -247,10 +185,73 @@ name_aliases:
     publication_date: '2018-06-11'
     number_title: 2018/855 (OJ L146)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.146.01.0003.01.ENG&toc=OJ:L:2018:146:TOC
+- whole_name: Hay'at Tahrir al-Sham (HTS)
+  strong: true
+  regulation_language: en
+  logical_id: '116997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-11'
+    number_title: 2018/855 (OJ L146)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.146.01.0003.01.ENG&toc=OJ:L:2018:146:TOC
+- whole_name: Al-Nusrah Front for the People of the Levant
+  strong: true
+  regulation_language: en
+  logical_id: '17799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-11'
+    number_title: 2018/855 (OJ L146)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.146.01.0003.01.ENG&toc=OJ:L:2018:146:TOC
 - whole_name: the Victory Front
   strong: true
   regulation_language: en
   logical_id: '17800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-14'
+    number_title: 2017/998 (OJ L150)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0998&from=EN
+- whole_name: Jabhat al-Nusrah
+  strong: true
+  regulation_language: en
+  logical_id: '17801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-05-29'
+    number_title: 583/2014 (OJ L160)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
+- whole_name: Jabhet al-Nusra
+  strong: true
+  regulation_language: en
+  logical_id: '17802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-05-29'
+    number_title: 583/2014 (OJ L160)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
+- whole_name: Al-Nusrah Front
+  strong: true
+  regulation_language: en
+  logical_id: '17803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-05-29'
+    number_title: 583/2014 (OJ L160)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
+- whole_name: Al-Nusra Front
+  strong: true
+  regulation_language: en
+  logical_id: '17804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-05-29'
+    number_title: 583/2014 (OJ L160)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
+- whole_name: Front for the Conquest of Syria
+  strong: true
+  regulation_language: en
+  logical_id: '112501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-06-14'

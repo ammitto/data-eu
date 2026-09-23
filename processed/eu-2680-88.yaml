@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2680.88
 logical_id: '6652'
 regulations:
@@ -16,7 +17,10 @@ name_aliases:
 - first_name: Majid
   last_name: KHANSARI
   whole_name: Majid KHANSARI
-  function: Managing Director of UN-designated Kalaye Electric Company; Majid Khansari plays an influential role in Iran’s nuclear programme. He is the former CEO of Natanz nuclear site, as well as of EU-listed centrifuge manufacturer Kalaye Electric Company (KEC).
+  function: Managing Director of UN-designated Kalaye Electric Company; Majid Khansari
+    plays an influential role in Iran’s nuclear programme. He is the former CEO of
+    Natanz nuclear site, as well as of EU-listed centrifuge manufacturer Kalaye Electric
+    Company (KEC).
   gender: M
   name_language: EN
   strong: true

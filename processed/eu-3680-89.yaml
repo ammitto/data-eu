@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3680.89
 logical_id: '7376'
 regulations:
@@ -13,23 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Oleksandr Serhiyovych KHODAKOVSKYY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Alexander
   last_name: KHODAKOVSKY
   whole_name: Alexander KHODAKOVSKY
-  function: |-
-    Former so-called “Minister of Security of the Donetsk People’s Republic”, as such responsible for the separatist security activities of the so-called “government of the Donetsk People’s Republic”. 
-    Commander of the “Vostok” battalion of the “Ministry of Internal Affairs of the so-called Donetsk People’s Republic” fighting in Mariupol and Deputy Head of the Russian Guard in the so-called “Donetsk People’s Republic”.
+  function: "Former so-called “Minister of Security of the Donetsk People’s Republic”,
+    as such responsible for the separatist security activities of the so-called “government
+    of the Donetsk People’s Republic”. \nCommander of the “Vostok” battalion of the
+    “Ministry of Internal Affairs of the so-called Donetsk People’s Republic” fighting
+    in Mariupol and Deputy Head of the Russian Guard in the so-called “Donetsk People’s
+    Republic”."
   gender: M
   name_language: EN
   strong: true
@@ -54,12 +47,12 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Oleksandr Serhiyovych KHODAKOVSKYI
+- whole_name: Oleksandr Serhiyovych KHODAKOVSKYY
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143736'
+  logical_id: '18685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -93,6 +86,17 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Oleksandr Serhiyovych KHODAKOVSKYI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '143736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 birthdates:
 - birthdate: '1972-12-18'
   circa: false

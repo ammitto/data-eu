@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1035.20
 logical_id: '1067'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Saleh Parlindungan
+  last_name: Siregar
+  whole_name: Saleh Parlindungan Siregar
+  strong: true
+  regulation_language: en
+  logical_id: '2313'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-09-13'
+    number_title: 1607/2003 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
 - first_name: Parlindungan
   last_name: SIREGAR
   whole_name: Parlindungan SIREGAR
@@ -31,17 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2312'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-09-13'
-    number_title: 1607/2003 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
-- first_name: Saleh Parlindungan
-  last_name: Siregar
-  whole_name: Saleh Parlindungan Siregar
-  strong: true
-  regulation_language: en
-  logical_id: '2313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-09-13'

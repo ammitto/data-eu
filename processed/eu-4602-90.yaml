@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4602.90
 logical_id: '117360'
 regulations:
@@ -14,21 +15,12 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: MYRNA AJIJUL MABANZA
-  function: Facilitator for the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq
+  function: Facilitator for the Islamic State in Iraq and the Levant (ISIL), listed
+    as Al-Qaida in Iraq
   gender: F
   strong: true
   regulation_language: en
   logical_id: '117458'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- whole_name: Myrna Adijul Mabanza
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '117457'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -39,6 +31,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117456'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- whole_name: Myrna Adijul Mabanza
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117457'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -71,21 +73,21 @@ birthdates:
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 addresses:
-- city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '117448'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - city: Zamboanga City
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '117449'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '117448'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6760.85
 logical_id: '132270'
 regulations:
@@ -13,14 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergey  Vladimirovich  SHCHERBAKOV
-  function: |-
-    Freelance 
-    employee of the Russian GRU and Wagner group mercenary
+- whole_name: Sergej  Vladimirovitj  SJTJERBAKOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132275'
+  logical_id: '132720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'
@@ -36,12 +35,12 @@ name_aliases:
     publication_date: '2021-12-13'
     number_title: 2021/2193 (OJ L445I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2193&from=EN
-- whole_name: Sergej  Vladimirovitj  SJTJERBAKOV
+- whole_name: Sergey  Vladimirovich  SHCHERBAKOV
+  function: "Freelance \nemployee of the Russian GRU and Wagner group mercenary"
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132720'
+  logical_id: '132275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10754.35
 logical_id: '157608'
 regulations:
@@ -13,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dljaver
+  middle_name: Memetovitj
+  last_name: BERBEROV
+  whole_name: Dljaver Memetovitj BERBEROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157664'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Dľaver
+  middle_name: Memetovič
+  last_name: BERBEROV
+  whole_name: Dľaver Memetovič BERBEROV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Dliaver
   middle_name: Memetovich
   last_name: BERBEROV
@@ -37,34 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Dljaver
-  middle_name: Memetovitj
-  last_name: BERBEROV
-  whole_name: Dljaver Memetovitj BERBEROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157664'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Dľaver
-  middle_name: Memetovič
-  last_name: BERBEROV
-  whole_name: Dľaver Memetovič BERBEROV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13753.0
 logical_id: '179228'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Максим Юрійович  КРИВОНОС
+- whole_name: Максим Юрьевич  КРИВОНОС
   gender: M
-  name_language: UK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179229'
+  logical_id: '179230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -28,7 +29,8 @@ name_aliases:
   middle_name: Yurievich
   last_name: KRIVONOS
   whole_name: Maxim Yurievich KRIVONOS
-  function: Director of the so-called “Department of Education and Science of the City of Sevastopol”
+  function: Director of the so-called “Department of Education and Science of the
+    City of Sevastopol”
   gender: M
   name_language: EN
   strong: true
@@ -39,12 +41,12 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Максим Юрьевич  КРИВОНОС
+- whole_name: Максим Юрійович  КРИВОНОС
   gender: M
-  name_language: RU
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '179230'
+  logical_id: '179229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

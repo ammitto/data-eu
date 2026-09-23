@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12162.25
 logical_id: '169200'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ирина Борисовна АКУЛОВИЧ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Irina
   last_name: Akulovičová
   whole_name: Irina Akulovičová
@@ -21,18 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169522'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Iryna Barisauna AKULOVICH
-  function: Director-general of the republican unitary enterprise Belarusian Telegraph Agency (BelTA).
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169205'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -49,23 +49,25 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Iryna Barisauna AKULOVICH
+  function: Director-general of the republican unitary enterprise Belarusian Telegraph
+    Agency (BelTA).
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169205'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Iрына Барысаўна АКУЛОВIЧ
   gender: F
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '169203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Ирина Борисовна АКУЛОВИЧ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

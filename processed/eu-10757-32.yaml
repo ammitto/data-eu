@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10757.32
 logical_id: '157624'
 regulations:
@@ -21,20 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Anastasija
-  middle_name: Ivanovna
-  last_name: SUPRJAGA
-  whole_name: Anastasija Ivanovna SUPRJAGA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'
@@ -78,6 +65,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Anastasija
+  middle_name: Ivanovna
+  last_name: SUPRJAGA
+  whole_name: Anastasija Ivanovna SUPRJAGA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

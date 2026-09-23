@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.368.0
 logical_id: '515'
-remark: 'Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427409'
+remark: 'Review pursuant to Security Council Resolution 1822 (2008) was concluded
+  on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427409'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -18,7 +20,8 @@ name_aliases:
   middle_name: Mohammad Azim
   last_name: Agha
   whole_name: Sayed Mohammad Azim Agha
-  function: Director of the Passport and Visa Department in the Ministry of Interior under the Taliban regime
+  function: Director of the Passport and Visa Department in the Ministry of Interior
+    under the Taliban regime
   title: Maulavi
   strong: true
   regulation_language: en
@@ -59,12 +62,12 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1969
+  year: 1966
   city: Panjwai District, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1799'
+  logical_id: '911'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'
@@ -72,12 +75,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1966
+  year: 1969
   city: Panjwai District, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '911'
+  logical_id: '1799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.352.29
 logical_id: '548'
 remark: |-
@@ -16,21 +17,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Atiqullah Wali Mohammad
-  function: "(a) Director of Foreign Relations, Kandahar Province under the Taliban regime, (b) Director of Public Works, Kandahar Province under the Taliban regime, (c) First Deputy Minister of Agriculture under the Taliban regime, (d) Deputy Minister of Public Works under the Taliban regime."
-  title: "(a) Haji, (b) Mullah"
+- whole_name: Atiqullah
   strong: true
   regulation_language: en
-  logical_id: '1302'
+  logical_id: '6052'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Atiqullah
+- whole_name: Atiqullah Wali Mohammad
+  function: "(a) Director of Foreign Relations, Kandahar Province under the Taliban
+    regime, (b) Director of Public Works, Kandahar Province under the Taliban regime,
+    (c) First Deputy Minister of Agriculture under the Taliban regime, (d) Deputy
+    Minister of Public Works under the Taliban regime."
+  title: "(a) Haji, (b) Mullah"
   strong: true
   regulation_language: en
-  logical_id: '6052'
+  logical_id: '1302'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -50,11 +54,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1962
-  city: Tirin Kot District, Uruzgan Province
+  city: Khwaja Malik village, Arghadab District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1972'
+  logical_id: '1831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -63,11 +67,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1962
-  city: Khwaja Malik village, Arghadab District, Kandahar Province
+  city: Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1831'
+  logical_id: '1972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

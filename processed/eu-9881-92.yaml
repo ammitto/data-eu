@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9881.92
 logical_id: '150842'
 regulations:
@@ -13,8 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: AKTCIONERNOE OBSHESTVO “NAUCHNO-ISSLEDOVATELSKIJ INSTITUT GAZORAZRYADNIH
+    PRIBOROV ‘PLAZMA’”
+  strong: true
+  regulation_language: en
+  logical_id: '150847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: AO Plasma
-  function: developer and manufacturer of plasma electronics products in Russia, including gas lasers and systems based on them, information display tools (plasma panels and monitors based on them and other devices), gas-discharge switching devices, and industrial ceramics.
+  function: developer and manufacturer of plasma electronics products in Russia, including
+    gas lasers and systems based on them, information display tools (plasma panels
+    and monitors based on them and other devices), gas-discharge switching devices,
+    and industrial ceramics.
   title: 'Type of entity: State corporation'
   name_language: EN
   strong: true
@@ -35,16 +49,8 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: AKTCIONERNOE OBSHESTVO “NAUCHNO-ISSLEDOVATELSKIJ INSTITUT GAZORAZRYADNIH PRIBOROV ‘PLAZMA’”
-  strong: true
-  regulation_language: en
-  logical_id: '150847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГАЗОРАЗРЯДНЫХ ПРИБОРОВ ‘ПЛАЗМА’”
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГАЗОРАЗРЯДНЫХ
+    ПРИБОРОВ ‘ПЛАЗМА’”
   name_language: RU
   strong: true
   regulation_language: en

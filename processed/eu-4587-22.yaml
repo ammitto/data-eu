@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4587.22
 logical_id: '117261'
 remark: Corrigendum 2018/1285 (OJ L240 [corr. 26/10/2018-1]
@@ -14,10 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: The Doctor
+- whole_name: ABU-AL QASSIM OMAR Musab Boukrin
   strong: true
   regulation_language: en
-  logical_id: '117267'
+  logical_id: '117268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'
@@ -32,16 +33,15 @@ name_aliases:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: MUS'AB MUSTAFA ABU AL QASSIM OMAR
-  function: Leader of a transnational trafficking network
+- whole_name: The Doctor
   strong: true
   regulation_language: en
-  logical_id: '118343'
+  logical_id: '117267'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - first_name: Mus'ab
   last_name: Abu Qarin
   whole_name: Mus'ab Abu Qarin
@@ -54,15 +54,16 @@ name_aliases:
     publication_date: '2018-09-25'
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- whole_name: ABU-AL QASSIM OMAR Musab Boukrin
+- whole_name: MUS'AB MUSTAFA ABU AL QASSIM OMAR
+  function: Leader of a transnational trafficking network
   strong: true
   regulation_language: en
-  logical_id: '117268'
+  logical_id: '118343'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 citizenships:
 - country_iso2_code: LY
   country_description: LIBYA

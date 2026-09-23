@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10904.14
 logical_id: '159622'
 regulations:
@@ -13,14 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Андрей
+  middle_name: Павлович
+  last_name: ФАЛАЛЕЕВ
+  whole_name: Андрей Павлович ФАЛАЛЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
   last_name: Falalejev
   whole_name: Andrej Falalejev
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160855'
+  logical_id: '160857'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -43,10 +58,10 @@ name_aliases:
   last_name: Falalejev
   whole_name: Andrej Falalejev
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160857'
+  logical_id: '160855'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -76,20 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159626'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Андрей
-  middle_name: Павлович
-  last_name: ФАЛАЛЕЕВ
-  whole_name: Андрей Павлович ФАЛАЛЕЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

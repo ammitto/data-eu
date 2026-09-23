@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13818.31
 logical_id: '179746'
 regulations:
@@ -13,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: V. I. Čiapajevo  vardo JSC Čeboksarų gamybos asociacija
-  name_language: LT
+- whole_name: AO Чебоксарское  производственное объединение  им. В.И.Чапаева
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179749'
+  logical_id: '179751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -33,22 +34,23 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: JSC Cheboksary Production  Association named after V.  I. Chapaev
-  function: Named after V.I. Chapaev” is a Russian company whose primary activity is the production of weapons and military equipment.
-  name_language: EN
+- whole_name: V. I. Čiapajevo  vardo JSC Čeboksarų gamybos asociacija
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '179752'
+  logical_id: '179749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: AO Чебоксарское  производственное объединение  им. В.И.Чапаева
-  name_language: RU
+- whole_name: JSC Cheboksary Production  Association named after V.  I. Chapaev
+  function: Named after V.I. Chapaev” is a Russian company whose primary activity
+    is the production of weapons and military equipment.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179751'
+  logical_id: '179752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

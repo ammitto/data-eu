@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14778.18
 logical_id: '184435'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Zulu Ships Management
-  function: Zulu Ships Management is a shipping company based in the United Arab Emirates, which manages tankers transporting Russian crude oil, including for export purposes.
+  function: Zulu Ships Management is a shipping company based in the United Arab Emirates,
+    which manages tankers transporting Russian crude oil, including for export purposes.
   name_language: EN
   strong: true
   regulation_language: en

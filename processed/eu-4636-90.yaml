@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4636.90
 logical_id: '117539'
 regulations:
@@ -16,7 +17,10 @@ name_aliases:
 - first_name: Freddy Alirio
   last_name: BERNAL ROSALES
   whole_name: Freddy Alirio BERNAL ROSALES
-  function: Governor of Táchira State. Former Head of the National Control Centre of the Committee for Local Supply and Production (CLAP) and former Protector of Táchira State. Also a Commissioner General of the Bolivarian National Intelligence Service (SEBIN).
+  function: Governor of Táchira State. Former Head of the National Control Centre
+    of the Committee for Local Supply and Production (CLAP) and former Protector of
+    Táchira State. Also a Commissioner General of the Bolivarian National Intelligence
+    Service (SEBIN).
   gender: M
   strong: true
   regulation_language: en

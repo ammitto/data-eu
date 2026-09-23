@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11213.6
 logical_id: '162446'
 regulations:
@@ -24,26 +25,27 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Gennady
-  middle_name: Valentinovich
-  last_name: SVETLOV
-  whole_name: Gennady Valentinovich SVETLOV
-  function: Director of JSC RPTP Granit (a.k.a. Ryazan Production and Technical Enterprise Granit)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Genadij Svetlov
   gender: M
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '164069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Gennady
+  middle_name: Valentinovich
+  last_name: SVETLOV
+  whole_name: Gennady Valentinovich SVETLOV
+  function: Director of JSC RPTP Granit (a.k.a. Ryazan Production and Technical Enterprise
+    Granit)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6797.82
 logical_id: '132649'
 regulations:
@@ -13,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitriy Sergeevich KARSIUK
+- whole_name: Dzmitryj Siarhejevitj KARSIUK
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132656'
+  logical_id: '132653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -56,23 +58,22 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Dzmitryj Siarhejevitj KARSIUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Dzmitry Siarheevich KARSIUK
   function: Judge at the Central District of the City of Minsk Court
   gender: M
   strong: true
   regulation_language: en
   logical_id: '132657'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Dmitriy Sergeevich KARSIUK
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

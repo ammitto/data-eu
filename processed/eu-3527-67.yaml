@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3527.67
 logical_id: '7320'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitrij Nikolajevitj KOZAK
+- whole_name: Дмитрий Николаевич КОЗАК
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '128355'
+  logical_id: '106277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -28,7 +28,9 @@ name_aliases:
   middle_name: Nikolayevich
   last_name: KOZAK
   whole_name: Dmitry Nikolayevich KOZAK
-  function: Former Deputy Prime Minister. Deputy Chief of Staff of the Presidential Administration of the Russian Federation. He is the President’s Special Envoy for conflict-management  in Ukraine.
+  function: Former Deputy Prime Minister. Deputy Chief of Staff of the Presidential
+    Administration of the Russian Federation. He is the President’s Special Envoy
+    for conflict-management  in Ukraine.
   gender: M
   strong: true
   regulation_language: en
@@ -38,11 +40,12 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Дмитрий Николаевич КОЗАК
+- whole_name: Dmitrij Nikolajevitj KOZAK
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '106277'
+  logical_id: '128355'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

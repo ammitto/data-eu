@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3196.55
 logical_id: '106546'
 regulations:
@@ -13,14 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mu'tassim
-  middle_name: Yahya 'Ali
-  last_name: Al-Rumaysh
-  whole_name: Mu'tassim Yahya 'Ali Al-Rumaysh
+- whole_name: Handalah
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106547'
+  logical_id: '106683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -36,11 +34,24 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Handalah
+- whole_name: Rayhanah
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106683'
+  logical_id: '106685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Mu'tassim
+  middle_name: Yahya 'Ali
+  last_name: Al-Rumaysh
+  whole_name: Mu'tassim Yahya 'Ali Al-Rumaysh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -51,16 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Rayhanah
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

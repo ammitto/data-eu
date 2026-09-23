@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14780.92
 logical_id: '184445'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Design Bureau Aviatekhnolab
-  function: LLC “KB ATL” is a Russian company involved in the development and serial production of unmanned aerial systems, including FPV attack drones, heavy hexacopters, ground control stations, communication equipment, and aerial relay platforms.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: LLC KB  ATL
   name_language: EN
   strong: true
@@ -44,6 +34,16 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: LLC DB  ATL
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ООО  Конструкторское  бюро  Aвиатехнолаб
   name_language: RU
   strong: true
@@ -54,11 +54,14 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: LLC DB  ATL
-  name_language: RU
+- whole_name: LLC Design Bureau Aviatekhnolab
+  function: LLC “KB ATL” is a Russian company involved in the development and serial
+    production of unmanned aerial systems, including FPV attack drones, heavy hexacopters,
+    ground control stations, communication equipment, and aerial relay platforms.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184471'
+  logical_id: '184449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -78,21 +81,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '7743459220'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
   number: '1247700699949'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '7743459220'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

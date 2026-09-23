@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10142.14
 logical_id: '153650'
 regulations:
@@ -13,48 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  last_name: PODOPRIGOROV
-  whole_name: Sergej PODOPRIGOROV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153946'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- first_name: Sergej
-  middle_name: Gennadjevič
-  last_name: PODOPRIGOROV
-  whole_name: Sergej Gennadjevič PODOPRIGOROV
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '171342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- first_name: Sergei
-  middle_name: Gennadievich
-  last_name: PODOPRIGOROV
-  whole_name: Sergei Gennadievich PODOPRIGOROV
-  function: Judge of the Moscow City Court
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Сергей
   middle_name: Геннадьевич
   last_name: ПОДОПРИГОРОВ
@@ -70,6 +29,33 @@ name_aliases:
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Sergej
+  middle_name: Gennadjevič
+  last_name: PODOPRIGOROV
+  whole_name: Sergej Gennadjevič PODOPRIGOROV
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '171342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- first_name: Sergej
+  last_name: PODOPRIGOROV
+  whole_name: Sergej PODOPRIGOROV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153946'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- first_name: Sergej
   middle_name: Gennadjevitj
   last_name: PODOPRIGOROV
   whole_name: Sergej Gennadjevitj PODOPRIGOROV
@@ -78,6 +64,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Sergei
+  middle_name: Gennadievich
+  last_name: PODOPRIGOROV
+  whole_name: Sergei Gennadievich PODOPRIGOROV
+  function: Judge of the Moscow City Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153655'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

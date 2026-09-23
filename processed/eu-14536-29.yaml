@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14536.29
 logical_id: '183361'
 regulations:
@@ -13,22 +14,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint-Stock Commercial Bank FORA-BANK
-  function: Joint Stock Commercial Bank FORA-BANK is a Moscow-based credit institution which is among the top 50 Russian banks by asset size.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Акционерный Коммерческий Банк ФОРА-БАНК
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183365'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Joint-Stock Commercial Bank FORA-BANK
+  function: Joint Stock Commercial Bank FORA-BANK is a Moscow-based credit institution
+    which is among the top 50 Russian banks by asset size.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183366'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

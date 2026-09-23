@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14008.75
 logical_id: '180722'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: عنبران آرمین قرصی
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/262 (OJ L202600262)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
 - whole_name: Armin Ghorsi ANBARAN
   function: Board Member and shareholder of Fanavaran Sanat Ertebatat Company
   gender: M
@@ -31,6 +21,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: عنبران آرمین قرصی
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3028.13
 logical_id: '7130'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: هالة محمد الناصر
-  gender: F
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - whole_name: Hala Mohammad AL NASSER
   function: Former Minister of Tourism
   gender: F
@@ -60,6 +50,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- whole_name: هالة محمد الناصر
+  gender: F
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

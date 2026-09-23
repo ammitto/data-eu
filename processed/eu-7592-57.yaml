@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7592.57
 logical_id: '136434'
 regulations:
@@ -13,50 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Вадим
-  middle_name: Евгеньевич
-  last_name: ШАДУРА
-  whole_name: Вадим Евгеньевич ШАДУРА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Vadim
-  middle_name: Evgenievich
-  last_name: SHADURA
-  whole_name: Vadim Evgenievich SHADURA
-  function: Chief of Staff – First Deputy Commander of the Troops of the North-Western Operational Command of Belarus,
-  gender: M
-  title: Major-General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Vadim
-  middle_name: Jevgenjevitj
-  last_name: SJADURA
-  whole_name: Vadim Jevgenjevitj SJADURA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136436'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Vadim
   last_name: Šadura
   whole_name: Vadim Šadura
@@ -78,6 +35,51 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Vadim
+  middle_name: Jevgenjevitj
+  last_name: SJADURA
+  whole_name: Vadim Jevgenjevitj SJADURA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Вадим
+  middle_name: Евгеньевич
+  last_name: ШАДУРА
+  whole_name: Вадим Евгеньевич ШАДУРА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Vadim
+  middle_name: Evgenievich
+  last_name: SHADURA
+  whole_name: Vadim Evgenievich SHADURA
+  function: Chief of Staff – First Deputy Commander of the Troops of the North-Western
+    Operational Command of Belarus,
+  gender: M
+  title: Major-General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

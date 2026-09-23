@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.13993.88
 logical_id: '180608'
-remark: 'Associated entities: RSF; Tradive General Trading Co; GSK ADVANCE COMPANY LTD'
+remark: 'Associated entities: RSF; Tradive General Trading Co; GSK ADVANCE COMPANY
+  LTD'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,20 +79,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 identifications:
 - identification_type_code: passport
-  number: B00017334
+  number: B00024943
   country_iso2_code: SD
   regulation_language: en
-  logical_id: '180612'
+  logical_id: '180611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
     number_title: 2026/251 (OJ L202600251)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 - identification_type_code: passport
-  number: B00024943
+  number: B00017334
   country_iso2_code: SD
   regulation_language: en
-  logical_id: '180611'
+  logical_id: '180612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8092.0
 logical_id: '139141'
 regulations:
@@ -13,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ОАО Нижегородские автомобили
+- whole_name: ООО “Русские машины”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151747'
+  logical_id: '139143'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -33,11 +34,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: ООО “Русские машины”
+- whole_name: ОАО Нижегородские автомобили
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139143'
+  logical_id: '151747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -77,21 +78,21 @@ addresses:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
-- identification_type_code: fiscalcode
-  number: '2373000582'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '151746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - identification_type_code: regnumber
   number: '1112373000596'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '151745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- identification_type_code: fiscalcode
+  number: '2373000582'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

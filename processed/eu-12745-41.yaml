@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12745.41
 logical_id: '172896'
 regulations:
@@ -33,6 +34,19 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Komtel”
+  function: State Unitary Enterprise of the Donetsk People’s Republic “Komtel” (SUE
+    DPR “KOMTEL”) is a telecom operator operating in the illegally occupied region
+    of Ukraine of Donetsk.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ДОНЕЦКОЙ НАРОДНОЙ РЕСПУБЛІКІ “КОМТЕЛ”
   name_language: RU
   strong: true
@@ -43,12 +57,12 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Komtel”
-  function: State Unitary Enterprise of the Donetsk People’s Republic “Komtel” (SUE DPR “KOMTEL”) is a telecom operator operating in the illegally occupied region of Ukraine of Donetsk.
-  name_language: EN
+- whole_name: Κρατική διαχειριστική επιχείρηση της Λαϊκής Δημοκρατίας του Ντονέτσκ
+    «Komtel»
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '172902'
+  logical_id: '173448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -64,16 +78,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: A Donyecki Népköztársaság »Komtel« Központosított Szövetségi Állami Vállalata
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173365'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Entreprise unitaire d'État de la République populaire de Donetsk "Komtel"
   name_language: FR
   strong: true
@@ -84,11 +88,12 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Κρατική διαχειριστική επιχείρηση της Λαϊκής Δημοκρατίας του Ντονέτσκ «Komtel»
-  name_language: EL
+- whole_name: A Donyecki Népköztársaság »Komtel« Központosított Szövetségi Állami
+    Vállalata
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173448'
+  logical_id: '173365'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

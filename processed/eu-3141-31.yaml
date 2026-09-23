@@ -1,8 +1,8 @@
+---
 eu_reference_number: EU.3141.31
 logical_id: '106536'
-remark: |-
-  a) Husband's name is: Junaid Hussain. 
-  b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+remark: "a) Husband's name is: Junaid Hussain. \nb) Photo available for inclusion
+  in the INTERPOL-UN Security Council Special Notice."
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -16,12 +16,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Umm Hussain al-Britani
+- first_name: Sally-Anne
+  middle_name: Frances
+  last_name: Jones
+  whole_name: Sally-Anne Frances Jones
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106637'
+  logical_id: '106537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -38,15 +41,12 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Sally-Anne
-  middle_name: Frances
-  last_name: Jones
-  whole_name: Sally-Anne Frances Jones
+- whole_name: Umm Hussain al-Britani
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106537'
+  logical_id: '106637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

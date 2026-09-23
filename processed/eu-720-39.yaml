@@ -1,6 +1,10 @@
+---
 eu_reference_number: EU.720.39
 logical_id: '756'
-remark: 'Advisor to the Taliban Supreme Council as of mid-2013. Believed to be in Afghanistan/ Pakistan border area. Belongs to Barakzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/ notice/search/un/1427433'
+remark: 'Advisor to the Taliban Supreme Council as of mid-2013. Believed to be in
+  Afghanistan/ Pakistan border area. Belongs to Barakzai tribe. Review pursuant to
+  Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/ notice/search/un/1427433'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,7 +21,8 @@ name_aliases:
 - first_name: Saduddin
   last_name: Sayyed
   whole_name: Saduddin Sayyed
-  function: "(a) Vice-Minister of Work and Social Affairs under the Taliban regime, (b) Mayor of Kabul City under the Taliban regime."
+  function: "(a) Vice-Minister of Work and Social Affairs under the Taliban regime,
+    (b) Mayor of Kabul City under the Taliban regime."
   title: "(a) Maulavi, (b) Alhaj, (c) Mullah"
   strong: true
   regulation_language: en
@@ -51,11 +56,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Spin Boldak District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  city: Chaman district
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '1829'
+  logical_id: '102121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -64,11 +69,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Chaman district
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  city: Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '102121'
+  logical_id: '1829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

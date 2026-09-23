@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4014.56
 logical_id: '114265'
 regulations:
@@ -14,7 +15,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: PROPAGANDA AND AGITATION DEPARTMENT (PAD)
-  function: The Propaganda and Agitation Department has full control over the media, which it uses as a tool to control the public on behalf of the DPRK leadership. The Propaganda and Agitation Department also engages in or is responsible for censorship by the Government of the DPRK, including newspaper and broadcast censorship.
+  function: The Propaganda and Agitation Department has full control over the media,
+    which it uses as a tool to control the public on behalf of the DPRK leadership.
+    The Propaganda and Agitation Department also engages in or is responsible for
+    censorship by the Government of the DPRK, including newspaper and broadcast censorship.
   strong: true
   regulation_language: en
   logical_id: '114334'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9877.20
 logical_id: '150817'
 regulations:
@@ -33,6 +34,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: OOO Липецкий механический завод
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Lipetsk Przedsiębiorstwo Mechaniczne, Sp z o.o.
   name_language: PL
   strong: true
@@ -53,16 +64,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Sociedad de responsabilidad  limitada Lipetsk Mechanical Plant
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '151174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Société à responsabilité limitée Lipetsk Mechanical Plant
   name_language: FR
   strong: true
@@ -73,11 +74,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: OOO Липецкий механический завод
-  name_language: RU
+- whole_name: Sociedad de responsabilidad  limitada Lipetsk Mechanical Plant
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '150819'
+  logical_id: '151174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

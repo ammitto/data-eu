@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2005.18
 logical_id: '5735'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Parto Sanat Co
-  function: Manufacturer of frequency changers and it is capable of developing and modifying imported foreign frequency changers in a way that makes them usable in gas centrifuge enrichment. It is deemed to be involved in nuclear proliferation activities.
+- whole_name: Partosanat Co.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '8158'
+  logical_id: '177719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'
@@ -54,11 +54,15 @@ name_aliases:
     publication_date: '2025-07-28'
     number_title: 2025/1559 (OJ L202501559)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
-- whole_name: Partosanat Co.
+- whole_name: Parto Sanat Co
+  function: Manufacturer of frequency changers and it is capable of developing and
+    modifying imported foreign frequency changers in a way that makes them usable
+    in gas centrifuge enrichment. It is deemed to be involved in nuclear proliferation
+    activities.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177719'
+  logical_id: '8158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

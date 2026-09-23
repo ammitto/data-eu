@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1051.65
 logical_id: '1020'
 regulations:
@@ -13,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Moussa
-  middle_name: Ben Omar Ben Ali
-  last_name: Essaadi
-  whole_name: Moussa Ben Omar Ben Ali Essaadi
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '2202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-11-01'
-    number_title: 1291/2007 (OJ L287)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:287:0012:0017:EN:PDF
-- whole_name: Dah Dah
-  strong: true
-  regulation_language: en
-  logical_id: '2203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 - whole_name: Abdelrahmman
   strong: true
   regulation_language: en
@@ -62,6 +41,28 @@ name_aliases:
     publication_date: '2020-09-17'
     number_title: 2020/1297 (OJ L303I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- whole_name: Dah Dah
+  strong: true
+  regulation_language: en
+  logical_id: '2203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- first_name: Moussa
+  middle_name: Ben Omar Ben Ali
+  last_name: Essaadi
+  whole_name: Moussa Ben Omar Ben Ali Essaadi
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-11-01'
+    number_title: 1291/2007 (OJ L287)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:287:0012:0017:EN:PDF
 citizenships:
 - country_iso2_code: TN
   country_description: TUNISIA

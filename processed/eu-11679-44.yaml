@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11679.44
 logical_id: '166299'
 regulations:
@@ -13,45 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО “ССК”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166302'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: AO “SSK”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: AO Sibirskaya Servisnaya Kompany
-  strong: true
-  regulation_language: en
-  logical_id: '166304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: АО Сибирская Сервисная Компания
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Siberian Service Company Rt.
   name_language: HU
   strong: true
@@ -72,13 +34,53 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: АО “ССК”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: АО Сибирская Сервисная Компания
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: AO Sibirskaya Servisnaya Kompany
+  strong: true
+  regulation_language: en
+  logical_id: '166304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Siberian Service Company JSC
-  function: Siberian Service Company JSC is a leading company in the Russian energy sector.
+  function: Siberian Service Company JSC is a leading company in the Russian energy
+    sector.
   title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '166305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: AO “SSK”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

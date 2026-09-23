@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2780.53
 logical_id: '6511'
 regulations:
@@ -13,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Dirección de Información general [Siria]
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '14358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Дирекция „Общо разузнаване“ [Сирия]
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '14357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direktoratet för säkerhetstjänsten [Syrien]
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '14375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: ředitelství pro všeobecné zpravodajství [Sýrie]
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '14359'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -133,35 +124,6 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: General Intelligence Directorate [Syria]
-  strong: true
-  regulation_language: en
-  logical_id: '14279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Directorat des renseignements généraux [Syrie]
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '14289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direktorat Allgemeiner Nachrichtendienst [Syrien]
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '14341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Dyrekcja wywiadu ogólnego [Syria]
   name_language: PL
   strong: true
@@ -222,11 +184,50 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Dirección de Información general [Siria]
-  name_language: ES
+- whole_name: Direktoratet för säkerhetstjänsten [Syrien]
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '14358'
+  logical_id: '14375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: General Intelligence Directorate [Syria]
+  strong: true
+  regulation_language: en
+  logical_id: '14279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Directorat des renseignements généraux [Syrie]
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '14289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direktorat Allgemeiner Nachrichtendienst [Syrien]
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '14341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: ředitelství pro všeobecné zpravodajství [Sýrie]
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '14359'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

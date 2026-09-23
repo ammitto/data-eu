@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3029.75
 logical_id: '7204'
 regulations:
@@ -13,20 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: جمال عكاشة
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '149795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Djamel
   last_name: Akkacha
   whole_name: Djamel Akkacha
-  function: Coordinator of groups associated with The Organisation of Al-Qaida in the Islamic Maghreb in northern Mali
+  function: Coordinator of groups associated with The Organisation of Al-Qaida in
+    the Islamic Maghreb in northern Mali
   name_language: EN
   strong: true
   regulation_language: en
@@ -51,6 +43,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: جمال عكاشة
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

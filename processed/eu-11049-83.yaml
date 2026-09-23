@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11049.83
 logical_id: '160502'
 regulations:
@@ -13,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “АК МИКРОТЕХ”
-  name_language: RU
+- whole_name: LLC AKM, OOO, "AK MICROTECH"
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '160504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: AK MICROTECH Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161184'
+  logical_id: '161204'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -43,6 +34,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ООО “АК МИКРОТЕХ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: AKM, OOO,  “AK MICROTECH”
   name_language: LT
   strong: true
@@ -53,11 +54,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: LLC AKM, OOO, "AK MICROTECH"
-  name_language: MT
+- whole_name: AK MICROTECH Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161204'
+  logical_id: '161184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

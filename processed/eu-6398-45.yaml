@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6398.45
 logical_id: '130232'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergei Petrovich ARTIOMENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130586'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Сергей Петрович  АРТЁМЕНКО
   gender: M
   name_language: RU
@@ -56,13 +47,22 @@ name_aliases:
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Siarhei Piatrovich  ARTSIOMENKA
-  function: |-
-    Deputy Head of the Pervomaisky Police 
-    District in Minsk
+  function: "Deputy Head of the Pervomaisky Police \nDistrict in Minsk"
   gender: M
   strong: true
   regulation_language: en
   logical_id: '130238'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Siarhej Pjatrovitj ARTSIOMENKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130773'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -79,12 +79,11 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Siarhej Pjatrovitj ARTSIOMENKA
+- whole_name: Sergei Petrovich ARTIOMENKO
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130773'
+  logical_id: '130586'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11667.77
 logical_id: '166239'
 regulations:
@@ -28,38 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Беларускі рэспубліканскі саюз моладзі
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '166241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Белорусский республиканский союз молодёжи
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Belarusian Republican Youth Union
-  function: The Belarusian Republican Youth Union is an organisation in Belarus and is one of the main actors involved in the deportation of Ukrainian children from the illegally occupied territories of Ukraine to Belarus.
-  title: Non-Governmental Organisation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -110,6 +79,40 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167197'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Беларускі рэспубліканскі саюз моладзі
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '166241'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Белорусский республиканский союз молодёжи
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Belarusian Republican Youth Union
+  function: The Belarusian Republican Youth Union is an organisation in Belarus and
+    is one of the main actors involved in the deportation of Ukrainian children from
+    the illegally occupied territories of Ukraine to Belarus.
+  title: Non-Governmental Organisation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

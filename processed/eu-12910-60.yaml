@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12910.60
 logical_id: '174150'
 regulations:
@@ -13,12 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergey Mirzoevich  AVAKOV
+- whole_name: Siarhei Mirzaevich  AVAKAU
+  function: Businessperson, CEO of OJSC Planar
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174157'
+  logical_id: '174158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -35,12 +37,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Сергей Мирзоевич  АВАКОВ
+- whole_name: Sjarhej Avakau
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '174155'
+  logical_id: '174153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -57,12 +59,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Sjarhej Avakau
+- whole_name: Сергей Мирзоевич  АВАКОВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174153'
+  logical_id: '174155'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -79,13 +81,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Siarhei Mirzaevich  AVAKAU
-  function: Businessperson, CEO of OJSC Planar
+- whole_name: Sergey Mirzoevich  AVAKOV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174158'
+  logical_id: '174157'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

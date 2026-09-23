@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14027.14
 logical_id: '181035'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО “СНПЗ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181038'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Open Joint-Stock Oil And Gas Company Syzran
   name_language: EN
   strong: true
@@ -43,27 +54,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Акционерное общество “Сызранский нефтеперерабатывающий завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181042'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Joint-Stock Company Syzran Oil Refinery
-  function: JSC Syzran Oil Refinery is a Russian entity operating an oil refinery in the Samara region.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: JSC ,Refineryʼ
   name_language: HR
   strong: true
@@ -74,11 +64,23 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: АО “СНПЗ”
+- whole_name: Joint-Stock Company Syzran Oil Refinery
+  function: JSC Syzran Oil Refinery is a Russian entity operating an oil refinery
+    in the Samara region.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181038'
+  logical_id: '181043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Акционерное общество “Сызранский нефтеперерабатывающий завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

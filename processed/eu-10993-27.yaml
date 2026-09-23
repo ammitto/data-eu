@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10993.27
 logical_id: '160160'
 regulations:
@@ -13,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Empresa de Aviación Progress Arsenyev
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: AAC Progress
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173914'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Арсеньевская авиационная компания “Прогресс” им. Н.И. Сазыкина
   name_language: RU
   strong: true
@@ -63,16 +44,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC Arsenyev Aviation Company Progress
-  name_language: EN
+- whole_name: Empresa de Aviación Progress Arsenyev
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '173915'
+  logical_id: '160746'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Arseňjevská letecká společnost „Progress“ N. I. Sazykina, a. s.
   name_language: CS
   strong: true
@@ -83,7 +64,8 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: N.I. Sazikinról elnevezett PROGRESSZ Arszenyjevi Repülőipari Vállalat Rt.
+- whole_name: N.I. Sazikinról elnevezett PROGRESSZ Arszenyjevi Repülőipari Vállalat
+    Rt.
   name_language: HU
   strong: true
   regulation_language: en
@@ -93,6 +75,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC Arsenyev Aviation Company Progress
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173915'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: "“AAC Прогресс”"
   name_language: RU
   strong: true
@@ -108,6 +100,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: AAC Progress
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

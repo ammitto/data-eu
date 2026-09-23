@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13328.52
 logical_id: '176887'
 regulations:
@@ -13,33 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество “Алексинский опытный механический завод”
-  name_language: RU
+- whole_name: "»Aleksinsky Experimental Mechanical Plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company “Aleksinsky Experimental Mechanical Plant”
-  function: JSC “Aleksinsky Experimental Mechanical Plant” produces weapons in Tula, Russia. It was added to the list of strategic organisations of the Russian Government in 2022. The plant is part of the Russian military and industrial complex and materially supports it, including by being involved in the development, production and supply of military technology and equipment.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “АОМЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176891'
+  logical_id: '177248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -55,31 +34,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea pe acțiuni «Uzina mecanică experimentală Aleksinsky»
-  name_language: RO
+- whole_name: JSC “Aleksinsky Experimental Mechanical Plant”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177246'
+  logical_id: '176893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Aleksinsky Experimental Mechanical Plant« Részvénytársaság"
-  name_language: HU
+- whole_name: Акционерное Общество “Алексинский опытный механический завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177249'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Aleksinsky Experimental Mechanical Plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177248'
+  logical_id: '176894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -95,11 +64,47 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Aleksinsky Experimental Mechanical Plant”
+- whole_name: "»Aleksinsky Experimental Mechanical Plant« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: АО “АОМЗ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Joint Stock Company “Aleksinsky Experimental Mechanical Plant”
+  function: JSC “Aleksinsky Experimental Mechanical Plant” produces weapons in Tula,
+    Russia. It was added to the list of strategic organisations of the Russian Government
+    in 2022. The plant is part of the Russian military and industrial complex and
+    materially supports it, including by being involved in the development, production
+    and supply of military technology and equipment.
+  title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176893'
+  logical_id: '176895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe acțiuni «Uzina mecanică experimentală Aleksinsky»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -120,21 +125,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '7111504768'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1127154040122'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '7111504768'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

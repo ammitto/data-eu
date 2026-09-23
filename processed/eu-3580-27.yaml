@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3580.27
 logical_id: '6618'
 regulations:
@@ -26,19 +27,6 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/329 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- first_name: Abdol Reza
-  last_name: Shala'i
-  whole_name: Abdol Reza Shala'i
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - last_name: Haj Yusef
   whole_name: Haj Yusef
   gender: M
@@ -57,6 +45,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abdol Reza
+  last_name: Shala'i
+  whole_name: Abdol Reza Shala'i
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14740'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'

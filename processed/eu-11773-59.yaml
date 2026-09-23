@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11773.59
 logical_id: '166833'
 regulations:
@@ -13,22 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federal State Budgetary Educational Institution International Children’s Centre “Artek”
-  function: The Federal State Budgetary Educational Institution “International Children’s Center Artek” is supporting materially actions, which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine
-  name_language: EN
+- whole_name: Föderales staatlich finanziertes Bildungsinstitut, Internationales Kinderzentrum
+    „Artek“
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '166837'
+  logical_id: '167231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: '"Artek" Nemzetközi Gyermekközpont, állami költségvetésből finanszírozott szövetségi oktatási intézmény'
-  name_language: HU
+- whole_name: Federal State Budgetary Educational Institution International Children’s
+    Centre “Artek”
+  function: The Federal State Budgetary Educational Institution “International Children’s
+    Center Artek” is supporting materially actions, which undermine and threaten the
+    territorial integrity, sovereignty and independence of Ukraine
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167233'
+  logical_id: '166837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -44,7 +49,19 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Den føderale statslige budgetuddannelsesinstitution, International Children's Centre "Artek""
+- whole_name: '"Artek" Nemzetközi Gyermekközpont, állami költségvetésből finanszírozott
+    szövetségi oktatási intézmény'
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Den føderale statslige budgetuddannelsesinstitution, International Children's
+    Centre "Artek""
   name_language: DA
   strong: true
   regulation_language: en
@@ -54,17 +71,8 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Föderales staatlich finanziertes Bildungsinstitut, Internationales Kinderzentrum „Artek“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Instituția de învățământ bugetară a statului federal Centrul Internațional pentru Copii „Artek”
+- whole_name: Instituția de învățământ bugetară a statului federal Centrul Internațional
+    pentru Copii „Artek”
   name_language: RO
   strong: true
   regulation_language: en

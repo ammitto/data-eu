@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14496.28
 logical_id: '183135'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Alexandr Garmašov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '184704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Александр Владимирович
   last_name: ГАРМАШОВ
   whole_name: Александр Владимирович ГАРМАШОВ
@@ -35,17 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Alexandr Garmašov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '184704'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

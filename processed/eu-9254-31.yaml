@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9254.31
 logical_id: '146650'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  middle_name: Vladimirovich
-  last_name: TYULIN
-  whole_name: Vladimir Vladimirovich TYULIN
-  function: CEO of ACCEPT LLC and REN TV, a Russian TV station. Director General of the Multimedia Information Center Izvestia LLC. Member of the Media Council of the Russian Geographical Society
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Владимир
   middle_name: Владимирович
   last_name: ТЮЛИН
@@ -36,6 +23,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Vladimir
+  middle_name: Vladimirovich
+  last_name: TYULIN
+  whole_name: Vladimir Vladimirovich TYULIN
+  function: CEO of ACCEPT LLC and REN TV, a Russian TV station. Director General of
+    the Multimedia Information Center Izvestia LLC. Member of the Media Council of
+    the Russian Geographical Society
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146655'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

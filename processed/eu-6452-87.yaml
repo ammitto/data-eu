@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6452.87
 logical_id: '130488'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Iгар
+  middle_name: Уладзiмiравiч
+  last_name: ГОЛУБ
+  whole_name: Iгар Уладзiмiравiч ГОЛУБ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130492'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Igor
   middle_name: Vladimirovich
   last_name: GOLUB
@@ -27,15 +42,14 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iгар
-  middle_name: Уладзiмiравiч
-  last_name: ГОЛУБ
-  whole_name: Iгар Уладзiмiравiч ГОЛУБ
+- first_name: Игор
+  last_name: Голуб
+  whole_name: Игор Голуб
   gender: M
-  name_language: BE
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '130492'
+  logical_id: '164172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -56,14 +70,18 @@ name_aliases:
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Ihar
-  middle_name: Uladzimiravitj
+  middle_name: Uladzimiravich
   last_name: HOLUB
-  whole_name: Ihar Uladzimiravitj HOLUB
+  whole_name: Ihar Uladzimiravich HOLUB
+  function: "Director of the Aviation Department of the Ministry of Transport and
+    Communications, \nformer Commander of the Air Force and Air Defence of the Armed
+    Forces"
   gender: M
-  name_language: SV
+  title: Major General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '130799'
+  logical_id: '130494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -83,32 +101,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Игор
-  last_name: Голуб
-  whole_name: Игор Голуб
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Ihar
-  middle_name: Uladzimiravich
+  middle_name: Uladzimiravitj
   last_name: HOLUB
-  whole_name: Ihar Uladzimiravich HOLUB
-  function: |-
-    Director of the Aviation Department of the Ministry of Transport and Communications, 
-    former Commander of the Air Force and Air Defence of the Armed Forces
+  whole_name: Ihar Uladzimiravitj HOLUB
   gender: M
-  title: Major General
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130494'
+  logical_id: '130799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13327.53
 logical_id: '176878'
 regulations:
@@ -13,58 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО НПП Рубин
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC NPP Rubin
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176883'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Scientific Production Enterprise ‘Rubin’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “Научно Производственное Предприятие ‘Рубин’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company “Scientific Production Enterprise ‘Rubin’”
-  function: JSC “Scientific Production Enterprise ‘Rubin’” is a leading company of the Russian defence industry which manufactures mobile automated control and communication systems designed for military applications.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Societatea pe acțiuni «Întreprinderea științifică de producție „Rubin”»
   name_language: RO
   strong: true
@@ -85,11 +34,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Scientific Production Enterprise ’Rubin’« Részvénytársaság"
+- whole_name: NPP Rubin Rt.
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177240'
+  logical_id: '177238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -105,11 +54,65 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: NPP Rubin Rt.
+- whole_name: "»Scientific Production Enterprise ’Rubin’« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177238'
+  logical_id: '177240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: АО НПП Рубин
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC NPP Rubin
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176883'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Joint Stock Company “Scientific Production Enterprise ‘Rubin’”
+  function: JSC “Scientific Production Enterprise ‘Rubin’” is a leading company of
+    the Russian defence industry which manufactures mobile automated control and communication
+    systems designed for military applications.
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Акционерное Общество “Научно Производственное Предприятие ‘Рубин’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC “Scientific Production Enterprise ‘Rubin’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

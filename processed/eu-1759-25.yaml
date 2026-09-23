@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1759.25
 logical_id: '4288'
 designation_details: UN designation 03/03/2008 (no longer valid)
@@ -14,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Niru Battery Mfg. CO (Saba Battery)
+- whole_name: Sherkate Batri-e Niru
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Battery Manufacturing (Batrisazi-ye Niru)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: ESDO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159418'
+  logical_id: '159420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -54,121 +35,31 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sherkate Batri-e Niru
+- whole_name: ESDO
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159420'
+  logical_id: '159418'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Akkumulátorgyártó Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Niru Battery Manufacturing Company
+- whole_name: Niru Battery Manufacturing (Batrisazi-ye Niru)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6252'
+  logical_id: '159417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: شرکت باطری سازی نیرو
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Batteries MFG. Co. Ltd.
+- whole_name: Niru Battery Mfg. CO (Saba Battery)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159407'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sherkate Battrijazi Niru
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Nour Battery Manufacturing Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Battery Mfg. Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Battery Co
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Co. Ltd.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Nirou Battery Manufacturing Saba Battery Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159413'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: The Niru Battery Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159414'
+  logical_id: '159416'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -184,7 +75,128 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: The Niru Battery Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Nirou Battery Manufacturing Saba Battery Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159413'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Co. Ltd.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Battery Co
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Battery Mfg. Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Nour Battery Manufacturing Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Sherkate Battrijazi Niru
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Akkumulátorgyártó Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Niru Batteries MFG. Co. Ltd.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: شرکت باطری سازی نیرو
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Battery Manufacturing Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
+- street: End of Pasdaran Avenue, Nobonyad Square,
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Next to Shahid Babaei Exp. way, Nobonyad Sq.
   city: Tehran
   country_iso2_code: IR
@@ -197,12 +209,12 @@ addresses:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: End of Pasdaran Avenue, Nobonyad Square,
+- street: Next to Babee Exp. Way, Nobonyad Sq.
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '159422'
+  logical_id: '159424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -214,17 +226,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Next to Babee Exp. Way, Nobonyad Sq.
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13961.86
 logical_id: '180503'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: اسکندر مؤمنی
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Eskandar MOMENI
   function: |-
     Minister of the Interior, Head of the National Security Council
@@ -33,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: اسکندر مؤمنی
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180506'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

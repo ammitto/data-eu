@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4105.82
 logical_id: '5815'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Korea Daesong Bank
-  function: Daesong Bank is owned and controlled by Office 39 of the Workers Party of Korea, a designated entity.
+  function: Daesong Bank is owned and controlled by Office 39 of the Workers Party
+    of Korea, a designated entity.
   strong: true
   regulation_language: en
   logical_id: '8410'

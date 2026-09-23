@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3878.29
 logical_id: '3792'
 designation_details: UN designation 24/03/2007
@@ -14,6 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohsen
+  last_name: HOJATI
+  whole_name: Mohsen HOJATI
+  function: Head of Fajr Industrial Group, which is designated under resolution 1737(2006)
+    for its role in the ballistic missile programme.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: محسن حجتی
   gender: M
   name_language: FA
@@ -25,20 +41,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohsen
-  last_name: HOJATI
-  whole_name: Mohsen HOJATI
-  function: Head of Fajr Industrial Group, which is designated under resolution 1737(2006) for its role in the ballistic missile programme.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5161'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

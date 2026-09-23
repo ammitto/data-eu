@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8754.88
 logical_id: '144313'
 regulations:
@@ -27,6 +28,21 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Aleksandr
+  middle_name: Dmitrievich
+  last_name: KHARICHEV
+  whole_name: Aleksandr Dmitrievich KHARICHEV
+  function: Head of the Division of Operation of the State Council in the Administration
+    of the President of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144316'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Александр
   middle_name: Дмитриевич
   last_name: ХАРИЧЕВ
@@ -36,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Aleksandr
-  middle_name: Dmitrievich
-  last_name: KHARICHEV
-  whole_name: Aleksandr Dmitrievich KHARICHEV
-  function: Head of the Division of Operation of the State Council in the Administration of the President of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

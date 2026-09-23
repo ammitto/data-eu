@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12904.87
 logical_id: '174083'
 regulations:
@@ -19,39 +20,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174090'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Мікалай Уладзіміравіч  ШКРЭД
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174091'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Nikolai Vladimirovich  SHKRED
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174092'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Mikalaj Škred
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -80,12 +48,46 @@ name_aliases:
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Mikalai Uladzimiravich  SHKRED
-  function: First Deputy Head of the Belarus President Property Management Directorate, Former Deputy Head of the Security Service of the President of Belarus
+  function: First Deputy Head of the Belarus President Property Management Directorate,
+    Former Deputy Head of the Security Service of the President of Belarus
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '174093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Nikolai Vladimirovich  SHKRED
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174092'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Мікалай Уладзіміравіч  ШКРЭД
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174091'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Mikalaj Škred
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

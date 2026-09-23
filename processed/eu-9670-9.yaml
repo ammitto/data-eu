@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9670.9
 logical_id: '149668'
 regulations:
@@ -24,6 +25,20 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Вадим
+  middle_name: Алексеевич
+  last_name: СУББОТИН
+  whole_name: Вадим Алексеевич СУББОТИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149671'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Vadim
   middle_name: Alekseevich
   last_name: SUBBOTIN
@@ -42,26 +57,13 @@ name_aliases:
   middle_name: Alekseevich
   last_name: SUBOTIN
   whole_name: Vadim Alekseevich SUBOTIN
-  function: Deputy Head of the Russian Federal Service for Supervision of Communications Information Technology and Mass Media  (Roskomnadzor)
+  function: Deputy Head of the Russian Federal Service for Supervision of Communications
+    Information Technology and Mass Media  (Roskomnadzor)
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '149673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Вадим
-  middle_name: Алексеевич
-  last_name: СУББОТИН
-  whole_name: Вадим Алексеевич СУББОТИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

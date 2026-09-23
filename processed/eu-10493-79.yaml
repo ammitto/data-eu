@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10493.79
 logical_id: '155787'
 regulations:
@@ -17,14 +18,42 @@ name_aliases:
   middle_name: Andreïevitch
   last_name: GAMBACHIDZE
   whole_name: Ilya Andreïevitch GAMBACHIDZE
-  function: |-
-    Founder of Structura National Technologies and of Social Design Agency (two Russian entities); 
-    former counsellor to the Vice-President of the Duma, Piotr Tolstoi
+  function: "Founder of Structura National Technologies and of Social Design Agency
+    (two Russian entities); \nformer counsellor to the Vice-President of the Duma,
+    Piotr Tolstoi"
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '155790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Ilja
+  middle_name: Andrejevitj
+  last_name: GAMBATJIDZE
+  whole_name: Ilja Andrejevitj GAMBATJIDZE
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Iľja
+  middle_name: Andrejevič
+  last_name: GAMBAČIDZE
+  whole_name: Iľja Andrejevič GAMBAČIDZE
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -45,40 +74,12 @@ name_aliases:
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Ilja
-  middle_name: Andrejevitj
-  last_name: GAMBATJIDZE
-  whole_name: Ilja Andrejevitj GAMBATJIDZE
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Ilja
   last_name: Gambačidze
   whole_name: Ilja Gambačidze
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '156626'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Iľja
-  middle_name: Andrejevič
-  last_name: GAMBAČIDZE
-  whole_name: Iľja Andrejevič GAMBAČIDZE
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

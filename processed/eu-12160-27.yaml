@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12160.27
 logical_id: '169188'
 regulations:
@@ -13,14 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vasilij
-  last_name: Koleda
-  whole_name: Vasilij Koleda
+- whole_name: Vasily Vasilyevich KOLEDA
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169519'
+  logical_id: '169191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Васіль Васільевіч КОЛЕДА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -38,7 +48,8 @@ name_aliases:
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Vasil Vasilevich KOLEDA
-  function: Deputy head of “Prison No 1” in Grodno; lieutenant colonel of the internal service
+  function: Deputy head of “Prison No 1” in Grodno; lieutenant colonel of the internal
+    service
   gender: M
   name_language: EN
   strong: true
@@ -49,23 +60,14 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Васіль Васільевіч КОЛЕДА
+- first_name: Vasilij
+  last_name: Koleda
+  whole_name: Vasilij Koleda
   gender: M
-  name_language: BE
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '169190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Vasily Vasilyevich KOLEDA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169191'
+  logical_id: '169519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

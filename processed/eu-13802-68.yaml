@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13802.68
 logical_id: '179607'
 regulations:
@@ -13,22 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladislav Nikolaevich GOLOVIN
-  title: Chief of General Staff of the All-Russia “Young Army” Military Patriotic Social Movement (Yunarmiya)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Владислав Николаевич ГОЛОВИН
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '179610'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Vladislav Nikolaevich GOLOVIN
+  title: Chief of General Staff of the All-Russia “Young Army” Military Patriotic
+    Social Movement (Yunarmiya)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

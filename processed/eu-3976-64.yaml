@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3976.64
 logical_id: '3829'
 designation_details: UN designation 23/12/2006 (no longer valid)
@@ -14,46 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Shahid Hemmat Industrial Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: SHIG
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Hemmat
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Hemat Industrial Complex
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sabalan CIE
   name_language: EN
   strong: true
@@ -64,11 +25,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: گروه صنعتی شهید همت
-  name_language: FA
+- whole_name: Sahand Aluminum Parts Industrial Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159505'
+  logical_id: '159503'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -134,6 +95,56 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: گروه صنعتی شهید همت
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Hemmat Industrial Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: SHIG
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Hemmat
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159492'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Hemat Industrial Complex
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Shahid Hemmat Industries
   name_language: EN
   strong: true
@@ -224,18 +235,9 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sahand Aluminum Parts Industrial Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- street: Damavand Tehran Highway, No 5, Eslami St., Golestane Sevvom St., Pasdaran St.
+- street: Damavand Tehran Highway, No 5, Eslami St., Golestane Sevvom St., Pasdaran
+    St.
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

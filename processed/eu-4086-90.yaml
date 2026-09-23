@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4086.90
 logical_id: '112348'
 united_nation_id: KPi.050
@@ -14,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: To’-Ch’un
+  last_name: Pak
+  whole_name: To’-Ch’un Pak
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '143158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - first_name: To-chun
   last_name: Pak
   whole_name: To-chun Pak
@@ -41,7 +54,8 @@ name_aliases:
 - first_name: To Chun
   last_name: Pak
   whole_name: To Chun Pak
-  function: Former Secretary of Munitions Industry Department (MID); a former State Affairs Commission member and a member Workers' Party of Korea Political Bureau
+  function: Former Secretary of Munitions Industry Department (MID); a former State
+    Affairs Commission member and a member Workers' Party of Korea Political Bureau
   gender: M
   strong: true
   regulation_language: en
@@ -51,18 +65,6 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: To’-Ch’un
-  last_name: Pak
-  whole_name: To’-Ch’un Pak
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '143158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

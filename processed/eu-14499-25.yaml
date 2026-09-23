@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14499.25
 logical_id: '183150'
 regulations:
@@ -13,15 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Evgenyi Dmitrievich
-  last_name: MALAKHOV
-  whole_name: Evgenyi Dmitrievich MALAKHOV
-  function: General Director of JSC NPK SEVERNAYA ZARYA
+- whole_name: Jevgeni Malahov
   gender: M
-  name_language: EN
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '183154'
+  logical_id: '184710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Jevgenij Malachov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '184711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -40,23 +49,15 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Jevgeni Malahov
+- first_name: Evgenyi Dmitrievich
+  last_name: MALAKHOV
+  whole_name: Evgenyi Dmitrievich MALAKHOV
+  function: General Director of JSC NPK SEVERNAYA ZARYA
   gender: M
-  name_language: FI
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184710'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Jevgenij Malachov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '184711'
+  logical_id: '183154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

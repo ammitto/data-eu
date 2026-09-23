@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9775.13
 logical_id: '150241'
 regulations:
@@ -31,7 +32,10 @@ name_aliases:
   middle_name: Alexandrovich
   last_name: PIKALOV
   whole_name: Konstantin Alexandrovich PIKALOV
-  function: One of the PMC Wagner Commanders in Africa; code name “Mazaï” (Mazay). Since April 2023, he is also at the head of a new paramilitary group (Convoy) created in November 2022 to take action in Russia’s war of aggression against Ukraine
+  function: One of the PMC Wagner Commanders in Africa; code name “Mazaï” (Mazay).
+    Since April 2023, he is also at the head of a new paramilitary group (Convoy)
+    created in November 2022 to take action in Russia’s war of aggression against
+    Ukraine
   gender: M
   name_language: EN
   strong: true
@@ -48,17 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Konstantin Aleksandrovič PIKALOV
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -81,6 +74,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150936'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Konstantin Aleksandrovič PIKALOV
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

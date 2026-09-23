@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11768.85
 logical_id: '166804'
 regulations:
@@ -13,41 +14,28 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ФИЦ ИПФ РАН
-  name_language: RU
+- whole_name: Instituția științifică bugetară a statului federal «„Institutul Federal
+    de Cercetare pentru Fizică Aplicată" A.V. Gaponov-Grekhova al Academiei Ruse de
+    Științe»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '166808'
+  logical_id: '167238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Föderale staatlich finanzierte Wissenschaftseinrichtung „;Föderales Forschungsinstitut für angewandte Physik‘ benannt nach A.V. Gaponov-Grekhov der Russischen Akademie der Wissenschaften“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Federal Research Center Institute of Applied Physics of the Russian Academy of Sciences
+- whole_name: Federal State Budgetary Scientific Institution “‘Federal Research Center
+    Institute of Applied Physics’ A.V. Gaponov-Grekhova of the Russian Academy of
+    Sciences”
+  function: Is a state institute whose main areas of scientific research include high-power
+    electronics, plasma electrodynamics, laser physics and nonlinear optics, quantum
+    systems.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: A.V. Gaponov-Grekhov Institute of Applied Physics of the Russian Academy of Sciences
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166811'
+  logical_id: '166813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -63,18 +51,31 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Federal State Budgetary Scientific Institution “‘Federal Research Center Institute of Applied Physics’ A.V. Gaponov-Grekhova of the Russian Academy of Sciences”
-  function: Is a state institute whose main areas of scientific research include high-power electronics, plasma electrodynamics, laser physics and nonlinear optics, quantum systems.
+- whole_name: A.V. Gaponov-Grekhov Institute of Applied Physics of the Russian Academy
+    of Sciences
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166813'
+  logical_id: '166811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Федеральное Государственное Бюджетное Научное Учреждение “Федеральный Исследовательский Центр Институт Прикладной Физики им. А.В. Гапонова-Грехова Российской Академии Наук”
+- whole_name: Federal Research Center Institute of Applied Physics of the Russian
+    Academy of Sciences
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Федеральное Государственное Бюджетное Научное Учреждение “Федеральный
+    Исследовательский Центр Институт Прикладной Физики им. А.В. Гапонова-Грехова Российской
+    Академии Наук”
   name_language: RU
   strong: true
   regulation_language: en
@@ -84,27 +85,18 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: A.V. Gaponov-Grekhov Institut für angewandte Physik der Russischen Akademie der Wissenschaften
-  name_language: DE
+- whole_name: ФИЦ ИПФ РАН
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '167240'
+  logical_id: '166808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Föderales Forschungsinstitut für angewandte Physik der Russischen Akademie der Wissenschaften
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167239'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó A. V. Gaponov-Grekhova Intézete
+- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó A. V.
+    Gaponov-Grekhova Intézete
   name_language: HU
   strong: true
   regulation_language: en
@@ -114,7 +106,8 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó szövetségi kutatóközpontja
+- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó szövetségi
+    kutatóközpontja
   name_language: HU
   strong: true
   regulation_language: en
@@ -124,7 +117,9 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó A. V. Gaponov-Grekhova Szövetségi  Kutatóközpont Intézete, állami költségvetésből finanszírozott tudományos intézet
+- whole_name: Az Orosz Tudományos Akadémia alkalmazott fizikával foglalkozó A. V.
+    Gaponov-Grekhova Szövetségi  Kutatóközpont Intézete, állami költségvetésből finanszírozott
+    tudományos intézet
   name_language: HU
   strong: true
   regulation_language: en
@@ -134,11 +129,35 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Instituția științifică bugetară a statului federal «„Institutul Federal de Cercetare pentru Fizică Aplicată" A.V. Gaponov-Grekhova al Academiei Ruse de Științe»
-  name_language: RO
+- whole_name: Föderales Forschungsinstitut für angewandte Physik der Russischen Akademie
+    der Wissenschaften
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '167238'
+  logical_id: '167239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: A.V. Gaponov-Grekhov Institut für angewandte Physik der Russischen Akademie
+    der Wissenschaften
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '167240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Föderale staatlich finanzierte Wissenschaftseinrichtung „;Föderales
+    Forschungsinstitut für angewandte Physik‘ benannt nach A.V. Gaponov-Grekhov der
+    Russischen Akademie der Wissenschaften“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '167241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -159,21 +178,21 @@ addresses:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
-- identification_type_code: fiscalcode
-  number: '5260003387'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '166806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: regnumber
   number: '1025203020193'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- identification_type_code: fiscalcode
+  number: '5260003387'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '166806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

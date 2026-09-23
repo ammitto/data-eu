@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12251.66
 logical_id: '170194'
 regulations:
@@ -16,9 +17,8 @@ name_aliases:
 - first_name: Ilia
   last_name: UZUN
   whole_name: Ilia UZUN
-  function: |-
-    Deputy President of the Executive Committee of the Autonomous Territorial Unit of Gagauzia, 
-    member of the People’s Assembly of Gagauzia
+  function: "Deputy President of the Executive Committee of the Autonomous Territorial
+    Unit of Gagauzia, \nmember of the People’s Assembly of Gagauzia"
   gender: M
   name_language: MO
   strong: true

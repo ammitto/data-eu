@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.612.75
 logical_id: '963'
 regulations:
@@ -13,15 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: The Eastern Turkistan Islamic Party of Allah
+- whole_name: The Eastern Turkistan Islamic Party
   strong: true
   regulation_language: en
-  logical_id: '2415'
+  logical_id: '2028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-04'
     number_title: 1189/2006 (OJ L214)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
+- whole_name: Movimento Islâmico do Turquestão Oriental
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '2029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-09-14'
+    number_title: 1644/2002 (OJ L247)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:247:0025:0026:EN:PDF
 - whole_name: Partido Islâmico do Turquestão Oriental
   name_language: PT
   strong: true
@@ -32,6 +43,25 @@ name_aliases:
     publication_date: '2002-09-14'
     number_title: 1644/2002 (OJ L247)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:247:0025:0026:EN:PDF
+- whole_name: The Eastern Turkistan Islamic Party of Allah
+  strong: true
+  regulation_language: en
+  logical_id: '2415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-04'
+    number_title: 1189/2006 (OJ L214)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
+- whole_name: Partido Islâmico de Alá do Turquestão Oriental
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '2426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-02'
+    number_title: 1754/2002 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:264:0023:0024:EN:PDF
 - whole_name: Kelet-türkisztáni Iszlám Párt
   name_language: HU
   strong: true
@@ -134,35 +164,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2026'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-02'
-    number_title: 1754/2002 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:264:0023:0024:EN:PDF
-- whole_name: The Eastern Turkistan Islamic Party
-  strong: true
-  regulation_language: en
-  logical_id: '2028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-04'
-    number_title: 1189/2006 (OJ L214)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
-- whole_name: Movimento Islâmico do Turquestão Oriental
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '2029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-09-14'
-    number_title: 1644/2002 (OJ L247)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:247:0025:0026:EN:PDF
-- whole_name: Partido Islâmico de Alá do Turquestão Oriental
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '2426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2002-10-02'

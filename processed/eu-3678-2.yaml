@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3678.2
 logical_id: '212'
 regulations:
@@ -13,11 +14,81 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Koerdische Arbeiderspartij
-  name_language: NL
+- whole_name: Kurdistan Workers' Party
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '647'
+  logical_id: '336'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Кюрдска работническа партия
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Parti des travailleurs du Kurdistan
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Partido de los Trabajadores del Kurdistán
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Εργατικό Κόµµα του Κουρδιστάν
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Partido dos Trabalhadores do Curdistão
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Kurdistanin työväenpuolue
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '576'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Det Kurdiske Arbejderparti
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '590'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-12-22'
@@ -28,6 +99,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Koerdische Arbeiderspartij
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Partito dei lavoratori del Kurdistan
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-12-22'
@@ -191,26 +282,6 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Кюрдска работническа партия
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Kurdistan Workers' Party
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '336'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: PKK
   name_language: KU
   strong: true
@@ -221,73 +292,3 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Parti des travailleurs du Kurdistan
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Partido de los Trabajadores del Kurdistán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Εργατικό Κόµµα του Κουρδιστάν
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Partido dos Trabalhadores do Curdistão
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Kurdistanin työväenpuolue
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Det Kurdiske Arbejderparti
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '590'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Partito dei lavoratori del Kurdistan
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '688'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF

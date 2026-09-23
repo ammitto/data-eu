@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10930.22
 logical_id: '159793'
 regulations:
@@ -43,32 +44,6 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Jevgenij
-  last_name: Ševčenko
-  whole_name: Jevgenij Ševčenko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160897'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Евгени
-  last_name: Шевченко
-  whole_name: Евгени Шевченко
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161238'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Jevgenij
   middle_name: Aleksandrovitj
   last_name: SJEVTJENKO
   whole_name: Jevgenij Aleksandrovitj SJEVTJENKO
@@ -86,10 +61,36 @@ name_aliases:
   last_name: Ševčenko
   whole_name: Jevgenij Ševčenko
   gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160897'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Jevgenij
+  last_name: Ševčenko
+  whole_name: Jevgenij Ševčenko
+  gender: M
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '160898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Евгени
+  last_name: Шевченко
+  whole_name: Евгени Шевченко
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

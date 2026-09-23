@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13585.81
 logical_id: '178468'
 regulations:
@@ -14,7 +15,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: International Safe Oil
-  function: International Safe Oil (ISO) is selling Iranian oil in Malaysia. It is assisting designated entities to violate the provisions of international restrictive measures against Iran and is providing financial support to the government of Iran. It provides support, including financial support, to the National Iranian Oil Company (NIOC) and Nafitran Intertrade Company Ltd (NICO), both EU-listed entities.
+  function: International Safe Oil (ISO) is selling Iranian oil in Malaysia. It is
+    assisting designated entities to violate the provisions of international restrictive
+    measures against Iran and is providing financial support to the government of
+    Iran. It provides support, including financial support, to the National Iranian
+    Oil Company (NIOC) and Nafitran Intertrade Company Ltd (NICO), both EU-listed
+    entities.
   name_language: EN
   strong: true
   regulation_language: en

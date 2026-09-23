@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11403.55
 logical_id: '163605'
 regulations:
@@ -33,10 +34,10 @@ name_aliases:
   last_name: Albotová
   whole_name: Maria Albotová
   gender: F
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163631'
+  logical_id: '163629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
@@ -46,10 +47,10 @@ name_aliases:
   last_name: Albotová
   whole_name: Maria Albotová
   gender: F
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '163629'
+  logical_id: '163631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'

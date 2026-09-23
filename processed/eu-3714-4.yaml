@@ -1,8 +1,15 @@
+---
 eu_reference_number: EU.3714.4
 logical_id: '7492'
-remark: |-
-  Believed to be in Afghanistan/Pakistan border area. Physical description: height: 180 cm; weight: approximately 90 kg; build: athletic build; eye colour: brown; hair colour: red; complexion: medium brown. Distinguishing physical marks: large round face, full beard, and walks with a limp due to plastic prosthesis in place of his left lower leg. 
-  Ethnic background: Pashtun; Belongs to Tokhi tribe, Barkozai sub-tribe (alternative tribe spelling: Torchi). Barkozai (alternative tribe spelling: Bakorzai, ) sub-tribe, Kishta Barkorzai (lower Barkorzai) clan. Marital Status: married. Father's name: Agha Mohammad. Brother's name: Humdullah. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5778692
+remark: "Believed to be in Afghanistan/Pakistan border area. Physical description:
+  height: 180 cm; weight: approximately 90 kg; build: athletic build; eye colour:
+  brown; hair colour: red; complexion: medium brown. Distinguishing physical marks:
+  large round face, full beard, and walks with a limp due to plastic prosthesis in
+  place of his left lower leg. \nEthnic background: Pashtun; Belongs to Tokhi tribe,
+  Barkozai sub-tribe (alternative tribe spelling: Torchi). Barkozai (alternative tribe
+  spelling: Bakorzai, ) sub-tribe, Kishta Barkorzai (lower Barkorzai) clan. Marital
+  Status: married. Father's name: Agha Mohammad. Brother's name: Humdullah. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5778692"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,7 +24,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Qari Saifullah Tokhi
-  function: Taliban Shadow Deputy Governor and operational commander in Zabul Province, Afghanistan
+  function: Taliban Shadow Deputy Governor and operational commander in Zabul Province,
+    Afghanistan
   title: Qari.
   strong: true
   regulation_language: en

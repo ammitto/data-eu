@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9452.51
 logical_id: '147623'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО "СБК Арт"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147627'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: SBK ART LLC
   name_language: EN
   strong: true
@@ -33,8 +24,19 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: ООО "СБК Арт"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 addresses:
-- street: Leningradsky Prospekt D. 37A K. 4, floor/room 10/33  A73, Municipal district of Khoroshevsky,
+- street: Leningradsky Prospekt D. 37A K. 4, floor/room 10/33  A73, Municipal district
+    of Khoroshevsky,
   city: Moscow
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

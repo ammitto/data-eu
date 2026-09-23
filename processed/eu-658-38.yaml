@@ -1,6 +1,10 @@
+---
 eu_reference_number: EU.658.38
 logical_id: '841'
-remark: 'Member of the Taliban Gerd-e-Jangal Shura and Head of the Taliban Prisoners and Refugees Committee. Belongs to Ishaqzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/ notice/search/un/1427434'
+remark: 'Member of the Taliban Gerd-e-Jangal Shura and Head of the Taliban Prisoners
+  and Refugees Committee. Belongs to Ishaqzai tribe. Review pursuant to Security Council
+  Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council
+  Special Notice web link: https://www.interpol.int/en/ notice/search/un/1427434'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -39,11 +43,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Nimroz Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  city: Quetta
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '1838'
+  logical_id: '102237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -52,11 +56,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Quetta
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  city: Nimroz Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '102237'
+  logical_id: '1838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

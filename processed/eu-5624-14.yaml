@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5624.14
 logical_id: '124298'
 regulations:
@@ -14,10 +15,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Tania Valentina DÍAZ GONZÁLEZ
-  function: |-
-    Member of the non-democratically elected 
-    National Assembly and former First Vice-President  of the non-recognised National 
-    Constituent Assembly (ANC).
+  function: "Member of the non-democratically elected \nNational Assembly and former
+    First Vice-President  of the non-recognised National \nConstituent Assembly (ANC)."
   gender: F
   strong: true
   regulation_language: en

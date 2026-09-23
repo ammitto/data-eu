@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13912.46
 logical_id: '180200'
 regulations:
@@ -14,7 +15,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: John Mark DOUGAN
-  function: John Dougan is a former Florida deputy sheriff who fled to Russia in 2016. He is publicly accused of participating in pro-Kremlin digital information operations from Moscow by operating the CopyCop network of fake news websites and supporting Storm-1516 activities. The inauthentic websites mimic legitimate media outlets and spread fabricated stories and AI-generated deepfake content. Reports from Western authorities and independent investigative sources link Dougan’s activities to Russia’s military intelligence agency (GRU) and the Moscow-based think tank the Center for Geopolitical Expertise, suggesting he receives Russian support and direction to influence elections, discredit political figures and manipulate public discourse in Western countries.
+  function: John Dougan is a former Florida deputy sheriff who fled to Russia in 2016.
+    He is publicly accused of participating in pro-Kremlin digital information operations
+    from Moscow by operating the CopyCop network of fake news websites and supporting
+    Storm-1516 activities. The inauthentic websites mimic legitimate media outlets
+    and spread fabricated stories and AI-generated deepfake content. Reports from
+    Western authorities and independent investigative sources link Dougan’s activities
+    to Russia’s military intelligence agency (GRU) and the Moscow-based think tank
+    the Center for Geopolitical Expertise, suggesting he receives Russian support
+    and direction to influence elections, discredit political figures and manipulate
+    public discourse in Western countries.
   gender: M
   title: former Florida deputy sheriff
   name_language: EN

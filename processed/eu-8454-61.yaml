@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8454.61
 logical_id: '141672'
 regulations:
@@ -22,6 +23,16 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Alibek  Sultanovitj  DELIMCHANOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Alibek Sultanovich DELIMKHANOV
   function: Deputy Commander of the Chechen branch of the Russian National Guard.
   gender: M
@@ -29,16 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141676'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Alibek  Sultanovitj  DELIMCHANOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14355.47
 logical_id: '182513'
 regulations:
@@ -36,13 +37,12 @@ citizenships:
     number_title: 2025/2588 (OJ L202502588)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 addresses:
-- street: '336 Smith Street #04-304'
-  city: New Bridge Centre Singapore
-  country_iso2_code: SG
-  country_description: SINGAPORE
-  zip_code: '050336'
+- street: 409 Platinum Tower, Jumeirah Lake Towers
+  city: Dubai
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
   regulation_language: en
-  logical_id: '182515'
+  logical_id: '182514'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'
@@ -59,12 +59,13 @@ addresses:
     publication_date: '2025-12-15'
     number_title: 2025/2588 (OJ L202502588)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
-- street: 409 Platinum Tower, Jumeirah Lake Towers
-  city: Dubai
-  country_iso2_code: AE
-  country_description: UNITED ARAB EMIRATES
+- street: '336 Smith Street #04-304'
+  city: New Bridge Centre Singapore
+  country_iso2_code: SG
+  country_description: SINGAPORE
+  zip_code: '050336'
   regulation_language: en
-  logical_id: '182514'
+  logical_id: '182515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

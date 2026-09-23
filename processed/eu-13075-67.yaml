@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13075.67
 logical_id: '175107'
 regulations:
@@ -13,18 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “Беспилотные Системы”
-  name_language: RU
+- whole_name: Pilóta Nélküli Rendszerek  Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175112'
+  logical_id: '175280'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company Unmanned Systems
-  function: LLC Unmanned Systems is a Russian company. As part of the “Unmanned Systems” group of companies, it has been involved in supplying the Russian Armed Forces with unmanned aerial vehicles used on the battlefield in Ukraine.
+  function: LLC Unmanned Systems is a Russian company. As part of the “Unmanned Systems”
+    group of companies, it has been involved in supplying the Russian Armed Forces
+    with unmanned aerial vehicles used on the battlefield in Ukraine.
   title: Limited Liability Company
   name_language: EN
   strong: true
@@ -45,20 +48,20 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC Company Unmanned Systems
+- whole_name: ООО “Беспилотные Системы”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175111'
+  logical_id: '175112'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Pilóta Nélküli Rendszerek  Kft.
-  name_language: HU
+- whole_name: LLC Company Unmanned Systems
   strong: true
   regulation_language: en
-  logical_id: '175280'
+  logical_id: '175111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

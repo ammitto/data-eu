@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10864.13
 logical_id: '159250'
 regulations:
@@ -23,21 +24,11 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: شرکت سعد سازه فراز شریف
-  name_language: FA
+- whole_name: Saad Sazeh Faraz Sharif
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: سدید سازه پرواز شریف
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159255'
+  logical_id: '159258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
@@ -63,18 +54,29 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: Saad Sazeh Faraz Sharif
-  name_language: EN
+- whole_name: سدید سازه پرواز شریف
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '159258'
+  logical_id: '159255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- whole_name: شرکت سعد سازه فراز شریف
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 addresses:
-- street: Central Sector – Shahrak Ansar Neighborhood – Tehran Karaj Highway – Chogan Street 9 – Plate 0 – Ground Floor
+- street: Central Sector – Shahrak Ansar Neighborhood – Tehran Karaj Highway – Chogan
+    Street 9 – Plate 0 – Ground Floor
   city: Tehran
   region: Tehran province
   country_iso2_code: IR

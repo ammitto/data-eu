@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13975.51
 logical_id: '180553'
 regulations:
@@ -14,12 +15,24 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Masoud MOSADEGH
-  function: Brigadier General; Commander of Special Units of Iran’s Law Enforcement Forces (LEF Special Units)
+  function: Brigadier General; Commander of Special Units of Iran’s Law Enforcement
+    Forces (LEF Special Units)
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Masoud MOSADDEQ
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180555'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -42,17 +55,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: Masoud MOSADDEQ
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180555'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

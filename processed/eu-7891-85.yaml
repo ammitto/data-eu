@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7891.85
 logical_id: '138217'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Igor
+  middle_name: Jevgenjevitj
+  last_name: KONASJENKOV
+  whole_name: Igor Jevgenjevitj KONASJENKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Igor Evgenievič KONAŠENKOV
   gender: M
   name_language: SL
@@ -25,14 +40,17 @@ name_aliases:
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Igor
-  middle_name: Jevgenjevitj
-  last_name: KONASJENKOV
-  whole_name: Igor Jevgenjevitj KONASJENKOV
+  middle_name: Evgenievich
+  last_name: KONASHENKOV
+  whole_name: Igor Evgenievich KONASHENKOV
+  function: Head of the Department of Information and Communications of the Ministry
+    of Defence of the Russian Federation
   gender: M
-  name_language: SV
+  title: Lieutenant General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '139342'
+  logical_id: '138221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -73,22 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Igor
-  middle_name: Evgenievich
-  last_name: KONASHENKOV
-  whole_name: Igor Evgenievich KONASHENKOV
-  function: Head of the Department of Information and Communications of the Ministry of Defence of the Russian Federation
-  gender: M
-  title: Lieutenant General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

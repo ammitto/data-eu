@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2828.23
 logical_id: '6518'
 regulations:
@@ -14,19 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Tarif
-  last_name: AL AKHRAS
-  whole_name: Tarif AL AKHRAS
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17246'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1094 (OJ L202501094)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
-- first_name: Tarif
   last_name: AKHRAS
   whole_name: Tarif AKHRAS
   gender: M
@@ -39,17 +27,19 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1094 (OJ L202501094)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
-- whole_name: الاخرس
+- first_name: Tarif
+  last_name: AL AKHRAS
+  whole_name: Tarif AL AKHRAS
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153710'
+  logical_id: '17246'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+    publication_date: '2025-05-28'
+    number_title: 2025/1094 (OJ L202501094)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
 - whole_name: طريف اخرس
   gender: M
   name_language: AR
@@ -61,6 +51,17 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: الاخرس
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '153710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 birthdates:
 - birthdate: '1951-06-02'
   circa: false

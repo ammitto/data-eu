@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11398.53
 logical_id: '163556'
 regulations:
@@ -13,11 +14,64 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Public Joint Stock Company VIMPEL Interstate Corporation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Akciová spoločnosť MAK Vympel
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '163884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima MAK Vympel
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC MAK Vympel
+  function: a Russian military-industrial state enterprise that develops anti-ballistic
+    missile systems and space control systems
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Interstate Joint Stock Corporation “Vympel”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Открытое Акционерное Общество Межгосударственная Акционерная Корпорация
+    Вымпел
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -38,57 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Public Joint Stock Company VIMPEL Interstate Corporation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Interstate Joint Stock Corporation “Vympel”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Открытое Акционерное Общество Межгосударственная Акционерная Корпорация Вымпел
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC MAK Vympel
-  function: a Russian military-industrial state enterprise that develops anti-ballistic missile systems and space control systems
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima MAK Vympel
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

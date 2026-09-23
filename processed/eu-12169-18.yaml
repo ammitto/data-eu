@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12169.18
 logical_id: '169250'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anatolij
-  last_name: Sotnikov
-  whole_name: Anatolij Sotnikov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Anatolij
   last_name: Sotnikau
   whole_name: Anatolij Sotnikau
@@ -50,18 +38,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Anatoliy Ryhoravich SOTNIKAU
-  function: Judge of the Homel Regional Court.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Анатолій Рыгоравіч СОТНIКАЎ
   gender: M
   name_language: BE
@@ -79,6 +55,31 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Anatoliy Ryhoravich SOTNIKAU
+  function: Judge of the Homel Regional Court.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Anatolij
+  last_name: Sotnikov
+  whole_name: Anatolij Sotnikov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2876.1
 logical_id: '6945'
 remark: 'Date of designation referred to in Article 2a(4)(b): 12.3.2012.'
@@ -26,13 +27,13 @@ name_aliases:
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- first_name: Abdul
-  middle_name: Rosyid Ridho
+- first_name: Rashid
+  middle_name: Rida
   last_name: Bashir
-  whole_name: Abdul Rosyid Ridho Bashir
+  whole_name: Rashid Rida Bashir
   strong: true
   regulation_language: en
-  logical_id: '15755'
+  logical_id: '15757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -50,13 +51,13 @@ name_aliases:
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- first_name: Rashid
-  middle_name: Rida
+- first_name: Abdul
+  middle_name: Rosyid Ridho
   last_name: Bashir
-  whole_name: Rashid Rida Bashir
+  whole_name: Abdul Rosyid Ridho Bashir
   strong: true
   regulation_language: en
-  logical_id: '15757'
+  logical_id: '15755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

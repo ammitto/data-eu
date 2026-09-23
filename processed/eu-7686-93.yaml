@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7686.93
 logical_id: '136833'
 regulations:
@@ -13,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrey
-  middle_name: Andreevich
-  last_name: GURYEV
-  whole_name: Andrey Andreevich GURYEV
-  function: CEO and Chairman of the Management Board of PJSC PhosAgro; has worked at PhosAgro since 2004, holding various positions; Member of the Management Board Bureau of the Russian Union of Industrialists and Entrepreneurs (RSPP) since 30 September 2019.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Andrej
-  last_name: Gurjev
-  whole_name: Andrej Gurjev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Андрей
   middle_name: Aндреевич
   last_name: ГУРЬЕВ
@@ -55,19 +28,24 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Andrej
-  last_name: Guriev
-  whole_name: Andrej Guriev
+- first_name: Andrey
+  middle_name: Andreevich
+  last_name: GURYEV
+  whole_name: Andrey Andreevich GURYEV
+  function: CEO and Chairman of the Management Board of PJSC PhosAgro; has worked
+    at PhosAgro since 2004, holding various positions; Member of the Management Board
+    Bureau of the Russian Union of Industrialists and Entrepreneurs (RSPP) since 30
+    September 2019.
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158501'
+  logical_id: '136837'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Andrej
   middle_name: Andrejevitj
   last_name: GURJEV
@@ -82,6 +60,32 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Andrej
+  last_name: Gurjev
+  whole_name: Andrej Gurjev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrej
+  last_name: Guriev
+  whole_name: Andrej Guriev
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

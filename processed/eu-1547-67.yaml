@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.1547.67
 logical_id: '3082'
-remark: Son of Sabawi Ibrahim Hasan Al-Tikriti, former Presidential Advisor to Saddam Hussein
+remark: Son of Sabawi Ibrahim Hasan Al-Tikriti, former Presidential Advisor to Saddam
+  Hussein
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,6 +16,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ayman Sab’awi Ibrahim Hasan Al-Tikriti
+  strong: true
+  regulation_language: en
+  logical_id: '4211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-04'
+    number_title: 1286/2005 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
 - whole_name: Ayman Sabawi Ibrahim Hassan Al-Tikriti
   strong: true
   regulation_language: en
@@ -37,15 +48,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-04'
-    number_title: 1286/2005 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- whole_name: Ayman Sab’awi Ibrahim Hasan Al-Tikriti
-  strong: true
-  regulation_language: en
-  logical_id: '4211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'

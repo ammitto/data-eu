@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14313.76
 logical_id: '182208'
 regulations:
@@ -23,6 +24,16 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/505 (OJ L202600505)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: BNK
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
 - whole_name: BelOil
   name_language: EN
   strong: true
@@ -33,18 +44,9 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/505 (OJ L202600505)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
-- whole_name: БНК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/505 (OJ L202600505)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
 - whole_name: CJSC Belarusian Oil Company
-  function: 'Associated entities: State Production Association “Belorusneft”; Open Joint Stock Company “Naftan”'
+  function: 'Associated entities: State Production Association “Belorusneft”; Open
+    Joint Stock Company “Naftan”'
   title: Closed Joint Stock Company
   name_language: EN
   strong: true
@@ -55,11 +57,11 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/505 (OJ L202600505)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
-- whole_name: BNK
-  name_language: EN
+- whole_name: БНК
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '182213'
+  logical_id: '182211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

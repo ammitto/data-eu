@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10034.34
 logical_id: '152885'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Osama
+  last_name: AL-MALIKI
+  whole_name: Osama AL-MALIKI
+  function: majority owner of Al-Jabal Security and Protection LLC
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: أسامة المالكي
   gender: M
   name_language: AR
@@ -37,20 +52,6 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Osama
-  last_name: AL-MALIKI
-  whole_name: Osama AL-MALIKI
-  function: majority owner of Al-Jabal Security and Protection LLC
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

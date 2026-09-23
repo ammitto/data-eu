@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13316.85
 logical_id: '176792'
 regulations:
@@ -13,37 +14,18 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
-  name_language: SV
+- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177167'
+  logical_id: '176795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Entreprise d’État unitaire de commerce extérieur Belvneshpromservice
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Državno unitarno poduzeće za vanjsku trgovinu Belvneshpromservice
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177162'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: "»Belvneshpromservice« állami tulajdonú külkereskedelmi központosított vállalat"
+- whole_name: "»Belvneshpromservice« állami tulajdonú külkereskedelmi központosított
+    vállalat"
   name_language: HU
   strong: true
   regulation_language: en
@@ -73,11 +55,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
-  name_language: RU
+- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '176795'
+  logical_id: '177167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -113,8 +95,32 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Entreprise d’État unitaire de commerce extérieur Belvneshpromservice
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '177163'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Državno unitarno poduzeće za vanjsku trgovinu Belvneshpromservice
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice
-  function: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established in order to promote Belarusian defence products in foreign markets. It specialises in the export of high-tech products for military purposes and has the right to upgrade, repair and supply military goods for the Belarusian Air Defence, Air Force and Land Forces.
+  function: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established
+    in order to promote Belarusian defence products in foreign markets. It specialises
+    in the export of high-tech products for military purposes and has the right to
+    upgrade, repair and supply military goods for the Belarusian Air Defence, Air
+    Force and Land Forces.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7542.18
 logical_id: '136181'
 regulations:
@@ -28,14 +29,15 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Alexander
-  middle_name: Anatolyevich
   last_name: PONOMARENKO
-  whole_name: Alexander Anatolyevich PONOMARENKO
+  whole_name: Alexander PONOMARENKO
+  function: Russian oligarch,  former Chairman of the Board of Sheremetyevo International
+    Airport
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152110'
+  logical_id: '136184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -56,14 +58,14 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Alexander
+  middle_name: Anatolyevich
   last_name: PONOMARENKO
-  whole_name: Alexander PONOMARENKO
-  function: Russian oligarch,  former Chairman of the Board of Sheremetyevo International Airport
+  whole_name: Alexander Anatolyevich PONOMARENKO
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '136184'
+  logical_id: '152110'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

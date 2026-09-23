@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12790.85
 logical_id: '173209'
 regulations:
@@ -33,6 +34,19 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company NPO “Orion”
+  function: JSC NPO Orion is a Russian research and manufacturing company, which is
+    developing and producing high-tech electronical components, including for the
+    development of the Russian military-industrial complex.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173216'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Акционерное общество НПО “Орион”
   name_language: RU
   strong: true
@@ -43,31 +57,20 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: АО НПО Орион
+  strong: true
+  regulation_language: en
+  logical_id: '173213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Orion Scientific Production Association
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '173214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company NPO “Orion”
-  function: JSC NPO Orion is a Russian research and manufacturing company, which is developing and producing high-tech electronical components, including for the development of the Russian military-industrial complex.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173216'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО НПО Орион
-  strong: true
-  regulation_language: en
-  logical_id: '173213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -86,21 +89,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '7720770380'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1127747292738'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '7720770380'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

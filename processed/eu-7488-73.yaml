@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7488.73
 logical_id: '135816'
 regulations:
@@ -27,21 +28,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Sergei
-  middle_name: Borisovich
-  last_name: IVANOV
-  whole_name: Sergei Borisovich IVANOV
-  function: Special Representative of the President of the Russian Federation on the Issues of Environmental Activities, Ecology and Transport
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Sergej Borisovitj IVANOV
   gender: M
   name_language: SV
@@ -53,6 +39,22 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
+- first_name: Sergei
+  middle_name: Borisovich
+  last_name: IVANOV
+  whole_name: Sergei Borisovich IVANOV
+  function: Special Representative of the President of the Russian Federation on the
+    Issues of Environmental Activities, Ecology and Transport
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '135819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 birthdates:
 - birthdate: '1953-01-31'
   circa: false

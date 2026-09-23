@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13279.81
 logical_id: '176526'
 regulations:
@@ -13,56 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Natalyia KORNELYUK
+- whole_name: Natallia SUDLIANKOVA
+  function: Journalist, Media and PR Consultant, Coordinator
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natallia SUDLENKOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natalia SUDLENKOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natalia SUDLIANKOVÁ
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natalija SUDLIANKOVÁ
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176535'
+  logical_id: '176539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -79,13 +37,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natallia SUDLIANKOVA
-  function: Journalist, Media and PR Consultant, Coordinator
+- whole_name: Natalyia KORNELYUK
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176539'
+  logical_id: '176533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -97,6 +54,50 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natalija SUDLIANKOVÁ
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natalia SUDLIANKOVÁ
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natalia SUDLENKOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natallia SUDLENKOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176538'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

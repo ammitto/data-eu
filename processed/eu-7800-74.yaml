@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7800.74
 logical_id: '137684'
 regulations:
@@ -23,27 +24,6 @@ name_aliases:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Artem Grigoryevich SHEYNIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '137687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Артём Григорьевич ШЕЙНИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137852'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 - whole_name: Artjom Grigorijevitj SJEJNIN
   name_language: SV
   strong: true
@@ -64,6 +44,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137688'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
+- whole_name: Artem Grigoryevich SHEYNIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '137687'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
+- whole_name: Артём Григорьевич ШЕЙНИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'

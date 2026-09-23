@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7692.66
 logical_id: '136858'
 regulations:
@@ -13,6 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dmitry
+  middle_name: Vladimirovich
+  last_name: KONOV
+  whole_name: Dmitry Vladimirovich KONOV
+  function: "A member of the supervisory board of the Russian Science Foundation (since
+    2023).\nFormer Chairman of the Management Board of PJSC SIBUR Holding.\nMember
+    of Alrosa PAO’s Supervisory Board and Strategy’s Planning Committee; \nMember
+    of the Russian Union of Enterprises and Organisations of the Chemical Complex
+    (Ruschemunion);\nServed in the Treasury Department of OAO NK YUKOS; held various
+    positions at AKB Trust and Investment Bank, including Vice President – Head of
+    the Investment Banking Department and Managing Director of Corporate Finance Department;
+    \ \nformer member of the Board of Directors of OAO Gazprom neftekhim Salavat and
+    OAO Gazprombank"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Dmitrij
   middle_name: Vladimirovitj
   last_name: KONOV
@@ -27,67 +51,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Dmitrij
-  last_name: Konov
-  whole_name: Dmitrij Konov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Дмитрий
-  middle_name: Владимирович
-  last_name: КОНОВ
-  whole_name: Дмитрий Владимирович КОНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Dmitry
-  middle_name: Vladimirovich
-  last_name: KONOV
-  whole_name: Dmitry Vladimirovich KONOV
-  function: |-
-    A member of the supervisory board of the Russian Science Foundation (since 2023).
-    Former Chairman of the Management Board of PJSC SIBUR Holding.
-    Member of Alrosa PAO’s Supervisory Board and Strategy’s Planning Committee; 
-    Member of the Russian Union of Enterprises and Organisations of the Chemical Complex (Ruschemunion);
-    Served in the Treasury Department of OAO NK YUKOS; held various positions at AKB Trust and Investment Bank, including Vice President – Head of the Investment Banking Department and Managing Director of Corporate Finance Department;  
-    former member of the Board of Directors of OAO Gazprom neftekhim Salavat and OAO Gazprombank
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136861'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Dmitrij
-  last_name: Konov
-  whole_name: Dmitrij Konov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158502'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Dmitrij
   middle_name: Vladimirovič
   last_name: Konov
@@ -115,6 +78,20 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Дмитрий
+  middle_name: Владимирович
+  last_name: КОНОВ
+  whole_name: Дмитрий Владимирович КОНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Dmitriy
   middle_name: Vladimirovich
   last_name: KONOV
@@ -124,6 +101,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Dmitrij
+  last_name: Konov
+  whole_name: Dmitrij Konov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158502'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Dmitrij
+  last_name: Konov
+  whole_name: Dmitrij Konov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

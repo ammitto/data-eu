@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7565.50
 logical_id: '136340'
 regulations:
@@ -13,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  last_name: Bas
-  whole_name: Alexandr Bas
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Александр
-  middle_name: Иванович
-  last_name: БАС
-  whole_name: Александр Иванович БАС
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136344'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Aleksandr
   middle_name: Ivanovitj
   last_name: BAS
@@ -58,11 +32,11 @@ name_aliases:
   middle_name: Ivanovich
   last_name: BAS
   whole_name: Alexander Ivanovich BAS
-  function: |-
-    Promoted to the rank of Major General. He held the position of Head of the Main Directorate of Combat Training of the 
-    Armed Forces.ajor General, Commander of the troops of the North-Western Operational Command of the Armed Forces.
-    Formerly Deputy Commander of the Belarusian Western Operational Command.
-    Head of the Main Directorate of Combat Training of the Armed Forces
+  function: "Promoted to the rank of Major General. He held the position of Head of
+    the Main Directorate of Combat Training of the \nArmed Forces.ajor General, Commander
+    of the troops of the North-Western Operational Command of the Armed Forces.\nFormerly
+    Deputy Commander of the Belarusian Western Operational Command.\nHead of the Main
+    Directorate of Combat Training of the Armed Forces"
   gender: M
   title: Major General
   name_language: EN
@@ -74,6 +48,20 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Александр
+  middle_name: Иванович
+  last_name: БАС
+  whole_name: Александр Иванович БАС
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Аляксандр
   middle_name: Iванавiч
   last_name: БАС
@@ -83,6 +71,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Alexandr
+  last_name: Bas
+  whole_name: Alexandr Bas
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

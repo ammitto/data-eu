@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3475.80
 logical_id: '6982'
 regulations:
@@ -14,28 +15,30 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Malek
-  middle_name: Adjar
+  middle_name: Ajdar
   last_name: SHARIFI
-  whole_name: Malek Adjar SHARIFI
-  function: Judge at the Supreme Court, head of the 43rd section. Former Head of East Azerbaidjan Judiciary.
+  whole_name: Malek Ajdar SHARIFI
+  function: Judge at the Supreme Court, head of the 43rd section. Former Head of East
+    Azerbaidjan Judiciary.
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '15875'
+  logical_id: '116424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-04-08'
     number_title: 2020/510 (OJ L113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0510&from=EN
 - first_name: Malek
-  middle_name: Ajdar
+  middle_name: Adjar
   last_name: SHARIFI
-  whole_name: Malek Ajdar SHARIFI
-  function: Judge at the Supreme Court, head of the 43rd section. Former Head of East Azerbaidjan Judiciary.
+  whole_name: Malek Adjar SHARIFI
+  function: Judge at the Supreme Court, head of the 43rd section. Former Head of East
+    Azerbaidjan Judiciary.
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116424'
+  logical_id: '15875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-04-08'

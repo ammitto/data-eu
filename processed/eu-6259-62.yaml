@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6259.62
 logical_id: '128279'
 regulations:
@@ -13,6 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Аюб
+  middle_name: Вахаевич
+  last_name: КАТАЕВ
+  whole_name: Аюб Вахаевич КАТАЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '128284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- whole_name: Ajub Vachajevitj KATAJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: Ajubchan Vachajevitj KATAJEV
   gender: M
   name_language: SV
@@ -24,29 +50,17 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- first_name: Ayubkhan
+- first_name: Aiub
   middle_name: Vakhaevich
   last_name: KATAEV
-  whole_name: Ayubkhan Vakhaevich KATAEV
+  whole_name: Aiub Vakhaevich KATAEV
+  function: Former Head of Department of the Ministry of Internal Affairs of the Russian
+    Federation in the city of Argun in the Chechen Republic
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '128285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- first_name: Аюб
-  middle_name: Вахаевич
-  last_name: КАТАЕВ
-  whole_name: Аюб Вахаевич КАТАЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '128284'
+  logical_id: '128286'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-03'
@@ -66,32 +80,20 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- first_name: Aiub
+- first_name: Ayubkhan
   middle_name: Vakhaevich
   last_name: KATAEV
-  whole_name: Aiub Vakhaevich KATAEV
-  function: Former Head of Department of the Ministry of Internal Affairs of the Russian Federation in the city of Argun in the Chechen Republic
+  whole_name: Ayubkhan Vakhaevich KATAEV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '128286'
+  logical_id: '128285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: Ajub Vachajevitj KATAJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '128746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

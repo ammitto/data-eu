@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6914.60
 logical_id: '133383'
 regulations:
@@ -14,9 +15,7 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Charlie  Than
-  function: |-
-    Minister of Industry since 22 May 
-    2021
+  function: "Minister of Industry since 22 May \n2021"
   gender: M
   strong: true
   regulation_language: en

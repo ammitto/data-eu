@@ -1,6 +1,11 @@
+---
 eu_reference_number: EU.675.62
 logical_id: '716'
-remark: 'Has a prosthetic right leg.Member of Taliban Supreme Council as of mid-2013, acted as deputy of Mullah Mohammed Omar in Mar. 2010. Believed to be in Afghanistan/Pakistan border area. Belongs to Achekzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. Deceased as of 9 February 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol. int/en/notice/search/un/1427431'
+remark: 'Has a prosthetic right leg.Member of Taliban Supreme Council as of mid-2013,
+  acted as deputy of Mullah Mohammed Omar in Mar. 2010. Believed to be in Afghanistan/Pakistan
+  border area. Belongs to Achekzai tribe. Review pursuant to Security Council Resolution
+  1822 (2008) was concluded on 23 Jul. 2010. Deceased as of 9 February 2016. INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol. int/en/notice/search/un/1427431'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,16 +57,16 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1963
-  city: Charchino District, Uruzgan Province
+  city: Deh Rawud District, Uruzgan province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '109768'
+  logical_id: '999'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+    publication_date: '2016-09-30'
+    number_title: 2016/1736 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
 - circa: true
   calendar_type: GREGORIAN
   year: 1963
@@ -78,13 +83,13 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1963
-  city: Deh Rawud District, Uruzgan province
+  city: Charchino District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '999'
+  logical_id: '109768'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2016-09-30'
-    number_title: 2016/1736 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

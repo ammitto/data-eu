@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12472.21
 logical_id: '171080'
 regulations:
@@ -14,7 +15,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Royal Shune Lei
-  function: Royal Shune Lei, a Myanmar/Burma company, working as an intermediary firm for the armed forces of Myanmar/Burma, is identified as working with the Korea Mining Development Trading Corporation (KOMID) for supply of arms and weapons from the DPRK.
+  function: Royal Shune Lei, a Myanmar/Burma company, working as an intermediary firm
+    for the armed forces of Myanmar/Burma, is identified as working with the Korea
+    Mining Development Trading Corporation (KOMID) for supply of arms and weapons
+    from the DPRK.
   name_language: EN
   strong: true
   regulation_language: en

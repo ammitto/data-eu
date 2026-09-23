@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11825.27
 logical_id: '167108'
 regulations:
@@ -13,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Εταιρεία περιορισμένης ευθύνης «RBA-Management»
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '167144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Limited Liability Company (Gesellschaft mit beschränkter Haftung) „RBA-Management“
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '167145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "”RBA-Management” -osakeyhtiö"
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '167143'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Общество с Ограниченной Ответственностью "РБА-Менеджмент"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -63,8 +34,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Общество с Ограниченной Ответственностью "РБА-Менеджмент"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Limited Liability Company "RBA-Management"
-  function: LLC "RBA-Management" is a Russian management company that provides legal, accounting, corporate security and other management services, and has been working with customers specializing in the supply of electronic components.  The managing organisation of JSC Compel,
+  function: LLC "RBA-Management" is a Russian management company that provides legal,
+    accounting, corporate security and other management services, and has been working
+    with customers specializing in the supply of electronic components.  The managing
+    organisation of JSC Compel,
   name_language: EN
   strong: true
   regulation_language: en
@@ -74,7 +58,28 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Limited Liability Company «RBA-Management» (Societatea cu răspundere limitată «RBA-Management»)
+- whole_name: Εταιρεία περιορισμένης ευθύνης «RBA-Management»
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '167144'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: "”RBA-Management” -osakeyhtiö"
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '167143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Limited Liability Company «RBA-Management» (Societatea cu răspundere
+    limitată «RBA-Management»)
   name_language: RO
   strong: true
   regulation_language: en
@@ -84,7 +89,8 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Limited Liability Company «RBA- Management» [Sociedade de responsabilidade limitada «RBA- Management»]
+- whole_name: Limited Liability Company «RBA- Management» [Sociedade de responsabilidade
+    limitada «RBA- Management»]
   name_language: PT
   strong: true
   regulation_language: en
@@ -94,7 +100,8 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Limited Liability Company (vennootschap met beperkte aansprakelijkheid) “RBA-management”
+- whole_name: Limited Liability Company (vennootschap met beperkte aansprakelijkheid)
+    “RBA-management”
   name_language: NL
   strong: true
   regulation_language: en

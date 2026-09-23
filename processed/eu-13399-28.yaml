@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13399.28
 logical_id: '177301'
 regulations:
@@ -13,31 +14,34 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: IMZ Rt
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "„JSC Iževsko mechanikos gamykla“"
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '177310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC IMZ
+- whole_name: JSC “Izhevsk Mechanical  Plant”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177311'
+  logical_id: '177312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Акционерное Общество  “Ижевский механический завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177313'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Joint Stock Company “Izhevsk  Mechanical Plant”
+  function: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile manufacturers
+    in Russia, and its primary products include combat weapons, components for missile
+    systems, and high-precision castings.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -73,6 +77,16 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: IMZ Rt
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "»Izhevsk Mechanical Plant«  Részvénytársaság"
   name_language: HU
   strong: true
@@ -83,32 +97,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company “Izhevsk  Mechanical Plant”
-  function: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile manufacturers in Russia, and its primary products include combat weapons, components for missile systems, and high-precision castings.
-  name_language: EN
+- whole_name: "„JSC Iževsko mechanikos gamykla“"
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '177314'
+  logical_id: '177310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество  “Ижевский механический завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Izhevsk Mechanical  Plant”
+- whole_name: JSC IMZ
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177312'
+  logical_id: '177311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -127,21 +130,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: regnumber
-  number: '1121841007958'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: taxid
   number: '1841030037'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: regnumber
+  number: '1121841007958'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

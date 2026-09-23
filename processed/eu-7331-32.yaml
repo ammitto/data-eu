@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7331.32
 logical_id: '135060'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Айдар
+  middle_name: Раисович
+  last_name: МЕТШИН
+  whole_name: Айдар Раисович МЕТШИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135062'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Ajdar Raisovitj METSJIN
   gender: M
   name_language: SV
@@ -33,20 +48,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135063'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Айдар
-  middle_name: Раисович
-  last_name: МЕТШИН
-  whole_name: Айдар Раисович МЕТШИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

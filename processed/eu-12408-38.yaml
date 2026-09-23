@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12408.38
 logical_id: '170886'
 regulations:
@@ -13,29 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Виктор
-  middle_name: Викторович
-  last_name: НОВИК
-  whole_name: Виктор Викторович НОВИК
+- first_name: Viktar
+  middle_name: Viktaravich
+  last_name: NOVIK
+  whole_name: Viktar Viktaravich NOVIK
+  function: Judge, President of the Court, Zhabinka District
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Віктар
-  middle_name: Віктаравіч
-  last_name: НОВІК
-  whole_name: Віктар Віктаравіч НОВІК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170891'
+  logical_id: '170893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -55,16 +43,29 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Viktar
-  middle_name: Viktaravich
-  last_name: NOVIK
-  whole_name: Viktar Viktaravich NOVIK
-  function: Judge, President of the Court, Zhabinka District
+- first_name: Віктар
+  middle_name: Віктаравіч
+  last_name: НОВІК
+  whole_name: Віктар Віктаравіч НОВІК
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '170893'
+  logical_id: '170891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Виктор
+  middle_name: Викторович
+  last_name: НОВИК
+  whole_name: Виктор Викторович НОВИК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

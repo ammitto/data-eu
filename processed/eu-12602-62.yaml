@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12602.62
 logical_id: '171629'
 regulations:
@@ -13,11 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: VNIIR-Haladás Rt.
-  name_language: HU
+- whole_name: JSC VNIIR-Progress
   strong: true
   regulation_language: en
-  logical_id: '172165'
+  logical_id: '171632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -34,7 +34,9 @@ name_aliases:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Joint-Stock Company VNIIR-Progress
-  function: JSC VNIIR -Progress is a Russian research and development institute that specialises in the production of advanced electronic warfare (EW) systems, focusing on technologies for signal-jamming and intelligence-gathering.
+  function: JSC VNIIR -Progress is a Russian research and development institute that
+    specialises in the production of advanced electronic warfare (EW) systems, focusing
+    on technologies for signal-jamming and intelligence-gathering.
   name_language: EN
   strong: true
   regulation_language: en
@@ -54,10 +56,11 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: JSC VNIIR-Progress
+- whole_name: VNIIR-Haladás Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171632'
+  logical_id: '172165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -88,21 +91,21 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: fiscalcode
-  number: '2130094170'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '172167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: regnumber
   number: '1112130013270'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171631'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '2130094170'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '172167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

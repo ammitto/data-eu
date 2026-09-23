@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11892.7
 logical_id: '167741'
 regulations:
@@ -13,44 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Chol Sok
-  last_name: KIM
-  whole_name: Chol Sok KIM
-  function: an intelligence officer of the Reconnaissance General Bureau of the DPRK
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '167751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
 - whole_name: Sok Kha
   gender: M
   strong: true
   regulation_language: en
   logical_id: '167750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Chang Sok-kha
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '167748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Kang Hyok
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '167747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -76,11 +44,44 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1602 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
+- first_name: Chol Sok
+  last_name: KIM
+  whole_name: Chol Sok KIM
+  function: an intelligence officer of the Reconnaissance General Bureau of the DPRK
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '167751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
 - whole_name: Lee Un-Kang
   gender: M
   strong: true
   regulation_language: en
   logical_id: '167749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
+- whole_name: Chang Sok-kha
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '167748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
+- whole_name: Kang Hyok
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '167747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

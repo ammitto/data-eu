@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4007.47
 logical_id: '114259'
 regulations:
@@ -14,7 +15,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: CENTRAL MILITARY COMMISSION OF THE WORKERS’ PARTY OF KOREA (CMC)
-  function: The Central Military Commission is responsible for the development and implementation of the Workers’ Party of Korea’s military policies, commands and controls the DPRK’s military, and directs the country’s military defense industries in coordination with the State Affairs Commission.
+  function: The Central Military Commission is responsible for the development and
+    implementation of the Workers’ Party of Korea’s military policies, commands and
+    controls the DPRK’s military, and directs the country’s military defense industries
+    in coordination with the State Affairs Commission.
   strong: true
   regulation_language: en
   logical_id: '114332'

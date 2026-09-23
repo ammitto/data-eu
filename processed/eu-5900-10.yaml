@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5900.10
 logical_id: '126020'
 regulations:
@@ -13,7 +14,8 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Государственный научно-исследо­вательский  институт  органической химии и  технологии
+- whole_name: Государственный научно-исследо­вательский  институт  органической химии
+    и  технологии
   strong: true
   regulation_language: en
   logical_id: '126022'

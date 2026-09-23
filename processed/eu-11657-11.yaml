@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11657.11
 logical_id: '166170'
 regulations:
@@ -13,6 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Hana
+  last_name: Turobovová
+  whole_name: Hana Turobovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Хана
+  last_name: Туробова
+  whole_name: Хана Туробова
+  gender: F
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '167168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Анна
   middle_name: Сергеевна
   last_name: ТУРОБОВА
@@ -51,32 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Хана
-  last_name: Туробова
-  whole_name: Хана Туробова
-  gender: F
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '167168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Hana
-  last_name: Turobovová
-  whole_name: Hana Turobovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

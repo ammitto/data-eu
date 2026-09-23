@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9239.88
 logical_id: '146575'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktoria
-  middle_name: Valerievna
-  last_name: ABRAMCHENKO
-  whole_name: Viktoria Valerievna ABRAMCHENKO
-  function: A former Deputy Prime Minister of the Russian Federation, responsible for Agro-Industrial Complex, Natural Resources and Ecology. Since September 2024, she has been the Deputy Chairman of the State Duma of the Russian Federation.
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Виктория
   middle_name: Валериевна
   last_name: АБРАМЧЕНКО
@@ -42,6 +28,23 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Viktoria
+  middle_name: Valerievna
+  last_name: ABRAMCHENKO
+  whole_name: Viktoria Valerievna ABRAMCHENKO
+  function: A former Deputy Prime Minister of the Russian Federation, responsible
+    for Agro-Industrial Complex, Natural Resources and Ecology. Since September 2024,
+    she has been the Deputy Chairman of the State Duma of the Russian Federation.
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

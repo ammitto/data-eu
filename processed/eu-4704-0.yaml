@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4704.0
 logical_id: '117974'
 regulations:
@@ -22,6 +23,17 @@ name_aliases:
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- first_name: Abdul
+  last_name: Rahman
+  whole_name: Abdul Rahman
+  strong: true
+  regulation_language: en
+  logical_id: '117984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 - whole_name: Abu Abdul Rahman al Filipini
   strong: true
   regulation_language: en
@@ -37,17 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Abdul
-  last_name: Rahman
-  whole_name: Abdul Rahman
-  strong: true
-  regulation_language: en
-  logical_id: '117984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
@@ -81,6 +82,15 @@ birthdates:
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 addresses:
+- country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '117976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
@@ -95,15 +105,6 @@ addresses:
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '117977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '117976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'

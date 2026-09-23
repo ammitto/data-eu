@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11072.94
 logical_id: '161389'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Nusaibah
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
 - first_name: Andreas Martin
   last_name: MÜLLER
   whole_name: Andreas Martin MÜLLER
@@ -31,6 +21,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Abu Nusaiba
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'
@@ -53,6 +54,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Mr Akam
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: is-Sur Akam
+  gender: M
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '161417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'
@@ -91,23 +114,12 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/338 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Abu Nusaiba
+- whole_name: Abu Nusaibah
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: is-Sur Akam
-  gender: M
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '161417'
+  logical_id: '161397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'
@@ -143,17 +155,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Mr Akam
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14076.54
 logical_id: '181295'
 regulations:
@@ -13,6 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Yangzhou Yangjie Electronic Technology Co., Ltd.
+  function: Yangzhou Yangjie Electronic Technology Co., Ltd. is a leading Chinese
+    IDM manufacturer specialising in semiconductor devices used in various industries,
+    including automotive, new energy, and consumer electronics. Activities of Yangzhou
+    Yangjie Electronic Technology Co., Ltd. include military chips, aerospace and
+    defence, military electronics. Yangzhou Yangjie Electronic Technology Company
+    Limited has sent over 200 shipments of dual-use technology to Russia since the
+    invasion of Ukraine, significantly aiding its military capabilities. The company’s
+    products have been found in the drones and ammunition used by Russian troops in
+    Ukraine.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Yangzhou Yangjie Electronic Co., Ltd
   name_language: EN
   strong: true
@@ -43,17 +63,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Yangzhou Yangjie Electronic Technology Co., Ltd.
-  function: Yangzhou Yangjie Electronic Technology Co., Ltd. is a leading Chinese IDM manufacturer specialising in semiconductor devices used in various industries, including automotive, new energy, and consumer electronics. Activities of Yangzhou Yangjie Electronic Technology Co., Ltd. include military chips, aerospace and defence, military electronics. Yangzhou Yangjie Electronic Technology Company Limited has sent over 200 shipments of dual-use technology to Russia since the invasion of Ukraine, significantly aiding its military capabilities. The company’s products have been found in the drones and ammunition used by Russian troops in Ukraine.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 addresses:
 - street: No.68, Heye West Road
   city: Yangzhou
@@ -70,20 +79,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
 - identification_type_code: other
-  number: '913210007908906337'
+  number: '160823'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181297'
+  logical_id: '181298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: other
-  number: '160823'
+  number: 6556009FCJ7O8QPFTC19
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181298'
+  logical_id: '181299'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -100,10 +109,10 @@ identifications:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: other
-  number: 6556009FCJ7O8QPFTC19
+  number: '913210007908906337'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181299'
+  logical_id: '181297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

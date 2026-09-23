@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2625.4
 logical_id: '6673'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Iran Pooya
-  function: A government owned company that operated the biggest extruder of aluminium in Iran
+  function: A government owned company that operated the biggest extruder of aluminium
+    in Iran
   name_language: EN
   strong: true
   regulation_language: en

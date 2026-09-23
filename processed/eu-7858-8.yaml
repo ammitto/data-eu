@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7858.8
 logical_id: '138049'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олег Борисович ДОБРОДЕЕВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '138052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Oleg Borisovič DOBRODEJEV
   name_language: SL
   strong: true
@@ -43,8 +34,19 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Олег Борисович ДОБРОДЕЕВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '138052'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Oleg Borisovich DOBRODEEV
-  function: Director General of the All-Russian State Television and Radio Broadcasting Company (VGTRK)
+  function: Director General of the All-Russian State Television and Radio Broadcasting
+    Company (VGTRK)
   gender: M
   strong: true
   regulation_language: en

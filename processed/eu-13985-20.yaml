@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13985.20
 logical_id: '180627'
 remark: 'Type of entity: Limited Company'
@@ -14,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Yaftar Pazhohan Pishtaz Rayanesh Limited Company
+- whole_name: Yaftar Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180632'
+  logical_id: '180630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -34,34 +35,35 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: Yaftar Company
+- whole_name: Yaftar Pazhohan Pishtaz Rayanesh Limited Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180630'
+  logical_id: '180632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 addresses:
-- street: No. 56, 4th and 5th floors, Ghasemi Alley, Shahid Akbari Boulevard, Azadi St
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '180628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - street: No.37, Unit 13, Qasemi Street, Habibollah Street, Azadi Avenue
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180629'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- street: No. 56, 4th and 5th floors, Ghasemi Alley, Shahid Akbari Boulevard, Azadi
+    St
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

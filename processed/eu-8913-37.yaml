@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8913.37
 logical_id: '144885'
 regulations:
@@ -26,7 +27,8 @@ name_aliases:
 - first_name: Mohammad-Hossein
   last_name: SEPEHR
   whole_name: Mohammad-Hossein SEPEHR
-  function: Commander of the Iranian Central Training Base of the General Staff of the Armed Forces
+  function: Commander of the Iranian Central Training Base of the General Staff of
+    the Armed Forces
   gender: M
   strong: true
   regulation_language: en

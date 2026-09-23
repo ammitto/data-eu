@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13513.9
 logical_id: '178170'
 regulations:
@@ -13,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрей Александрович УСТИНСКИЙ
-  name_language: RU
+- whole_name: Andrei Alexandrovich USTINSKY
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '178171'
+  logical_id: '178172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -27,7 +29,8 @@ name_aliases:
   middle_name: Alexandrovich
   last_name: USTINSKY
   whole_name: Andrey Alexandrovich USTINSKY
-  function: Director of the Republican Cossack Cadet Corps (RCCC) named after Air Marshal Alexander Efimov
+  function: Director of the Republican Cossack Cadet Corps (RCCC) named after Air
+    Marshal Alexander Efimov
   gender: M
   name_language: EN
   strong: true
@@ -38,12 +41,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Andrei Alexandrovich USTINSKY
-  gender: M
-  name_language: EN
+- whole_name: Андрей Александрович УСТИНСКИЙ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '178172'
+  logical_id: '178171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.3859.89
 logical_id: '6114'
-designation_details: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+designation_details: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban).
+  Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
 remark: 'Believed status/location: Libya.'
 regulations:
 - regulation_type: amendment
@@ -43,11 +45,12 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1949
-  country_iso2_code: SD
-  country_description: SUDAN
+  year: 1948
+  city: Anefif (Kidal)
+  country_iso2_code: ML
+  country_description: MALI
   regulation_language: en
-  logical_id: '1474'
+  logical_id: '2248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'
@@ -55,12 +58,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0002&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1948
-  city: Anefif (Kidal)
-  country_iso2_code: ML
-  country_description: MALI
+  year: 1949
+  country_iso2_code: SD
+  country_description: SUDAN
   regulation_language: en
-  logical_id: '2248'
+  logical_id: '1474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'

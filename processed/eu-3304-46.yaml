@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3304.46
 logical_id: '5619'
 remark: 'Date of designation referred to in Article 2a (4) (b): 11.3.2010.'
@@ -14,25 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ghazy
-  middle_name: Fezza Hishan
-  last_name: Al-Mazidih
-  whole_name: Ghazy Fezza Hishan Al-Mazidih
+- whole_name: Abu Faysal
   strong: true
   regulation_language: en
-  logical_id: '7751'
+  logical_id: '7754'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-- first_name: Ghazy
-  middle_name: Fezzaa
-  last_name: Hishan
-  whole_name: Ghazy Fezzaa Hishan
+- whole_name: Abu Ghazzy
   strong: true
   regulation_language: en
-  logical_id: '7752'
+  logical_id: '7755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
@@ -50,19 +45,25 @@ name_aliases:
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-- whole_name: Abu Faysal
+- first_name: Ghazy
+  middle_name: Fezzaa
+  last_name: Hishan
+  whole_name: Ghazy Fezzaa Hishan
   strong: true
   regulation_language: en
-  logical_id: '7754'
+  logical_id: '7752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-- whole_name: Abu Ghazzy
+- first_name: Ghazy
+  middle_name: Fezza Hishan
+  last_name: Al-Mazidih
+  whole_name: Ghazy Fezza Hishan Al-Mazidih
   strong: true
   regulation_language: en
-  logical_id: '7755'
+  logical_id: '7751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
@@ -94,19 +95,19 @@ birthdates:
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
 addresses:
-- country_iso2_code: IQ
-  country_description: IRAQ
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '107258'
+  logical_id: '1379'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-07'
     number_title: 2016/13 (OJ L4/10)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: IQ
+  country_description: IRAQ
   regulation_language: en
-  logical_id: '1379'
+  logical_id: '107258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-07'

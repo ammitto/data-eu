@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3711.12
 logical_id: '5609'
 remark: 'Location: Somalia'
@@ -14,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sheikh Aweys
-  strong: true
-  regulation_language: en
-  logical_id: '7802'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 - first_name: Sheikh Hassan
   middle_name: Dahir
   last_name: Aweys
@@ -35,25 +27,10 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Ahmed
-  middle_name: Dahir
-  last_name: Aweys
-  whole_name: Ahmed Dahir Aweys
+- whole_name: Sheikh Aweys
   strong: true
   regulation_language: en
-  logical_id: '7801'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Aweys
-  middle_name: Hassan
-  last_name: Dahir
-  whole_name: Aweys Hassan Dahir
-  strong: true
-  regulation_language: en
-  logical_id: '7804'
+  logical_id: '7802'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -104,11 +81,45 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Aweys
+  middle_name: Hassan
+  last_name: Dahir
+  whole_name: Aweys Hassan Dahir
+  strong: true
+  regulation_language: en
+  logical_id: '7804'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Ahmed
+  middle_name: Dahir
+  last_name: Aweys
+  whole_name: Ahmed Dahir Aweys
+  strong: true
+  regulation_language: en
+  logical_id: '7801'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 - first_name: Hassan
   middle_name: Dahir
   last_name: Aweys
   whole_name: Hassan Dahir Aweys
-  function: Hassan Dahir Aweys has acted and continues to act as a senior political and ideological leader of a variety of armed opposition groups responsible for repeated violations of the general and complete arms embargo and/or acts that threaten the Djibouti peace agreement, the Transitional Federal Government (TFG) and the African Union Mission in Somalia (AMISOM) forces. Between June 2006 and September 2007, AWEYSs served as chairman of the central committee of the Islamic Courts Union; in July 2008 he declared himself chairman of the Alliance for the Re-Liberation of Somalia-Asmara wing; and in May 2009 he was named chairman of Hisbul Islam, an alliance of groups opposed to the TFG. In each of these positions, AWEYS's statements and actions have demonstrated an unequivocal and sustained intention to dismantle the TFG and expel AMISOM by force from Somalia.
+  function: Hassan Dahir Aweys has acted and continues to act as a senior political
+    and ideological leader of a variety of armed opposition groups responsible for
+    repeated violations of the general and complete arms embargo and/or acts that
+    threaten the Djibouti peace agreement, the Transitional Federal Government (TFG)
+    and the African Union Mission in Somalia (AMISOM) forces. Between June 2006 and
+    September 2007, AWEYSs served as chairman of the central committee of the Islamic
+    Courts Union; in July 2008 he declared himself chairman of the Alliance for the
+    Re-Liberation of Somalia-Asmara wing; and in May 2009 he was named chairman of
+    Hisbul Islam, an alliance of groups opposed to the TFG. In each of these positions,
+    AWEYS's statements and actions have demonstrated an unequivocal and sustained
+    intention to dismantle the TFG and expel AMISOM by force from Somalia.
   strong: true
   regulation_language: en
   logical_id: '7604'

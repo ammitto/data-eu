@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1848.24
 logical_id: '3844'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Závod námořního průmyslu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '5499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Marine Industries
   strong: true
   regulation_language: en
@@ -42,16 +53,16 @@ name_aliases:
     publication_date: '2007-04-24'
     number_title: 2007/242/EC (OJ L106)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Závod námořního průmyslu
-  name_language: CS
+- whole_name: Námorný priemysel
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '5499'
+  logical_id: '6701'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Indústrias Marinhas
   name_language: PT
   strong: true
@@ -87,16 +98,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Námorný priemysel
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'

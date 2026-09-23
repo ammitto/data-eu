@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12436.44
 logical_id: '170994'
 regulations:
@@ -28,15 +29,15 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Олег
-  middle_name: Ромуальдович
-  last_name: ГЕРАСИМ
-  whole_name: Олег Ромуальдович ГЕРАСИМ
+- first_name: Oleg
+  middle_name: Romualdovich
+  last_name: GERASIM
+  whole_name: Oleg Romualdovich GERASIM
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170999'
+  logical_id: '171001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -56,15 +57,15 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Oleg
-  middle_name: Romualdovich
-  last_name: GERASIM
-  whole_name: Oleg Romualdovich GERASIM
+- first_name: Олег
+  middle_name: Ромуальдович
+  last_name: ГЕРАСИМ
+  whole_name: Олег Ромуальдович ГЕРАСИМ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '171001'
+  logical_id: '170999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

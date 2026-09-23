@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3764.9
 logical_id: '113025'
 united_nation_id: QDe.152
@@ -23,10 +24,10 @@ name_aliases:
     publication_date: '2017-07-12'
     number_title: 2017/1251 (OJ L179)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1251&from=EN
-- whole_name: Ahrar-ul-Hind
+- whole_name: Jamaat-ul-Ahrar (JuA)
   strong: true
   regulation_language: en
-  logical_id: '113115'
+  logical_id: '113118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-12'
@@ -41,10 +42,10 @@ name_aliases:
     publication_date: '2017-07-12'
     number_title: 2017/1251 (OJ L179)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1251&from=EN
-- whole_name: Jamaat-ul-Ahrar (JuA)
+- whole_name: Ahrar-ul-Hind
   strong: true
   regulation_language: en
-  logical_id: '113118'
+  logical_id: '113115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-12'

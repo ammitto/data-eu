@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14012.50
 logical_id: '180781'
 regulations:
@@ -13,15 +14,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Тимур
-  middle_name: Ільдарович
-  last_name: ЮНУСОВ
-  whole_name: Тимур Ільдарович ЮНУСОВ
+- whole_name: Timati
   gender: M
-  name_language: UK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '180786'
+  logical_id: '180789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Timati
+  middle_name: Ildarovich
+  last_name: YUNUSOV
+  whole_name: Timati Ildarovich YUNUSOV
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Тимати
+  middle_name: Ильдарович
+  last_name: ЮНУСОВ
+  whole_name: Тимати Ильдарович ЮНУСОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -36,42 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Timati
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Timour  Ildarovitch  YOUNOUSOV
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '182220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Тіматі
-  middle_name: Ільдарович
-  last_name: ЮНУСОВ
-  whole_name: Тіматі Ільдарович ЮНУСОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '180785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -92,29 +82,40 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Тимати
-  middle_name: Ильдарович
-  last_name: ЮНУСОВ
-  whole_name: Тимати Ильдарович ЮНУСОВ
+- whole_name: Timour  Ildarovitch  YOUNOUSOV
   gender: M
-  name_language: RU
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '180787'
+  logical_id: '182220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Timati
-  middle_name: Ildarovich
-  last_name: YUNUSOV
-  whole_name: Timati Ildarovich YUNUSOV
+- first_name: Тимур
+  middle_name: Ільдарович
+  last_name: ЮНУСОВ
+  whole_name: Тимур Ільдарович ЮНУСОВ
   gender: M
-  name_language: RU
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '180788'
+  logical_id: '180786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Тіматі
+  middle_name: Ільдарович
+  last_name: ЮНУСОВ
+  whole_name: Тіматі Ільдарович ЮНУСОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '180785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

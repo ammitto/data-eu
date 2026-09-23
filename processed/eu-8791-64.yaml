@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8791.64
 logical_id: '144465'
 regulations:
@@ -18,10 +19,10 @@ name_aliases:
   last_name: KOCHKIN
   whole_name: Aleksandr Viktorovich KOCHKIN
   gender: M
-  name_language: DE
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '144669'
+  logical_id: '144668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -32,24 +33,10 @@ name_aliases:
   last_name: KOCHKIN
   whole_name: Aleksandr Viktorovich KOCHKIN
   gender: M
-  name_language: NL
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '144668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Aleksander
-  middle_name: Viktorovich
-  last_name: KOCHKIN
-  whole_name: Aleksander Viktorovich KOCHKIN
-  function: Executive Director of the Tecmash concern, a designer and manufacturer of missiles and munitions
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144469'
+  logical_id: '144669'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -64,6 +51,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Aleksander
+  middle_name: Viktorovich
+  last_name: KOCHKIN
+  whole_name: Aleksander Viktorovich KOCHKIN
+  function: Executive Director of the Tecmash concern, a designer and manufacturer
+    of missiles and munitions
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

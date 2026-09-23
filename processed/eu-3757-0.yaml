@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3757.0
 logical_id: '7497'
 remark: 'Other information: New emir of Al-Shabaab. Date of UN designation: 24.9.2014.'
@@ -14,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ahmed Diriye
-  strong: true
-  regulation_language: en
-  logical_id: '18315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
 - whole_name: Sheikh Ahmed Umar Abu Ubaidah
   strong: true
   regulation_language: en
@@ -54,6 +46,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18319'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Ahmed Diriye
+  strong: true
+  regulation_language: en
+  logical_id: '18315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'

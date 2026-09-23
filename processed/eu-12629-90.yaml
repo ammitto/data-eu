@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12629.90
 logical_id: '171853'
 regulations:
@@ -31,25 +32,13 @@ name_aliases:
   middle_name: Igorevich
   last_name: SKITSKY
   whole_name: Oleg Igorevich SKITSKY
-  function: Serviceman from the 22nd Guards Heavy Bomber Aviation Division based at Engels-2 airbase
+  function: Serviceman from the 22nd Guards Heavy Bomber Aviation Division based at
+    Engels-2 airbase
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '171858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Олег
-  last_name: Скитски
-  whole_name: Олег Скитски
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '172008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -63,6 +52,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Олег
+  last_name: Скитски
+  whole_name: Олег Скитски
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '172008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -95,21 +97,21 @@ birthdates:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: passport
-  number: 6805 254349
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171855'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: fiscalcode
   number: '644922239676'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: passport
+  number: 6805 254349
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171855'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

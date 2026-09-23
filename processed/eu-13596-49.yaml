@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13596.49
 logical_id: '178521'
 designation_details: 16.10.2012, suspended since 16.1.2016
@@ -15,7 +16,13 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Iranian Oil Terminals Company
-  function: Iranian Oil Terminals Company is an Iranian company, a subsidiary (100 %) of National Iranian Oil Company (NIOC). The National Iranian Oil Company (NIOC) is a State-owned and operated entity providing substantial financial resources and support to the Government of Iran. It receives, stores, exports and imports crude oil, petroleum products and gas condensate, as well as providing services including marine services. It is an important supporter of the country’s oil and gas production and exports, therefore it provides revenue to the Iranian government.
+  function: Iranian Oil Terminals Company is an Iranian company, a subsidiary (100
+    %) of National Iranian Oil Company (NIOC). The National Iranian Oil Company (NIOC)
+    is a State-owned and operated entity providing substantial financial resources
+    and support to the Government of Iran. It receives, stores, exports and imports
+    crude oil, petroleum products and gas condensate, as well as providing services
+    including marine services. It is an important supporter of the country’s oil and
+    gas production and exports, therefore it provides revenue to the Iranian government.
   name_language: EN
   strong: true
   regulation_language: en

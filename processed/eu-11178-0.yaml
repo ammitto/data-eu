@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11178.0
 logical_id: '162296'
 regulations:
@@ -27,19 +28,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Nikolaj
-  last_name: Gusev
-  whole_name: Nikolaj Gusev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '163817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Nikolai
   middle_name: Anatolievich
   last_name: GUSEV
@@ -50,6 +38,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162300'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Nikolaj
+  last_name: Gusev
+  whole_name: Nikolaj Gusev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '163817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

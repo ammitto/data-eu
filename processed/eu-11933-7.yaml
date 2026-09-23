@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11933.7
 logical_id: '167890'
 regulations:
@@ -24,13 +25,12 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: ROSTAMI CHESHMEH GACHI Mohammed
-  function: Head of Iran’s Morality Police. He was head of the Kermanshah Public Security Police from early 2014 until early 2019 and held senior positions in the Iranian intelligence police.
+- whole_name: ROSTAMI Mohammad
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167899'
+  logical_id: '167898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -47,12 +47,15 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: ROSTAMI Mohammad
+- whole_name: ROSTAMI CHESHMEH GACHI Mohammed
+  function: Head of Iran’s Morality Police. He was head of the Kermanshah Public Security
+    Police from early 2014 until early 2019 and held senior positions in the Iranian
+    intelligence police.
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167898'
+  logical_id: '167899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

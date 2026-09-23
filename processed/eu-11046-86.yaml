@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11046.86
 logical_id: '160485'
 regulations:
@@ -44,7 +45,8 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: AviatestAero
-  function: a Russian company that operates in the Alabuga special economic zone (SEZ) in Russia (Tatarstan)
+  function: a Russian company that operates in the Alabuga special economic zone (SEZ)
+    in Russia (Tatarstan)
   name_language: EN
   strong: true
   regulation_language: en

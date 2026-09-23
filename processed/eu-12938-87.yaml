@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12938.87
 logical_id: '174348'
 regulations:
@@ -13,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО  “ЦЫБУЛЬКА-БЕЛ”
-  name_language: RU
+- whole_name: Zybulka Bel“ ООД
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '174355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: ТАА “ЦЫБУЛЬКА-БЕЛ”
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Zybulka Bel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174357'
+  logical_id: '174353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -63,6 +44,16 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: ООО  “ЦЫБУЛЬКА-БЕЛ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Tsybulka Bel“ ООД
   name_language: BG
   strong: true
@@ -73,11 +64,11 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Zybulka Bel“ ООД
-  name_language: BG
+- whole_name: ТАА “ЦЫБУЛЬКА-БЕЛ”
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174353'
+  logical_id: '174356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -89,6 +80,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Zybulka Bel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

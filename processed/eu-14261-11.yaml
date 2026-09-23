@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14261.11
 logical_id: '182013'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: احمد درویش گفتار
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '182015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
 - whole_name: Ahmad DARVISH GOFTAR
   function: |-
     Ahmad Darvish Goftar is the Head of the Revolutionary Court of Rasht and President of that court’s First Branch. In that role he is responsible for serious human rights violations, in particular forced confessions, violations of fair trial guarantees and the issuance of severe or death sentences against activists.
@@ -23,16 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/648 (OJ L202600648)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
-- whole_name: احمد درویش گفتار
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '182015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

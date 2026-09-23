@@ -1,8 +1,7 @@
+---
 eu_reference_number: EU.8579.3
 logical_id: '142826'
-remark: |-
-  Position: Commander-in-Chief of 
-  the Palestine Liberation Army
+remark: "Position: Commander-in-Chief of \nthe Palestine Liberation Army"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,31 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '142828'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: محمد السلطي
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '142831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
 - whole_name: أكرم محمد السلطي
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '142829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: محمد
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '142828'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -56,12 +45,11 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1274 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: Muhammad AL-SALTI
-  function: Muhammad AL-SALTI is the Commander-in-Chief of the “Palestine Liberation Army”, engaged in the recruitment of Palestinians to fight in Ukraine alongside Russia. He is therefore responsible for actions and policies which undermine or threaten the territorial integrity, so ...
-  gender: M
+- whole_name: محمد السلطي
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '142835'
+  logical_id: '142831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -89,6 +77,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: Muhammad AL-SALTI
+  function: Muhammad AL-SALTI is the Commander-in-Chief of the “Palestine Liberation
+    Army”, engaged in the recruitment of Palestinians to fight in Ukraine alongside
+    Russia. He is therefore responsible for actions and policies which undermine or
+    threaten the territorial integrity, so ...
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '142835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

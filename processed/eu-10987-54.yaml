@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10987.54
 logical_id: '160134'
 regulations:
@@ -43,16 +44,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: KOLOMENSKY ZAVOD RT.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Kolomenský závod, a. s.
   name_language: CS
   strong: true
@@ -78,6 +69,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: KOLOMENSKY ZAVOD RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

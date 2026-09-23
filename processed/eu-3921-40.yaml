@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3921.40
 logical_id: '113086'
 regulations:
@@ -13,21 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "'Tango Fort'"
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '113088'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-09'
-    number_title: 2022/2401 (OJ L317)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
 - whole_name: "'Tango Four'"
   gender: M
   strong: true
   regulation_language: en
   logical_id: '113087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-09'
+    number_title: 2022/2401 (OJ L317)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
+- whole_name: "'Tango Fort'"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '113088'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'
@@ -50,7 +51,9 @@ name_aliases:
   middle_name: Amisi
   last_name: KUMBA
   whole_name: Gabriel Amisi KUMBA
-  function: Former Commander of the first defence zone of the Congolese Armed Forces (FARDC). Deputy Chief of Staff of the FARDC in charge of operations and intelligence from July 2018 to July 2020. Since then Inspector General of the FARDC.
+  function: Former Commander of the first defence zone of the Congolese Armed Forces
+    (FARDC). Deputy Chief of Staff of the FARDC in charge of operations and intelligence
+    from July 2018 to July 2020. Since then Inspector General of the FARDC.
   gender: M
   strong: true
   regulation_language: en

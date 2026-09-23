@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.3158.78
 logical_id: '106530'
-remark: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+remark: Photo available for inclusion in the INTERPOL-UN Security Council Special
+  Notice.
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Umm Layth
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Aqsa
   last_name: Mahmood
   whole_name: Aqsa Mahmood
@@ -33,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Umm Layth
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

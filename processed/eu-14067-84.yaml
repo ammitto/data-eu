@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14067.84
 logical_id: '181081'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “Gazprom Flot”
-  function: LLC Gazprom Flot is a leading company in the Russian energy sector. The company is involved in drilling services related to the production of oil and gas, as well as transportation and regasification of LNG, construction and operation of floating drilling rigs and specialised vessels.
+- whole_name: Gazprom Flot LLC
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181087'
+  logical_id: '181085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -34,11 +34,15 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Gazprom Flot LLC
+- whole_name: LLC “Gazprom Flot”
+  function: LLC Gazprom Flot is a leading company in the Russian energy sector. The
+    company is involved in drilling services related to the production of oil and
+    gas, as well as transportation and regasification of LNG, construction and operation
+    of floating drilling rigs and specialised vessels.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181085'
+  logical_id: '181087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

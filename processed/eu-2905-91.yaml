@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2905.91
 logical_id: '7094'
 regulations:
@@ -14,22 +15,11 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Samir
-  last_name: Jum’a
-  whole_name: Samir Jum’a
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17206'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Samir
   last_name: JOUMAA
   whole_name: Samir JOUMAA
-  function: For almost 20 years he has been head of the office of Mo­hammad Nassif Kheir Bek, one of the main security advisers of President Bashar al‐Assad (and officially deputy to the Vice President, Farouk al‐Sharaa).
+  function: For almost 20 years he has been head of the office of Mo­hammad Nassif
+    Kheir Bek, one of the main security advisers of President Bashar al‐Assad (and
+    officially deputy to the Vice President, Farouk al‐Sharaa).
   gender: M
   name_language: EN
   strong: true
@@ -77,17 +67,19 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: سمير جمعة
+- first_name: Samir
+  last_name: Jum’a
+  whole_name: Samir Jum’a
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124690'
+  logical_id: '17206'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Samir
   last_name: Joum’a
   whole_name: Samir Joum’a
@@ -140,6 +132,17 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: سمير جمعة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 birthdates:
 - birthdate: '1962-03-08'
   circa: false

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10967.19
 logical_id: '160004'
 regulations:
@@ -13,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima Research and Production Enterprise “Topaz”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160708'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima NPP “Topaz”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Topaz” Kutató- és Termelővállalat Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160965'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО “НПП ‘Топаз’”
   name_language: RU
   strong: true
@@ -63,6 +34,26 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: JSC “NPP ‘Topaz’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„Topaz” Kutató- és Termelővállalat Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО “Научно-Производственное Предприятие ‘Топаз’”
   name_language: RU
   strong: true
@@ -93,11 +84,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “NPP ‘Topaz’”
-  name_language: EN
+- whole_name: sociedad anónima NPP “Topaz”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160010'
+  logical_id: '160707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad anónima Research and Production Enterprise “Topaz”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -141,16 +142,6 @@ addresses:
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 identifications:
-- identification_type_code: other
-  number: '771701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '160006'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - identification_type_code: regnumber
   number: '1035001851125'
   country_iso2_code: RU
@@ -161,6 +152,16 @@ identifications:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: other
+  number: '771701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '160006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - identification_type_code: fiscalcode
   number: '5008011331'
   country_iso2_code: RU

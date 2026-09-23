@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2817.57
 logical_id: '6495'
 regulations:
@@ -13,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hael
-  last_name: al-Asad
-  whole_name: Hael al-Asad
-  function: Assistant to Maher Al-Assad, Head of the military police unit of the army's 4th Division
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hayel
-  last_name: AL-ASSAD
-  whole_name: Hayel AL-ASSAD
-  function: Assistant to Maher al‐Assad; Head of the military police unit of the army’s 4th Division.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: هايل الأسد
   gender: M
   name_language: AR
@@ -52,6 +25,36 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Hayel
+  last_name: AL-ASSAD
+  whole_name: Hayel AL-ASSAD
+  function: Assistant to Maher al‐Assad; Head of the military police unit of the army’s
+    4th Division.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hael
+  last_name: al-Asad
+  whole_name: Hael al-Asad
+  function: Assistant to Maher Al-Assad, Head of the military police unit of the army's
+    4th Division
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 birthdates:
 - birthdate: '1968-09-08'
   circa: false

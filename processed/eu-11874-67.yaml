@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11874.67
 logical_id: '167653'
 regulations:
@@ -13,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima pública TransContainer
-  name_language: ES
+- whole_name: TransContainer Nyrt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167753'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1842 (OJ L28062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
-- whole_name: PJSC TransContainer
-  function: a Russian transportation company and Russia’s largest railway container operator
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167658'
+  logical_id: '167759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'
@@ -44,6 +34,18 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1842 (OJ L28062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
+- whole_name: PJSC TransContainer
+  function: a Russian transportation company and Russia’s largest railway container
+    operator
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1842 (OJ L28062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
 - whole_name: PJSC Transcontainer
   name_language: FI
   strong: true
@@ -54,11 +56,11 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1842 (OJ L28062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
-- whole_name: TransContainer Nyrt.
-  name_language: HU
+- whole_name: sociedad anónima pública TransContainer
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '167759'
+  logical_id: '167753'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'

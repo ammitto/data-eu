@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13831.73
 logical_id: '179891'
 regulations:
@@ -13,22 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 中國石油(香港)有限公司
-  name_language: ZH
+- whole_name: Chinaoil (Hong Kong) Corporation Limited
+  function: Chinaoil (Hong Kong) Corporation Limited is a Chinese company based in
+    Hong Kong. It is a significant buyer of crude oil products of Russian origin.
+    The energy sector, in particular the oil sector, is a sector providing substantial
+    revenue to the Russian Government.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179894'
+  logical_id: '179895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Chinaoil (Hong Kong) Corporation Limited
-  function: Chinaoil (Hong Kong) Corporation Limited is a Chinese company based in Hong Kong. It is a significant buyer of crude oil products of Russian origin. The energy sector, in particular the oil sector, is a sector providing substantial revenue to the Russian Government.
-  name_language: EN
+- whole_name: 中國石油(香港)有限公司
+  name_language: ZH
   strong: true
   regulation_language: en
-  logical_id: '179895'
+  logical_id: '179894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

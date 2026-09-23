@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14645.8
 logical_id: '183888'
 regulations:
@@ -13,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Uzina Minieră și de Prelucrare din Susuman «Susumanzoloto» S.A.
-  name_language: RO
+- whole_name: JSC Susumanzoloto
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184737'
+  logical_id: '183896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -34,31 +35,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC Susumanzoloto
-  name_language: EN
+- whole_name: Uzina Minieră și de Prelucrare din Susuman «Susumanzoloto» S.A.
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '183896'
+  logical_id: '184737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Susumanzoloto
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО “СУСУМАНЗОЛОТО”
+- whole_name: СУСУМАНЗОЛОТО
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183894'
+  logical_id: '183892'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,11 +65,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: СУСУМАНЗОЛОТО
+- whole_name: АО “СУСУМАНЗОЛОТО”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183892'
+  logical_id: '183894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Susumanzoloto
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

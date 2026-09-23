@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4073.0
 logical_id: '112291'
 united_nation_id: KPi.043
@@ -14,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yongwon
+  last_name: Cho
+  whole_name: Yongwon Cho
+  function: Vice Director of the Worker's Party of Korea's Organization and Guidance
+    Department
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '112295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-09'
+    number_title: 2017/970 (OJ L146)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
 - first_name: Yong-Won
   last_name: Jo
   whole_name: Yong-Won Jo
@@ -29,19 +44,6 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Yongwon
-  last_name: Cho
-  whole_name: Yongwon Cho
-  function: Vice Director of the Worker's Party of Korea's Organization and Guidance Department
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '112295'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-09'
-    number_title: 2017/970 (OJ L146)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
 - first_name: Yong-won
   last_name: Jo
   whole_name: Yong-won Jo

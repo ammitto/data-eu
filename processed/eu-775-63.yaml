@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.775.63
 logical_id: '709'
-remark: 'Belongs to Tajik ethnic group. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5741515'
+remark: 'Belongs to Tajik ethnic group. Review pursuant to Security Council Resolution
+  1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special
+  Notice web link: https://www.interpol.int/en/notice/search/un/5741515'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,17 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdul Ghafar Qurishi Abdul Ghani
-  function: Repatriation Attaché Taliban ‘Embassy’ Islamabad, Pakistan.
-  title: Maulavi
-  strong: true
-  regulation_language: en
-  logical_id: '1535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Abdul Ghaffar
   last_name: Qureshi
   whole_name: Abdul Ghaffar Qureshi
@@ -36,6 +28,17 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Abdul Ghafar Qurishi Abdul Ghani
+  function: Repatriation Attaché Taliban ‘Embassy’ Islamabad, Pakistan.
+  title: Maulavi
+  strong: true
+  regulation_language: en
+  logical_id: '1535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14126.24
 logical_id: '181401'
 regulations:
@@ -23,56 +24,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: МФТИ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Moskiewski Instytut Fizyki i Technologii
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '182289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Maskvos fizikos ir technologijų institutas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '182290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Moszkvai Fizikai és Technológiai Intézet
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '182291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Institiúid Fisice agus Teicneolaíochta Mhoscó
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '182292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Institut de physique et de technologie de Moscou
   name_language: FR
   strong: true
@@ -83,7 +34,9 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Федеральное Государственное Автономное Образовательное Учреждение Высшего Образования «Московский Физико-Технический Институт (Национальный Исследовательский Университет)»
+- whole_name: Федеральное Государственное Автономное Образовательное Учреждение Высшего
+    Образования «Московский Физико-Технический Институт (Национальный Исследовательский
+    Университет)»
   name_language: RU
   strong: true
   regulation_language: en
@@ -114,12 +67,72 @@ name_aliases:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Moscow Institute of Physics and Technology
-  function: Moscow Institute of Physics and Technology (MIPT) is one of a Russian institutions that trains professionals for the Russian military and industrial complex. The institute has launched dedicated programs in drone technologies and conducts state-funded drone research. MIPT has a military training centre whose focus is training in the military specialties established for MIPT, corresponding to the main civilian areas of training of the institute. MIPT has several partners that manufacture drones, including the “Almaz-Antey”, the “Kronstadt” design bureau and the “Geoscan”. MIPT is therefore materially supporting Russia’s military and industrial complex and is supporting and benefitting from the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine
+  function: Moscow Institute of Physics and Technology (MIPT) is one of a Russian
+    institutions that trains professionals for the Russian military and industrial
+    complex. The institute has launched dedicated programs in drone technologies and
+    conducts state-funded drone research. MIPT has a military training centre whose
+    focus is training in the military specialties established for MIPT, corresponding
+    to the main civilian areas of training of the institute. MIPT has several partners
+    that manufacture drones, including the “Almaz-Antey”, the “Kronstadt” design bureau
+    and the “Geoscan”. MIPT is therefore materially supporting Russia’s military and
+    industrial complex and is supporting and benefitting from the Government of the
+    Russian Federation, which is responsible for the annexation of Crimea and the
+    destabilisation of Ukraine
   title: Federal State Institution of Higher Vocational Education
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '181412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: МФТИ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Institiúid Fisice agus Teicneolaíochta Mhoscó
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '182292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Moszkvai Fizikai és Technológiai Intézet
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '182291'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Maskvos fizikos ir technologijų institutas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '182290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Moskiewski Instytut Fizyki i Technologii
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '182289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

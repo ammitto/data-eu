@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14917.29
 logical_id: '184929'
 regulations:
@@ -25,7 +26,8 @@ name_aliases:
     number_title: 2026/1225 (OJ L202601225)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
 - whole_name: Hamid HOSSEINI
-  function: Spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’ Union.
+  function: Spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’
+    Union.
   gender: M
   name_language: EN
   strong: true

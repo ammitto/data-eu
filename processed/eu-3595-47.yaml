@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3595.47
 logical_id: '7520'
 designation_details: 29.11.2014
@@ -14,20 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Лариса Леонидовна ЖИЛКО
-  strong: true
-  regulation_language: en
-  logical_id: '125362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-11'
-    number_title: 2020/1267 (OJ L298)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 - first_name: Larisa
   middle_name: Leonidovna
   last_name: AIRAPETYAN
   whole_name: Larisa Leonidovna AIRAPETYAN
-  function: Former so-called “Health Minister” of the so-called “Lugansk People's Republic”. Stood as a candidate in the so-called “elections” of 2 November 2014 to the post of the “Head” of the so-called “Lugansk People's Republic”.
+  function: Former so-called “Health Minister” of the so-called “Lugansk People's
+    Republic”. Stood as a candidate in the so-called “elections” of 2 November 2014
+    to the post of the “Head” of the so-called “Lugansk People's Republic”.
   gender: F
   strong: true
   regulation_language: en
@@ -67,21 +61,30 @@ name_aliases:
     publication_date: '2020-03-13'
     number_title: 2020/398 (OJ L78)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- whole_name: Лариса Леонидовна АЙРАПЕТЯН
-  gender: F
+- whole_name: Лариса Леонидовна ЖИЛКО
   strong: true
   regulation_language: en
-  logical_id: '18394'
+  logical_id: '125362'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+    publication_date: '2020-09-11'
+    number_title: 2020/1267 (OJ L298)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 - whole_name: Лариса Леонідівна АЙРАПЕТЯН
   gender: F
   strong: true
   regulation_language: en
   logical_id: '111356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- whole_name: Лариса Леонидовна АЙРАПЕТЯН
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '18394'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

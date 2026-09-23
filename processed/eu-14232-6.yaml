@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14232.6
 logical_id: '181830'
 designation_details: 'Date of UN designation: 24 February 2026'
@@ -14,23 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: AL-FATEH Abdullah Idris
-  gender: M
-  title: Brigadier General of Rapid Support Forces
-  strong: true
-  regulation_language: en
-  logical_id: '181833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-05'
-    number_title: 2026/531 (OJ L202600531)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
 - whole_name: Abu Lulu
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '181832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
+- whole_name: AL-FATEH Abdullah Idris
+  gender: M
+  title: Brigadier General of Rapid Support Forces
+  strong: true
+  regulation_language: en
+  logical_id: '181833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-05'

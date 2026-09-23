@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14819.18
 logical_id: '184589'
 regulations:
@@ -23,16 +24,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC  Vysochaishy
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: АО  Высочайший
   name_language: RU
   strong: true
@@ -43,8 +34,19 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC  Vysochaishy
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: GV Gold
-  function: GV Gold (JSC Vysochaishy) is a Russian gold mining company, which is ranked among top 10 gold mining companies in the Russian Federation.
+  function: GV Gold (JSC Vysochaishy) is a Russian gold mining company, which is ranked
+    among top 10 gold mining companies in the Russian Federation.
   name_language: EN
   strong: true
   regulation_language: en

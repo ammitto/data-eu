@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11324.80
 logical_id: '163092'
 regulations:
@@ -23,6 +24,26 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Askon Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Автоматизированная Система Конструирования
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Automatizált Tervezési Rendszerek
   name_language: HU
   strong: true
@@ -38,6 +59,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima Askon
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163910'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Акционерное общество “Аскон”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163096'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -63,51 +104,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima Askon
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163910'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Askon Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: АО “СКОН”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '163097'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное общество “Аскон”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Автоматизированная Система Конструирования
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163095'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

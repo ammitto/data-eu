@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10716.60
 logical_id: '157372'
 regulations:
@@ -14,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Hanna
-  middle_name: Michajlavna
-  last_name: ASIPIENKOVÁ
-  whole_name: Hanna Michajlavna ASIPIENKOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157377'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
   middle_name: Mikhailauna
   last_name: ASIPENKA
   whole_name: Hanna Mikhailauna ASIPENKA
@@ -42,29 +29,14 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Anna
-  middle_name: Mikhailovna
-  last_name: OSIPENKO
-  whole_name: Anna Mikhailovna OSIPENKO
+- first_name: Hanna
+  last_name: Asipenková
+  whole_name: Hanna Asipenková
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157381'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Анна
-  middle_name: Михайловна
-  last_name: ОСИПЕНКО
-  whole_name: Анна Михайловна ОСИПЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157380'
+  logical_id: '157378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -84,14 +56,29 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
-  last_name: Asipenková
-  whole_name: Hanna Asipenková
+- first_name: Анна
+  middle_name: Михайловна
+  last_name: ОСИПЕНКО
+  whole_name: Анна Михайловна ОСИПЕНКО
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '157378'
+  logical_id: '157380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Anna
+  middle_name: Mikhailovna
+  last_name: OSIPENKO
+  whole_name: Anna Mikhailovna OSIPENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -120,6 +107,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Hanna
+  middle_name: Michajlavna
+  last_name: ASIPIENKOVÁ
+  whole_name: Hanna Michajlavna ASIPIENKOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

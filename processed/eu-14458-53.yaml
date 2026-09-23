@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14458.53
 logical_id: '182953'
 regulations:
@@ -24,17 +25,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Ришат Ильфатович БАШИРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182956'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Rishat Ilfatovich BASHIROV
   function: Director and owner of LLC AUTOLIFE LOGISTIK
   gender: M
@@ -42,6 +32,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182957'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Ришат Ильфатович БАШИРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182956'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

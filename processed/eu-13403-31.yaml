@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13403.31
 logical_id: '177347'
 regulations:
@@ -13,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с  ограниченной ответственностью  “Крафттек”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Limited Liability Company  “Krafttek”
-  function: LLC “Krafttek” is a significant system integrator and software developer in Russia.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Societatea cu  răspundere limitată «Krafttek»
   name_language: RO
   strong: true
@@ -89,6 +69,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Limited Liability Company  “Krafttek”
+  function: LLC “Krafttek” is a significant system integrator and software developer
+    in Russia.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Общество с  ограниченной ответственностью  “Крафттек”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.4170.70
 logical_id: '110302'
-remark: Kim Sok Chol has served as the North Korean Ambassador to Myanmar. He operates as a KOMID (a designated entity) facilitator.
+remark: Kim Sok Chol has served as the North Korean Ambassador to Myanmar. He operates
+  as a KOMID (a designated entity) facilitator.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,7 +19,8 @@ name_aliases:
 - first_name: Sok Chol
   last_name: Kim
   whole_name: Sok Chol Kim
-  function: Former DPRK Ambassador to Myanmar. He operates as a KOMID (a designated entity) facilitator.
+  function: Former DPRK Ambassador to Myanmar. He operates as a KOMID (a designated
+    entity) facilitator.
   name_language: EN
   strong: true
   regulation_language: en

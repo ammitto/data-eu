@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14049.47
 logical_id: '180875'
 regulations:
@@ -25,9 +26,12 @@ name_aliases:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Anton Sergeevich ANISIMOV
-  function: In his roles at Sputnik and Russia Today, Anton Anisimov is responsible for spreading disinformation related to Ukraine and promoting false pro-Kremlin narratives about Russia’s invasion of Ukraine.
+  function: In his roles at Sputnik and Russia Today, Anton Anisimov is responsible
+    for spreading disinformation related to Ukraine and promoting false pro-Kremlin
+    narratives about Russia’s invasion of Ukraine.
   gender: M
-  title: Deputy Editor-in-Chief of Russia Today; Head of International Broadcasting of Sputnik News Agency and Radio
+  title: Deputy Editor-in-Chief of Russia Today; Head of International Broadcasting
+    of Sputnik News Agency and Radio
   name_language: EN
   strong: true
   regulation_language: en

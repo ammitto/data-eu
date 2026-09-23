@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8578.4
 logical_id: '142695'
 regulations:
@@ -14,10 +15,11 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: AVLITA Stevedoring Company
-  function: |-
-    AVLITA Stevedoring Company provides services related to loading grain onto ships in the port of Sevastopol in Crimea, which was 
-    illegally annexed by Russia. It is documented in numerous reports that it has been involved in loading onto ships grain which was stolen 
-    from the farmers and the Ukrainian state on ...
+  function: "AVLITA Stevedoring Company provides services related to loading grain
+    onto ships in the port of Sevastopol in Crimea, which was \nillegally annexed
+    by Russia. It is documented in numerous reports that it has been involved in loading
+    onto ships grain which was stolen \nfrom the farmers and the Ukrainian state on
+    ..."
   strong: true
   regulation_language: en
   logical_id: '142697'

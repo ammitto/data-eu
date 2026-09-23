@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7386.66
 logical_id: '135296'
 regulations:
@@ -27,26 +28,27 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Margarita
-  middle_name: Simonovna
-  last_name: SIMONYAN
-  whole_name: Margarita Simonovna SIMONYAN
-  function: Editor-in-chief of the English language television news network RT (Russia Today)
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '135300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Margarita Simonovna SIMONJAN
   gender: F
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '135403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Margarita
+  middle_name: Simonovna
+  last_name: SIMONYAN
+  whole_name: Margarita Simonovna SIMONYAN
+  function: Editor-in-chief of the English language television news network RT (Russia
+    Today)
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '135300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

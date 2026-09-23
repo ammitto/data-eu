@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8522.68
 logical_id: '141985'
 regulations:
@@ -23,22 +24,26 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Yury Zimelevich KAMALTYNOV
-  function: Mr. Kamaltynov is Deputy Chairman of the State Council of the Republic of Tatarstan. Previously he served as a Deputy Prime Minister of the Republic of Tatarstan and as plenipotentiary representative of the President of the Republic of Tatarstan in the State Council of the Republic of Tatarstan. Mr. Kamaltynov is a member of the Kremlin-aligned ruling party United Russia.
-  gender: M
-  name_language: EN
+- whole_name: Юрий Зимелевич КАМАЛТЫНОВ
   strong: true
   regulation_language: en
-  logical_id: '141989'
+  logical_id: '141988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Юрий Зимелевич КАМАЛТЫНОВ
+- whole_name: Yury Zimelevich KAMALTYNOV
+  function: Mr. Kamaltynov is Deputy Chairman of the State Council of the Republic
+    of Tatarstan. Previously he served as a Deputy Prime Minister of the Republic
+    of Tatarstan and as plenipotentiary representative of the President of the Republic
+    of Tatarstan in the State Council of the Republic of Tatarstan. Mr. Kamaltynov
+    is a member of the Kremlin-aligned ruling party United Russia.
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '141988'
+  logical_id: '141989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

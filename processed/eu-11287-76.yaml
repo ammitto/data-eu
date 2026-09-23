@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11287.76
 logical_id: '162852'
 regulations:
@@ -13,27 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksey
-  last_name: TALAI
-  whole_name: Aleksey TALAI
+- whole_name: Aleksej Talaj
   gender: M
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162856'
+  logical_id: '163684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Aleksey
-  middle_name: Konstantinovich
-  last_name: TALAY
-  whole_name: Aleksey Konstantinovich TALAY
-  function: Founder and Head of the Charitable Foundation Aleksey Talay
+- whole_name: Aleksej Talaj
   gender: M
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162857'
+  logical_id: '163685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -61,23 +58,27 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Aleksej Talaj
+- first_name: Aleksey
+  last_name: TALAI
+  whole_name: Aleksey TALAI
   gender: M
-  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '163684'
+  logical_id: '162856'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Aleksej Talaj
+- first_name: Aleksey
+  middle_name: Konstantinovich
+  last_name: TALAY
+  whole_name: Aleksey Konstantinovich TALAY
+  function: Founder and Head of the Charitable Foundation Aleksey Talay
   gender: M
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163685'
+  logical_id: '162857'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

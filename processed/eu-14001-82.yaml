@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14001.82
 logical_id: '180685'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Ekaterina Sergeevna ANDREEVA
-  function: Russian television presenter, propaganda journalist, and editor; host and main face of the news program “Vremya” on “Channel One” since 1997
+  function: Russian television presenter, propaganda journalist, and editor; host
+    and main face of the news program “Vremya” on “Channel One” since 1997
   gender: F
   name_language: EN
   strong: true
@@ -46,19 +48,19 @@ citizenships:
     publication_date: '2026-01-29'
     number_title: 2026/259 (OJ L202600259)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
-- country_iso2_code: ME
-  country_description: MONTENEGRO
+- country_iso2_code: HN
+  country_description: HONDURAS
   regulation_language: en
-  logical_id: '180688'
+  logical_id: '180687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
     number_title: 2026/259 (OJ L202600259)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
-- country_iso2_code: HN
-  country_description: HONDURAS
+- country_iso2_code: ME
+  country_description: MONTENEGRO
   regulation_language: en
-  logical_id: '180687'
+  logical_id: '180688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

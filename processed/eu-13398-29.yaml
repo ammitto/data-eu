@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13398.29
 logical_id: '177294'
 regulations:
@@ -13,6 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Twister Shipmanagement  LLC-FZ
+  function: Twister Shipmanagement LLC-FZ is a Dubai-based company which manages oil
+    tankers transporting crude oil or petroleum products, originating in Russia or
+    exported from Russia.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177300'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Starfish Ship Management  LLC-FZ
   name_language: EN
   strong: true
@@ -23,12 +37,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Twister Shipmanagement  LLC-FZ
-  function: Twister Shipmanagement LLC-FZ is a Dubai-based company which manages oil tankers transporting crude oil or petroleum products, originating in Russia or exported from Russia.
-  name_language: EN
+- whole_name: Twister Shipmanagement  Vámszabadterületi Kft
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177300'
+  logical_id: '177298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -39,16 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Twister Shipmanagement  Vámszabadterületi Kft
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

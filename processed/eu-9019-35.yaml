@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9019.35
 logical_id: '145394'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Константин
+  middle_name: Евгеньевич
+  last_name: СОКОЛОВ
+  whole_name: Константин Евгеньевич СОКОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Konstantin
   middle_name: Yevgenievich
   last_name: SOKOLOV
@@ -41,6 +56,20 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Konstantin
+  middle_name: Jevgenjevitj
+  last_name: SOKOLOV
+  whole_name: Konstantin Jevgenjevitj SOKOLOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Konstantin
   middle_name: Borisovitj
   last_name: KUDRJAVTSEV
   whole_name: Konstantin Borisovitj KUDRJAVTSEV
@@ -55,38 +84,11 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Konstantin
-  middle_name: Jevgenjevitj
-  last_name: SOKOLOV
-  whole_name: Konstantin Jevgenjevitj SOKOLOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Константин
-  middle_name: Евгеньевич
-  last_name: СОКОЛОВ
-  whole_name: Константин Евгеньевич СОКОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145398'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Konstantin
   middle_name: Borisovich
   last_name: KUDRYAVTSEV
   whole_name: Konstantin Borisovich KUDRYAVTSEV
-  function: a chemical weapons expert and an agent of the Russian Federal Security Service (FSB) working as a Criminalistics Institute operative
+  function: a chemical weapons expert and an agent of the Russian Federal Security
+    Service (FSB) working as a Criminalistics Institute operative
   gender: M
   strong: true
   regulation_language: en
@@ -107,21 +109,6 @@ citizenships:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 birthdates:
-- birthdate: '1980-04-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 4
-  year: 1980
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '145396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - birthdate: '1981-04-28'
   circa: false
   calendar_type: GREGORIAN
@@ -132,6 +119,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '145395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- birthdate: '1980-04-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 4
+  year: 1980
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '145396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11666.78
 logical_id: '166231'
 regulations:
@@ -13,71 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akmat Kadyrov Alapítvány
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akhmat Kadyrovról, Oroszország hőséről elnevezett regionális állami alapítvány
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Regional Public Foundation named after the hero of Russia Akhmat Kadyrov
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akmat Kadyrovfonden
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '167561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Nadace Achmata Kadyrova
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: регионална публична фондация, носеща името на руския герой Ахмат Кадиров
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '167198'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Fundación Akmat Kadyrov
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '167563'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -93,11 +34,79 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Regional offentlig fond, der er opkaldt efter "hero of Russia" Akhmat Kadyrov
+- whole_name: Akmat Kadyrov Foundation
+  function: The Akmat Kadyrov Foundation carries out re-education programmes for Ukrainian
+    children and teenagers, subjecting them to militaristic training with the intent
+    of alienating them from their home country and relatives.
+  title: Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Kadyrov Foundation
+  title: Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Regional offentlig fond, der er opkaldt efter "hero of Russia" Akhmat
+    Kadyrov
   name_language: DA
   strong: true
   regulation_language: en
   logical_id: '167200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Venäjän sankarin Ahmat Kadyrovin mukaan nimetty alueellinen julkinen
+    säätiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '167201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Ahmat Kadyrov -säätiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '167202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Akhmat Kadyrovról, Oroszország hőséről elnevezett regionális állami
+    alapítvány
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Akmat Kadyrov Alapítvány
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167204'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -123,44 +132,12 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akmat Kadyrov Foundation
-  function: The Akmat Kadyrov Foundation carries out re-education programmes for Ukrainian children and teenagers, subjecting them to militaristic training with the intent of alienating them from their home country and relatives.
-  title: Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Kadyrov (AKF) Fundação Pública Regional denominada em honra do herói russo Akhmat Kadyrov
+- whole_name: Kadyrov (AKF) Fundação Pública Regional denominada em honra do herói
+    russo Akhmat Kadyrov
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '167207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: AKF
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Kadyrov Foundation
-  title: Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -176,31 +153,12 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Regionale öffentliche Stiftung, benannt nach dem russischen Helden Achmat Kadyrow
+- whole_name: Regionale öffentliche Stiftung, benannt nach dem russischen Helden Achmat
+    Kadyrow
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '167209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Venäjän sankarin Ahmat Kadyrovin mukaan nimetty alueellinen julkinen säätiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '167201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Ahmat Kadyrov -säätiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '167202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -211,6 +169,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Akmat Kadyrovfonden
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '167561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Nadace Achmata Kadyrova
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Fundación Akmat Kadyrov
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '167563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Regional Public Foundation named after the hero of Russia Akhmat Kadyrov
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: AKF
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

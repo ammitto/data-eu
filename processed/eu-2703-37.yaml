@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2703.37
 logical_id: '6918'
 regulations:
@@ -16,9 +17,8 @@ name_aliases:
 - first_name: Saleh
   last_name: AL-RASHED
   whole_name: Saleh AL-RASHED
-  function: |-
-    Head of the International Relations Department at the Faculty of International Relations and Diplomacy at Al-Sham Private University. 
-    Former Minister for Education
+  function: "Head of the International Relations Department at the Faculty of International
+    Relations and Diplomacy at Al-Sham Private University. \nFormer Minister for Education"
   gender: M
   title: Dr.
   strong: true

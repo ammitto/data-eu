@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12673.38
 logical_id: '172530'
 regulations:
@@ -25,7 +26,9 @@ name_aliases:
     number_title: 2025/173 (OJ L202500173)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500173
 - whole_name: Vitaly SHEVCHENKO
-  function: Vitaly Shevchenko is involved in and responsible for cyber-attacks with a significant effect by conducting intelligence activities directed against Estonia and gaining access to a computer system illegally.
+  function: Vitaly Shevchenko is involved in and responsible for cyber-attacks with
+    a significant effect by conducting intelligence activities directed against Estonia
+    and gaining access to a computer system illegally.
   gender: M
   name_language: EN
   strong: true

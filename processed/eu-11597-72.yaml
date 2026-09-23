@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11597.72
 logical_id: '165657'
 regulations:
@@ -13,6 +14,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Jekaterina
+  middle_name: Viktorovna
+  last_name: Gaľautdinovová
+  whole_name: Jekaterina Viktorovna Gaľautdinovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165926'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Ekaterina
+  middle_name: Viktorovna
+  last_name: GALYAUTDINOVA
+  whole_name: Ekaterina Viktorovna GALYAUTDINOVA
+  function: Judge of the Kirovsky District Court, city of Tomsk
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165661'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Екатерина
   middle_name: Викторовна
   last_name: ГАЛЯУТДИНОВА
@@ -43,20 +73,6 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Jekaterina
   middle_name: Viktorovna
-  last_name: Gaľautdinovová
-  whole_name: Jekaterina Viktorovna Gaľautdinovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165926'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekaterina
-  middle_name: Viktorovna
   last_name: GALJAUTDINOVA
   whole_name: Jekaterina Viktorovna GALJAUTDINOVA
   gender: F
@@ -64,21 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165946'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Ekaterina
-  middle_name: Viktorovna
-  last_name: GALYAUTDINOVA
-  whole_name: Ekaterina Viktorovna GALYAUTDINOVA
-  function: Judge of the Kirovsky District Court, city of Tomsk
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165661'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

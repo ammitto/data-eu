@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13082.39
 logical_id: '175168'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “Финко”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Finko« Korlátolt Felelősségű Társaság"
   name_language: HU
   strong: true
@@ -33,8 +24,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ООО “Финко”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company “Finko”
-  function: LLC Finko is a manufacturer of the unmanned aerial vehicles (UAVs) Supercam. It supplies the Government of the Russian Federation. In particular, its UAV “S350 Supercam” is used by the Russian military for aerial monitoring, photography and laser scanning in Russia’s war of aggression against Ukraine.
+  function: LLC Finko is a manufacturer of the unmanned aerial vehicles (UAVs) Supercam.
+    It supplies the Government of the Russian Federation. In particular, its UAV “S350
+    Supercam” is used by the Russian military for aerial monitoring, photography and
+    laser scanning in Russia’s war of aggression against Ukraine.
   title: Limited Liability Company
   name_language: EN
   strong: true
@@ -60,21 +64,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1101831006144'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175171'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '1831144571'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1101831006144'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

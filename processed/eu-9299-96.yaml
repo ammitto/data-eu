@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9299.96
 logical_id: '146855'
 regulations:
@@ -13,36 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Эльвира
-  middle_name: Юнусовна
-  last_name: ОБУХОВА
-  whole_name: Эльвира Юнусовна ОБУХОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146857'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Elvira
-  middle_name: Yunusovna
-  last_name: OBUKHOVA
-  whole_name: Elvira Yunusovna OBUKHOVA
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed Forces General Staff
-  gender: F
-  title: Captain
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Elvira
   middle_name: Junusovna
   last_name: OBUCHOVA
@@ -78,6 +49,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Эльвира
+  middle_name: Юнусовна
+  last_name: ОБУХОВА
+  whole_name: Эльвира Юнусовна ОБУХОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146857'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Elvira
+  middle_name: Yunusovna
+  last_name: OBUKHOVA
+  whole_name: Elvira Yunusovna OBUKHOVA
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces General Staff
+  gender: F
+  title: Captain
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

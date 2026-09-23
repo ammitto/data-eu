@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12181.61
 logical_id: '169336'
 regulations:
@@ -13,14 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oľga
-  last_name: Duboviková
-  whole_name: Oľga Duboviková
+- whole_name: Volha Anatoleuna DUBOVIK
+  function: Judge of the court of the Maladzechna district of the Minsk region
   gender: F
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169555'
+  logical_id: '169342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -34,18 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Volha Anatoleuna DUBOVIK
-  function: Judge of the court of the Maladzechna district of the Minsk region
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -79,6 +67,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Oľga
+  last_name: Duboviková
+  whole_name: Oľga Duboviková
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169555'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

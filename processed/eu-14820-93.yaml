@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14820.93
 logical_id: '184598'
 regulations:
@@ -23,11 +24,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC Gold  Mining Company Pavlik
-  name_language: EN
+- whole_name: АО  ‘ПАВЛИК
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184605'
+  logical_id: '184603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -43,22 +44,25 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC Pavlik
-  function: JSC Pavlik is one of the largest Russian gold mining companies in the Far East, which is ranked among top 10 gold mining companies in the Russian Federation It holds a license for prospecting, exploration, and mining of ore gold at the Pavlik deposit in the Magadan Region.
+- whole_name: JSC Gold  Mining Company Pavlik
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184606'
+  logical_id: '184605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО  ‘ПАВЛИК
-  name_language: RU
+- whole_name: JSC Pavlik
+  function: JSC Pavlik is one of the largest Russian gold mining companies in the
+    Far East, which is ranked among top 10 gold mining companies in the Russian Federation
+    It holds a license for prospecting, exploration, and mining of ore gold at the
+    Pavlik deposit in the Magadan Region.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184603'
+  logical_id: '184606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -77,21 +81,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: other
-  number: '1024900957399'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '4900000681'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '1024900957399'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

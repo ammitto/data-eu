@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11085.60
 logical_id: '161529'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Rida Ali
+  last_name: KHAMIS
+  whole_name: Rida Ali KHAMIS
+  function: business partner of the  Chouman (Shuman) Group /  Shuman for Currency
+    Exchange SARL
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161535'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
 - first_name: Reda Ali
   last_name: KHAMIS
   whole_name: Reda Ali KHAMIS
@@ -20,19 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161534'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Rida Ali
-  last_name: KHAMIS
-  whole_name: Rida Ali KHAMIS
-  function: business partner of the  Chouman (Shuman) Group /  Shuman for Currency Exchange SARL
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161535'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'

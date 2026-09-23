@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3805.30
 logical_id: '105618'
 regulations:
@@ -26,11 +27,14 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: James Koang Chol Ranley
+- first_name: Koang
+  middle_name: Chuol
+  last_name: Ranley
+  whole_name: Koang Chuol Ranley
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105622'
+  logical_id: '105620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -49,14 +53,11 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- first_name: Koang
-  middle_name: Chuol
-  last_name: Ranley
-  whole_name: Koang Chuol Ranley
+- whole_name: James Koang Chol Ranley
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105620'
+  logical_id: '105622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

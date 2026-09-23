@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.913.79
 logical_id: '1106'
 regulations:
@@ -34,21 +35,21 @@ addresses:
     publication_date: '2012-04-13'
     number_title: 316/2012 (OJ L103)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- city: Singida
-  country_iso2_code: TZ
-  country_description: TANZANIA, UNITED REPUBLIC OF
-  regulation_language: en
-  logical_id: '396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
 - city: Tanga
   country_iso2_code: TZ
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
   logical_id: '395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-04-13'
+    number_title: 316/2012 (OJ L103)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+- city: Singida
+  country_iso2_code: TZ
+  country_description: TANZANIA, UNITED REPUBLIC OF
+  regulation_language: en
+  logical_id: '396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-04-13'

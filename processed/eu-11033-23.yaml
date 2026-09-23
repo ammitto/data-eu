@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11033.23
 logical_id: '160408'
 regulations:
@@ -13,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vzdělávací a metodické středisko „Avangard“
-  name_language: CS
+- whole_name: Учебно-методический центр “Авангард”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161148'
+  logical_id: '160411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Vzdelávacie a metodické centrum „Avangard“
-  name_language: SK
+- whole_name: "„Avangard” Oktatási és Módszertani Központ"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161147'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Εκπαιδευτικό και Μεθοδολογικό Κέντρο “Avangard”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161270'
+  logical_id: '161150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -64,31 +55,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Учебно-методический центр “Авангард”
-  name_language: RU
+- whole_name: Avangard Közpon
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: centre pédagogique et méthodologique “Avangard”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Zentrum für Unterrichtswesen und Methodik „Avangard“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '160611'
+  logical_id: '161149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,6 +75,26 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Zentrum für Unterrichtswesen und Methodik „Avangard“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '160611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: centre pédagogique et méthodologique “Avangard”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160612'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: centro educativo e metodológico “Avangard”
   name_language: PT
   strong: true
@@ -114,31 +105,41 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Avangard” Oktatási és Módszertani Központ"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Avangard Közpon
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Centro Educativo y Metodológico “Avangard”
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '160778'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Εκπαιδευτικό και Μεθοδολογικό Κέντρο “Avangard”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Vzdelávacie a metodické centrum „Avangard“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Vzdělávací a metodické středisko „Avangard“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

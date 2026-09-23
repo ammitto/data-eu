@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9364.9
 logical_id: '147107'
 regulations:
@@ -13,21 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО 'БАЗ'
-  name_language: RU
+- whole_name: Usine automobile  Bryansk
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147111'
+  logical_id: '147701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Fabrica de automobile Briansk
-  name_language: RO
+- whole_name: Automobilfabrik Bryansk
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '147868'
+  logical_id: '147658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Bryansk  automobielfabriek
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '147906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -42,10 +53,30 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: АО 'БАЗ'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Bryansk Automobile Plant
   strong: true
   regulation_language: en
   logical_id: '147112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Fábrica de Automóveis de Bryansk
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -80,26 +111,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Bryansk  automobielfabriek
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '147906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Automobilfabrik Bryansk
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Briansko automobilių gamykla
   name_language: LT
   strong: true
@@ -110,21 +121,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Fábrica de Automóveis de Bryansk
-  name_language: PT
+- whole_name: Fabrica de automobile Briansk
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Usine automobile  Bryansk
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147701'
+  logical_id: '147868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10694.96
 logical_id: '157266'
 regulations:
@@ -13,77 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валянцiна
-  middle_name: Мiкалаеўна
-  last_name: ЗЯНКЕВIЧ
-  whole_name: Валянцiна Мiкалаеўна ЗЯНКЕВIЧ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Валентина
-  middle_name: Николаевна
-  last_name: ЗЕНЬКЕВИЧ
-  whole_name: Валентина Николаевна ЗЕНЬКЕВИЧ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Valentina
-  middle_name: Nikolaevna
-  last_name: ZENKEVICH
-  whole_name: Valentina Nikolaevna ZENKEVICH
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Valyantsina
-  middle_name: Mikalaeuna
-  last_name: ZIANKEVICH
-  whole_name: Valyantsina Mikalaeuna ZIANKEVICH
-  function: Judicial Collegium for Criminal Cases of the Minsk City Court, Judge
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Valentina
-  middle_name: Nikolajevna
-  last_name: ZENKEVITJ
-  whole_name: Valentina Nikolajevna ZENKEVITJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157273'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Valjantsina
   middle_name: Mikalajeuna
   last_name: ZIANKEVITJ
@@ -125,6 +55,35 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Valentina
+  middle_name: Nikolajevna
+  last_name: ZENKEVITJ
+  whole_name: Valentina Nikolajevna ZENKEVITJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Valyantsina
+  middle_name: Mikalaeuna
+  last_name: ZIANKEVICH
+  whole_name: Valyantsina Mikalaeuna ZIANKEVICH
+  function: Judicial Collegium for Criminal Cases of the Minsk City Court, Judge
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Валентина
   last_name: Зянкевич
   whole_name: Валентина Зянкевич
@@ -133,6 +92,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157277'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Valentina
+  middle_name: Nikolaevna
+  last_name: ZENKEVICH
+  whole_name: Valentina Nikolaevna ZENKEVICH
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Валентина
+  middle_name: Николаевна
+  last_name: ЗЕНЬКЕВИЧ
+  whole_name: Валентина Николаевна ЗЕНЬКЕВИЧ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Валянцiна
+  middle_name: Мiкалаеўна
+  last_name: ЗЯНКЕВIЧ
+  whole_name: Валянцiна Мiкалаеўна ЗЯНКЕВIЧ
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '157269'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

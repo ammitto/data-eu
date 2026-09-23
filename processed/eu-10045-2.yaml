@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10045.2
 logical_id: '152951'
 regulations:
@@ -13,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Jabal Security and Protection SRL
-  name_language: RO
+- whole_name: Al-Jabal Security and Protection LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153065'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Društvo Al-Jabal Security and Protection LLC
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '153092'
+  logical_id: '152953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -43,11 +34,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Al-Jabal Security and Protection LLC
-  name_language: EN
+- whole_name: Društvo Al-Jabal Security and Protection LLC
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '152953'
+  logical_id: '153092'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -58,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153088'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Al-Jabal Security and Protection SRL
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '153065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

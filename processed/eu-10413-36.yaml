@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10413.36
 logical_id: '155531'
 regulations:
@@ -14,45 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Eduard
-  middle_name: Anatoljevitj
+  middle_name: Anatolievič
   last_name: LYSENKO
-  whole_name: Eduard Anatoljevitj LYSENKO
+  whole_name: Eduard Anatolievič LYSENKO
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Eduard
-  middle_name: Anatolyevich
-  last_name: LYSENKO
-  whole_name: Eduard Anatolyevich LYSENKO
-  function: |-
-    Minister of the Government of Moscow;  
-    Head of the Department of Information Technologies of the City of Moscow
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Эдуард
-  middle_name: Анатольевич
-  last_name: ЛЫСЕНКО
-  whole_name: Эдуард Анатольевич ЛЫСЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155534'
+  logical_id: '156064'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -72,14 +42,44 @@ name_aliases:
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Eduard
-  middle_name: Anatolievič
+  middle_name: Anatoljevitj
   last_name: LYSENKO
-  whole_name: Eduard Anatolievič LYSENKO
+  whole_name: Eduard Anatoljevitj LYSENKO
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156064'
+  logical_id: '156049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Эдуард
+  middle_name: Анатольевич
+  last_name: ЛЫСЕНКО
+  whole_name: Эдуард Анатольевич ЛЫСЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Eduard
+  middle_name: Anatolyevich
+  last_name: LYSENKO
+  whole_name: Eduard Anatolyevich LYSENKO
+  function: "Minister of the Government of Moscow;  \nHead of the Department of Information
+    Technologies of the City of Moscow"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

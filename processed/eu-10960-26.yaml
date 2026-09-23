@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10960.26
 logical_id: '159958'
 regulations:
@@ -23,31 +24,21 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: staatsbedrijf Anosit
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '160793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Федеральное казенное предприятие “АНОЗИТ”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '159960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Федералното държавно предприятие Anosit
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161249'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Ομοσπονδιακή κρατική επιχείρηση ANOSIT
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -83,11 +74,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: staatsbedrijf Anosit
-  name_language: NL
+- whole_name: Федералното държавно предприятие Anosit
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '160793'
+  logical_id: '161249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -128,6 +119,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Ομοσπονδιακή κρατική επιχείρηση ANOSIT
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

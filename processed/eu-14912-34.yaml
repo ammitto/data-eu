@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14912.34
 logical_id: '184895'
 regulations:
@@ -13,24 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Александрович КЛЮЧЕНКОВ
+- whole_name: Sergey MARDAN
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184902'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/647 (OJ L202600647)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
-- whole_name: Sergey Aleksandrovich KLYUCHENKOV
-  function: journalist, radio presenter and TV presenter; employee of “Komsomolskaya Pravda”, host of the radio programme “Evening Divan” and the TV programme “Mardan” on the Soloviev LIVE channel
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184903'
+  logical_id: '184901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -47,12 +35,26 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/647 (OJ L202600647)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
-- whole_name: Сергей МАРДАН
+- whole_name: Sergey Aleksandrovich KLYUCHENKOV
+  function: journalist, radio presenter and TV presenter; employee of “Komsomolskaya
+    Pravda”, host of the radio programme “Evening Divan” and the TV programme “Mardan”
+    on the Soloviev LIVE channel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/647 (OJ L202600647)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
+- whole_name: Сергей Александрович КЛЮЧЕНКОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184899'
+  logical_id: '184902'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -68,11 +70,12 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/647 (OJ L202600647)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600647
-- whole_name: Sergey MARDAN
+- whole_name: Сергей МАРДАН
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184901'
+  logical_id: '184899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

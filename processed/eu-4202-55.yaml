@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4202.55
 logical_id: '5496'
 regulations:
@@ -13,20 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: HONG KONG ELECTRONICS KISH CO
+- whole_name: Hong Kong Electronics
+  function: Owned or controlled by, or acts or purports to act for or on behalf of
+    Tanchon Commercial Bank and KOMID.
   strong: true
   regulation_language: en
-  logical_id: '7225'
+  logical_id: '7217'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Hong Kong Electronics
-  function: Owned or controlled by, or acts or purports to act for or on behalf of Tanchon Commercial Bank and KOMID.
+- whole_name: HONG KONG ELECTRONICS KISH CO
   strong: true
   regulation_language: en
-  logical_id: '7217'
+  logical_id: '7225'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

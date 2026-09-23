@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10972.90
 logical_id: '160052'
 regulations:
@@ -13,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: S.A. “Institut de recherche scientifique en ingénierie instrumentale V.V.Tikhomirov”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160582'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “V.V. Tikhomirov Research Institute of Instrument Engineering”
+- whole_name: JSC “V.V. Tikhomirov Scientific Research Institute of Instrument Engineering”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161256'
+  logical_id: '160062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -43,21 +34,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: NIIP rt.
-  name_language: HU
+- whole_name: JSC NIIP
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “НИИП”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160058'
+  logical_id: '160060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -73,41 +54,33 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC NIIP
-  name_language: EN
+- whole_name: АО “НИИП”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160060'
+  logical_id: '160058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC "V.V. Tikhomirov Scientific Research Institute of Instrument Design"
-  name_language: EN
+- whole_name: S.A. “Institut de recherche scientifique en ingénierie instrumentale
+    V.V.Tikhomirov”
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160061'
+  logical_id: '160582'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “V.V. Tikhomirov Scientific Research Institute of Instrument Engineering”
-  name_language: EN
+- whole_name: sociedad anónima “Instituto de Investigación de Ingeniería de Instrumentación
+    V.V. Tikhomirov”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Vědeckovýzkumný nástrojářský ústav V. V. Tichomirova, a. s.
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160983'
+  logical_id: '160713'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -123,11 +96,41 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima “Instituto de Investigación de Ingeniería de Instrumentación V.V. Tikhomirov”
-  name_language: ES
+- whole_name: JSC "V.V. Tikhomirov Scientific Research Institute of Instrument Design"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160713'
+  logical_id: '160061'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: NIIP rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Vědeckovýzkumný nástrojářský ústav V. V. Tichomirova, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “V.V. Tikhomirov Research Institute of Instrument Engineering”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -148,11 +151,11 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: fiscalcode
-  number: '5013045054'
+- identification_type_code: other
+  number: '1025001627859'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160055'
+  logical_id: '161287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -169,20 +172,20 @@ identifications:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: other
-  number: '1025001627859'
+  number: '13185231'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '161287'
+  logical_id: '160056'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: other
-  number: '13185231'
+- identification_type_code: fiscalcode
+  number: '5013045054'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160056'
+  logical_id: '160055'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

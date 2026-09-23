@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6795.84
 logical_id: '132627'
 regulations:
@@ -28,34 +29,23 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- whole_name: Andrey Andreevich PROKOPUK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Андрэй Андрэевіч ПРАКАПУК
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '132635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Андрей Андреевич ПРОКОПУК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Andrej Andrejevitj PRAKAPUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -72,17 +62,28 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Andrey Andreevich PROKOPUK
+- whole_name: Andrej Andrejevitj PRAKAPUK
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132636'
+  logical_id: '132633'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Андрей Андреевич ПРОКОПУК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '132634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

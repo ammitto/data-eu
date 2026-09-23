@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3495.82
 logical_id: '7583'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Ghassan ABBAS
-  function: Manager of the branch of the designated Syrian Scientific Studies and Research Centre (SSRC/CERS) near Jumraya/Jmraiya.
+  function: Manager of the branch of the designated Syrian Scientific Studies and
+    Research Centre (SSRC/CERS) near Jumraya/Jmraiya.
   gender: M
   title: Brigadier General
   strong: true
@@ -43,7 +45,9 @@ birthdates:
     number_title: 2016/1735 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1735&from=EN
 addresses:
-- street: CERS, Centre d'Etude et de Recherche Scientifique; a.k.a. SSRC, Scientific Studies and Research Center; Centre de Recherche de Kaboun Barzeh Street, P.O.Box 4470
+- street: CERS, Centre d'Etude et de Recherche Scientifique; a.k.a. SSRC, Scientific
+    Studies and Research Center; Centre de Recherche de Kaboun Barzeh Street, P.O.Box
+    4470
   city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

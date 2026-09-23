@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12058.41
 logical_id: '168409'
 regulations:
@@ -45,7 +46,8 @@ name_aliases:
   middle_name: Aleksandrovich
   last_name: SOBOLEV
   whole_name: Evgeniy Aleksandrovich SOBOLEV
-  function: Head of the penitentiary service of the Russian occupation authorities in the Kherson region
+  function: Head of the penitentiary service of the Russian occupation authorities
+    in the Kherson region
   gender: M
   name_language: EN
   strong: true

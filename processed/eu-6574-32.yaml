@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6574.32
 logical_id: '131216'
 regulations:
@@ -14,7 +15,12 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Juan Antonio VALLE VALLE
-  function: As leader in the rank of senior commissioner (second highest rank) of the Nicaraguan National Police (NNP) and in a leading position in the police in Managua, Juan Antonio Valle Valle is responsible for repeated acts of police brutality and the excessive use of force which resulted in the deaths of hundreds of civilians, for arbitrary arrests and detentions, for violations of freedom of expression and for preventing demonstrations against the government.
+  function: As leader in the rank of senior commissioner (second highest rank) of
+    the Nicaraguan National Police (NNP) and in a leading position in the police in
+    Managua, Juan Antonio Valle Valle is responsible for repeated acts of police brutality
+    and the excessive use of force which resulted in the deaths of hundreds of civilians,
+    for arbitrary arrests and detentions, for violations of freedom of expression
+    and for preventing demonstrations against the government.
   gender: M
   strong: true
   regulation_language: en

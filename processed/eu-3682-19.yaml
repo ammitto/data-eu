@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3682.19
 logical_id: '7379'
 regulations:
@@ -14,17 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Marat
-  middle_name: Faatovich
-  last_name: BASHIROV
-  whole_name: Marat Faatovich BASHIROV
-  function: |-
-    political scientist at the Institute of Communication Management and Director of the Centre for the Study of Problems of International Sanctions Regimes, 
-    professor at the Higher School of Economics.
+  middle_name: Faatovitj
+  last_name: BASJIROV
+  whole_name: Marat Faatovitj BASJIROV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '17906'
+  logical_id: '137438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -45,14 +43,17 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Marat
-  middle_name: Faatovitj
-  last_name: BASJIROV
-  whole_name: Marat Faatovitj BASJIROV
+  middle_name: Faatovich
+  last_name: BASHIROV
+  whole_name: Marat Faatovich BASHIROV
+  function: "political scientist at the Institute of Communication Management and
+    Director of the Centre for the Study of Problems of International Sanctions Regimes,
+    \nprofessor at the Higher School of Economics."
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '137438'
+  logical_id: '17906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

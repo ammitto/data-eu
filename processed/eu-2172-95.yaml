@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2172.95
 logical_id: '5273'
 regulations:
@@ -16,11 +17,13 @@ name_aliases:
 - first_name: Ebrahim
   last_name: MAHMUDZADEH
   whole_name: Ebrahim MAHMUDZADEH
-  function: |-
-    Head of the Management Board of Iran Telecommunications. Former Managing Director of Iran Electronic Industries. Director 
-    general of the Armed Forces Social Security Organization until September 2020. Iranian Deputy Defense Minister until December 2020.
+  function: "Head of the Management Board of Iran Telecommunications. Former Managing
+    Director of Iran Electronic Industries. Director \ngeneral of the Armed Forces
+    Social Security Organization until September 2020. Iranian Deputy Defense Minister
+    until December 2020."
   gender: M
-  title: Professor at Malek Ashtar University; Chairman of the Board of Iran Telecommunication Company
+  title: Professor at Malek Ashtar University; Chairman of the Board of Iran Telecommunication
+    Company
   strong: true
   regulation_language: en
   logical_id: '6584'

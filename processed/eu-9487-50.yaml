@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9487.50
 logical_id: '148374'
 regulations:
@@ -27,7 +28,8 @@ name_aliases:
 - first_name: Ali Akbar
   last_name: JAVIDAN
   whole_name: Ali Akbar JAVIDAN
-  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran (LEF) in Kermanshah province
+  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran
+    (LEF) in Kermanshah province
   gender: M
   strong: true
   regulation_language: en

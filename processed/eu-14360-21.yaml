@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14360.21
 logical_id: '182535'
 regulations:
@@ -24,18 +25,6 @@ name_aliases:
     number_title: 2025/2588 (OJ L202502588)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 addresses:
-- street: Office 601, prospect Budyonnovskiy 2
-  city: Rostov-on-Don
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '344002'
-  regulation_language: en
-  logical_id: '182536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2588 (OJ L202502588)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 - street: Office 207A, Lit A, ul Yakornaya 13
   city: Saint Petersburg
   country_iso2_code: RU
@@ -43,6 +32,18 @@ addresses:
   zip_code: '195027'
   regulation_language: en
   logical_id: '182537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+- street: Office 601, prospect Budyonnovskiy 2
+  city: Rostov-on-Don
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '344002'
+  regulation_language: en
+  logical_id: '182536'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

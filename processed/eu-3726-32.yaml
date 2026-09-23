@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3726.32
 logical_id: '7067'
 remark: |-
@@ -17,74 +18,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Společnost zabývající se převody peněz Haji Khairullah Haji Sattar
-  name_language: CS
+- whole_name: Haji Khairullah Haji Sattar money exhange
   strong: true
   regulation_language: en
-  logical_id: '16393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah
-  strong: true
-  regulation_language: en
-  logical_id: '16856'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
-- whole_name: Haji Alim Hawala
-  strong: true
-  regulation_language: en
-  logical_id: '16380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Hakim Hawala
-  strong: true
-  regulation_language: en
-  logical_id: '16379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Salam Hawala
-  strong: true
-  regulation_language: en
-  logical_id: '16378'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Khair Ullah Money Service
-  strong: true
-  regulation_language: en
-  logical_id: '16377'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Hai Khairullah Money Exchange
-  strong: true
-  regulation_language: en
-  logical_id: '16376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
-- whole_name: Haji Khairullah and Abdul Sattar and Company
-  strong: true
-  regulation_language: en
-  logical_id: '16375'
+  logical_id: '16373'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -99,10 +36,75 @@ name_aliases:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Haji Khairullah Haji Sattar money exhange
+- whole_name: Haji Khairullah and Abdul Sattar and Company
   strong: true
   regulation_language: en
-  logical_id: '16373'
+  logical_id: '16375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Hai Khairullah Money Exchange
+  strong: true
+  regulation_language: en
+  logical_id: '16376'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
+- whole_name: Haji Khair Ullah Money Service
+  strong: true
+  regulation_language: en
+  logical_id: '16377'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Haji Salam Hawala
+  strong: true
+  regulation_language: en
+  logical_id: '16378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Haji Hakim Hawala
+  strong: true
+  regulation_language: en
+  logical_id: '16379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Haji Alim Hawala
+  strong: true
+  regulation_language: en
+  logical_id: '16380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Мрежа от обменни бюра Haji Khairullah Haji Sattar
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '16390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- whole_name: Společnost zabývající se převody peněz Haji Khairullah Haji Sattar
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '16393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -208,89 +210,33 @@ name_aliases:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- whole_name: Мрежа от обменни бюра Haji Khairullah Haji Sattar
-  name_language: BG
+- whole_name: Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah
   strong: true
   regulation_language: en
-  logical_id: '16390'
+  logical_id: '16856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
+addresses:
+- street: Branch Office 1 Chohar Mir Road
+  city: Kandahari Bazaar, Quetta City, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-addresses:
-- street: Branch Office 9, Haji Ghulam Nabi Market, 2nd Floor
-  city: Lashkar Gah District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - street: Branch Office 14
   city: Dubai
   country_iso2_code: AE
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '2322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 10, Suite numbers 196-197, 3rd Floor Khorasan Market
-  city: Herat City, Herat Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2316'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 4
-  city: Karachi, Sindh Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 6, Shop number 237 Shah Zada Market (also known as Sarai Shahzada), Puli Khishti area, Police District 1
-  city: Kabul
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- street: Branch Office 2
-  city: Peshawar, Khyber Paktunkhwa Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 16
-  city: Zabul
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '2324'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -307,111 +253,13 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 5 Chaman Central Bazaar
-  city: Chaman, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 1 Kachara Road, Nasrullah Khan Chowk
-  city: Quetta, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2301'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 7 Safi Market
-  city: Kandahar City, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2312'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 1,  Room number 1 Abdul Sattar Plaza, Hafiz Saleem Street, Munsafi Road
+- street: Branch Office 1,  Room number 1 Abdul Sattar Plaza, Hafiz Saleem Street,
+    Munsafi Road
   city: Quetta, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '2298'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 7, New Sarafi Market, 2nd Floor
-  city: Kandahar City, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- street: Branch Office 9 Lashkar Gah Bazaar
-  city: Lashkar Gah, Lashkar Gah District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 11 Sarafi Market
-  city: Zaranj District, Nimroz Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 7, Shops number 21 and 22, 2nd Floor Kandahar City Sarafi Market
-  city: Kandahar City, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 1 Chohar Mir Road
-  city: Kandahari Bazaar, Quetta City, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 1, Office number 3 Near Fatima Jinnah Road, Dr Bano Road
-  city: Quetta, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -428,45 +276,23 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 5, 2 Larran Road
-  city: Chaman, Baluchistan Province
+- street: Branch Office 1, Office number 3 Near Fatima Jinnah Road, Dr Bano Road
+  city: Quetta, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2306'
+  logical_id: '2300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 8
-  city: Gereshk City, Nahr-e Saraj District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 3 Moishah Chowk Road
-  city: Lahore, Punjab Province
+- street: Branch Office 1 Kachara Road, Nasrullah Khan Chowk
+  city: Quetta, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2304'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 10 Khorasan Market, Shahre Naw
-  city: District 5, Herat City, Herat Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2317'
+  logical_id: '2301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -483,23 +309,168 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 13 Sarafi Market
-  city: Farah
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+- street: Branch Office 2
+  city: Peshawar, Khyber Paktunkhwa Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2321'
+  logical_id: '2303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 12 Sarafi Market
-  city: Wesh, Spin Boldak District
+- street: Branch Office 3 Moishah Chowk Road
+  city: Lahore, Punjab Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 4
+  city: Karachi, Sindh Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 5, 2 Larran Road
+  city: Chaman, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 5 Chaman Central Bazaar
+  city: Chaman, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 6, Shop number 237 Shah Zada Market (also known as Sarai Shahzada),
+    Puli Khishti area, Police District 1
+  city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2320'
+  logical_id: '2308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Branch Office 7, Shops number 21 and 22, 2nd Floor Kandahar City Sarafi
+    Market
+  city: Kandahar City, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 7, New Sarafi Market, 2nd Floor
+  city: Kandahar City, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2311'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Branch Office 7 Safi Market
+  city: Kandahar City, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 8
+  city: Gereshk City, Nahr-e Saraj District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2313'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 9 Lashkar Gah Bazaar
+  city: Lashkar Gah, Lashkar Gah District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 9, Haji Ghulam Nabi Market, 2nd Floor
+  city: Lashkar Gah District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Branch Office 10, Suite numbers 196-197, 3rd Floor Khorasan Market
+  city: Herat City, Herat Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2316'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 10 Khorasan Market, Shahre Naw
+  city: District 5, Herat City, Herat Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 11 Sarafi Market
+  city: Zaranj District, Nimroz Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2318'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -516,12 +487,45 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-identifications:
-- identification_type_code: fiscalcode
-  number: '0980338'
-  country_iso2_code: PK
+- street: Branch Office 12 Sarafi Market
+  city: Wesh, Spin Boldak District
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111260'
+  logical_id: '2320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 13 Sarafi Market
+  city: Farah
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 16
+  city: Zabul
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '2324'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+identifications:
+- identification_type_code: tradelic
+  number: '044'
+  country_iso2_code: AF
+  regulation_language: en
+  logical_id: '111258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -537,11 +541,11 @@ identifications:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- identification_type_code: tradelic
-  number: '044'
-  country_iso2_code: AF
+- identification_type_code: fiscalcode
+  number: '0980338'
+  country_iso2_code: PK
   regulation_language: en
-  logical_id: '111258'
+  logical_id: '111260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2320.90
 logical_id: '5925'
 remark: |-
@@ -16,24 +17,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Khaleel
-  last_name: Haqqani
-  whole_name: Khaleel Haqqani
-  strong: true
-  regulation_language: en
-  logical_id: '8961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - first_name: Khalil
-  middle_name: ur Rahman
+  middle_name: Ahmed
   last_name: Haqqani
-  whole_name: Khalil ur Rahman Haqqani
+  whole_name: Khalil Ahmed Haqqani
+  gender: M
+  title: Haji
   strong: true
   regulation_language: en
-  logical_id: '8960'
+  logical_id: '8610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'
@@ -52,14 +44,23 @@ name_aliases:
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - first_name: Khalil
-  middle_name: Ahmed
+  middle_name: ur Rahman
   last_name: Haqqani
-  whole_name: Khalil Ahmed Haqqani
-  gender: M
-  title: Haji
+  whole_name: Khalil ur Rahman Haqqani
   strong: true
   regulation_language: en
-  logical_id: '8610'
+  logical_id: '8960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
+- first_name: Khaleel
+  last_name: Haqqani
+  whole_name: Khaleel Haqqani
+  strong: true
+  regulation_language: en
+  logical_id: '8961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'
@@ -108,7 +109,8 @@ birthdates:
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 addresses:
-- city: Kayla Village near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)
+- city: Kayla Village near Miram Shah, North Waziristan Agency (NWA), Federally Administered
+    Tribal Areas (FATA)
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
@@ -128,17 +130,6 @@ addresses:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- street: Near Dergey Manday Madrasa
-  city: Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '103980'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - city: Sarana Zadran Village, Paktia Province,
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -149,3 +140,15 @@ addresses:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Near Dergey Manday Madrasa
+  city: Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally
+    Administered Tribal Areas (FATA)
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '103980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3427.5
 logical_id: '7207'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Kyong-Su
-  last_name: Ra
-  whole_name: Kyong-Su Ra
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158779'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Ky’ong-Su
   last_name: Ra
   whole_name: Ky’ong-Su Ra
@@ -35,6 +23,81 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Myo'ng-Ho
+  last_name: Chang
+  whole_name: Myo'ng-Ho Chang
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '143129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Myong-Ho
+  last_name: Chang
+  whole_name: Myong-Ho Chang
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '143128'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Kyung-su
+  last_name: Ra
+  whole_name: Kyung-su Ra
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Myong-ho
+  last_name: Chang
+  whole_name: Myong-ho Chang
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Kyong-su
+  last_name: Ra
+  whole_name: Kyong-su Ra
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Kyong-Su
+  last_name: Ra
+  whole_name: Kyong-Su Ra
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -66,68 +129,6 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- first_name: Myong-Ho
-  last_name: Chang
-  whole_name: Myong-Ho Chang
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143128'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Myo'ng-Ho
-  last_name: Chang
-  whole_name: Myo'ng-Ho Chang
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Kyong-su
-  last_name: Ra
-  whole_name: Kyong-su Ra
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Myong-ho
-  last_name: Chang
-  whole_name: Myong-ho Chang
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161776'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Kyung-su
-  last_name: Ra
-  whole_name: Kyung-su Ra
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

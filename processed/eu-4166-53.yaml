@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4166.53
 logical_id: '110281'
 regulations:
@@ -16,7 +17,8 @@ name_aliases:
 - first_name: Se Gon
   last_name: Kim
   whole_name: Se Gon Kim
-  function: Kim Se Gon works on behalf of the Ministry of Atomic Energy Industry, a designated entity.
+  function: Kim Se Gon works on behalf of the Ministry of Atomic Energy Industry,
+    a designated entity.
   name_language: EN
   strong: true
   regulation_language: en

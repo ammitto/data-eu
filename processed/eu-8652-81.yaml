@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8652.81
 logical_id: '143223'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Sanad Protection and Security Services
-  function: Sanad Protection and Security Services is a Syrian private security company, established in 2017 and supervised by the Wagner Group in Syria, active in the protection of Russian interests (phosphates, gas and securing oil sites) in Syria.
+  function: Sanad Protection and Security Services is a Syrian private security company,
+    established in 2017 and supervised by the Wagner Group in Syria, active in the
+    protection of Russian interests (phosphates, gas and securing oil sites) in Syria.
   name_language: EN
   strong: true
   regulation_language: en

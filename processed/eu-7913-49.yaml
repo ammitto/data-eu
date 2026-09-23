@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7913.49
 logical_id: '138325'
 regulations:
@@ -27,6 +28,20 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Олексiй
+  middle_name: Володимирович
+  last_name: ПОЛОВЯН
+  whole_name: Олексiй Володимирович ПОЛОВЯН
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Aleksei
   middle_name: Vladimirovich
   last_name: POLOVYAN
@@ -44,17 +59,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Oleksij Volodymyrovytj POLOVJAN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139382'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Aleksej Vladimirovitj POLOVJAN
   gender: M
   name_language: SV
@@ -66,15 +70,12 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Олексiй
-  middle_name: Володимирович
-  last_name: ПОЛОВЯН
-  whole_name: Олексiй Володимирович ПОЛОВЯН
+- whole_name: Oleksij Volodymyrovytj POLOVJAN
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138327'
+  logical_id: '139382'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

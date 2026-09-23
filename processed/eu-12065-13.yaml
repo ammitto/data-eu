@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12065.13
 logical_id: '168488'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Syrkoff
+- whole_name: Surcoff
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168494'
+  logical_id: '168497'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -46,32 +47,28 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- whole_name: Sirkoof
+- whole_name: Surkouf
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168501'
+  logical_id: '168495'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- first_name: Gustave
-  last_name: KUBWAYO
-  whole_name: Gustave KUBWAYO
-  function: Commander of the “Commando de recherche et d’action en profondeur” (CRAP) of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes Abacunguzi (FDLR/FOCA)
+- whole_name: Syrkoff
   gender: M
-  title: Colonel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168502'
+  logical_id: '168494'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-12-09'
-    number_title: 2024/3107 (OJ L10122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403107
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - whole_name: Modeste
   gender: M
   name_language: EN
@@ -94,17 +91,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- whole_name: Surcoff
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - whole_name: Surcouf
   gender: M
   name_language: EN
@@ -116,22 +102,39 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- whole_name: Surkouf
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - whole_name: Surcof
   gender: M
   strong: true
   regulation_language: en
   logical_id: '168496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+- first_name: Gustave
+  last_name: KUBWAYO
+  whole_name: Gustave KUBWAYO
+  function: Commander of the “Commando de recherche et d’action en profondeur” (CRAP)
+    of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes
+    Abacunguzi (FDLR/FOCA)
+  gender: M
+  title: Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168502'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-09'
+    number_title: 2024/3107 (OJ L10122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403107
+- whole_name: Sirkoof
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

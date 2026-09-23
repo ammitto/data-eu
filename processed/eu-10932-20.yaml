@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10932.20
 logical_id: '159803'
 regulations:
@@ -27,21 +28,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Boris
-  middle_name: Safarovych
-  last_name: EBZEEV
-  whole_name: Boris Safarovych EBZEEV
-  function: Member of the Central Election Commission of the Russian Federation
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Борис
   last_name: Ебзеев
   whole_name: Борис Ебзеев
@@ -56,14 +42,15 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Boris
-  middle_name: Safarovitj
-  last_name: EBZEJEV
-  whole_name: Boris Safarovitj EBZEJEV
+  middle_name: Safarovych
+  last_name: EBZEEV
+  whole_name: Boris Safarovych EBZEEV
+  function: Member of the Central Election Commission of the Russian Federation
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160671'
+  logical_id: '159807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -90,6 +77,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Boris
+  middle_name: Safarovitj
+  last_name: EBZEJEV
+  whole_name: Boris Safarovitj EBZEJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

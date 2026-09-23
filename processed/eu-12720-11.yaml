@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12720.11
 logical_id: '172718'
 regulations:
@@ -13,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Média Csoport Hírfront Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: NewsFront
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: JSC Media Group NewsFront
   name_language: EN
   strong: true
@@ -54,32 +35,14 @@ name_aliases:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Limited Liability Company Media Group NewsFront
-  function: LLC Media Group NewsFront (NewsFront) is a Crimea-based outlet presenting distorted interpretations of history and manipulated information, in line with Kremlin messaging.
+  function: LLC Media Group NewsFront (NewsFront) is a Crimea-based outlet presenting
+    distorted interpretations of history and manipulated information, in line with
+    Kremlin messaging.
   title: 'Type of entity: Limited Liability Company'
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '172726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Hírfront
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Média Csoport Hírfront« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -110,6 +73,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: NewsFront
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Hírfront
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Média Csoport Hírfront Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Média Csoport Hírfront« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

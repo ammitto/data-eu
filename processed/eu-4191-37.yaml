@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4191.37
 logical_id: '7486'
 regulations:
@@ -53,20 +54,10 @@ birthdates:
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
 addresses:
-- city: Grenoble
-  country_iso2_code: FR
-  country_description: FRANCE
+- country_iso2_code: TR
+  country_description: TURKEY
   regulation_language: en
-  logical_id: '114048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-09-01'
-    number_title: 2017/1516 (OJ L226)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1516&from=EN
-- country_iso2_code: FR
-  country_description: FRANCE
-  regulation_language: en
-  logical_id: '114045'
+  logical_id: '114046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-09-01'
@@ -81,10 +72,20 @@ addresses:
     publication_date: '2017-09-01'
     number_title: 2017/1516 (OJ L226)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1516&from=EN
-- country_iso2_code: TR
-  country_description: TURKEY
+- city: Grenoble
+  country_iso2_code: FR
+  country_description: FRANCE
   regulation_language: en
-  logical_id: '114046'
+  logical_id: '114048'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-09-01'
+    number_title: 2017/1516 (OJ L226)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1516&from=EN
+- country_iso2_code: FR
+  country_description: FRANCE
+  regulation_language: en
+  logical_id: '114045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-09-01'

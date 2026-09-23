@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4103.55
 logical_id: '110321'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Korea United Development Bank
-  function: Korea United Development Bank Operates in the financial services industry of the North Korean economy.
+  function: Korea United Development Bank Operates in the financial services industry
+    of the North Korean economy.
   name_language: EN
   strong: true
   regulation_language: en

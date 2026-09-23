@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12056.43
 logical_id: '168405'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Kokorat San Ras
-  function: Kokorat San Ras is a gang operating in Haiti that came into existence and gained strength between 2015 and 2017.
+  function: Kokorat San Ras is a gang operating in Haiti that came into existence
+    and gained strength between 2015 and 2017.
   title: Haitian gang operating mostly in the Artibonite and North West region
   name_language: EN
   strong: true

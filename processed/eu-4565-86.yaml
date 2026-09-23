@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4565.86
 logical_id: '117053'
 regulations:
@@ -13,10 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ermias Ghermay, Guro
+- first_name: Ermies
+  last_name: Ghermay
+  whole_name: Ermies Ghermay
   strong: true
   regulation_language: en
-  logical_id: '120723'
+  logical_id: '117058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-09-25'
@@ -32,23 +35,21 @@ name_aliases:
     publication_date: '2018-09-25'
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- first_name: Ermies
-  last_name: Ghermay
-  whole_name: Ermies Ghermay
-  strong: true
-  regulation_language: en
-  logical_id: '117058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 - first_name: Ermias
   last_name: Ghirmay
   whole_name: Ermias Ghirmay
   strong: true
   regulation_language: en
   logical_id: '117059'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+- whole_name: Ermias Ghermay, Guro
+  strong: true
+  regulation_language: en
+  logical_id: '120723'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-09-25'

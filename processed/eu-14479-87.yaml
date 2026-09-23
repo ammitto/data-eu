@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14479.87
 logical_id: '183062'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: JSC Auto Finance  Bank
-  function: JSC Auto Finance Bank is a Russian bank owned by the country’s largest automaker car manufacturer JSC AvtoVAZ,
+  function: JSC Auto Finance Bank is a Russian bank owned by the country’s largest
+    automaker car manufacturer JSC AvtoVAZ,
   name_language: EN
   strong: true
   regulation_language: en

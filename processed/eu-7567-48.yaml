@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7567.48
 logical_id: '136351'
 regulations:
@@ -41,17 +42,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Vitalij  Fridrichovitj Kiltjevskij
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 - first_name: Виталий
   middle_name: Фридрихович
   last_name: КИЛЬЧЕВСКИЙ
@@ -70,9 +60,8 @@ name_aliases:
   middle_name: Fridrikhovich
   last_name: KILCHEVSKY
   whole_name: Vitaly Fridrikhovich KILCHEVSKY
-  function: |-
-    Head of the Armoured Vehicles Directorate of the Ministry of Defence, 
-    former Deputy Commander for Armaments and former Head of Armaments,
+  function: "Head of the Armoured Vehicles Directorate of the Ministry of Defence,
+    \nformer Deputy Commander for Armaments and former Head of Armaments,"
   gender: M
   title: Colonel
   name_language: EN
@@ -84,6 +73,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Vitalij  Fridrichovitj Kiltjevskij
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

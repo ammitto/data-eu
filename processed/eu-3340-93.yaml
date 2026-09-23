@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3340.93
 logical_id: '7386'
 regulations:
@@ -13,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hashem
-  last_name: Akkad
-  whole_name: Hashem Akkad
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '17917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 - first_name: Hashim
   last_name: Akkad
   whole_name: Hashim Akkad
@@ -37,10 +26,23 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Hashem
+  last_name: Akkad
+  whole_name: Hashem Akkad
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '17917'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 - first_name: Hashim Anwar
   last_name: AL-AQQAD
   whole_name: Hashim Anwar AL-AQQAD
-  function: Businessperson operating in Syria. Worked as a member of the Syrian Parliament as recently as 2012.
+  function: Businessperson operating in Syria. Worked as a member of the Syrian Parliament
+    as recently as 2012.
   gender: M
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6019.71
 logical_id: '126692'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ihar
-  middle_name: Paulavich
-  last_name: BURMISTRAU
-  whole_name: Ihar Paulavich BURMISTRAU
-  function: Former Chief of Staff and First Deputy Commander of the Internal Troops of the Ministry of Internal Affairs
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126697'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Игорь
   middle_name: Павлович
   last_name: БУРМИСТРОВ
@@ -65,6 +51,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ihar
+  middle_name: Paulavich
+  last_name: BURMISTRAU
+  whole_name: Ihar Paulavich BURMISTRAU
+  function: Former Chief of Staff and First Deputy Commander of the Internal Troops
+    of the Ministry of Internal Affairs
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13991.90
 logical_id: '180756'
 regulations:
@@ -13,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Arsang Safe Trading Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180758'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/262 (OJ L202600262)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
 - whole_name: شزکت ایمن تجارت ارسنگ
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '180757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: Arsang Safe Trading Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

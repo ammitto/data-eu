@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2906.56
 logical_id: '6959'
 regulations:
@@ -24,21 +25,21 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Yousef Suleiman AL-AHMED
-  strong: true
-  regulation_language: en
-  logical_id: '17474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: يوسف سليمان الأحمد
   gender: M
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '124650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Yousef Suleiman AL-AHMED
+  strong: true
+  regulation_language: en
+  logical_id: '17474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

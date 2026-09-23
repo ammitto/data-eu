@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12912.58
 logical_id: '174170'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олег КАЛЯДА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Aleh Kaljada
   gender: M
   name_language: CS
@@ -46,12 +36,24 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Алег КАЛЯДА
+- whole_name: Олег КАЛЯДА
   gender: M
-  name_language: BE
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174176'
+  logical_id: '174175'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Aleh KALIADA
+  function: Judge of the Zavodsky District Court of the city of Minsk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -68,13 +70,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aleh KALIADA
-  function: Judge of the Zavodsky District Court of the city of Minsk
+- whole_name: Алег КАЛЯДА
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174178'
+  logical_id: '174176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

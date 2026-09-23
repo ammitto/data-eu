@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9257.28
 logical_id: '146672'
 regulations:
@@ -31,9 +32,10 @@ name_aliases:
   middle_name: Evgenievna
   last_name: BALANOVA
   whole_name: Svetlana Evgenievna BALANOVA
-  function: |-
-    head of National Media Group (NMG) (Russia) – a media holding, which is the founder of 28 media enterprises in Russia, including Channel One, Channel 5, REN TV and STS, 78.ru, the national newspaper Izvestia, Delovoy Peterburg and others, 
-    head of the Public Council under Roskomnadzor
+  function: "head of National Media Group (NMG) (Russia) – a media holding, which
+    is the founder of 28 media enterprises in Russia, including Channel One, Channel
+    5, REN TV and STS, 78.ru, the national newspaper Izvestia, Delovoy Peterburg and
+    others, \nhead of the Public Council under Roskomnadzor"
   gender: F
   strong: true
   regulation_language: en

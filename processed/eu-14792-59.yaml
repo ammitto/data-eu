@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14792.59
 logical_id: '184473'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: JSC  Electroavtomatika
-  function: JSC Elektroavtomatika is the prime contractor for government contracts on military products with the Russian Ministry of Defense.
+  function: JSC Elektroavtomatika is the prime contractor for government contracts
+    on military products with the Russian Ministry of Defense.
   name_language: EN
   strong: true
   regulation_language: en
@@ -49,21 +51,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: other
-  number: '631201001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '184475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: regnumber
   number: '1022601979894'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '631201001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10577.49
 logical_id: '156323'
 regulations:
@@ -13,43 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Пётр
-  middle_name: Александровіч
-  last_name: АРЛОЎ
-  whole_name: Пётр Александровіч АРЛОЎ
+- first_name: Petr
+  middle_name: Aleksandrovich
+  last_name: ORLOV
+  whole_name: Petr Aleksandrovich ORLOV
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Pjotr
-  middle_name: Aleksandrovitj
-  last_name: ARLOU
-  whole_name: Pjotr Aleksandrovitj ARLOU
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156881'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Piotr
-  middle_name: Alexandrovič
-  last_name: ARLOV
-  whole_name: Piotr Alexandrovič ARLOV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156952'
+  logical_id: '156330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -64,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Пётр
+  middle_name: Александровіч
+  last_name: АРЛОЎ
+  whole_name: Пётр Александровіч АРЛОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -99,6 +86,20 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Pjotr
+  middle_name: Aleksandrovitj
+  last_name: ARLOU
+  whole_name: Pjotr Aleksandrovitj ARLOU
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Pjotr
   last_name: Arloŭ
   whole_name: Pjotr Arloŭ
   gender: M
@@ -111,15 +112,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Petr
-  middle_name: Aleksandrovich
-  last_name: ORLOV
-  whole_name: Petr Aleksandrovich ORLOV
+- first_name: Piotr
+  middle_name: Alexandrovič
+  last_name: ARLOV
+  whole_name: Piotr Alexandrovič ARLOV
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156330'
+  logical_id: '156952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

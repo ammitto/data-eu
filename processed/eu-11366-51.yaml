@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11366.51
 logical_id: '163346'
 regulations:
@@ -24,11 +25,23 @@ name_aliases:
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Limited Liability Company "Favorit" Research and Production Company
-  function: LLC “Favorit” Research and Production Company creates automated information and control systems for monitoring the surface and ground situation of geographically distributed facilities
+  function: LLC “Favorit” Research and Production Company creates automated information
+    and control systems for monitoring the surface and ground situation of geographically
+    distributed facilities
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '163350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: LLC „Favorit“ Research and Production Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -44,26 +57,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Общество С Ограниченной Ответственностью “Фаворитъ” Научно-Производственная Компания
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad de responsabilidad limitada Research and Production Company Favorit
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '164101'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: "„Favorit” Kutatási és Gyártási Vállalat Korlátolt Felelősségű Társaság"
   name_language: HU
   strong: true
@@ -74,11 +67,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: LLC „Favorit“ Research and Production Company
-  name_language: EN
+- whole_name: Общество С Ограниченной Ответственностью “Фаворитъ” Научно-Производственная
+    Компания
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163741'
+  logical_id: '163742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad de responsabilidad limitada Research and Production Company
+    Favorit
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

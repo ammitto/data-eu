@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11653.15
 logical_id: '166152'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Uralo avialinijos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '167533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Уральские Авиалинии
   name_language: EN
   strong: true
@@ -34,22 +25,14 @@ name_aliases:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: OJSC Ural Airlines
-  function: Since the start of Russia’s war of aggression against Ukraine, Ural Airlines has provided logistical support, in particular by transporting military personnel towards the war zone during the mobilisation phase.
+  function: Since the start of Russia’s war of aggression against Ukraine, Ural Airlines
+    has provided logistical support, in particular by transporting military personnel
+    towards the war zone during the mobilisation phase.
   title: Ural Airlines civil Russian airline
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '166156'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Uralské aerolinky
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -65,6 +48,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Urál Légitársaság Nyrt
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Uralské aerolínie
   name_language: SK
   strong: true
@@ -75,11 +68,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Urál Légitársaság Nyrt
-  name_language: HU
+- whole_name: Uralo avialinijos
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '167532'
+  logical_id: '167533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Uralské aerolinky
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -100,20 +103,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
 - identification_type_code: regnumber
-  number: '6608003013'
+  number: '668501001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '166154'
+  logical_id: '167630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: regnumber
-  number: '668501001'
+  number: '6608003013'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '167630'
+  logical_id: '166154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

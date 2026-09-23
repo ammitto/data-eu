@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10235.51
 logical_id: '154135'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: رشید کبودوند
+- whole_name: رشید کبودوندی
   gender: M
   name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '154138'
+  logical_id: '154136'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'
@@ -37,12 +38,12 @@ name_aliases:
     publication_date: '2023-06-26'
     number_title: 2023/1298 (OJ L160 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
-- whole_name: رشید کبودوندی
+- whole_name: رشید کبودوند
   gender: M
   name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '154136'
+  logical_id: '154138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'
@@ -51,7 +52,8 @@ name_aliases:
 - first_name: Rashid
   last_name: KABOUDVANDI
   whole_name: Rashid KABOUDVANDI
-  function: Commander of the Imam Hossein Guards Corps of Karaj, Alborz Province (since May 2022)
+  function: Commander of the Imam Hossein Guards Corps of Karaj, Alborz Province (since
+    May 2022)
   gender: M
   name_language: EN
   strong: true

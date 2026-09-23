@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.175.57
 logical_id: '106385'
 regulations:
@@ -33,26 +34,6 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abd-al-Latif Abdallah al-Kawari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abd-al-Latif Abdallah al-Kawwari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - whole_name: عبداللطیف بن عبدلله صالح محمد الكواري
   name_language: AR
   strong: true
@@ -78,6 +59,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abd-al-Latif Abdallah al-Kawwari
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abd-al-Latif Abdallah al-Kawari
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106419'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -152,16 +153,6 @@ identifications:
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - identification_type_code: passport
-  number: '00754833'
-  country_iso2_code: QA
-  regulation_language: en
-  logical_id: '106416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- identification_type_code: passport
   number: '01020802'
   country_iso2_code: QA
   regulation_language: en
@@ -171,3 +162,13 @@ identifications:
     publication_date: '2015-09-30'
     number_title: 2015/1740 (OJ L253)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_253_R_0003&from=EN
+- identification_type_code: passport
+  number: '00754833'
+  country_iso2_code: QA
+  regulation_language: en
+  logical_id: '106416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC

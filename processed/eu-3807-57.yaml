@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3807.57
 logical_id: '7499'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Mohamad Amer MARDINI
-  function: Former Minister of Higher Education in power after May 2011 (appointed 27.8.2014).
+  function: Former Minister of Higher Education in power after May 2011 (appointed
+    27.8.2014).
   gender: M
   strong: true
   regulation_language: en
@@ -44,6 +46,16 @@ name_aliases:
     publication_date: '2021-05-28'
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- whole_name: Mohamed Amer  MARDINI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - whole_name: Mohamed Amer AL-MARDINI
   gender: M
   strong: true
@@ -59,16 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- whole_name: Mohamed Amer  MARDINI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '129691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

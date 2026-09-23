@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14468.22
 logical_id: '183008'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: PJSC Bank ZENIT
-  function: PJSC “Bank ZENIT” is a Moscow-based credit institution which is among the top 40 Russian banks by asset size
+  function: PJSC “Bank ZENIT” is a Moscow-based credit institution which is among
+    the top 40 Russian banks by asset size
   name_language: EN
   strong: true
   regulation_language: en

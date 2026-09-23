@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2910.73
 logical_id: '6973'
 regulations:
@@ -16,7 +17,10 @@ name_aliases:
 - first_name: Ali
   last_name: SAEEDI
   whole_name: Ali SAEEDI
-  function: Head of the Supreme Leader's political ideology bureau. Former representative  of the Supreme Leader for the Pasdaran (1995-2020)  after spending his whole career within the institution of the military, and specifically in the Pasdaran intelligence service.
+  function: Head of the Supreme Leader's political ideology bureau. Former representative  of
+    the Supreme Leader for the Pasdaran (1995-2020)  after spending his whole career
+    within the institution of the military, and specifically in the Pasdaran intelligence
+    service.
   gender: M
   strong: true
   regulation_language: en

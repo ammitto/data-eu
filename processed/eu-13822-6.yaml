@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13822.6
 logical_id: '179800'
 regulations:
@@ -13,32 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade de  responsabilidade limitada Molot  Arms
-  name_language: PT
+- whole_name: Molot Arms Korlátolt Felelősségű Társaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '179806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company  Molot Arms
-  function: A Russian defence manufacturer engaged in the production of firearms and unmanned aerial systems (UAVs). Its flagship product is the “Zhmil-17” first-person view (FPV) combat UAV,
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: OOO Molot Arms
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179809'
+  logical_id: '179807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -54,11 +34,34 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Molot Arms Korlátolt Felelősségű Társaság
-  name_language: HU
+- whole_name: OOO Molot Arms
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179807'
+  logical_id: '179809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Limited Liability Company  Molot Arms
+  function: A Russian defence manufacturer engaged in the production of firearms and
+    unmanned aerial systems (UAVs). Its flagship product is the “Zhmil-17” first-person
+    view (FPV) combat UAV,
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Sociedade de  responsabilidade limitada Molot  Arms
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '179806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -79,20 +82,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
 - identification_type_code: other
-  number: '67582075'
+  number: '770501001'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '179802'
+  logical_id: '179803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: other
-  number: '770501001'
+  number: '67582075'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '179803'
+  logical_id: '179802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

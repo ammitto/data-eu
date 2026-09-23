@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3051.67
 logical_id: '7419'
 designation_details: 'date of listing: 25.07.2014'
@@ -15,9 +16,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Army of the Southeast
-  function: |-
-    llegal armed separatist group which is considered  to  be  one  of  the  most  important  in Eastern Ukraine. Responsible for  occupying  the  building of  the Security Service in the Lugansk region. Associated with Mr Valeriy BOLOTOV, who was listed as one of the leaders of the group.  
-    Associated  with  Mr  Vasyl NIKITIN,  responsible for  the  separatist ‘governmental’ activities of the  so  called ‘government of  the  People's Republic of Luhansk’.
+  function: "llegal armed separatist group which is considered  to  be  one  of  the
+    \ most  important  in Eastern Ukraine. Responsible for  occupying  the  building
+    of  the Security Service in the Lugansk region. Associated with Mr Valeriy BOLOTOV,
+    who was listed as one of the leaders of the group.  \nAssociated  with  Mr  Vasyl
+    NIKITIN,  responsible for  the  separatist ‘governmental’ activities of the  so
+    \ called ‘government of  the  People's Republic of Luhansk’."
   strong: true
   regulation_language: en
   logical_id: '18009'

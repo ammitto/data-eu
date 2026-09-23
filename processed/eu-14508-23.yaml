@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14508.23
 logical_id: '183203'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: PJSC Russian Public Joint-Stock Commercial Roads Bank
-  title: Public Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: PJSC Rusijos  viešoji akcinė bendrovė Komercinis kelių bankas
   name_language: LT
   strong: true
@@ -34,11 +24,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ПАО РосДорБанк
-  name_language: RU
+- whole_name: PJSC RosDorBank
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183206'
+  logical_id: '183208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,11 +44,22 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: PJSC RosDorBank
+- whole_name: ПАО РосДорБанк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183206'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: PJSC Russian Public Joint-Stock Commercial Roads Bank
+  title: Public Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183208'
+  logical_id: '183209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

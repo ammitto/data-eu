@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12400.46
 logical_id: '170825'
 regulations:
@@ -13,6 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nina
+  last_name: Šastak
+  whole_name: Nina Šastak
+  gender: F
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '172181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Nina
+  last_name: Šestaková
+  whole_name: Nina Šestaková
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Нина
   middle_name: Владимировна
   last_name: ШЕСТАК
@@ -65,32 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Nina
-  last_name: Šestaková
-  whole_name: Nina Šestaková
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Nina
-  last_name: Šastak
-  whole_name: Nina Šastak
-  gender: F
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172181'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

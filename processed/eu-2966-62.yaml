@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2966.62
 logical_id: '7531'
 regulations:
@@ -13,95 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Veřejné hnutí ‚Doněcká republika‘
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: 'Állami mozgalom: „Donyecki  Köztársaság”'
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Samhällsrörelsen ’Donetskrepubliken’
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Gluaiseacht phoiblí ‘Donetsk Republic’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Sabiedriska kustība “Donetsk  Republic”
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '152636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Public movement “Donetsk Republic”
-  strong: true
-  regulation_language: en
-  logical_id: '18421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Общественное движение “Донецкая республика”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Movimiento público “República de Donetsk”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '131500'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Обществено движение „Донецка република“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '131501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: Folkebevægelsen »Donetsk Republic«
   name_language: DA
   strong: true
@@ -112,11 +24,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Veřejné hnutí „Doněcká republika“
-  name_language: CS
+- whole_name: Обществено движение „Донецка република“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '131503'
+  logical_id: '131501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -287,6 +199,95 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Veřejné hnutí „Doněcká republika“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '131503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Gluaiseacht phoiblí ‘Donetsk Republic’
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Sabiedriska kustība “Donetsk  Republic”
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '152636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Veřejné hnutí ‚Doněcká republika‘
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: 'Állami mozgalom: „Donyecki  Köztársaság”'
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Samhällsrörelsen ’Donetskrepubliken’
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Public movement “Donetsk Republic”
+  strong: true
+  regulation_language: en
+  logical_id: '18421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Общественное движение “Донецкая республика”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Movimiento público “República de Donetsk”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '131500'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

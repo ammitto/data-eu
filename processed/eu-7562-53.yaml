@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7562.53
 logical_id: '136323'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Віктар
-  middle_name: Уладзіміравіч
-  last_name: СОЙКА
-  whole_name: Віктар Уладзіміравіч СОЙКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '136326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Виктор
   middle_name: Владимирович
   last_name: СОЙКО
@@ -41,11 +28,26 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Віктар
+  middle_name: Уладзіміравіч
+  last_name: СОЙКА
+  whole_name: Віктар Уладзіміравіч СОЙКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '136326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Victor
   middle_name: Vladimirovich
   last_name: SOYKO
   whole_name: Victor Vladimirovich SOYKO
-  function: Deputy Commander for Armaments and Head of the Belarusian Air Force and Air Defence Forces Armament Department
+  function: Deputy Commander for Armaments and Head of the Belarusian Air Force and
+    Air Defence Forces Armament Department
   gender: M
   title: Colonel
   name_language: EN
@@ -57,23 +59,23 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Viktar  Uladzimiravitj Sojka
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 - whole_name: Viktor Vladimirovitj  Sojko
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '136418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Viktar  Uladzimiravitj Sojka
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'

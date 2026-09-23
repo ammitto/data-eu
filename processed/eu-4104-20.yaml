@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4104.20
 logical_id: '110325'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Ilsim International Bank
-  function: Ilsim International Bank is affiliated to the North Korean military and has a close relationship with Korea Kwangson Banking Corporation (KKBC), a designated entity. Ilsim International Bank has attempted to evade United Nations sanctions.
+  function: Ilsim International Bank is affiliated to the North Korean military and
+    has a close relationship with Korea Kwangson Banking Corporation (KKBC), a designated
+    entity. Ilsim International Bank has attempted to evade United Nations sanctions.
   name_language: EN
   strong: true
   regulation_language: en

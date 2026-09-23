@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1955.95
 logical_id: '5713'
 regulations:
@@ -13,11 +14,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ESNICO - Fornecedor de equipamento  à Nuclear Industries Corporation
-  name_language: PT
+- whole_name: ESNICO
+  function: Procures industrial goods, specifically for the nuclear programme activities
+    carried out by AEOI, Novin Energy and EU-designated Kalaye Electric Company. ESNICO’s
+    Director is Haleh Bakhtiar.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169624'
+  logical_id: '8116'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Equipment Supplier for Nuclear Industries Corporation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -28,6 +42,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: ESNICO - Fornecedor de equipamento  à Nuclear Industries Corporation
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '169624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: ESNICO - Доставчик на оборудване за  Nuclear Industries Corporation
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '169629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -58,37 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: ESNICO - Доставчик на оборудване за  Nuclear Industries Corporation
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '169629'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: ESNICO
-  function: Procures industrial goods, specifically for the nuclear programme activities carried out by AEOI, Novin Energy and EU-designated Kalaye Electric Company. ESNICO’s Director is Haleh Bakhtiar.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Equipment Supplier for Nuclear Industries Corporation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

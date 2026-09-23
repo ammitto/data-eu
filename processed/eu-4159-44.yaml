@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4159.44
 logical_id: '6847'
 regulations:
@@ -13,88 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Young-chol
-  last_name: KIM
-  whole_name: Young-chol KIM
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161791'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Yong-chol
-  last_name: KIM
-  whole_name: Yong-chol KIM
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161792'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Young-chul
-  last_name: KIM
-  whole_name: Young-chul KIM
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161793'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Young-cheol
-  last_name: KIM
-  whole_name: Young-cheol KIM
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161794'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Yong Chol
-  last_name: KIM
-  whole_name: Yong Chol KIM
-  function: |-
-    Alternate Member of Political Bureau and Member of the Central Committee of the Workers’ Party of Korea.
-    Member of the State Affairs Commission of the Democratic People’s Republic of Korea and, from June 2023, United Front Department Advisor.
-    Former commander of Reconnaissance General Bureau (RGB), an entity sanctioned by the United Nations Security Council.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15068'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Yong-Chol
-  last_name: KIM
-  whole_name: Yong-Chol KIM
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Young-Chul
   last_name: KIM
   whole_name: Young-Chul KIM
@@ -140,6 +59,88 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Yong Chol
+  last_name: KIM
+  whole_name: Yong Chol KIM
+  function: |-
+    Alternate Member of Political Bureau and Member of the Central Committee of the Workers’ Party of Korea.
+    Member of the State Affairs Commission of the Democratic People’s Republic of Korea and, from June 2023, United Front Department Advisor.
+    Former commander of Reconnaissance General Bureau (RGB), an entity sanctioned by the United Nations Security Council.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Young-cheol
+  last_name: KIM
+  whole_name: Young-cheol KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Yong-Chol
+  last_name: KIM
+  whole_name: Yong-Chol KIM
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Young-chol
+  last_name: KIM
+  whole_name: Young-chol KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Yong-chol
+  last_name: KIM
+  whole_name: Yong-chol KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Young-chul
+  last_name: KIM
+  whole_name: Young-chul KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161793'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13809.61
 logical_id: '179653'
 regulations:
@@ -22,21 +23,21 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерное Общество  Вольский Механический Завод
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: JSC VMP
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '179658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Акционерное Общество  Вольский Механический Завод
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179657'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -53,7 +54,8 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Joint Stock Company Volsk  Mechanical Plant
-  function: Manufactures and repairs weapons and military equipment such as the anti-tank missile systems “Kornet”, Konkurs and Shturm-S
+  function: Manufactures and repairs weapons and military equipment such as the anti-tank
+    missile systems “Kornet”, Konkurs and Shturm-S
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1527.65
 logical_id: '3343'
 regulations:
@@ -13,64 +14,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ami Iraq
+- first_name: Eric
+  last_name: Yacub
+  whole_name: Eric Yacub
   strong: true
   regulation_language: en
-  logical_id: '4622'
+  logical_id: '4635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Ami Irza
+- whole_name: Izza Kusoman
   strong: true
   regulation_language: en
-  logical_id: '4623'
+  logical_id: '4634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Amy Erja
+- whole_name: Abu Obayda
   strong: true
   regulation_language: en
-  logical_id: '4624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Ammy Erza
-  strong: true
-  regulation_language: en
-  logical_id: '4625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Ammy Izza
-  strong: true
-  regulation_language: en
-  logical_id: '4626'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Ami Kusoman
-  strong: true
-  regulation_language: en
-  logical_id: '4627'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abu Obaida
-  strong: true
-  regulation_language: en
-  logical_id: '4628'
+  logical_id: '4633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
@@ -94,10 +61,10 @@ name_aliases:
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abu Ubaidah
+- whole_name: Abu Obaida
   strong: true
   regulation_language: en
-  logical_id: '4631'
+  logical_id: '4628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
@@ -112,30 +79,75 @@ name_aliases:
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abu Obayda
+- whole_name: Abu Ubaidah
   strong: true
   regulation_language: en
-  logical_id: '4633'
+  logical_id: '4631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Izza Kusoman
+- whole_name: Ami Kusoman
   strong: true
   regulation_language: en
-  logical_id: '4634'
+  logical_id: '4627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Eric
-  last_name: Yacub
-  whole_name: Eric Yacub
+- whole_name: Ammy Izza
   strong: true
   regulation_language: en
-  logical_id: '4635'
+  logical_id: '4626'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Ammy Erza
+  strong: true
+  regulation_language: en
+  logical_id: '4625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Amy Erja
+  strong: true
+  regulation_language: en
+  logical_id: '4624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Ami Irza
+  strong: true
+  regulation_language: en
+  logical_id: '4623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Ami Iraq
+  strong: true
+  regulation_language: en
+  logical_id: '4622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Tawfiq
+  last_name: Rifqi
+  whole_name: Tawfiq Rifqi
+  strong: true
+  regulation_language: en
+  logical_id: '4621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
@@ -169,17 +181,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Tawfiq
-  last_name: Rifqi
-  whole_name: Tawfiq Rifqi
-  strong: true
-  regulation_language: en
-  logical_id: '4621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'

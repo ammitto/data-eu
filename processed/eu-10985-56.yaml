@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10985.56
 logical_id: '160125'
 regulations:
@@ -13,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kazan Aviation Plant επ’ ονόματι του S. P. Gorbunov
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Kazan Aircraft Production Plant named after S. P.  Gorbunov
-  function: a Russian aircraft manufacturer
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Kazan Aviation Plant named after S. P. Gorbunov
   name_language: EN
   strong: true
@@ -54,11 +34,12 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S. P. Gorbunovról elnevezett Kazanyi Repülőgépgyár
-  name_language: HU
+- whole_name: Kazan Aircraft Production Plant named after S. P.  Gorbunov
+  function: a Russian aircraft manufacturer
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161010'
+  logical_id: '160129'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -69,6 +50,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S. P. Gorbunovról elnevezett Kazanyi Repülőgépgyár
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Kazan Aviation Plant επ’ ονόματι του S. P. Gorbunov
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

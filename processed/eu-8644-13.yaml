@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8644.13
 logical_id: '143307'
 regulations:
@@ -17,7 +18,8 @@ name_aliases:
   middle_name: Evgenievich
   last_name: TSIVILEV
   whole_name: Sergey Evgenievich TSIVILEV
-  function: governor of the Kemerovo region.  member of the Bureau of the Supreme Council of the United Russia party
+  function: governor of the Kemerovo region.  member of the Bureau of the Supreme
+    Council of the United Russia party
   gender: M
   name_language: EN
   strong: true
@@ -41,6 +43,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Sergej Jevgenjevitj TSIVILEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Сергей
   middle_name: Евгеньевич
   last_name: ЦИВИЛЕВ
@@ -50,17 +63,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Sergej Jevgenjevitj TSIVILEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

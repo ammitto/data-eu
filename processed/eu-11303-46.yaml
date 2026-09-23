@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11303.46
 logical_id: '162950'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Глеб Юрьевич Вареница
+- whole_name: Gleb Varenica
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162953'
+  logical_id: '163692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -28,7 +29,8 @@ name_aliases:
   middle_name: Yurievich
   last_name: VARENITSA
   whole_name: Gleb Yurievich VARENITSA
-  function: General Director of the Joint Stock Company Novosibirsk Plant of Artificial Fiber
+  function: General Director of the Joint Stock Company Novosibirsk Plant of Artificial
+    Fiber
   gender: M
   strong: true
   regulation_language: en
@@ -38,12 +40,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Gleb Varenica
+- whole_name: Глеб Юрьевич Вареница
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163692'
+  logical_id: '162953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

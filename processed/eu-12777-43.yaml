@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12777.43
 logical_id: '173131'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Михаил
+  middle_name: Сергеевич
+  last_name: ГАЛУСТЯН
+  whole_name: Михаил Сергеевич ГАЛУСТЯН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Mikhail
   middle_name: Sergeevich
   last_name: GALUSTYAN
@@ -39,7 +54,9 @@ name_aliases:
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Nshan Sergeevich GALUSTYAN
-  function: Russian propagandist, president of the Federation of Military and Tactical Games and a member of the management of the All-Russian children’s and youth military-patriotic movement “Yunarmiya”
+  function: Russian propagandist, president of the Federation of Military and Tactical
+    Games and a member of the management of the All-Russian children’s and youth military-patriotic
+    movement “Yunarmiya”
   gender: M
   name_language: EN
   strong: true
@@ -50,20 +67,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Михаил
-  middle_name: Сергеевич
-  last_name: ГАЛУСТЯН
-  whole_name: Михаил Сергеевич ГАЛУСТЯН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173135'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

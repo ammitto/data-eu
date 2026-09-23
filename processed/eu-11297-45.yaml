@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11297.45
 logical_id: '162911'
 regulations:
@@ -23,6 +24,36 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: The 924th Unmanned Aerial Vehicle Center (Military Unit 20924)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: 924-й центр беспилотных летательных аппаратов (воинская часть 20924)
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162915'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: 924. Pilótanélkülilégijármű-központ
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: 20924. számú katonai egység
   name_language: HU
   strong: true
@@ -43,31 +74,31 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: 924. Pilótanélkülilégijármű-központ
-  name_language: HU
+- whole_name: jednostka wojskowa 20924
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '163973'
+  logical_id: '163970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: 924-й центр беспилотных летательных аппаратов (воинская часть 20924)
-  name_language: RU
+- whole_name: 924.º Centro de aeronaves não tripuladas
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '162915'
+  logical_id: '163969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: The 924th Unmanned Aerial Vehicle Center (Military Unit 20924)
-  name_language: EN
+- whole_name: Unidade Militar 20924
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '162916'
+  logical_id: '163968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -88,36 +119,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Unidade Militar 20924
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '163968'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: 924.º Centro de aeronaves não tripuladas
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '163969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: jednostka wojskowa 20924
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '163970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

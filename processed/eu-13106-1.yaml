@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13106.1
 logical_id: '175468'
 regulations:
@@ -23,8 +24,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: General Technology Group Dalian Machine Tool Import and Export Co., Ltd.
-  function: General Technology Group Dalian Machine Tool Import and Export Co., Ltd. is a Chinese company involved in the industrial sector.
+- whole_name: General Technology Group Dalian Machine Tool Import and Export Co.,
+    Ltd.
+  function: General Technology Group Dalian Machine Tool Import and Export Co., Ltd.
+    is a Chinese company involved in the industrial sector.
   name_language: EN
   strong: true
   regulation_language: en
@@ -35,7 +38,8 @@ name_aliases:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
-- street: No. 100, Liaohe East Road, Dalian Economic and Technological Development Zone
+- street: No. 100, Liaohe East Road, Dalian Economic and Technological Development
+    Zone
   region: Liaoning Province-East District 1
   country_iso2_code: CN
   country_description: CHINA

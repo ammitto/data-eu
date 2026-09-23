@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.787.30
 logical_id: '836'
 regulations:
@@ -22,41 +23,10 @@ name_aliases:
     publication_date: '2010-02-09'
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Abu Omar Abu Umar
-  strong: true
-  regulation_language: en
-  logical_id: '1686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Abu Umr Takfiri
-  strong: true
-  regulation_language: en
-  logical_id: '1685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 - whole_name: Omar Mohammed Othman
   strong: true
   regulation_language: en
   logical_id: '7731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- first_name: Omar
-  middle_name: Mahmoud
-  last_name: Uthman
-  whole_name: Omar Mahmoud Uthman
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -80,10 +50,14 @@ name_aliases:
     publication_date: '2010-02-09'
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Abu Umar Umar
+- first_name: Omar
+  middle_name: Mahmoud
+  last_name: Uthman
+  whole_name: Omar Mahmoud Uthman
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '1689'
+  logical_id: '1683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -93,6 +67,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- whole_name: Abu Umr Takfiri
+  strong: true
+  regulation_language: en
+  logical_id: '1685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- whole_name: Abu Omar Abu Umar
+  strong: true
+  regulation_language: en
+  logical_id: '1686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- whole_name: Abu Umar Umar
+  strong: true
+  regulation_language: en
+  logical_id: '1689'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -109,22 +110,6 @@ citizenships:
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 birthdates:
-- birthdate: '1960-12-30'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 30
-  month_of_year: 12
-  year: 1960
-  city: Bethlehem, West Bank
-  country_iso2_code: PS
-  country_description: PALESTINIAN TERRITORY, Occupied
-  regulation_language: en
-  logical_id: '297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 - birthdate: '1960-12-13'
   circa: false
   calendar_type: GREGORIAN
@@ -136,6 +121,22 @@ birthdates:
   country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
   logical_id: '298'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- birthdate: '1960-12-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 12
+  year: 1960
+  city: Bethlehem, West Bank
+  country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
+  regulation_language: en
+  logical_id: '297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'

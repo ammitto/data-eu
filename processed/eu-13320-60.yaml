@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13320.60
 logical_id: '176819'
 regulations:
@@ -13,58 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Lézereszközök és -technológiák
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177198'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Lézereszközök és -technológiák Korlátolt Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177197'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Urządzenia i Technologie Laserowe
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '177196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Urządzenia i Technologie Laserowe spółka z o.o.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '177195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Dispositivos e tecnologias laser
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Laser Devices and Technologies
-  function: LLC Laser Devices and Technologies, formerly known as LLC Laboratory of Additive Technologies, is a Belarusian company specialising in gaskets. It supplies components to military end-users such as Peleng and Uralvagonzavod. The company also provides parts for the production of panoramic sights (PKP) for Russian T-72 and T-90 tanks.
+  function: LLC Laser Devices and Technologies, formerly known as LLC Laboratory of
+    Additive Technologies, is a Belarusian company specialising in gaskets. It supplies
+    components to military end-users such as Peleng and Uralvagonzavod. The company
+    also provides parts for the production of panoramic sights (PKP) for Russian T-72
+    and T-90 tanks.
   title: Limited Liability Company
   name_language: EN
   strong: true
@@ -105,8 +60,59 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Lézereszközök és -technológiák
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177198'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Urządzenia i Technologie Laserowe spółka z o.o.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Dispositivos e tecnologias laser
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Lézereszközök és -technológiák Korlátolt Felelősségű Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177197'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Urządzenia i Technologie Laserowe
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 addresses:
-- street: Tsentralnaya Street, House 2, Room 116, Demidovichsky Village Council, Yutski Village, Dzerzhinsky District
+- street: Tsentralnaya Street, House 2, Room 116, Demidovichsky Village Council, Yutski
+    Village, Dzerzhinsky District
   region: Minsk
   country_iso2_code: BY
   country_description: BELARUS

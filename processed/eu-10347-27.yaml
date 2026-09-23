@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10347.27
 logical_id: '154640'
 regulations:
@@ -13,7 +14,8 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fondazione per il sostegno e la tutela dei diritti dei compatrioti che vivono all'estero
+- whole_name: Fondazione per il sostegno e la tutela dei diritti dei compatrioti che
+    vivono all'estero
   name_language: IT
   strong: true
   regulation_language: en
@@ -23,11 +25,12 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Fondation de soutien et de protection des droits des compatriotes vivant à l’étranger
-  name_language: FR
+- whole_name: Stiftung für die Unterstützung und den Schutz der Rechte von im Ausland
+    lebenden Landsleute
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '154916'
+  logical_id: '154890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -53,7 +56,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: fundo para a proteção e o apoio jurídicos dos compatriotas da  Federação da Rússia
+- whole_name: fundo para a proteção e o apoio jurídicos dos compatriotas da  Federação
+    da Rússia
   name_language: PT
   strong: true
   regulation_language: en
@@ -63,7 +67,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: fundação de apoio e proteção dos direitos dos compatriotas a viver no estrangeiro
+- whole_name: fundação de apoio e proteção dos direitos dos compatriotas a viver no
+    estrangeiro
   name_language: PT
   strong: true
   regulation_language: en
@@ -73,7 +78,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Fundación para el Apoyo y la  Protección de los Derechos de los Compatriotas en el Extranjero
+- whole_name: Fundación para el Apoyo y la  Protección de los Derechos de los Compatriotas
+    en el Extranjero
   name_language: ES
   strong: true
   regulation_language: en
@@ -83,7 +89,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Stiftelsen för stöd till och skydd av rättigheter för landsmän bosatta utomlands
+- whole_name: Stiftelsen för stöd till och skydd av rättigheter för landsmän bosatta
+    utomlands
   name_language: SV
   strong: true
   regulation_language: en
@@ -93,7 +100,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Stichting ter ondersteuning en bescherming van de rechten van in het buitenland wonende volksgenoten
+- whole_name: Stichting ter ondersteuning en bescherming van de rechten van in het
+    buitenland wonende volksgenoten
   name_language: NL
   strong: true
   regulation_language: en
@@ -163,7 +171,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Fondul pentru protecția și sprijinirea juridice ale compatrioților din Federația Rusă
+- whole_name: Fondul pentru protecția și sprijinirea juridice ale compatrioților din
+    Federația Rusă
   name_language: RO
   strong: true
   regulation_language: en
@@ -173,7 +182,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Fundația pentru sprijinirea și  protecția drepturilor  compatrioților din străinătate
+- whole_name: Fundația pentru sprijinirea și  protecția drepturilor  compatrioților
+    din străinătate
   name_language: RO
   strong: true
   regulation_language: en
@@ -263,7 +273,8 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Zaklada za potporu sunarodnjacima koji žive u inozemstvu i zaštitu njihovih prava
+- whole_name: Zaklada za potporu sunarodnjacima koji žive u inozemstvu i zaštitu njihovih
+    prava
   name_language: HR
   strong: true
   regulation_language: en
@@ -313,46 +324,6 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Stiftung für die Unterstützung von Landsleuten
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '154887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Leben im Ausland
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '154888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Fonds für den rechtlichen Schutz und die Unterstützung von Landsleuten der Russischen Föderation
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '154889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Stiftung für die Unterstützung und den Schutz der Rechte von im Ausland lebenden Landsleute
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '154890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - whole_name: Фонд поддержки и защиты прав соотечественников, проживающих за рубежом
   name_language: RU
   strong: true
@@ -393,11 +364,54 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Foundation for the Support and Protection of  the Rights of Compatriots Living Abroad
+- whole_name: Foundation for the Support and Protection of  the Rights of Compatriots
+    Living Abroad
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '154647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Fondation de soutien et de protection des droits des compatriotes vivant
+    à l’étranger
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '154916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Fonds für den rechtlichen Schutz und die Unterstützung von Landsleuten
+    der Russischen Föderation
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '154889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Stiftung für die Unterstützung von Landsleuten
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '154887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Leben im Ausland
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '154888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

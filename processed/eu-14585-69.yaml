@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14585.69
 logical_id: '183592'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр Витальевич
-  last_name: МИНЬКОВ
-  whole_name: Александр Витальевич МИНЬКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Александр
   last_name: МАРШАЛ
   whole_name: Александр МАРШАЛ
@@ -34,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Александр Витальевич
+  last_name: МИНЬКОВ
+  whole_name: Александр Витальевич МИНЬКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183596'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -55,7 +56,8 @@ name_aliases:
 - first_name: Vitalyevich
   last_name: MINKOV
   whole_name: Vitalyevich MINKOV
-  function: Russian musician, composer, singer, songwriter and TV presenter; Member of the Public Council under the Ministry of Defence of the Russian Federation
+  function: Russian musician, composer, singer, songwriter and TV presenter; Member
+    of the Public Council under the Ministry of Defence of the Russian Federation
   gender: M
   name_language: EN
   strong: true

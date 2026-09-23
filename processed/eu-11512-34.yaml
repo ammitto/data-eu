@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11512.34
 logical_id: '165149'
 regulations:
@@ -13,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ФКП “КГКПЗ”, Федеральное Казенное Предприятие “Казанский Государственный Казенный Пороховой Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: "„KGKPZ” Szövetségi Állami Vállalat"
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '165154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: FSE “KGKPZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165157'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Federal State Enterprise “Kazan State-Owned Gunpowder Plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -68,6 +39,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: ФКП “КГКПЗ”, Федеральное Казенное Предприятие “Казанский Государственный
+    Казенный Пороховой Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '165155'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Federal State Enterprise “Kazan State-Owned Gunpowder Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: FSE “KGKPZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165157'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8415.87
 logical_id: '141432'
 regulations:
@@ -13,33 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ansaroul Islam
-  strong: true
-  regulation_language: en
-  logical_id: '141437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Ansarour Islam
-  strong: true
-  regulation_language: en
-  logical_id: '141438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Ansar al-Islam
-  strong: true
-  regulation_language: en
-  logical_id: '141439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: IRSAD
   strong: true
   regulation_language: en
@@ -58,21 +32,47 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Defensores del Islam
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '141504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Apărătorii Islamului
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '141503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansar-ul-islam lil-ichad wal jihad
+  strong: true
+  regulation_language: en
+  logical_id: '141435'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansar al-Islam
+  strong: true
+  regulation_language: en
+  logical_id: '141439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansarour Islam
+  strong: true
+  regulation_language: en
+  logical_id: '141438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansaroul Islam
+  strong: true
+  regulation_language: en
+  logical_id: '141437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -87,10 +87,11 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Ansar-ul-islam lil-ichad wal jihad
+- whole_name: Defensores del Islam
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '141435'
+  logical_id: '141504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11418.19
 logical_id: '164267'
 regulations:
@@ -13,30 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Владимир
-  middle_name: Иванович
-  last_name: ПИЛИПЧИК
-  whole_name: Владимир Иванович ПИЛИПЧИК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Vladimir
-  middle_name: Ivanovich
-  last_name: PILIPCHIK
-  whole_name: Vladimir Ivanovich PILIPCHIK
-  function: Deputy head of IK-3 penal colony (Russia)
+  middle_name: Ivanovitš
+  last_name: Piliptšik
+  whole_name: Vladimir Ivanovitš Piliptšik
   gender: M
-  name_language: EN
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '164271'
+  logical_id: '164637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -57,20 +43,6 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Vladimir
-  middle_name: Ivanovitš
-  last_name: Piliptšik
-  whole_name: Vladimir Ivanovitš Piliptšik
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Vladimir
   middle_name: Ivanovič
   last_name: Pilipčik
   whole_name: Vladimir Ivanovič Pilipčik
@@ -79,6 +51,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Vladimir
+  middle_name: Ivanovich
+  last_name: PILIPCHIK
+  whole_name: Vladimir Ivanovich PILIPCHIK
+  function: Deputy head of IK-3 penal colony (Russia)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Владимир
+  middle_name: Иванович
+  last_name: ПИЛИПЧИК
+  whole_name: Владимир Иванович ПИЛИПЧИК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

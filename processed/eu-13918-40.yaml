@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13918.40
 logical_id: '180230'
 regulations:
@@ -13,24 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Владислав Евгеньевич БОРОВКОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: Vladislav Yevgenevich BOROVKOV
-  function: Vladislav Borovkov is a member of GRU (Russia’s military intelligence agency), Unit 29155, as well as of cyber actor Cadet Blizzard. Borovkov acted in concert with other Cadet Blizzard members. Furthermore, between December 2020 and August 2024, Borovkov took part in cyber attacks against government organisations in Ukraine. Cadet Blizzard employed WhisperGate wiper malware on the compromised systems, causing significant damage to Ukraine’s systems. Furthermore the group also targeted Member States of the Union and members of NATO with the aim of gaining sensitive information and destabilising their political situation.
+  function: Vladislav Borovkov is a member of GRU (Russia’s military intelligence
+    agency), Unit 29155, as well as of cyber actor Cadet Blizzard. Borovkov acted
+    in concert with other Cadet Blizzard members. Furthermore, between December 2020
+    and August 2024, Borovkov took part in cyber attacks against government organisations
+    in Ukraine. Cadet Blizzard employed WhisperGate wiper malware on the compromised
+    systems, causing significant damage to Ukraine’s systems. Furthermore the group
+    also targeted Member States of the Union and members of NATO with the aim of gaining
+    sensitive information and destabilising their political situation.
   gender: M
   title: officer (Senior Lieutenant) of GRU Unit 29155
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- whole_name: Владислав Евгеньевич БОРОВКОВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

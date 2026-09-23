@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10923.50
 logical_id: '159759'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitry
-  middle_name: Aleksandrovich
-  last_name: POLKOVNIKOV
-  whole_name: Dmitry Aleksandrovich POLKOVNIKOV
-  function: Director of Crimea Patriot Centre (also known as “Krympatriotcentr”)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159762'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Dmitrij
   last_name: Polkovnikov
   whole_name: Dmitrij Polkovnikov
@@ -77,6 +63,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Dmitry
+  middle_name: Aleksandrovich
+  last_name: POLKOVNIKOV
+  whole_name: Dmitry Aleksandrovich POLKOVNIKOV
+  function: Director of Crimea Patriot Centre (also known as “Krympatriotcentr”)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

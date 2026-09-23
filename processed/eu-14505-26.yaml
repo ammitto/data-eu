@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14505.26
 logical_id: '183188'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: JSC BBR Bank
-  function: JSC BBR Bank is a Russian commercial bank that ranks among the top 50 by asset size. The banking sector is a sector providing substantial revenue to the Russian Government.
+  function: JSC BBR Bank is a Russian commercial bank that ranks among the top 50
+    by asset size. The banking sector is a sector providing substantial revenue to
+    the Russian Government.
   title: Joint Stock Company
   name_language: EN
   strong: true

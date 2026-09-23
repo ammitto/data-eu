@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14504.27
 logical_id: '183181'
 regulations:
@@ -13,23 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock Company Surgutneftegasbank
-  function: JSC Surgutneftegasbank is a major regional Russian bank supporting energy infrastructure. The bank is a subsidiary of PJSC Surgutneftegas, one of Russia’s largest oil producers, which is listed by the Union.
-  title: Joint Stock Company
+- whole_name: JSC BANK SNGB
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183187'
+  logical_id: '183186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО БАНК СНГБ
-  name_language: RU
+- whole_name: Joint Stock Company Surgutneftegasbank
+  function: JSC Surgutneftegasbank is a major regional Russian bank supporting energy
+    infrastructure. The bank is a subsidiary of PJSC Surgutneftegas, one of Russia’s
+    largest oil producers, which is listed by the Union.
+  title: Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183184'
+  logical_id: '183187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -45,11 +48,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC BANK SNGB
-  name_language: EN
+- whole_name: АО БАНК СНГБ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183186'
+  logical_id: '183184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -69,21 +72,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: regnumber
-  number: '860201001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '183250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '8602190258'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '860201001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183250'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

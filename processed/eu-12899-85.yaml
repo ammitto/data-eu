@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12899.85
 logical_id: '174035'
 regulations:
@@ -13,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Кацярына  Аляксандраўна  ФЕДАСЕНКА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174042'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Kacjaryna Fedosenková
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '174039'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Kacjaryna Fedasenka
   gender: F
   name_language: CS
@@ -46,12 +25,34 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Katsjaryna Fedasenka
+- whole_name: Екатерина  Александровна  ФЕДОСЕНКО
   gender: F
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174038'
+  logical_id: '174041'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Кацярына  Аляксандраўна  ФЕДАСЕНКА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174042'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Ekaterina  Alexandrovna  FEDOSENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -69,23 +70,23 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ekaterina  Alexandrovna  FEDOSENKO
+- whole_name: Katsjaryna Fedasenka
   gender: F
-  name_language: EN
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '174043'
+  logical_id: '174038'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Екатерина  Александровна  ФЕДОСЕНКО
+- whole_name: Kacjaryna Fedosenková
   gender: F
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '174041'
+  logical_id: '174039'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

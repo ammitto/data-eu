@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1518.29
 logical_id: '3342'
 regulations:
@@ -22,10 +23,37 @@ name_aliases:
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Abdul Hadi
+  strong: true
+  regulation_language: en
+  logical_id: '4614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Abdul Karim
+  strong: true
+  regulation_language: en
+  logical_id: '4615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
 - whole_name: Bukhori
   strong: true
   regulation_language: en
   logical_id: '4616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Bukhory
+  strong: true
+  regulation_language: en
+  logical_id: '4617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
@@ -49,33 +77,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Bukhory
-  strong: true
-  regulation_language: en
-  logical_id: '4617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abdul Hadi
-  strong: true
-  regulation_language: en
-  logical_id: '4614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abdul Karim
-  strong: true
-  regulation_language: en
-  logical_id: '4615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'

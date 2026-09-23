@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10212.19
 logical_id: '154103'
 regulations:
@@ -13,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Seyyed Mohammad
-  last_name: MOUSVIAN
-  whole_name: Seyyed Mohammad MOUSVIAN
-  function: Public and Revolutionary Prosecutor, Isfahan (Isfahan Province)
+- whole_name: سید محمد موسویان
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '154107'
+  logical_id: '154105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'
@@ -40,12 +38,15 @@ name_aliases:
     publication_date: '2023-06-26'
     number_title: 2023/1298 (OJ L160 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
-- whole_name: سید محمد موسویان
+- first_name: Seyyed Mohammad
+  last_name: MOUSVIAN
+  whole_name: Seyyed Mohammad MOUSVIAN
+  function: Public and Revolutionary Prosecutor, Isfahan (Isfahan Province)
   gender: M
-  name_language: FA
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '154105'
+  logical_id: '154107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'

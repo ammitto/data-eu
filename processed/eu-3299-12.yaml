@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3299.12
 logical_id: '5618'
 remark: 'Date of designation referred to in Article 2a (4) (b): 11.3.2010.'
@@ -18,6 +19,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-03-26'
+    number_title: 262/2010 (OJ L80)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
+- first_name: Akram
+  middle_name: Turki
+  last_name: Al-Hishan
+  whole_name: Akram Turki Al-Hishan
+  strong: true
+  regulation_language: en
+  logical_id: '7748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
@@ -44,19 +57,19 @@ name_aliases:
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-- first_name: Akram
-  middle_name: Turki
-  last_name: Al-Hishan
-  whole_name: Akram Turki Al-Hishan
-  strong: true
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1974
+  country_iso2_code: '00'
+  country_description: UNKNOWN
   regulation_language: en
-  logical_id: '7748'
+  logical_id: '1245'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1975
@@ -81,23 +94,12 @@ birthdates:
     publication_date: '2010-03-26'
     number_title: 262/2010 (OJ L80)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1974
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1245'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-03-26'
-    number_title: 262/2010 (OJ L80)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
 addresses:
-- country_iso2_code: JO
-  country_description: JORDAN
+- city: Deir ez-Zor Governorate
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '107256'
+  logical_id: '1378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-07'
@@ -112,11 +114,10 @@ addresses:
     publication_date: '2016-01-07'
     number_title: 2016/13 (OJ L4/10)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
-- city: Deir ez-Zor Governorate
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: JO
+  country_description: JORDAN
   regulation_language: en
-  logical_id: '1378'
+  logical_id: '107256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-07'

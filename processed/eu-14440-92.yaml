@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14440.92
 logical_id: '182893'
 designation_details: 'Type of entity: Federal State Budgetary Educational Institution'
@@ -14,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: All-Russian Children’s Centre “Scarlet Sails”
+- whole_name: All-Russian Children’s Centre “Alye Parusa”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182901'
+  logical_id: '182900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -34,7 +35,8 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Алые паруса”
+- whole_name: Федеральное государственное бюджетное образовательное учреждение «Всероссийский
+    детский центр “Алые паруса”
   name_language: RU
   strong: true
   regulation_language: en
@@ -44,21 +46,22 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: All-Russian Children’s Centre “Alye Parusa”
+- whole_name: Federal State Budgetary Educational Institution All-Russian Children’s
+    Centre “Scarlet Sails”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182900'
+  logical_id: '182902'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Federal State Budgetary Educational Institution All-Russian Children’s Centre “Scarlet Sails”
+- whole_name: All-Russian Children’s Centre “Scarlet Sails”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182902'
+  logical_id: '182901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -78,11 +81,11 @@ addresses:
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 identifications:
-- identification_type_code: taxid
-  number: '9110005664'
+- identification_type_code: other
+  number: '911001001'
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '182896'
+  logical_id: '182895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -98,11 +101,11 @@ identifications:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- identification_type_code: other
-  number: '911001001'
+- identification_type_code: taxid
+  number: '9110005664'
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '182895'
+  logical_id: '182896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

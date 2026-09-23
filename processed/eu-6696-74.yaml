@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6696.74
 logical_id: '131986'
 regulations:
@@ -14,60 +15,26 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ihar
-  middle_name: Mikalajevitj
-  last_name: HUTNIK
-  whole_name: Ihar Mikalajevitj HUTNIK
+  last_name: Hutnik
+  whole_name: Ihar Hutnik
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '132342'
+  logical_id: '164167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihar
-  middle_name: Mikalaevich
-  last_name: GUTNIK
-  whole_name: Ihar Mikalaevich GUTNIK
-  function: |-
-    Deputy Chairman of the State Border Committee, 
-    former Head of the Brest Border Group
+- first_name: Игор
+  last_name: Гутник
+  whole_name: Игор Гутник
   gender: M
-  title: Colonel
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '131992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Igor
-  middle_name: Nikolaevich
-  last_name: GUTNIK
-  whole_name: Igor Nikolaevich GUTNIK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '131991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iгар
-  middle_name: Мiкалаевiч
-  last_name: ГУТНIК
-  whole_name: гар Мiкалаевiч ГУТНIК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '131990'
+  logical_id: '164175'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -87,6 +54,65 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Iгар
+  middle_name: Мiкалаевiч
+  last_name: ГУТНIК
+  whole_name: гар Мiкалаевiч ГУТНIК
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '131990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igor
+  middle_name: Nikolaevich
+  last_name: GUTNIK
+  whole_name: Igor Nikolaevich GUTNIK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '131991'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ihar
+  middle_name: Mikalaevich
+  last_name: GUTNIK
+  whole_name: Ihar Mikalaevich GUTNIK
+  function: "Deputy Chairman of the State Border Committee, \nformer Head of the Brest
+    Border Group"
+  gender: M
+  title: Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '131992'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ihar
+  middle_name: Mikalajevitj
+  last_name: HUTNIK
+  whole_name: Ihar Mikalajevitj HUTNIK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Igor
   middle_name: Nikolajevitj
   last_name: GUTNIK
@@ -96,32 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Игор
-  last_name: Гутник
-  whole_name: Игор Гутник
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihar
-  last_name: Hutnik
-  whole_name: Ihar Hutnik
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

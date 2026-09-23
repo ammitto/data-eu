@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2925.93
 logical_id: '7547'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: اشرف محمد يوسف عثمان عبد السلام
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '129107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - first_name: Ashraf
   middle_name: Muhammad Yusuf
   last_name: "'Uthman 'Abd Al-Salam"
@@ -62,10 +53,11 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Khattab
+- whole_name: اشرف محمد يوسف عثمان عبد السلام
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '18486'
+  logical_id: '129107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -75,6 +67,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Khattab
+  strong: true
+  regulation_language: en
+  logical_id: '18486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -115,20 +116,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 identifications:
 - identification_type_code: passport
-  number: '486298'
+  number: K048787
   country_iso2_code: JO
   regulation_language: en
-  logical_id: '906'
+  logical_id: '905'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - identification_type_code: passport
-  number: K048787
+  number: '486298'
   country_iso2_code: JO
   regulation_language: en
-  logical_id: '905'
+  logical_id: '906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

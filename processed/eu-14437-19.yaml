@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.14437.19
 logical_id: '182865'
-designation_details: 'Type of entity: State-linked military-patriotic training facility for minors'
+designation_details: 'Type of entity: State-linked military-patriotic training facility
+  for minors'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,21 +16,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Autonomous Non-Commercial Organisation Military-Patriotic Club “Patriot”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Military-Patriotic Club “Patriot”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Autonomous Non-Commercial Organisation Military-Patriotic Club “Patriot”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

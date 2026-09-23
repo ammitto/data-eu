@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10015.95
 logical_id: '152779'
 regulations:
@@ -26,6 +27,17 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: وسيم بديع الأسد
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Wasim Badia
   last_name: AL-ASSAD
   whole_name: Wasim Badia AL-ASSAD
@@ -34,17 +46,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: وسيم بديع الأسد
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152782'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

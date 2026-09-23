@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11789.22
 logical_id: '166923'
 regulations:
@@ -13,27 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yuriy
+  middle_name: Petrovich
+  last_name: MUTSENEK
+  whole_name: Yuriy Petrovich MUTSENEK
+  function: Deputy Minister of Construction, Housing and Utilities of the Russian
+    Federation, in charge of the Administrative Department and the Legal Department
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166926'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Юрий Петрович МУЦЕНЕК
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '166925'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Yuriy
-  middle_name: Petrovich
-  last_name: MUTSENEK
-  whole_name: Yuriy Petrovich MUTSENEK
-  function: Deputy Minister of Construction, Housing and Utilities of the Russian Federation, in charge of the Administrative Department and the Legal Department
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

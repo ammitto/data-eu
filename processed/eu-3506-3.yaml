@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3506.3
 logical_id: '7290'
 remark: none
@@ -14,6 +15,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vladimir
+  middle_name: Michailovich
+  last_name: DZHABAROV
+  whole_name: Vladimir Michailovich DZHABAROV
+  function: First Deputy-Chairman of the International Affairs Committee of the Federation
+    Council of the Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Vladimir
   middle_name: Michajlovitj
   last_name: DZJABAROV
@@ -37,21 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  middle_name: Michailovich
-  last_name: DZHABAROV
-  whole_name: Vladimir Michailovich DZHABAROV
-  function: First Deputy-Chairman of the International Affairs Committee of the Federation Council of the Russian Federation
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

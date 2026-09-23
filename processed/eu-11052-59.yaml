@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11052.59
 logical_id: '160542'
 regulations:
@@ -13,30 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Павел
-  middle_name: Алексеевич
-  last_name: МАРИНЫЧЕВ
-  whole_name: Павел Алексеевич МАРИНЫЧЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-03'
-    number_title: 2024/196 (OJ L03012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400196
 - first_name: Pavel
-  middle_name: Alekseevich
-  last_name: MARINYCHEV
-  whole_name: Pavel Alekseevich MARINYCHEV
-  function: CEO of Alrosa
+  last_name: Marinyčev
+  whole_name: Pavel Marinyčev
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160547'
+  logical_id: '160555'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-03'
@@ -56,14 +41,15 @@ name_aliases:
     publication_date: '2024-01-03'
     number_title: 2024/196 (OJ L03012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400196
-- first_name: Pavel
-  last_name: Marinyčev
-  whole_name: Pavel Marinyčev
+- first_name: Павел
+  middle_name: Алексеевич
+  last_name: МАРИНЫЧЕВ
+  whole_name: Павел Алексеевич МАРИНЫЧЕВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160555'
+  logical_id: '160546'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-03'
@@ -77,6 +63,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160556'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-03'
+    number_title: 2024/196 (OJ L03012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400196
+- first_name: Pavel
+  middle_name: Alekseevich
+  last_name: MARINYCHEV
+  whole_name: Pavel Alekseevich MARINYCHEV
+  function: CEO of Alrosa
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-03'

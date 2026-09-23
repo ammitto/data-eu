@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.636.9
 logical_id: '839'
 remark: |-
@@ -17,21 +18,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Wali
+- whole_name: Mohammad Wali Mohammad Ewaz
+  function: Minister of Ministry of Preventing Vice and Propagating Virtue under the
+    Taliban regime
+  title: Maulavi
   strong: true
   regulation_language: en
-  logical_id: '16855'
+  logical_id: '1694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-04'
     number_title: 1139/2012 (OJ L332)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
-- whole_name: Mohammad Wali Mohammad Ewaz
-  function: Minister of Ministry of Preventing Vice and Propagating Virtue under the Taliban regime
-  title: Maulavi
+- whole_name: Mohammad Wali
   strong: true
   regulation_language: en
-  logical_id: '1694'
+  logical_id: '16855'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-04'

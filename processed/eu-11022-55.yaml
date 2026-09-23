@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11022.55
 logical_id: '160348'
 regulations:
@@ -74,7 +75,8 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Rosfinmonitoring
-  function: Russian federal executive body responsible for countering money laundering and terrorism financing
+  function: Russian federal executive body responsible for countering money laundering
+    and terrorism financing
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7937.80
 logical_id: '138429'
 regulations:
@@ -13,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yaroslav
-  middle_name: Gennadievich
-  last_name: ANIKA
-  whole_name: Yaroslav Gennadievich ANIKA
-  function: Former Member of the so-called "People’s Council" of the so-called "Donetsk People’s Republic"
+- first_name: Ярослав
+  middle_name: Геннадiйович
+  last_name: АНIКА
+  whole_name: Ярослав Геннадiйович АНIКА
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '138433'
+  logical_id: '138431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -42,15 +42,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Ярослав
-  middle_name: Геннадiйович
-  last_name: АНIКА
-  whole_name: Ярослав Геннадiйович АНIКА
+- first_name: Yaroslav
+  middle_name: Gennadievich
+  last_name: ANIKA
+  whole_name: Yaroslav Gennadievich ANIKA
+  function: Former Member of the so-called "People’s Council" of the so-called "Donetsk
+    People’s Republic"
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '138431'
+  logical_id: '138433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

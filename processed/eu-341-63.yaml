@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.341.63
 logical_id: '603'
 remark: |-
@@ -20,7 +21,9 @@ name_aliases:
   middle_name: Hassan
   last_name: Akhund
   whole_name: Mohammad Hassan Akhund
-  function: "(a) First Deputy, Council of Ministers under the Taliban regime, (b) Foreign Minister under the Taliban regime, (c) Governor of Kandahar under the Taliban regime, (d) Political Advisor of Mullah Mohammed Omar."
+  function: "(a) First Deputy, Council of Ministers under the Taliban regime, (b)
+    Foreign Minister under the Taliban regime, (c) Governor of Kandahar under the
+    Taliban regime, (d) Political Advisor of Mullah Mohammed Omar."
   title: "(a) Mullah, (b) Haji."
   strong: true
   regulation_language: en
@@ -43,20 +46,6 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year_range_from: 1945
-  year_range_to: 1950
-  city: Pashmul village, Panjwai District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
   year_range_from: 1955
   year_range_to: 1958
   city: Pashmul village, Panjwai District, Kandahar Province
@@ -69,3 +58,17 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year_range_from: 1945
+  year_range_to: 1950
+  city: Pashmul village, Panjwai District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1817'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF

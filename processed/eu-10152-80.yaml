@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10152.80
 logical_id: '153786'
 regulations:
@@ -16,7 +17,8 @@ name_aliases:
 - first_name: Aleksandr
   last_name: Kalinin
   whole_name: Aleksandr Kalinin
-  function: leader of the Party of Regions of Moldova, head of  the interregional public organisation Congress of Moldovan Diasporas
+  function: leader of the Party of Regions of Moldova, head of  the interregional
+    public organisation Congress of Moldovan Diasporas
   gender: M
   name_language: EN
   strong: true
@@ -41,19 +43,19 @@ name_aliases:
     number_title: 2023/1046 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
 citizenships:
-- country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '153789'
+  logical_id: '153788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
     number_title: 2023/1046 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '153788'
+  logical_id: '153789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

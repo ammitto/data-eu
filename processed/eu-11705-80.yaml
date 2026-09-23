@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11705.80
 logical_id: '166506'
 regulations:
@@ -44,7 +45,8 @@ name_aliases:
   middle_name: Veniaminovna
   last_name: GARTUNG
   whole_name: Marina Veniaminovna GARTUNG
-  function: Majority shareholder of PJSC CHKPZ; owner of the LLC Robot Plant; owner of the LLC Hartung
+  function: Majority shareholder of PJSC CHKPZ; owner of the LLC Robot Plant; owner
+    of the LLC Hartung
   gender: F
   name_language: EN
   strong: true

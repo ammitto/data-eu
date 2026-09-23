@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12932.93
 logical_id: '174251'
 regulations:
@@ -13,6 +14,56 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Commission électorale  centrale de la  République de  Biélorussie (CEC)
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '174266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Η Κεντρική Εκλογική Επιτροπή
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '174267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Valgevene  Vabariigi  keskvalimiskomisjon
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '174268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Zentrale  Wahlkommission der  Republik Belarus
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '174269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: CEC, Ústřední volební komise
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: El cometido de la Comisión Electoral Central (Central Election  Commission)
   name_language: ES
   strong: true
@@ -54,7 +105,8 @@ name_aliases:
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Central Election  Commission of the  Republic of Belarus  (CEC)
-  function: CEC of the Republic of Belarus is responsible for the organisation of democratic elections in Belarus
+  function: CEC of the Republic of Belarus is responsible for the organisation of
+    democratic elections in Belarus
   name_language: EN
   strong: true
   regulation_language: en
@@ -189,56 +241,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Commission électorale  centrale de la  République de  Biélorussie (CEC)
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '174266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Η Κεντρική Εκλογική Επιτροπή
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '174267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Valgevene  Vabariigi  keskvalimiskomisjon
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '174268'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Zentrale  Wahlkommission der  Republik Belarus
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '174269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: CEC, Ústřední volební komise
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

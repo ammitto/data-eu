@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12179.84
 logical_id: '169320'
 regulations:
@@ -13,25 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Viktor Arkadievich SHEVTSOV
+- whole_name: Viktar Arkadzievich SHAUTSOU
+  function: Businessman, investor
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Viktar
-  last_name: Šaucou
-  whole_name: Viktar Šaucou
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169554'
+  logical_id: '169328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -50,13 +39,34 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Viktar Arkadzievich SHAUTSOU
-  function: Businessman, investor
+- whole_name: Viktor Arkadievich SHEVTSOV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169328'
+  logical_id: '169327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Вiктар Аркадзьевiч ШАЎЦОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Виктор Аркадьевич ШВЕЦОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -75,23 +85,14 @@ name_aliases:
     publication_date: '2025-02-25'
     number_title: 2025/386 (OJ L25022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- whole_name: Виктор Аркадьевич ШВЕЦОВ
+- first_name: Viktar
+  last_name: Šaucou
+  whole_name: Viktar Šaucou
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '169325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Вiктар Аркадзьевiч ШАЎЦОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169326'
+  logical_id: '169554'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14794.57
 logical_id: '184486'
 regulations:
@@ -13,23 +14,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint-stock Company  Aluminium  Metallurg Rus
-  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing specialized aluminum alloy forgings and profiles for high-load structural applications.
-  name_language: EN
+- whole_name: Акционерное общество “Алюминий Металлург Рус”
+  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing
+    specialized aluminum alloy forgings and profiles for high-load structural applications.
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184490'
+  logical_id: '184488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Акционерное общество “Алюминий Металлург Рус”
-  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing specialized aluminum alloy forgings and profiles for high-load structural applications.
+- whole_name: АО АМР
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184488'
+  logical_id: '184491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -45,11 +46,13 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО АМР
-  name_language: RU
+- whole_name: Joint-stock Company  Aluminium  Metallurg Rus
+  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing
+    specialized aluminum alloy forgings and profiles for high-load structural applications.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184491'
+  logical_id: '184490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -69,11 +72,11 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: regnumber
-  number: '1047796161830'
+- identification_type_code: taxid
+  number: '7709534220'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '184495'
+  logical_id: '184494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -89,11 +92,11 @@ identifications:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: taxid
-  number: '7709534220'
+- identification_type_code: regnumber
+  number: '1047796161830'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '184494'
+  logical_id: '184495'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8782.94
 logical_id: '144398'
 regulations:
@@ -13,11 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Александр
+  middle_name: Константинович
+  last_name: КОСТОМАРОВ
+  whole_name: Александр Константинович КОСТОМАРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Alexander
   middle_name: Konstantinovich
   last_name: KOSTOMAROV
   whole_name: Alexander Konstantinovich KOSTOMAROV
-  function: '"First Deputy Head of the administration of the Head of the Donetsk People’s Republic”'
+  function: "\"First Deputy Head of the administration of the Head of the Donetsk
+    People’s Republic”"
   gender: M
   strong: true
   regulation_language: en
@@ -36,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144647'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Александр
-  middle_name: Константинович
-  last_name: КОСТОМАРОВ
-  whole_name: Александр Константинович КОСТОМАРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

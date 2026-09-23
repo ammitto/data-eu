@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14510.0
 logical_id: '183215'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AO AКБ “НРБанк”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183218'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Aкционерный Коммерческий Банк “Национальный Резервный Банк” (AO)
   name_language: RU
   strong: true
@@ -43,6 +34,17 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Joint Stock Commercial Bank “National Reserve Bank” (JSC)
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: akcinis  komercinis bankas „Nacionalinis rezervų bankas (JSC)
   name_language: LT
   strong: true
@@ -53,12 +55,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Joint Stock Commercial Bank “National Reserve Bank” (JSC)
-  title: Joint Stock Company
-  name_language: EN
+- whole_name: AO AКБ “НРБанк”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183221'
+  logical_id: '183218'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

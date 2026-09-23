@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13176.75
 logical_id: '175916'
 regulations:
@@ -25,7 +26,12 @@ name_aliases:
     number_title: 2025/958 (OJ L202500958)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Nadezhda Viktorovna TIKHONOVA
-  function: Nadezhda Tikhonova is a prosecutor of the Prosecutor General’s Office of the Russian Federation. Nadezhda Tikhonova asked a court to find Alexei Navalny guilty and to sentence him to 13 years imprisonment and 2 years of restriction of liberty, with a fine of 1,2  million RUB in a fabricated case of fraud for collecting donations for the work of the Anti-Corruption Foundation, and of contempt of court.
+  function: Nadezhda Tikhonova is a prosecutor of the Prosecutor General’s Office
+    of the Russian Federation. Nadezhda Tikhonova asked a court to find Alexei Navalny
+    guilty and to sentence him to 13 years imprisonment and 2 years of restriction
+    of liberty, with a fine of 1,2  million RUB in a fabricated case of fraud for
+    collecting donations for the work of the Anti-Corruption Foundation, and of contempt
+    of court.
   gender: F
   title: prosecutor of the Prosecutor General’s Office of the Russian Federation
   name_language: EN

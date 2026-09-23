@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10370.38
 logical_id: '154804'
 regulations:
@@ -13,25 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Obshchestvo s Ogranichennoi Otvetstvennostiu “Iteranet”
-  strong: true
-  regulation_language: en
-  logical_id: '154807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Společnost s ručením omezeným Iteranet
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '155099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - whole_name: Iteranet SRL
   name_language: RO
   strong: true
@@ -52,21 +34,20 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: sociedad limitada Iteranet
-  name_language: ES
+- whole_name: Obshchestvo s Ogranichennoi Otvetstvennostiu “Iteranet”
   strong: true
   regulation_language: en
-  logical_id: '154985'
+  logical_id: '154807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Iteranet, d. o. o.
-  name_language: SL
+- whole_name: Iteranet LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155184'
+  logical_id: '154808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -82,11 +63,31 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Iteranet LLC
-  name_language: EN
+- whole_name: sociedad limitada Iteranet
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '154808'
+  logical_id: '154985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Společnost s ručením omezeným Iteranet
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '155099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Iteranet, d. o. o.
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '155184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

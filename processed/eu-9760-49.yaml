@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9760.49
 logical_id: '150154'
 regulations:
@@ -23,21 +24,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea cu răspundere limitată Grupul unit de construcții de mașini
-  name_language: RO
+- whole_name: Ribotos atsakomybės bendrovė „United Machine-Building Group“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '151256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Zjednoczona Grupa Zakładów Budowlanych spółka z ograniczoną odpowiedzialnością
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151147'
+  logical_id: '151304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -63,22 +54,22 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société à responsabilité limitée "Groupe uni de construction mécanique"
-  name_language: FR
+- whole_name: Общество с ограниченной ответственностью “Объединенная машиностроительная
+    группа”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151121'
+  logical_id: '150158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: LLC "OMG"
-  function: a Russian industrial holding
-  name_language: EN
+- whole_name: Société à responsabilité limitée "Groupe uni de construction mécanique"
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '150159'
+  logical_id: '151121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -95,21 +86,32 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Ribotos atsakomybės bendrovė „United Machine-Building Group“
-  name_language: LT
+- whole_name: LLC "OMG"
+  function: a Russian industrial holding
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151304'
+  logical_id: '150159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Общество с ограниченной ответственностью “Объединенная машиностроительная группа”
-  name_language: RU
+- whole_name: Societatea cu răspundere limitată Grupul unit de construcții de mașini
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150158'
+  logical_id: '151256'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Zjednoczona Grupa Zakładów Budowlanych spółka z ograniczoną odpowiedzialnością
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

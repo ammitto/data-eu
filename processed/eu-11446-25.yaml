@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11446.25
 logical_id: '164407'
 regulations:
@@ -13,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: kažnjenička kolonija IK-3
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164708'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Polarni vuk
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164709'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Полярный волк
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: ФКУ ИК-3
   name_language: RU
   strong: true
@@ -84,11 +55,52 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: IK-3 penal colony
-  function: a penal colony in the Russian correctional services, which is run by Vadim Kalinin
+  function: a penal colony in the Russian correctional services, which is run by Vadim
+    Kalinin
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '164415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Lobo Polar
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '164536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: colónia correcional masculina de segurança máxima IK-3
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '164537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Instituição do Estado Federal "Colónia Correcional n.o 3" (IK-3)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '164538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Colónia penal IK-3
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '164539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -114,7 +126,8 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: L’institution d’État fédéral “Colonie de redressement no 3” (colonie IK-3)
+- whole_name: L’institution d’État fédéral “Colonie de redressement no 3” (colonie
+    IK-3)
   name_language: FR
   strong: true
   regulation_language: en
@@ -204,16 +217,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: straffkoloni IK-3
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: Straffekolonien IK-3
   name_language: DA
   strong: true
@@ -294,31 +297,11 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Federalinė valstybinė institucija „Pataisos kolonija Nr. 3“
-  name_language: LT
+- whole_name: straffkoloni IK-3
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '164722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Pataisos kolonija IK-3
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '164723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Savezna državna ustanova „Kažnjenička kolonija br. 3”
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164707'
+  logical_id: '164631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -334,101 +317,31 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Griežčiausio režimo vyrų pataisos kolonija IK-3
-  name_language: LT
+- whole_name: Savezna državna ustanova „Kažnjenička kolonija br. 3”
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '164721'
+  logical_id: '164707'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: "„Poliarinis vilkas“"
-  name_language: LT
+- whole_name: kažnjenička kolonija IK-3
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '164720'
+  logical_id: '164708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: zvezna državna institucija „kazenska kolonija št. 3“
-  name_language: SL
+- whole_name: Polarni vuk
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '164716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: IK-3 büntetőtábor
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164555'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: najstrožje varovana kazenska kolonija IK-3 za moške
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '164715'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kazenska kolonija IK-3
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '164714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: IK-3 ylimmän turvatason rangaistussiirtola miehille
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164666'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: liittovaltion laitos ”rangaistussiirtola nro 3”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: IK-3-rangaistussiirtola
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Napasusi
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164665'
+  logical_id: '164709'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -474,46 +387,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Lobo Polar
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '164536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: colónia correcional masculina de segurança máxima IK-3
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '164537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Instituição do Estado Federal "Colónia Correcional n.o 3" (IK-3)
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '164538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Colónia penal IK-3
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '164539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: Sarki Farkas
   name_language: HU
   strong: true
@@ -534,11 +407,142 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: a »3. számú Büntetésvégrehajtási Tábor« elnevezésű Szövetségi Állami Intézet
+- whole_name: a »3. számú Büntetésvégrehajtási Tábor« elnevezésű Szövetségi Állami
+    Intézet
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '164554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: IK-3 büntetőtábor
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Napasusi
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164665'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: IK-3 ylimmän turvatason rangaistussiirtola miehille
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: liittovaltion laitos ”rangaistussiirtola nro 3”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: IK-3-rangaistussiirtola
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Полярный волк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Pataisos kolonija IK-3
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '164723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Federalinė valstybinė institucija „Pataisos kolonija Nr. 3“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '164722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Griežčiausio režimo vyrų pataisos kolonija IK-3
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '164721'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: "„Poliarinis vilkas“"
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '164720'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: zvezna državna institucija „kazenska kolonija št. 3“
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164716'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: kazenska kolonija IK-3
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: najstrožje varovana kazenska kolonija IK-3 za moške
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164715'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

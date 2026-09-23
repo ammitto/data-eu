@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.278.61
 logical_id: '7471'
 remark: Date of listing 12.9.2014
@@ -18,7 +19,8 @@ name_aliases:
   middle_name: Viktorovich
   last_name: CHEMEZOV
   whole_name: Sergey Viktorovich CHEMEZOV
-  function: chairman of the Rostec conglomerate, member of the Supreme Council of ‘United Russia’
+  function: chairman of the Rostec conglomerate, member of the Supreme Council of
+    ‘United Russia’
   gender: M
   name_language: EN
   strong: true
@@ -51,6 +53,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergei
+  last_name: Chemezov
+  whole_name: Sergei Chemezov
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -91,19 +106,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158580'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergei
-  last_name: Chemezov
-  whole_name: Sergei Chemezov
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

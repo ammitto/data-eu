@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4442.45
 logical_id: '116156'
 remark: UNLI-30.03.2018
@@ -23,15 +24,6 @@ name_aliases:
     publication_date: '2018-04-09'
     number_title: 2018/548 (OJ L91)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
-- whole_name: Neil Tsang
-  strong: true
-  regulation_language: en
-  logical_id: '116344'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-09'
-    number_title: 2018/548 (OJ L91)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
 - first_name: YUNG
   middle_name: YUAN
   last_name: TSANG
@@ -39,6 +31,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '116345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-09'
+    number_title: 2018/548 (OJ L91)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
+- whole_name: Neil Tsang
+  strong: true
+  regulation_language: en
+  logical_id: '116344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'

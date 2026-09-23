@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13732.63
 logical_id: '179141'
 designation_details: "(8.11.2014, suspended since 16.1.2016)"
@@ -15,7 +16,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Sina Bank
-  function: Sina Bank is controlled by the Islamic Revolution Mostazafan Foundation, a major Iranian parastatal entity controlled by the Supreme Leader Khamenei, and which has a controlling shareholding in Sina Bank. It provides financial services to the Mostazafan Foundation and its group of subsidiary units and companies. Accordingly, Sina Bank provides financial support to the Government of Iran through the Mostazafan Foundation.
+  function: Sina Bank is controlled by the Islamic Revolution Mostazafan Foundation,
+    a major Iranian parastatal entity controlled by the Supreme Leader Khamenei, and
+    which has a controlling shareholding in Sina Bank. It provides financial services
+    to the Mostazafan Foundation and its group of subsidiary units and companies.
+    Accordingly, Sina Bank provides financial support to the Government of Iran through
+    the Mostazafan Foundation.
   name_language: EN
   strong: true
   regulation_language: en

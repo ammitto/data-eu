@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11606.70
 logical_id: '165717'
 regulations:
@@ -13,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  middle_name: Vladimirovič
-  last_name: Blinov
-  whole_name: Sergej Vladimirovič Blinov
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: БЛИНОВ
+  whole_name: Сергей Владимирович БЛИНОВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165932'
+  logical_id: '165719'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -42,15 +43,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Сергей
-  middle_name: Владимирович
-  last_name: БЛИНОВ
-  whole_name: Сергей Владимирович БЛИНОВ
+- first_name: Sergej
+  middle_name: Vladimirovič
+  last_name: Blinov
+  whole_name: Sergej Vladimirovič Blinov
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165719'
+  logical_id: '165912'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -75,10 +76,10 @@ name_aliases:
   last_name: Blinov
   whole_name: Sergej Vladimirovič Blinov
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165912'
+  logical_id: '165932'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11452.95
 logical_id: '164843'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: SDB Turbina Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: sociedad anónima Special Design Bureau Turbina
   name_language: ES
   strong: true
@@ -43,11 +34,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное Общество “Специальное Конструкторское Бюро ‘Турбина’”
-  name_language: RU
+- whole_name: SDB Turbina Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '164850'
+  logical_id: '164846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -78,6 +69,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Акционерное Общество “Специальное Конструкторское Бюро ‘Турбина’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164850'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

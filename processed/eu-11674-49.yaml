@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11674.49
 logical_id: '166273'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: TsNIITochMash
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166276'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: ЦНИИТОЧМАШ
   name_language: RU
   strong: true
@@ -33,18 +24,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: АО “Центральный научно-исследовательский институт точного машиностроения”
-  name_language: RU
+- whole_name: TsNIITochMash
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167720'
+  logical_id: '166276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: JSC "Central Research Institute of Precision Engineering"
-  function: JSC "Central Research Institute of Precision Engineering" (JSC TsNIITochMash) is part of State Corporation Rostec and is known for its scientific and technical activities in the field of development and production of weapons and military equipment for various branches of the Russian Armed Forces.
+  function: JSC "Central Research Institute of Precision Engineering" (JSC TsNIITochMash)
+    is part of State Corporation Rostec and is known for its scientific and technical
+    activities in the field of development and production of weapons and military
+    equipment for various branches of the Russian Armed Forces.
   title: Joint Stock Company
   name_language: EN
   strong: true
@@ -60,6 +54,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: АО “Центральный научно-исследовательский институт точного машиностроения”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

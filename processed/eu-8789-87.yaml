@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8789.87
 logical_id: '144455'
 regulations:
@@ -41,34 +42,6 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Сергей
-  middle_name: Борисович
-  last_name: РЫЖКОВ
-  whole_name: Сергей Борисович РЫЖКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borissovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borissovich RYZHKOV
-  function: Major General of the Russian armed forces and Commander of the 41st Combined Arms Army
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Sergey
   middle_name: Borisovich
   last_name: RYZHKOV
@@ -83,6 +56,20 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Сергей
+  middle_name: Борисович
+  last_name: РЫЖКОВ
+  whole_name: Сергей Борисович РЫЖКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Sergej
   middle_name: Borisovitj
   last_name: RYZJKOV
@@ -92,6 +79,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Sergey
+  middle_name: Borissovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borissovich RYZHKOV
+  function: Major General of the Russian armed forces and Commander of the 41st Combined
+    Arms Army
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

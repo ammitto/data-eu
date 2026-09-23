@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3597.74
 logical_id: '7522'
 remark: None
@@ -14,21 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олександр Ігорович КОФМАН
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '111357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
 - first_name: Aleksandr
   middle_name: Igorevich
   last_name: KOFMAN
   whole_name: Aleksandr Igorevich KOFMAN
-  function: Former so-called “Foreign Minister” and so-called “First deputy speaker” of the “Parliament” of the “Donetsk People's Republic”. Stood as a candidate in the so-called illegal “elections” of 2 November 2014 to the post of so-called “Head” of the “Donetsk People's Republic”.
+  function: Former so-called “Foreign Minister” and so-called “First deputy speaker”
+    of the “Parliament” of the “Donetsk People's Republic”. Stood as a candidate in
+    the so-called illegal “elections” of 2 November 2014 to the post of so-called
+    “Head” of the “Donetsk People's Republic”.
   gender: M
   strong: true
   regulation_language: en
@@ -53,6 +47,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- whole_name: Олександр Ігорович КОФМАН
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '111357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

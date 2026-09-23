@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14162.1
 logical_id: '181613'
 regulations:
@@ -13,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Центр военной подготовки Время-Ч
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Учебный центр «Время -Ч»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Limited Liability Company “Vremya-Ch”
   function: |-
     Vremya-Ch is a military training centre in Moscow that provides military-style education and preparedness programs for law enforcement and military personnel. Its courses cover Unmanned Air Vehicle (UAV) operation, military radio communications, survival skills.
@@ -42,26 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Общество с ограниченной ответственностью “Время Ч”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: LLC “Vremya-Ch”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -97,6 +58,46 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Центр военной подготовки Время-Ч
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Учебный центр «Время -Ч»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC “Vremya-Ch”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью “Время Ч”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 addresses:
 - street: Khlebozavodsky passage, 7, building 9, floor 5, room /office XXII/8/44
   city: Moscow
@@ -122,21 +123,21 @@ identifications:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- identification_type_code: regnumber
-  number: '1217700326700'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '181617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: taxid
   number: '9724053282'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1217700326700'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

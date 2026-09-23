@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2789.29
 logical_id: '6628'
 regulations:
@@ -27,9 +28,7 @@ name_aliases:
 - first_name: George
   last_name: CHAOUI
   whole_name: George CHAOUI
-  function: |-
-    Member of the Syrian electronic army (territorial army intelligence 
-    service).
+  function: "Member of the Syrian electronic army (territorial army intelligence \nservice)."
   gender: M
   strong: true
   regulation_language: en

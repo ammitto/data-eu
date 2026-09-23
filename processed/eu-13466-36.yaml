@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13466.36
 logical_id: '177847'
 regulations:
@@ -14,7 +15,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Tigerweb
-  function: Tigerweb is the Russian Crimea-based web-company that operates the informational manipulation project “Portal Kombat”, which disseminates pro-Russian content and targets several Western countries, including France, through various so-called “informational portals”.
+  function: Tigerweb is the Russian Crimea-based web-company that operates the informational
+    manipulation project “Portal Kombat”, which disseminates pro-Russian content and
+    targets several Western countries, including France, through various so-called
+    “informational portals”.
   name_language: EN
   strong: true
   regulation_language: en

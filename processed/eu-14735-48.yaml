@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14735.48
 logical_id: '184198'
 regulations:
@@ -13,6 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Алексей
+  middle_name: Юрьевич
+  last_name: МАНИКИН
+  whole_name: Алексей Юрьевич МАНИКИН
+  gender: M
+  title: Co-owner of “Beget”  LLC
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Aleksei
   middle_name: Yuryevich
   last_name: MANIKIN
@@ -27,21 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Алексей
-  middle_name: Юрьевич
-  last_name: МАНИКИН
-  whole_name: Алексей Юрьевич МАНИКИН
-  gender: M
-  title: Co-owner of “Beget”  LLC
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

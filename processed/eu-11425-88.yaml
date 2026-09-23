@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11425.88
 logical_id: '164305'
 regulations:
@@ -13,15 +14,43 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  middle_name: Alexandrovič
-  last_name: Suvorov
-  whole_name: Andrej Alexandrovič Suvorov
+- first_name: Андрей
+  middle_name: Александрович
+  last_name: СУВОРОВ
+  whole_name: Андрей Александрович СУВОРОВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164610'
+  logical_id: '164308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Andrej
+  middle_name: Aleksandrovich
+  last_name: Suvorov
+  whole_name: Andrej Aleksandrovich Suvorov
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164713'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Andrei
+  middle_name: Aleksandrovitš
+  last_name: Suvorov
+  whole_name: Andrei Aleksandrovitš Suvorov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164644'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -42,34 +71,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Андрей
-  middle_name: Александрович
-  last_name: СУВОРОВ
-  whole_name: Андрей Александрович СУВОРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Andrei
-  middle_name: Aleksandrovitš
-  last_name: Suvorov
-  whole_name: Andrei Aleksandrovitš Suvorov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164644'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Andrej
   middle_name: Alexandrovič
   last_name: Suvorov
@@ -85,14 +86,14 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Andrej
-  middle_name: Aleksandrovich
+  middle_name: Alexandrovič
   last_name: Suvorov
-  whole_name: Andrej Aleksandrovich Suvorov
+  whole_name: Andrej Alexandrovič Suvorov
   gender: M
-  name_language: SL
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164713'
+  logical_id: '164610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

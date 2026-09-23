@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14578.0
 logical_id: '183557'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Megion Drilling Operations Department
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Departamentul pentru Operațiuni de Foraj din Megion S.R.L.
   name_language: RO
   strong: true
@@ -43,8 +34,19 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: LLC Megion Drilling Operations Department
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Khanty-Mansi Autonomous Okrug - Yugra, Megion, V.A. Abazarov St., bldg. 7
+- street: Khanty-Mansi Autonomous Okrug - Yugra, Megion, V.A. Abazarov St., bldg.
+    7
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   zip_code: '628680'

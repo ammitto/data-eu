@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13770.38
 logical_id: '179375'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Grinex
-  function: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex is a major platform for trading the stablecoin A7A5, which is collateralised by PSB Bank
+  function: Grinex is a crypto-currency exchange registered in Kyrgyzstan. Grinex
+    is a major platform for trading the stablecoin A7A5, which is collateralised by
+    PSB Bank
   name_language: EN
   strong: true
   regulation_language: en
@@ -35,6 +38,15 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 addresses:
+- country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '179378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - street: microdistrict Jal-29,  building 14/1, 35
   city: Bishkek
   region: Leninsky  district
@@ -59,15 +71,6 @@ addresses:
 - country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '179378'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
   logical_id: '179377'
   regulation_summaries:
   - regulation_type: amendment
@@ -75,21 +78,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: 311748-3301-OOO
-  country_iso2_code: KG
-  regulation_language: en
-  logical_id: '179381'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '02312202410120'
   country_iso2_code: KG
   regulation_language: en
   logical_id: '179380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: 311748-3301-OOO
+  country_iso2_code: KG
+  regulation_language: en
+  logical_id: '179381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

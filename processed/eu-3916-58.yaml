@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3916.58
 logical_id: '3803'
 designation_details: UN designation 23/10/2006 (no longer valid)
@@ -14,21 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yahya Rahim
-  last_name: SAFAVI
-  whole_name: Yahya Rahim SAFAVI
-  function: Member of the Islamic Revolutionary Guard Corps (IRGC) and Senior Adviser to the Supreme Leader for Military Affairs
-  gender: M
-  title: Major General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: یحیی رحیم صفوی
   gender: M
   name_language: FA
@@ -92,19 +78,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Yahya Rahim
-  last_name: AL-SIFAWI
-  whole_name: Yahya Rahim AL-SIFAWI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Yahya
   last_name: RAHIM-SAFAVI
   whole_name: Yahya RAHIM-SAFAVI
@@ -113,6 +86,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Yahya Rahim
+  last_name: SAFAVI
+  whole_name: Yahya Rahim SAFAVI
+  function: Member of the Islamic Revolutionary Guard Corps (IRGC) and Senior Adviser
+    to the Supreme Leader for Military Affairs
+  gender: M
+  title: Major General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Yahya Rahim
+  last_name: AL-SIFAWI
+  whole_name: Yahya Rahim AL-SIFAWI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7224.51
 logical_id: '134632'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Maria
-  middle_name: Valerjevna
-  last_name: BUTINA
-  whole_name: Maria Valerjevna BUTINA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '134635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Marija Valerjevna BUTINA
   name_language: SV
   strong: true
@@ -46,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Maria
+  middle_name: Valerjevna
+  last_name: BUTINA
+  whole_name: Maria Valerjevna BUTINA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '134635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4156.52
 logical_id: '5607'
 regulations:
@@ -13,10 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Chae-kyong
+  last_name: PAK
+  whole_name: Chae-kyong PAK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Jae-gyong
   last_name: PAK
   whole_name: Jae-gyong PAK
-  function: General of the Korean People’s Army. Former Deputy Director of the General Political Department of the People’s Armed Forces and former Deputy Director of the Logistics Bureau of the People’s Armed Forces (military adviser to late Kim Jong-Il).  Former member of the Central Committee of the Workers’ Party of Korea. President of the Korean Committee of Veterans against Imperialism.
+  function: General of the Korean People’s Army. Former Deputy Director of the General
+    Political Department of the People’s Armed Forces and former Deputy Director of
+    the Logistics Bureau of the People’s Armed Forces (military adviser to late Kim
+    Jong-Il).  Former member of the Central Committee of the Workers’ Party of Korea.
+    President of the Korean Committee of Veterans against Imperialism.
   gender: M
   name_language: EN
   strong: true
@@ -60,19 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Chae-kyong
-  last_name: PAK
-  whole_name: Chae-kyong PAK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14572.6
 logical_id: '183518'
 regulations:
@@ -13,12 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC SYSTEM INDUSTRIAL GROUP
-  title: Limited liability company
-  name_language: EN
+- whole_name: GRUPUL INDUSTRIAL SISTEMIC S.R.L.
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '183524'
+  logical_id: '184823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -44,11 +44,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: GRUPUL INDUSTRIAL SISTEMIC S.R.L.
-  name_language: RO
+- whole_name: LLC SYSTEM INDUSTRIAL GROUP
+  title: Limited liability company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184823'
+  logical_id: '183524'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

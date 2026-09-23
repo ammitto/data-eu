@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3040.4
 logical_id: '7334'
 remark: Head of ‘Novorossia’ public movement.
@@ -17,7 +18,9 @@ name_aliases:
 - first_name: Igor
   last_name: STRELKOV
   whole_name: Igor STRELKOV
-  function: Staff of Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). Assistant on security issues to Sergey Aksionov, self- proclaimed prime-minister of Crimea.
+  function: Staff of Main Intelligence Directorate of the General Staff of the Armed
+    Forces of the Russian Federation (GRU). Assistant on security issues to Sergey
+    Aksionov, self- proclaimed prime-minister of Crimea.
   gender: M
   name_language: EN
   strong: true
@@ -41,15 +44,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Игорь
-  middle_name: Всеволодович
-  last_name: ГИРКИН
-  whole_name: Игорь Всеволодович ГИРКИН
+- first_name: Igor
+  middle_name: Vsevolodovitj
+  last_name: GIRKIN
+  whole_name: Igor Vsevolodovitj GIRKIN
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '106305'
+  logical_id: '151817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -59,9 +62,9 @@ name_aliases:
   middle_name: Vsevolodovich
   last_name: GIRKIN
   whole_name: Igor Vsevolodovich GIRKIN
-  function: |-
-    Identified as staff of Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). 
-    Former ‘Minister of Defence’ of the so-called ‘Donetsk People's Republic’.
+  function: "Identified as staff of Main Intelligence Directorate of the General Staff
+    of the Armed Forces of the Russian Federation (GRU). \nFormer ‘Minister of Defence’
+    of the so-called ‘Donetsk People's Republic’."
   gender: M
   name_language: EN
   strong: true
@@ -72,15 +75,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Igor
-  middle_name: Vsevolodovitj
-  last_name: GIRKIN
-  whole_name: Igor Vsevolodovitj GIRKIN
+- first_name: Игорь
+  middle_name: Всеволодович
+  last_name: ГИРКИН
+  whole_name: Игорь Всеволодович ГИРКИН
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151817'
+  logical_id: '106305'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

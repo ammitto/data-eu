@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4158.79
 logical_id: '5615'
 regulations:
@@ -24,21 +25,21 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: SO Sang Kuk
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '112440'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: 서상국
   gender: M
   strong: true
   regulation_language: en
   logical_id: '141979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: SO Sang Kuk
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '112440'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

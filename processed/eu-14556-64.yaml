@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14556.64
 logical_id: '183408'
 regulations:
@@ -13,32 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '184802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '184803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Kumpanija b'Responsabbiltà Limitata ARMORGRUPP
   name_language: MT
   strong: true
   regulation_language: en
   logical_id: '184804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ARMORGRUPP
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183413'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Limited Liability Company
-  title: Limited liability company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183414'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,21 +64,22 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP
-  name_language: DE
+- whole_name: Limited Liability Company
+  title: Limited liability company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184802'
+  logical_id: '183414'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP
-  name_language: GA
+- whole_name: ARMORGRUPP
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184803'
+  logical_id: '183413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -99,20 +100,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '5263056732'
-  country_iso2_code: '00'
+  number: '1065263037597'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '183410'
+  logical_id: '183411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '1065263037597'
-  country_iso2_code: RU
+  number: '5263056732'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '183411'
+  logical_id: '183410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

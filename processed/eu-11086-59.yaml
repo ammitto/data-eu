@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11086.59
 logical_id: '161536'
 regulations:
@@ -13,6 +14,43 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Musa Muhammad Salim
+  last_name: DUDIN
+  whole_name: Musa Muhammad Salim DUDIN
+  function: Member of Hamas political bureau
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161548'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
+- first_name: Mousa
+  last_name: DOUDIN
+  whole_name: Mousa DOUDIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161547'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
+- first_name: Mousa
+  last_name: DUDIN
+  whole_name: Mousa DUDIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161546'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
 - first_name: Musa
   last_name: DUDIN
   whole_name: Musa DUDIN
@@ -20,18 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161545'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Musa Muhammad Salim
-  last_name: DODIN
-  whole_name: Musa Muhammad Salim DODIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161544'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'
@@ -61,18 +87,6 @@ name_aliases:
     publication_date: '2024-01-19'
     number_title: 2024/386 (OJ L19012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Mousa
-  last_name: DUDIN
-  whole_name: Mousa DUDIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161546'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
 - first_name: Mussa
   last_name: DUDIN
   whole_name: Mussa DUDIN
@@ -85,26 +99,12 @@ name_aliases:
     publication_date: '2024-01-19'
     number_title: 2024/386 (OJ L19012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Mousa
-  last_name: DOUDIN
-  whole_name: Mousa DOUDIN
+- whole_name: ﻣﻮﺳﻰﺩﻭﺩﻳﻦ
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '161547'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Musa Muhammad Salim
-  last_name: DUDIN
-  whole_name: Musa Muhammad Salim DUDIN
-  function: Member of Hamas political bureau
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161548'
+  logical_id: '161540'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'
@@ -121,12 +121,13 @@ name_aliases:
     publication_date: '2024-01-19'
     number_title: 2024/386 (OJ L19012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- whole_name: ﻣﻮﺳﻰﺩﻭﺩﻳﻦ
+- first_name: Musa Muhammad Salim
+  last_name: DODIN
+  whole_name: Musa Muhammad Salim DODIN
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '161540'
+  logical_id: '161544'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'

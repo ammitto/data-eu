@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3206.11
 logical_id: '3224'
 remark: 'Mother''s name: Farida Hussein Khadir.'
@@ -14,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Kawa Hamawandi
-  strong: true
-  regulation_language: en
-  logical_id: '15151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-18'
-    number_title: 34/2012 (OJ L15)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 - whole_name: Kawa Omar Ahmed
   name_language: EN
   strong: true
@@ -33,18 +25,15 @@ name_aliases:
     publication_date: '2016-01-07'
     number_title: 2016/13 (OJ L4/10)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0013&from=EN
-- first_name: Kaua
-  middle_name: Omar
-  last_name: Achmed
-  whole_name: Kaua Omar Achmed
+- whole_name: Kawa Hamawandi
   strong: true
   regulation_language: en
-  logical_id: '4406'
+  logical_id: '15151'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2006-08-10'
-    number_title: 1210/2006 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
+    publication_date: '2012-01-18'
+    number_title: 34/2012 (OJ L15)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 - first_name: Kawa
   last_name: Hamawandi
   whole_name: Kawa Hamawandi
@@ -63,6 +52,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4405'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-10'
+    number_title: 1210/2006 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
+- first_name: Kaua
+  middle_name: Omar
+  last_name: Achmed
+  whole_name: Kaua Omar Achmed
+  strong: true
+  regulation_language: en
+  logical_id: '4406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-10'

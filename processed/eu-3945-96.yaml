@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3945.96
 logical_id: '109980'
 regulations:
@@ -26,35 +27,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Андрей
-  middle_name: Дмитриевич
-  last_name: КОЗЕНКО
-  whole_name: Андрей Дмитриевич КОЗЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '109982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Andrei
-  middle_name: Dmitrievich
-  last_name: KOZENKO
-  whole_name: Andrei Dmitrievich KOZENKO
-  function: Since July 2022, so-called “Deputy Head” of the so-called “Zaporizhzhia Regional Administration” established by Russian forces in occupied Melitopol, Ukraine. Coordinator of the Integration Committee ‘Russia-Donbass’. Former Member of the State Duma; Former Member of Duma Committee on Financial Markets.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Andrej
   middle_name: Dmitrijevitj
   last_name: KOZENKO
@@ -69,6 +41,38 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrei
+  middle_name: Dmitrievich
+  last_name: KOZENKO
+  whole_name: Andrei Dmitrievich KOZENKO
+  function: Since July 2022, so-called “Deputy Head” of the so-called “Zaporizhzhia
+    Regional Administration” established by Russian forces in occupied Melitopol,
+    Ukraine. Coordinator of the Integration Committee ‘Russia-Donbass’. Former Member
+    of the State Duma; Former Member of Duma Committee on Financial Markets.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Андрей
+  middle_name: Дмитриевич
+  last_name: КОЗЕНКО
+  whole_name: Андрей Дмитриевич КОЗЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '109982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 birthdates:
 - birthdate: '1981-08-03'
   circa: false

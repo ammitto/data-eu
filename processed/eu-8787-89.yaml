@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8787.89
 logical_id: '144445'
 regulations:
@@ -13,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jurij
-  middle_name: Eduardovitj
-  last_name: SADOVENKO
-  whole_name: Jurij Eduardovitj SADOVENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Yuriy
-  middle_name: Eduardovich
-  last_name: SADOVENKO
-  whole_name: Yuriy Eduardovich SADOVENKO
-  function: Deputy Minister of Defense of the Russian Federation, head of the Office of the Russian Federation Defense Minister, Colonel General of the Russian armed forces
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Юрий
   middle_name: Эдуардович
   last_name: САДОВЕНКО
@@ -50,6 +23,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Yuriy
+  middle_name: Eduardovich
+  last_name: SADOVENKO
+  whole_name: Yuriy Eduardovich SADOVENKO
+  function: Deputy Minister of Defense of the Russian Federation, head of the Office
+    of the Russian Federation Defense Minister, Colonel General of the Russian armed
+    forces
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Jurij
+  middle_name: Eduardovitj
+  last_name: SADOVENKO
+  whole_name: Jurij Eduardovitj SADOVENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

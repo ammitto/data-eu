@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10921.52
 logical_id: '159748'
 regulations:
@@ -13,42 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ilya
-  middle_name: Dmitrievich
-  last_name: MEDVEDEV
-  whole_name: Ilya Dmitrievich MEDVEDEV
+- first_name: Ilja
+  last_name: Medveděv
+  whole_name: Ilja Medveděv
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159753'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Иля
-  last_name: Медведев
-  whole_name: Иля Медведев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Илья
-  middle_name: Дмитриевич
-  last_name: МЕДВЕДЕВ
-  whole_name: Илья Дмитриевич МЕДВЕДЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159752'
+  logical_id: '160880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -68,15 +41,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ilja
-  middle_name: Dmitrijevitj
-  last_name: MEDVEDEV
-  whole_name: Ilja Dmitrijevitj MEDVEDEV
+- first_name: Илья
+  middle_name: Дмитриевич
+  last_name: МЕДВЕДЕВ
+  whole_name: Илья Дмитриевич МЕДВЕДЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160660'
+  logical_id: '159752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Ilya
+  middle_name: Dmitrievich
+  last_name: MEDVEDEV
+  whole_name: Ilya Dmitrievich MEDVEDEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159753'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -96,13 +83,27 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Ilja
-  last_name: Medveděv
-  whole_name: Ilja Medveděv
+  middle_name: Dmitrijevitj
+  last_name: MEDVEDEV
+  whole_name: Ilja Dmitrijevitj MEDVEDEV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160880'
+  logical_id: '160660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Иля
+  last_name: Медведев
+  whole_name: Иля Медведев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

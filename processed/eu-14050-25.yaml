@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14050.25
 logical_id: '180879'
 regulations:
@@ -13,25 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrey Yuryevich MOLCHANOV
-  function: He is an important shareholder in and the former CEO of the LSR Group, a real estate company and the biggest producer of construction materials in Russia.
-  gender: M
-  title: Andrey Yuryevich Molchanov is a leading Russian businessperson
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Андрей Юрьевич МОЛЧАНОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '180881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Andrey Yuryevich MOLCHANOV
+  function: He is an important shareholder in and the former CEO of the LSR Group,
+    a real estate company and the biggest producer of construction materials in Russia.
+  gender: M
+  title: Andrey Yuryevich Molchanov is a leading Russian businessperson
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

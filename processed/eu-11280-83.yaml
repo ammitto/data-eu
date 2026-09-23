@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11280.83
 logical_id: '162805'
 regulations:
@@ -13,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Elena Demidovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Jelena Děmidova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '163675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Алена Міхайлаўна ДЗЯМІДАВА
   gender: F
   name_language: BE
@@ -49,28 +72,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Elena Demidovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '163674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Jelena Děmidova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '163675'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE
@@ -99,6 +100,17 @@ birthdates:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 addresses:
+- street: пр. Ленина, 2
+  region: Республика Крым, г. Евпатория
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '162806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - street: Lenin ave., 2
   city: Yevpatoria
   country_iso2_code: RU
@@ -106,17 +118,6 @@ addresses:
   zip_code: '297408'
   regulation_language: en
   logical_id: '162807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- street: пр. Ленина, 2
-  region: Республика Крым, г. Евпатория
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '162806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

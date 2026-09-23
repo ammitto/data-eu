@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11389.83
 logical_id: '163509'
 regulations:
@@ -13,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima abierta Orsha Aircraft Repair Plant
-  name_language: ES
+- whole_name: "„Orsai Légijármű-javító Üzem” nyilvánosan működő részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '164126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Open Joint Stock Company “Orsha Aircraft Repair Plant“
-  function: OJSC “Orsha Aircraft Repair Plant“ is a Belarusian state-owned enterprise that repairs and modernizes aircraft.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163514'
+  logical_id: '163875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -54,11 +44,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„Orsai Légijármű-javító Üzem” nyilvánosan működő részvénytársaság"
-  name_language: HU
+- whole_name: sociedad anónima abierta Orsha Aircraft Repair Plant
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '163875'
+  logical_id: '164126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Open Joint Stock Company “Orsha Aircraft Repair Plant“
+  function: OJSC “Orsha Aircraft Repair Plant“ is a Belarusian state-owned enterprise
+    that repairs and modernizes aircraft.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163514'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

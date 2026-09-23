@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14920.5
 logical_id: '184943'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2026/1817 (OJ L202601817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
 - whole_name: European Trading Company LLC
-  function: 'Associated entities: OJSC Naftan; OJSC Mozyr Oil Refinery; State Production Association Belorusneft; Belarusian Oil Company (BNK)'
+  function: 'Associated entities: OJSC Naftan; OJSC Mozyr Oil Refinery; State Production
+    Association Belorusneft; Belarusian Oil Company (BNK)'
   title: Limited Liability Company
   name_language: EN
   strong: true
@@ -49,6 +51,16 @@ addresses:
     number_title: 2026/1817 (OJ L202601817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
 identifications:
+- identification_type_code: regnumber
+  number: '1126733000063'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184947'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
 - identification_type_code: taxid
   number: '6732050064'
   country_iso2_code: RU
@@ -64,16 +76,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184946'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1817 (OJ L202601817)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
-- identification_type_code: regnumber
-  number: '1126733000063'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184947'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

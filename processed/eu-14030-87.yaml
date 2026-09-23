@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14030.87
 logical_id: '181059'
 regulations:
@@ -13,22 +14,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО “Роснефтефлот”
-  name_language: RU
+- whole_name: JSC Rosneftflot
+  function: JSC Rosnefteflot is a shipping company based in Russia and the commercial
+    operator of several ships transporting crude oil or petroleum products, originating
+    in Russia or exported from Russia
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181124'
+  logical_id: '181125'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: JSC Rosneftflot
-  function: JSC Rosnefteflot is a shipping company based in Russia and the commercial operator of several ships transporting crude oil or petroleum products, originating in Russia or exported from Russia
-  name_language: EN
+- whole_name: АО “Роснефтефлот”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '181125'
+  logical_id: '181124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -48,21 +51,21 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: taxid
-  number: '6501096047'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '181122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: regnumber
   number: '1026500526590'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: '6501096047'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181122'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

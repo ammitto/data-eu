@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13762.67
 logical_id: '179301'
 regulations:
@@ -23,11 +24,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерно дружество „Красноярски  машиностроителен завод“
-  name_language: BG
+- whole_name: AO Krasnoiarskyi  mashynobudivnyi zavod
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '179481'
+  logical_id: '179308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -43,34 +44,23 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: AO Krasnoiarskyi  mashynobudivnyi zavod
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '179308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: АО Красмаш
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Joint Stock Сompany Krasnoyarsk  machine-building plant
-  function: |-
-    A manufacturer of ammunitions. The plant manufactures Sarmat intercontinental ballistic missiles which are strategically important to 
-    Russia.
+  function: "A manufacturer of ammunitions. The plant manufactures Sarmat intercontinental
+    ballistic missiles which are strategically important to \nRussia."
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '179310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Акционерно дружество „Красноярски  машиностроителен завод“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -81,6 +71,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: АО Красмаш
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179307'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

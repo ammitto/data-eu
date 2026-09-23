@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14352.50
 logical_id: '182504'
 regulations:
@@ -26,19 +27,19 @@ name_aliases:
     number_title: 2025/2588 (OJ L202502588)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 citizenships:
-- country_iso2_code: PK
-  country_description: PAKISTAN
+- country_iso2_code: CA
+  country_description: CANADA
   regulation_language: en
-  logical_id: '182507'
+  logical_id: '182506'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'
     number_title: 2025/2588 (OJ L202502588)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
-- country_iso2_code: CA
-  country_description: CANADA
+- country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '182506'
+  logical_id: '182507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9876.21
 logical_id: '150812'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vitalij Tovijevitj TRETIAKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Виталий Товиевич ТРЕТЬЯКОВ
   gender: M
   name_language: RU
@@ -39,12 +29,24 @@ name_aliases:
   middle_name: Tovievich
   last_name: TRETYAKOV
   whole_name: Vitaliy Tovievich TRETYAKOV
-  function: Russian journalist and political scientist, Dean of Higher School of Television at M. V. Lomonosov Moscow State University.
+  function: Russian journalist and political scientist, Dean of Higher School of Television
+    at M. V. Lomonosov Moscow State University.
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '150816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Vitalij Tovijevitj TRETIAKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

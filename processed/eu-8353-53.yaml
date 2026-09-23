@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8353.53
 logical_id: '140905'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Timofey Nikolaevich SERGEYTSEV
-  function: 'Russian propagandist: columnist at RIA Novosti'
+- whole_name: Тимофей Николаевич СЕРГЕЙЦЕВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140909'
+  logical_id: '140908'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -34,12 +35,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Тимофей Николаевич СЕРГЕЙЦЕВ
+- whole_name: Timofey Nikolaevich SERGEYTSEV
+  function: 'Russian propagandist: columnist at RIA Novosti'
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140908'
+  logical_id: '140909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

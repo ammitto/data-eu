@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.2683.80
 logical_id: '6688'
-remark: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing equipment and materials, which have direct applications in the Iranian nuclear programme.
+remark: Owned or controlled by EU-sanctioned TESA, Involved in manufacturing equipment
+  and materials, which have direct applications in the Iranian nuclear programme.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,7 +16,8 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: TABA (Iran Cutting Tools Manufacturing company - Taba Towlid Abzar Boreshi Iran)
+- whole_name: TABA (Iran Cutting Tools Manufacturing company - Taba Towlid Abzar Boreshi
+    Iran)
   strong: true
   regulation_language: en
   logical_id: '14845'
@@ -23,19 +26,10 @@ name_aliases:
     publication_date: '2011-12-01'
     number_title: 1245/2011 (OJ L319)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:319:0011:0031:EN:PDF
-- whole_name: Iran's Centrifuge  Technology  Company
+- whole_name: TESA
   strong: true
   regulation_language: en
-  logical_id: '131119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Iran Centrifuge  Technology Co.
-  strong: true
-  regulation_language: en
-  logical_id: '131120'
+  logical_id: '131117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'
@@ -50,10 +44,10 @@ name_aliases:
     publication_date: '2021-07-30'
     number_title: 2021/1242 (OJ L272)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: TESA
+- whole_name: Iran Centrifuge  Technology Co.
   strong: true
   regulation_language: en
-  logical_id: '131117'
+  logical_id: '131120'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'
@@ -63,6 +57,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131118'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Iran's Centrifuge  Technology  Company
+  strong: true
+  regulation_language: en
+  logical_id: '131119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'

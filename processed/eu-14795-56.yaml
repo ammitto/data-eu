@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14795.56
 logical_id: '184496'
 regulations:
@@ -24,10 +25,10 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Joint-Stock  Company  RESEARCH AND  PRODUCTION  COMPANY  MICRAN
-  function: |-
-    JSC RESEARCH AND PRODUCTION COMPANY MICRAN is one of the largest Russian manufacturers of telecommunications and radio relay 
-    equipment, communication equipment, UAV-detection systems, navigation, microwave components and microelectronics, operating both in the 
-    civilian market and under state defense orders.
+  function: "JSC RESEARCH AND PRODUCTION COMPANY MICRAN is one of the largest Russian
+    manufacturers of telecommunications and radio relay \nequipment, communication
+    equipment, UAV-detection systems, navigation, microwave components and microelectronics,
+    operating both in the \ncivilian market and under state defense orders."
   name_language: EN
   strong: true
   regulation_language: en
@@ -52,6 +53,16 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
+- identification_type_code: other
+  number: '701701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '7017211757'
   country_iso2_code: RU
@@ -67,16 +78,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184500'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: other
-  number: '701701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

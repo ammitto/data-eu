@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14125.25
 logical_id: '181393'
 regulations:
@@ -13,6 +14,18 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Limited Liability Company LUKOIL- Nizhnogorodneftegorgsetez
+  function: Limited Liability Company “LUKOIL-Nizhnogorodneftegorgsetez” is a Russian
+    entity operating an oil refinery in the Nizhny Novgorod region.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: LLC LUKOIL- Novgorodnefteorgsintez
   name_language: EN
   strong: true
@@ -38,17 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Limited Liability Company LUKOIL- Nizhnogorodneftegorgsetez
-  function: Limited Liability Company “LUKOIL-Nizhnogorodneftegorgsetez” is a Russian entity operating an oil refinery in the Nizhny Novgorod region.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

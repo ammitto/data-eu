@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4112.91
 logical_id: '113796'
 designation_details: 4.8.2017
@@ -14,17 +15,8 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: OOO ‘VO Technopromexport’ (OOO ‘VO TPE’)
-  function: Owner of the gas turbines originally supplied by  Siemens Gas  Turbine Technologies OOO to OAO ‘VO TPE’. OOO ‘VO TPE’ transferred the  gas  turbines to  be  installed in  Crimea. This  contributes  to establishing an  independent  power supply for  Crimea  and  Sevastopol as  a  means of  supporting  their  separation from  Ukraine, and  undermines the  territorial integrity,  sovereignty and  independence of Ukraine.
-  strong: true
-  regulation_language: en
-  logical_id: '113799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-09-13'
-    number_title: 2019/1403 (OJ L236)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
-- whole_name: Общество с ограниченной ответственностью ‘Внешнеэкономическое объединение Технопромэкспорт’
+- whole_name: Общество с ограниченной ответственностью ‘Внешнеэкономическое объединение
+    Технопромэкспорт’
   strong: true
   regulation_language: en
   logical_id: '113797'
@@ -33,6 +25,21 @@ name_aliases:
     publication_date: '2017-08-04'
     number_title: 2017/1417 (OJ L203)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
+- whole_name: OOO ‘VO Technopromexport’ (OOO ‘VO TPE’)
+  function: Owner of the gas turbines originally supplied by  Siemens Gas  Turbine
+    Technologies OOO to OAO ‘VO TPE’. OOO ‘VO TPE’ transferred the  gas  turbines
+    to  be  installed in  Crimea. This  contributes  to establishing an  independent  power
+    supply for  Crimea  and  Sevastopol as  a  means of  supporting  their  separation
+    from  Ukraine, and  undermines the  territorial integrity,  sovereignty and  independence
+    of Ukraine.
+  strong: true
+  regulation_language: en
+  logical_id: '113799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-09-13'
+    number_title: 2019/1403 (OJ L236)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
 - whole_name: Limited Liability Company ‘Foreign Economic Association’ ‘Technopromexport’
   strong: true
   regulation_language: en
@@ -57,20 +64,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 identifications:
 - identification_type_code: regnumber
-  number: 7704863782e
+  number: '1147746527279'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '113810'
+  logical_id: '113811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-04'
     number_title: 2017/1417 (OJ L203)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 - identification_type_code: regnumber
-  number: '1147746527279'
+  number: 7704863782e
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '113811'
+  logical_id: '113810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-04'

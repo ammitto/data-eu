@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13875.42
 logical_id: '180078'
 designation_details: "(8.11.2014, suspended since 16.1.2016)"
@@ -15,11 +16,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: SCT  Bankers Kish Company (PJS)
+- whole_name: SCT Bankers
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180090'
+  logical_id: '180091'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -35,11 +36,11 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: SCT Bankers
+- whole_name: SCT  Bankers Kish Company (PJS)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180091'
+  logical_id: '180090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -66,33 +67,11 @@ name_aliases:
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 addresses:
-- street: Reahi Aiiey, First of  Karaj, Maksous Road 9
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '180082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Sadaf Tower, 3rd Floor, Suite No. 301
-  city: Kish Island
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '180084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Head Office, Kish Island, Sadaf Tower,  3rd floor, Suite 301
+- street: Kish Banking Fin Activities Centre,  No 42, 4th floor, VC25
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '180080'
+  logical_id: '180081'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -109,6 +88,27 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- street: Head Office, Kish Island, Sadaf Tower,  3rd floor, Suite 301
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '180080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- street: Reahi Aiiey, First of  Karaj, Maksous Road 9
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - street: No.1808, 18th Floor, Grosvenor House  Commercial Tower, Sheikh Zayed Road
   city: Dubai
   country_iso2_code: AE
@@ -120,11 +120,12 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Kish Banking Fin Activities Centre,  No 42, 4th floor, VC25
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+- street: Sadaf Tower, 3rd Floor, Suite No. 301
+  city: Kish Island
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '180081'
+  logical_id: '180084'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -142,20 +143,20 @@ identifications:
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - identification_type_code: swiftbic
-  number: SCERIRTH
-  country_iso2_code: IR
+  number: SCTSAEA1
+  country_iso2_code: AE
   regulation_language: en
-  logical_id: '180085'
+  logical_id: '180086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - identification_type_code: swiftbic
-  number: SCTSAEA1
-  country_iso2_code: AE
+  number: SCERIRTH
+  country_iso2_code: IR
   regulation_language: en
-  logical_id: '180086'
+  logical_id: '180085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

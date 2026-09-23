@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13645.20
 logical_id: '178766'
 designation_details: 'Date of UN designation: 24.3.2007'
@@ -14,18 +15,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: NFRPC and ENTC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Esfahan Nuclear Fuel Research and Production Centre and Esfahan Nuclear Technology Centre
-  function: They are parts of the Atomic Energy Organisation of Iran’s (AEOI) Nuclear Fuel Production and Procurement Company.
+- whole_name: Esfahan Nuclear Fuel Research and Production Centre and Esfahan Nuclear
+    Technology Centre
+  function: They are parts of the Atomic Energy Organisation of Iran’s (AEOI) Nuclear
+    Fuel Production and Procurement Company.
   name_language: EN
   strong: true
   regulation_language: en
@@ -35,7 +28,19 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Iszfaháni nukleárisüzemanyag-kutató és -előállító központ és iszfaháni nukleáris technológiai központ
+- whole_name: Centro de Investigação e Produção de Combustível Nuclear de Esfahan
+    e Centro de Tecnologia Nuclear de Esfahan
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '178801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Iszfaháni nukleárisüzemanyag-kutató és -előállító központ és iszfaháni
+    nukleáris technológiai központ
   name_language: HU
   strong: true
   regulation_language: en
@@ -45,11 +50,11 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Centro de Investigação e Produção de Combustível Nuclear de Esfahan e Centro de Tecnologia Nuclear de Esfahan
-  name_language: PT
+- whole_name: NFRPC and ENTC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '178801'
+  logical_id: '179285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

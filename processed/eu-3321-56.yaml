@@ -1,6 +1,19 @@
+---
 eu_reference_number: EU.3321.56
 logical_id: '7543'
-remark: Leading businessman operating in Syria, with interests in the engineering and construction, media, hospitality and health sector. He has financial interest in and/or holds senior and executive positions within a number of companies in Syria, in particular Hamsho international, Hamsho Communication, Mhg International, Jupiter for Investment and Tourism project and Syria Metal industries. He plays an important role in the business community in Syria as general secretary of the Damascus Chamber of Commerce (appointed by the then Minister for economy Khodr Orfali in December 2014), chairman of the China-Syria Bilateral Business Councils (since March 2014) and chairman of the Syrian Metal and Steel Council (since December 2015). He has close business relationships with key figures of the Syrian regime, including Maher Al-Assad. Mohammed Hamcho benefits from and provides support to the Syrian regime through his business interests, and is associated with persons benefiting from and providing support to this regime.
+remark: Leading businessman operating in Syria, with interests in the engineering
+  and construction, media, hospitality and health sector. He has financial interest
+  in and/or holds senior and executive positions within a number of companies in Syria,
+  in particular Hamsho international, Hamsho Communication, Mhg International, Jupiter
+  for Investment and Tourism project and Syria Metal industries. He plays an important
+  role in the business community in Syria as general secretary of the Damascus Chamber
+  of Commerce (appointed by the then Minister for economy Khodr Orfali in December
+  2014), chairman of the China-Syria Bilateral Business Councils (since March 2014)
+  and chairman of the Syrian Metal and Steel Council (since December 2015). He has
+  close business relationships with key figures of the Syrian regime, including Maher
+  Al-Assad. Mohammed Hamcho benefits from and provides support to the Syrian regime
+  through his business interests, and is associated with persons benefiting from and
+  providing support to this regime.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,7 +28,11 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Mohammed HAMCHO
-  function: Leading businessman operating in Syria. General secretary of the Damascus Chamber of Commerce (appointed by the then Minister for economy Khodr Orfali in December 2014), chairman of the China‐Syria Bilateral Business Councils (since March 2014) and chairman of the Syrian Metal and Steel Council (since December 2015).
+  function: Leading businessman operating in Syria. General secretary of the Damascus
+    Chamber of Commerce (appointed by the then Minister for economy Khodr Orfali in
+    December 2014), chairman of the China‐Syria Bilateral Business Councils (since
+    March 2014) and chairman of the Syrian Metal and Steel Council (since December
+    2015).
   gender: M
   strong: true
   regulation_language: en

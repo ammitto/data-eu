@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14793.58
 logical_id: '184479'
 regulations:
@@ -13,6 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Joint Stock  Company Pergam  Engineering
+  function: Joint Stock Company Pergam Engineering is a Russian company that trades
+    machines, devices, apparatuses, and equipment for general industrial and specialized
+    purposes.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Акционерное  общество Пергам  Инжиниринг
   name_language: RU
   strong: true
@@ -23,30 +37,7 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Joint Stock  Company Pergam  Engineering
-  function: Joint Stock Company Pergam Engineering is a Russian company that trades machines, devices, apparatuses, and equipment for general industrial and specialized purposes.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184485'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Ogorodny Prospekt,  Building 5,  Structure 4, Floor  3, Room 305
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '127254'
-  regulation_language: en
-  logical_id: '184480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - street: Olminskogo  prospect, 3 A,  Office 830
   city: Moscow
   country_iso2_code: RU
@@ -59,22 +50,34 @@ addresses:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-identifications:
-- identification_type_code: taxid
-  number: '7713226814'
+- street: Ogorodny Prospekt,  Building 5,  Structure 4, Floor  3, Room 305
+  city: Moscow
   country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '127254'
   regulation_language: en
-  logical_id: '184482'
+  logical_id: '184480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+identifications:
 - identification_type_code: other
   number: '1027700285612'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '7713226814'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

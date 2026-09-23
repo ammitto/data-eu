@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10936.16
 logical_id: '159823'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Наталья
-  middle_name: Алексеевна
-  last_name: БУДАРИНА
-  whole_name: Наталья Алексеевна БУДАРИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Natalya
   middle_name: Alekseevna
   last_name: BUDARYNA
@@ -56,6 +43,19 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Natalja
+  last_name: Budarina
+  whole_name: Natalja Budarina
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Natalja
   middle_name: Aleksejevna
   last_name: BUDARINA
   whole_name: Natalja Aleksejevna BUDARINA
@@ -69,14 +69,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Natalja
-  last_name: Budarina
-  whole_name: Natalja Budarina
+- first_name: Наталья
+  middle_name: Алексеевна
+  last_name: БУДАРИНА
+  whole_name: Наталья Алексеевна БУДАРИНА
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160906'
+  logical_id: '159826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

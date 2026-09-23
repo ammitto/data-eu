@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4028.14
 logical_id: '7578'
 designation_details: 16.2.2015
@@ -15,7 +16,10 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Movement ‘Novorossiya’ of Igor STRELKOV
-  function: Public Movement. The Movement “Novorossiya”/“New Russia” was established in November 2014 in Russia and is headed by Russian officer Igor Strelkov/Girkin (identified as a staff member of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU)).
+  function: Public Movement. The Movement “Novorossiya”/“New Russia” was established
+    in November 2014 in Russia and is headed by Russian officer Igor Strelkov/Girkin
+    (identified as a staff member of the Main Intelligence Directorate of the General
+    Staff of the Armed Forces of the Russian Federation (GRU)).
   strong: true
   regulation_language: en
   logical_id: '18573'

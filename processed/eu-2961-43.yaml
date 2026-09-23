@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2961.43
 logical_id: '6220'
 regulations:
@@ -14,7 +15,10 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Ghorban-Ali DORRI-NADJAFABADI
-  function: Member of the Assembly of Experts and representative of the Supreme Leader in Markazi (“Central”) Province and Head of the Supreme Administrative Court. Prosecutor General of Iran until September 2009, as well as former Intelligence Minister under Khatami presidency.
+  function: Member of the Assembly of Experts and representative of the Supreme Leader
+    in Markazi (“Central”) Province and Head of the Supreme Administrative Court.
+    Prosecutor General of Iran until September 2009, as well as former Intelligence
+    Minister under Khatami presidency.
   gender: M
   strong: true
   regulation_language: en

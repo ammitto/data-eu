@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9733.42
 logical_id: '150025'
 regulations:
@@ -23,16 +24,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Dubnenský strojársky závod a. s.
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151335'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Дубненский машиностроительный завод
   name_language: RU
   strong: true
@@ -43,17 +34,18 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint-stock company «Dubnensky machine-building plant» που πήρε το όνομά της από τον N.P. Fedorov·
-  name_language: EL
+- whole_name: Dubnenský strojársky závod a. s.
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '151289'
+  logical_id: '151335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aktsionernoye obshchestvo "Dubnenskiy mashinostroitel'nyy zavod" imeni N.P. Fodorova
+- whole_name: Aktsionernoye obshchestvo "Dubnenskiy mashinostroitel'nyy zavod" imeni
+    N.P. Fodorova
   strong: true
   regulation_language: en
   logical_id: '150030'
@@ -82,7 +74,8 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint-stock company "Dubnensky machine-building plant" named after N.P. Fedorov"
+- whole_name: Joint-stock company "Dubnensky machine-building plant" named after N.P.
+    Fedorov"
   name_language: EN
   strong: true
   regulation_language: en
@@ -142,7 +135,8 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: aandelenvennootschap “Dubnensky machine-building  plant” genoemd naar N.P.  Fedorov;
+- whole_name: aandelenvennootschap “Dubnensky machine-building  plant” genoemd naar
+    N.P.  Fedorov;
   name_language: NL
   strong: true
   regulation_language: en
@@ -152,7 +146,8 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint-stock company  „«Dubnensky  machine-building plant»  denumită după N.P. Fedorov”;
+- whole_name: Joint-stock company  „«Dubnensky  machine-building plant»  denumită
+    după N.P. Fedorov”;
   name_language: RO
   strong: true
   regulation_language: en
@@ -177,6 +172,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Joint-stock company «Dubnensky machine-building plant» που πήρε το όνομά
+    της από τον N.P. Fedorov·
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

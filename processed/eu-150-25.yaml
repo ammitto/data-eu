@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.150.25
 logical_id: '130'
 remark: UNSC RESOLUTION 1483 BASIS
@@ -14,22 +15,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Yahia Abdallah Al-Ubaidi
+  function: Ba'th Party Regional Command Chairman, al-Basrah
+  strong: true
+  regulation_language: en
+  logical_id: '187'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Yahia Abdalla Al-Oubaïdi
   function: Commandant régional du parti Baas pour le gouvernorat de Bassora
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '432'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Yahia Abdallah Al-Ubaidi
-  function: Ba'th Party Regional Command Chairman, al-Basrah
-  strong: true
-  regulation_language: en
-  logical_id: '187'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11913.69
 logical_id: '167811'
 regulations:
@@ -14,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Zvi
-  last_name: BAR YOSEF
-  whole_name: Zvi BAR YOSEF
-  function: Established the unauthorized outpost known as “Zvi’s Farm” in the West Bank, east of the Halmish settlement.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- first_name: Zvi
   last_name: BAR-YOSEF
   whole_name: Zvi BAR-YOSEF
   gender: M
@@ -35,6 +22,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- first_name: Zvi
+  last_name: BAR YOSEF
+  whole_name: Zvi BAR YOSEF
+  function: Established the unauthorized outpost known as “Zvi’s Farm” in the West
+    Bank, east of the Halmish settlement.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

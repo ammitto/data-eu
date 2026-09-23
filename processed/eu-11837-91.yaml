@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11837.91
 logical_id: '167353'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Masar Abdelrahman
-  last_name: ESEIL
-  whole_name: Masar Abdelrahman ESEIL
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1783 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401783
 - first_name: Massar Abdelrahman
   last_name: ASSIL
   whole_name: Massar Abdelrahman ASSIL
@@ -60,6 +48,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1783 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401783
+- first_name: Masar Abdelrahman
+  last_name: ESEIL
+  whole_name: Masar Abdelrahman ESEIL
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

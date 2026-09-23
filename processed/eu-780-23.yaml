@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.780.23
 logical_id: '733'
-remark: 'Reportedly deceased in North Afghanistan in 1999. Belonged to Wardak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678489'
+remark: 'Reportedly deceased in North Afghanistan in 1999. Belonged to Wardak tribe.
+  Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul.
+  2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678489'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,7 +44,8 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1965
-  city: Awlyatak Village, Gardan Masjid Area, Chaki Wardak District, Maidan Wardak Province
+  city: Awlyatak Village, Gardan Masjid Area, Chaki Wardak District, Maidan Wardak
+    Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en

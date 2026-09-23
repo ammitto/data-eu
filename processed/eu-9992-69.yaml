@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9992.69
 logical_id: '152064'
 remark: Also designated pursuant to Regulation 2020/1998
@@ -24,56 +25,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Grupa Vagnera
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Wagner Csoport
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Vagner Csoport
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Ομάδα Wagner
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Grupul Vagner
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '152468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
 - whole_name: Wagner katonai magánvállalat
   name_language: HU
   strong: true
@@ -94,6 +45,106 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Grupo Wagner
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152466'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Wagner-Gruppe
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152465'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Groupe Wagner
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '152464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Groupe Vagner
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '152463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Grupul Wagner
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '152467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Grupul Vagner
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '152468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Ομάδα Wagner
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Vagner Csoport
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Wagner Csoport
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
+- whole_name: Grupa Vagnera
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-13'
+    number_title: 2023/755 (OJ L100 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
 - whole_name: Grupa Wagnera
   name_language: PL
   strong: true
@@ -274,53 +325,3 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Groupe Vagner
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '152463'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Groupe Wagner
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '152464'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Wagner-Gruppe
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '152465'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Grupo Wagner
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Grupul Wagner
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '152467'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-13'
-    number_title: 2023/755 (OJ L100 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755

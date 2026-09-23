@@ -1,9 +1,9 @@
+---
 eu_reference_number: EU.3713.39
 logical_id: '7491'
-remark: |-
-  Eye colour: brown, hair colour: black, weight: 77-81kg, height: 178 cm short-to-medium black beard, short black hair.
-  Belongs to Shinwari tribe, Sepahi sub-tribe. 
-  INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5810480
+remark: "Eye colour: brown, hair colour: black, weight: 77-81kg, height: 178 cm short-to-medium
+  black beard, short black hair.\nBelongs to Shinwari tribe, Sepahi sub-tribe. \nINTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5810480"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -17,6 +17,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Kari Rahmat
+  strong: true
+  regulation_language: en
+  logical_id: '18283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 - whole_name: Qari Rahmat
   name_language: EN
   strong: true
@@ -37,15 +46,6 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Kari Rahmat
-  strong: true
-  regulation_language: en
-  logical_id: '18283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -59,19 +59,6 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1982
-  city: Shadal Bazaar, Achin District, Nangarhar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
-- circa: false
-  calendar_type: GREGORIAN
   year: 1981
   city: Shadal Bazaar, Achin District, Nangarhar Province
   country_iso2_code: AF
@@ -83,12 +70,35 @@ birthdates:
     publication_date: '2016-09-30'
     number_title: 2016/1736 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1982
+  city: Shadal Bazaar, Achin District, Nangarhar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 addresses:
 - city: Batan village, Achin District, Nangarhar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '109764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-30'
+    number_title: 2016/1736 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
+- city: Surkhel village, Achin district, Nangarhar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '109765'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-30'
@@ -105,13 +115,3 @@ addresses:
     publication_date: '2014-10-08'
     number_title: 1057/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
-- city: Surkhel village, Achin district, Nangarhar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '109765'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-30'
-    number_title: 2016/1736 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN

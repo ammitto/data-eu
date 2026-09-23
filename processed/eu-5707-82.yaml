@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5707.82
 logical_id: '124994'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Mikhaylovich
-  last_name: SOTNIKOV
-  whole_name: Oleg Mikhaylovich SOTNIKOV
-  function: Human intelligence support officer of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Олег
   middle_name: Михайлович
   last_name: СОТНИКОВ
@@ -42,6 +28,22 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- first_name: Oleg
+  middle_name: Mikhaylovich
+  last_name: SOTNIKOV
+  whole_name: Oleg Mikhaylovich SOTNIKOV
+  function: Human intelligence support officer of the Main Directorate of the General
+    Staff of the Armed Forces of the Russian Federation (GU/GRU)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

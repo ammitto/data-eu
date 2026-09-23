@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9787.77
 logical_id: '150303'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Sewa Security Services
-  function: Private company that provides protection for senior CAR government officials. It serves as a cover for Wagner’s activities in CAR
+  function: Private company that provides protection for senior CAR government officials.
+    It serves as a cover for Wagner’s activities in CAR
   name_language: EN
   strong: true
   regulation_language: en

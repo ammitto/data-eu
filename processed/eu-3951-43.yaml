@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3951.43
 logical_id: '3815'
 designation_details: UN designation 23/12/2006
@@ -225,11 +226,12 @@ name_aliases:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- city: Tehran
+- street: Khavaran Road Km 40
+  region: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '159092'
+  logical_id: '159090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -246,12 +248,11 @@ addresses:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Khavaran Road Km 40
-  region: Tehran
+- city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '159090'
+  logical_id: '159092'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

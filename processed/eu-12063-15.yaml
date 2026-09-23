@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12063.15
 logical_id: '168474'
 regulations:
@@ -13,28 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Justin
-  middle_name: Gacheri
-  last_name: MUSANGA
-  whole_name: Justin Gacheri MUSANGA
-  function: Justin Gacheri Musanga holds a leading position as Brigadier-General of the M23/ARC, a non-governmental armed group operating in Eastern DRC.
-  gender: M
-  title: Brigadier-General of the March 23  Movement
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- whole_name: BRAVO THREE
+- whole_name: CS BRAVO SIERRA
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168476'
+  logical_id: '168921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -53,12 +38,29 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- whole_name: CS BRAVO SIERRA
+- first_name: Justin
+  middle_name: Gacheri
+  last_name: MUSANGA
+  whole_name: Justin Gacheri MUSANGA
+  function: Justin Gacheri Musanga holds a leading position as Brigadier-General of
+    the M23/ARC, a non-governmental armed group operating in Eastern DRC.
+  gender: M
+  title: Brigadier-General of the March 23  Movement
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+- whole_name: BRAVO THREE
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168921'
+  logical_id: '168476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

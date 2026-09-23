@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12724.7
 logical_id: '172742'
 regulations:
@@ -13,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "’Promtech’ Joint Stock Company (publikt aktiebolag)"
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '173329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “Промтех”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “Промышленные Технологии”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Industrial Technologies Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Prometch JSC
   name_language: EN
   strong: true
@@ -73,22 +34,63 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Promtech« Részvénytársaság"
-  name_language: HU
+- whole_name: Promtech Joint Stock Company
+  function: Promtech JSC is a Russian holding company that repeatedly imported goods
+    of European origin while those products were subject to European export restrictions.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173407'
+  logical_id: '172751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Promtech Joint Stock Company
-  function: Promtech JSC is a Russian holding company that repeatedly imported goods of European origin while those products were subject to European export restrictions.
+- whole_name: "’Promtech’ Joint Stock Company (publikt aktiebolag)"
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '173329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Акционерное общество “Промышленные Технологии”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: АО “Промтех”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Industrial Technologies Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172751'
+  logical_id: '172748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Ipari Technológiák Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -104,11 +106,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Ipari Technológiák Részvénytársaság
+- whole_name: "»Promtech« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173405'
+  logical_id: '173407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

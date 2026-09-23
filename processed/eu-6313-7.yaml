@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6313.7
 logical_id: '129454'
 regulations:
@@ -14,9 +15,7 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Myanmar  Economic Corporation  Limited
-  function: |-
-    Type of entity: 
-    Company limited by shares
+  function: "Type of entity: \nCompany limited by shares"
   strong: true
   regulation_language: en
   logical_id: '129457'

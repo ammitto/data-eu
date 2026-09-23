@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.176.58
 logical_id: '329'
 regulations:
@@ -13,91 +14,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Η Βάση
-  name_language: EL
+- whole_name: síť Usámy Bin Ládina
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '7395'
+  logical_id: '7406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Ал Кайда
-  name_language: BG
+- whole_name: organizace Usámy Bin Ládina
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '7396'
+  logical_id: '7407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: базата
-  name_language: BG
+- whole_name: Sieć Osamy Bin Lagena
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '7397'
+  logical_id: '7408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Al Qa’ida/ Ислямска армия
-  name_language: BG
+- whole_name: Organizacja Osamy Bin Ladena
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '7398'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- whole_name: Фондация за спасение на исляма
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7399'
+  logical_id: '7409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Група за опазване на светите места
-  name_language: BG
+- whole_name: Al Kaida
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '7400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Ислямска армия за освобождение на светите места
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Световен ислямски фронт за джихад срещу евреите и кръстоносците
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Мрежа Осама бин Ладен
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7403'
+  logical_id: '7410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
@@ -213,6 +174,24 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al-Qaida
+  strong: true
+  regulation_language: en
+  logical_id: '898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al Qa’ida/ Islamic Army
+  strong: true
+  regulation_language: en
+  logical_id: '899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-04-13'
+    number_title: 316/2012 (OJ L103)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
 - whole_name: Armata islamică de eliberare a locurilor sfinte
   name_language: RO
   strong: true
@@ -263,6 +242,158 @@ name_aliases:
     publication_date: '2012-04-13'
     number_title: 316/2012 (OJ L103)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+- whole_name: The Base
+  strong: true
+  regulation_language: en
+  logical_id: '900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al Qaeda
+  strong: true
+  regulation_language: en
+  logical_id: '901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-04-13'
+    number_title: 316/2012 (OJ L103)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+- whole_name: Islamic Salvation Foundation
+  strong: true
+  regulation_language: en
+  logical_id: '902'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: The Group for the Preservation of the Holy Sites
+  strong: true
+  regulation_language: en
+  logical_id: '903'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: The Islamic Army for the Liberation of Holy Places
+  strong: true
+  regulation_language: en
+  logical_id: '904'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: The World Islamic Front for Jihad Against Jews and Crusaders
+  strong: true
+  regulation_language: en
+  logical_id: '905'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Usama Bin Laden Network
+  strong: true
+  regulation_language: en
+  logical_id: '906'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Usama Bin Laden Organisation
+  strong: true
+  regulation_language: en
+  logical_id: '907'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Al Qaida/Exército islâmico
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-04-13'
+    number_title: 316/2012 (OJ L103)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+- whole_name: Fundação da Salvação Islâmica
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1724'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Grupo para a Preservação dos Lugares Santos
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1725'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Exército Islâmico de Libertação dos Lugares Santos
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1726'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Frente Islâmica Mundial para o Jihad Contra os Judeus e os Cruzados
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1727'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Rede de Osama bin Laden
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1728'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Organização de Osama bin Laden
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1729'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Usama Bin Laden Organization
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '1777'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Osama bin Laden-Netzwerk
   name_language: DE
   strong: true
@@ -453,7 +584,8 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Παγκόσµιο Ισλαµικό Μέτωπο για τον Ιερό Πόλεµο (Τζιχάντ) κατά των Εβραίων και Σταυροφόρων
+- whole_name: Παγκόσµιο Ισλαµικό Μέτωπο για τον Ιερό Πόλεµο (Τζιχάντ) κατά των Εβραίων
+    και Σταυροφόρων
   name_language: EL
   strong: true
   regulation_language: en
@@ -472,176 +604,96 @@ name_aliases:
     publication_date: '2012-04-13'
     number_title: 316/2012 (OJ L103)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- whole_name: The World Islamic Front for Jihad Against Jews and Crusaders
+- whole_name: Η Βάση
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '905'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Usama Bin Laden Network
-  strong: true
-  regulation_language: en
-  logical_id: '906'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Usama Bin Laden Organisation
-  strong: true
-  regulation_language: en
-  logical_id: '907'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Al Qaida/Exército islâmico
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- whole_name: Fundação da Salvação Islâmica
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1724'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Grupo para a Preservação dos Lugares Santos
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1725'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Exército Islâmico de Libertação dos Lugares Santos
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1726'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Frente Islâmica Mundial para o Jihad Contra os Judeus e os Cruzados
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1727'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Rede de Osama bin Laden
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1728'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Organização de Osama bin Laden
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1729'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Usama Bin Laden Organization
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '1777'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Al-Qaida
-  strong: true
-  regulation_language: en
-  logical_id: '898'
+  logical_id: '7395'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Al Qa’ida/ Islamic Army
+- whole_name: Ал Кайда
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '899'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- whole_name: The Base
-  strong: true
-  regulation_language: en
-  logical_id: '900'
+  logical_id: '7396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Al Qaeda
+- whole_name: базата
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '901'
+  logical_id: '7397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al Qa’ida/ Ислямска армия
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-04-13'
     number_title: 316/2012 (OJ L103)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- whole_name: Islamic Salvation Foundation
+- whole_name: Фондация за спасение на исляма
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '902'
+  logical_id: '7399'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: The Group for the Preservation of the Holy Sites
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Група за опазване на светите места
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '903'
+  logical_id: '7400'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: The Islamic Army for the Liberation of Holy Places
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Ислямска армия за освобождение на светите места
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '904'
+  logical_id: '7401'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Световен ислямски фронт за джихад срещу евреите и кръстоносците
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Мрежа Осама бин Ладен
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Организация „Осама бин Ладен“
   name_language: BG
   strong: true
@@ -657,56 +709,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: síť Usámy Bin Ládina
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '7406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: organizace Usámy Bin Ládina
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '7407'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Sieć Osamy Bin Lagena
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Organizacja Osamy Bin Ladena
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Al Kaida
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '7410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12155.53
 logical_id: '169148'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mikhail KOVALEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Michail
   last_name: Kavaljou
   whole_name: Michail Kavaljou
@@ -21,29 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169515'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Mikhail KAVALIOU
-  function: Deputy head of the Department of State Prosecution of the Office for Supervision of Compliance with the Law of Court Decisions in Criminal Cases, Prosecutor General’s Office.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Mikhail KOVALEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -66,6 +55,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169150'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Mikhail KAVALIOU
+  function: Deputy head of the Department of State Prosecution of the Office for Supervision
+    of Compliance with the Law of Court Decisions in Criminal Cases, Prosecutor General’s
+    Office.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

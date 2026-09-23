@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10051.72
 logical_id: '152982'
 regulations:
@@ -29,7 +30,8 @@ name_aliases:
 - first_name: Ali Asghar
   last_name: NOUROUZI
   whole_name: Ali Asghar NOUROUZI
-  function: chairman of the board of directors of the Islamic Revolutionary Guard Corps (IRGC) Cooperative Foundation
+  function: chairman of the board of directors of the Islamic Revolutionary Guard
+    Corps (IRGC) Cooperative Foundation
   gender: M
   name_language: EN
   strong: true
@@ -68,7 +70,8 @@ birthdates:
     number_title: 2023/846 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
 addresses:
-- street: Unit 29, 5th Floor, Talaieh Block-B1, Elahiyeh Complex 1, Number 0, Alley 2-Shahid Sajjad Rushanai, Rabbaninejad  Street
+- street: Unit 29, 5th Floor, Talaieh Block-B1, Elahiyeh Complex 1, Number 0, Alley
+    2-Shahid Sajjad Rushanai, Rabbaninejad  Street
   city: Zein Aldin Municipality, Qom
   region: Qom
   country_iso2_code: IR

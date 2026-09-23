@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13296.22
 logical_id: '176608'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: عماد خوري
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176612'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
 - whole_name: KHOURI
   gender: M
   name_language: EN
@@ -24,14 +36,12 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- first_name: Emad
-  last_name: KHOURY
-  whole_name: Emad KHOURY
+- whole_name: KHURI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176616'
+  logical_id: '176614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
@@ -50,12 +60,14 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: عماد خوري
+- first_name: Emad
+  last_name: KHOURY
+  whole_name: Emad KHOURY
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176612'
+  logical_id: '176616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
@@ -69,17 +81,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: KHURI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13325.55
 logical_id: '176861'
 regulations:
@@ -13,6 +14,48 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Societatea pe acțiuni de tip închis «Uzina mecanică de echipamente speciale
+    din Moscova»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Sociedade por ações de capital fechado “Fábrica mecânica de equipamento
+    especial de Moscovo”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zártkörűen Működő Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: ZAO “MMZSO”
   name_language: EN
   strong: true
@@ -33,18 +76,12 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Закрытое Акционерное Общество “Московский Механический Завод Специального Оборудования”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Closed Joint Stock Company “Moscow Mechanical Plant of Special Equipment”
-  function: CJSC “Moscow Mechanical Plant of Special Equipment” is a Russian company that develops military equipment, including technical equipment for ships of the Russian fleet, supporting the country’s defence capabilities. The company is licenced by the Ministry of Industry and Trade of the Russian Federation to manufacture, sell, repair, maintain, install and test weapons and military equipment.
+  function: CJSC “Moscow Mechanical Plant of Special Equipment” is a Russian company
+    that develops military equipment, including technical equipment for ships of the
+    Russian fleet, supporting the country’s defence capabilities. The company is licenced
+    by the Ministry of Industry and Trade of the Russian Federation to manufacture,
+    sell, repair, maintain, install and test weapons and military equipment.
   title: Closed Joint Stock Company
   name_language: EN
   strong: true
@@ -55,41 +92,12 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea pe acțiuni de tip închis «Uzina mecanică de echipamente speciale din Moscova»
-  name_language: RO
+- whole_name: Закрытое Акционерное Общество “Московский Механический Завод Специального
+    Оборудования”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177228'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade por ações de capital fechado “Fábrica mecânica de equipamento especial de Moscovo”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zártkörűen Működő Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zrt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177230'
+  logical_id: '176868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -109,21 +117,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: regnumber
-  number: '1075032002682'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: other
   number: '773101001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176863'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: regnumber
+  number: '1075032002682'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

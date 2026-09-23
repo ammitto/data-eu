@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13150.46
 logical_id: '175762'
 regulations:
@@ -27,23 +28,23 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Олег Анатолійович ВОЛОШИН
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '175769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Олег Анатольевич ВОЛОШИН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '175768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Олег Анатолійович ВОЛОШИН
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '175769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -77,16 +78,6 @@ birthdates:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 identifications:
-- identification_type_code: id
-  number: '1981040705733'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - identification_type_code: passport
   number: ET870130
   country_iso2_code: '00'
@@ -102,6 +93,16 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- identification_type_code: id
+  number: '1981040705733'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

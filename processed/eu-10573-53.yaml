@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10573.53
 logical_id: '156291'
 regulations:
@@ -13,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrei
-  middle_name: Sergeevich
-  last_name: PALCHIK
-  whole_name: Andrei Sergeevich PALCHIK
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156296'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Andrei
-  middle_name: Siarheevich
-  last_name: PALCHIK
-  whole_name: Andrei Siarheevich PALCHIK
-  function: Former head of the correctional colony no.1 in Novopolotsk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Andrej
   middle_name: Siarhejevič
   last_name: PAĽČYK
@@ -63,33 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Andrej
-  middle_name: Sergejevitj
-  last_name: PALTJIK
-  whole_name: Andrej Sergejevitj PALTJIK
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156873'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Andrej
-  middle_name: Siarhejevitj
-  last_name: PALTJYK
-  whole_name: Andrej Siarhejevitj PALTJYK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -118,6 +64,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrej
+  middle_name: Siarhejevitj
+  last_name: PALTJYK
+  whole_name: Andrej Siarhejevitj PALTJYK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrei
+  middle_name: Siarheevich
+  last_name: PALCHIK
+  whole_name: Andrei Siarheevich PALCHIK
+  function: Former head of the correctional colony no.1 in Novopolotsk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156297'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrei
+  middle_name: Sergeevich
+  last_name: PALCHIK
+  whole_name: Andrei Sergeevich PALCHIK
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156296'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrej
+  middle_name: Sergejevitj
+  last_name: PALTJIK
+  whole_name: Andrej Sergejevitj PALTJIK
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156873'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

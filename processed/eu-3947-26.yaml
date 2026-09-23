@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3947.26
 logical_id: '109988'
 regulations:
@@ -13,11 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Павел Валентинович ШПЕРОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '109990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
 - first_name: Pavel
   middle_name: Valentinovich
   last_name: SHPEROV
   whole_name: Pavel Valentinovich SHPEROV
-  function: Former Member of the State Duma; Former Member of the Duma Committee for CIS Affairs, Eurasian Integration and Relations with Compatriots.
+  function: Former Member of the State Duma; Former Member of the Duma Committee for
+    CIS Affairs, Eurasian Integration and Relations with Compatriots.
   gender: M
   strong: true
   regulation_language: en
@@ -32,16 +44,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Павел Валентинович ШПЕРОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '109990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

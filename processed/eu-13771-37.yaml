@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13771.37
 logical_id: '179384'
 regulations:
@@ -43,7 +44,8 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Public Joint Stock Company  Odk-Ufimskoye Motorostroitelnoye  Production Association
+- whole_name: Public Joint Stock Company  Odk-Ufimskoye Motorostroitelnoye  Production
+    Association
   name_language: EN
   strong: true
   regulation_language: en
@@ -53,7 +55,8 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Публичное Акционерное  Общество Одк-Уфимское  Моторостроительное  Производственное Объединение
+- whole_name: Публичное Акционерное  Общество Одк-Уфимское  Моторостроительное  Производственное
+    Объединение
   name_language: RU
   strong: true
   regulation_language: en
@@ -74,7 +77,9 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: ODK-Ufa Engine-Building  Production Association
-  function: ODK-Ufa Engine-Building Production Association - ODK-UMPO)is Russia’s largest gas turbine engine manufacturer and a key subsidiary of the State-owned United Engine Corporation - UEC
+  function: ODK-Ufa Engine-Building Production Association - ODK-UMPO)is Russia’s
+    largest gas turbine engine manufacturer and a key subsidiary of the State-owned
+    United Engine Corporation - UEC
   name_language: EN
   strong: true
   regulation_language: en
@@ -98,21 +103,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1020202388359'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '0273008320'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1020202388359'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

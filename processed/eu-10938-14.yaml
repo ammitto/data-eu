@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10938.14
 logical_id: '159833'
 regulations:
@@ -21,6 +22,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Marina
+  last_name: Zacharova
+  whole_name: Marina Zacharova
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Marina
+  last_name: Zacharova
+  whole_name: Marina Zacharova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -50,32 +77,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Marina
-  last_name: Zacharova
-  whole_name: Marina Zacharova
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Marina
-  last_name: Zacharova
-  whole_name: Marina Zacharova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

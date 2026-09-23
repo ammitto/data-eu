@@ -1,0 +1,53 @@
+---
+eu_reference_number: EU.14996.73
+logical_id: '185532'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-28'
+  entry_into_force_date: '2026-05-28'
+  number_title: 2026/1177 (OJ L202601177)
+  programme: HR
+  logical_id: '226951'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Nachala Movement
+  function: The Nachala Movement (“Nachala”) has the aim of promoting Jewish settlements
+    and illegal outposts in the West Bank. Through its activities, the movement plays
+    an instrumental role in facilitating and encouraging coercive acts that lead to
+    the forced displacement of Palestinians and violate their right to property, their
+    right to private and family life and their right to self-determination, as well
+    as the right to life and to physical integrity.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: נחלה
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+addresses:
+- city: West Bank
+  country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
+  regulation_language: en
+  logical_id: '185533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177

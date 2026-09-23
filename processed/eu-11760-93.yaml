@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11760.93
 logical_id: '166758'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Людмила Сергеевна БОЛАТАЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Lyudmila
   middle_name: Sergeevna
   last_name: BOLATAEVA
@@ -23,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166763'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Людмила Сергеевна БОЛАТАЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

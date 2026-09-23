@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10021.68
 logical_id: '152809'
 regulations:
@@ -13,14 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdellatif
-  last_name: HAMID
-  whole_name: Abdellatif HAMID
+- whole_name: عبد اللطيف حميدة
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '152814'
+  logical_id: '152812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -37,12 +36,14 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: عبد اللطيف حميدة
+- first_name: Abdellatif
+  last_name: HAMID
+  whole_name: Abdellatif HAMID
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152812'
+  logical_id: '152814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

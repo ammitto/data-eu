@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1953.68
 logical_id: '5761'
 regulations:
@@ -23,7 +24,8 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Luftstreitkräfte des Korps der Islamischen Revolutionsgarden – Raketenkommando Al Ghadir
+- whole_name: Luftstreitkräfte des Korps der Islamischen Revolutionsgarden – Raketenkommando
+    Al Ghadir
   name_language: DE
   strong: true
   regulation_language: en

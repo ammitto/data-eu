@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10715.61
 logical_id: '157360'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dzmitryj
+  middle_name: Vitaljevitj
+  last_name: BUBENTJYK
+  whole_name: Dzmitryj Vitaljevitj BUBENTJYK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Дзмiтрый
   middle_name: Вiтальевiч
   last_name: БУБЕНЧЫК
@@ -36,6 +51,60 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157369'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dmitrij
+  middle_name: Vitaljevitj
+  last_name: BUBENTJIK
+  whole_name: Dmitrij Vitaljevitj BUBENTJIK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dzmitryj
+  last_name: Bubenčyk
+  whole_name: Dzmitryj Bubenčyk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157365'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dzmitryj
+  middle_name: Vitaľevič
+  last_name: BUBENČYK
+  whole_name: Dzmitryj Vitaľevič BUBENČYK
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dzmitrij
+  last_name: Bubenčik
+  whole_name: Dzmitrij Bubenčik
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '157363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -65,74 +134,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157371'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitryj
-  middle_name: Vitaľevič
-  last_name: BUBENČYK
-  whole_name: Dzmitryj Vitaľevič BUBENČYK
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitryj
-  last_name: Bubenčyk
-  whole_name: Dzmitryj Bubenčyk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157365'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitryj
-  middle_name: Vitaljevitj
-  last_name: BUBENTJYK
-  whole_name: Dzmitryj Vitaljevitj BUBENTJYK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157367'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dmitrij
-  middle_name: Vitaljevitj
-  last_name: BUBENTJIK
-  whole_name: Dmitrij Vitaljevitj BUBENTJIK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitrij
-  last_name: Bubenčik
-  whole_name: Dzmitrij Bubenčik
-  gender: M
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '157363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

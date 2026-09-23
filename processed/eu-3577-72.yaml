@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3577.72
 logical_id: '189'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Salwwan Samir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - first_name: Izz Hasan
   last_name: AL-DIN
   whole_name: Izz Hasan AL-DIN
@@ -56,17 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Salwwan Samir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '286'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'

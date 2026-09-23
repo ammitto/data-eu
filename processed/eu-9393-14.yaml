@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9393.14
 logical_id: '147261'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ruske zračne in vesoljske sile
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Russische lucht- en  ruimtevaartstrijdkrachten
   name_language: NL
   strong: true
@@ -33,11 +24,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venäjän ilmavoimat
-  name_language: FI
+- whole_name: Venemaa õhu- ja  kosmosejõud
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '148058'
+  logical_id: '148100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -53,11 +44,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos oro ir kosminės pajėgos
-  name_language: LT
+- whole_name: Venäjän ilmavoimat
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '147982'
+  logical_id: '148058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -73,41 +64,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Forças Aeroespaciais Russas
-  name_language: PT
+- whole_name: Rusijos oro ir kosminės pajėgos
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruské vzdušné a vesmírne sily
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Orosz légi- és űrerők
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Руските военновъздушни сили
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148019'
+  logical_id: '147982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -133,11 +94,51 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ρωσικές  αεροδιαστημικές  δυνάμεις
-  name_language: EL
+- whole_name: Руските военновъздушни сили
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '147940'
+  logical_id: '148019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Orosz légi- és űrerők
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruské vzdušné a vesmírne sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Fuerzas Aeroespaciales Rusas
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Forças Aeroespaciais Russas
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -182,21 +183,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Fuerzas Aeroespaciales Rusas
-  name_language: ES
+- whole_name: ruske zračne in vesoljske sile
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '147777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venemaa õhu- ja  kosmosejõud
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '148100'
+  logical_id: '148137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -217,6 +208,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ρωσικές  αεροδιαστημικές  δυνάμεις
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

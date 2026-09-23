@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5851.39
 logical_id: '125785'
 regulations:
@@ -13,6 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dmitry
+  middle_name: Sergeyevich
+  last_name: BADIN
+  whole_name: Dmitry Sergeyevich BADIN
+  function: Military intelligence officer of the 85th Main Centre of Special Services
+    (GTsSS) of the Main Directorate of the General Staff of the Armed Forces of the
+    Russian Federation (GU/GRU)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Дмитрий
   middle_name: Сергеевич
   last_name: БАДИН
@@ -40,21 +58,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- first_name: Dmitry
-  middle_name: Sergeyevich
-  last_name: BADIN
-  whole_name: Dmitry Sergeyevich BADIN
-  function: Military intelligence officer of the 85th Main Centre of Special Services (GTsSS) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

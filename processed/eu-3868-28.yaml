@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.3868.28
 logical_id: '7199'
-designation_details: Listed pursuant to paragraph 19 of UN Security Council Resolution 1973 (2011) (Asset Freeze).
+designation_details: Listed pursuant to paragraph 19 of UN Security Council Resolution
+  1973 (2011) (Asset Freeze).
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -22,6 +24,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '105191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/757 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
+- first_name: SAFÍJA FARKAŠ
+  last_name: AL-BARÁSÍ
+  whole_name: SAFÍJA FARKAŠ AL-BARÁSÍ
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -64,32 +78,7 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/757 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
-- first_name: SAFÍJA FARKAŠ
-  last_name: AL-BARÁSÍ
-  whole_name: SAFÍJA FARKAŠ AL-BARÁSÍ
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/757 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
 birthdates:
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1952
-  city: Al Bayda
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '111616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 - birthdate: '1953-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -106,6 +95,19 @@ birthdates:
     publication_date: '2024-02-27'
     number_title: 2024/757 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400757
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1952
+  city: Al Bayda
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '111616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 addresses:
 - country_iso2_code: EG
   country_description: EGYPT

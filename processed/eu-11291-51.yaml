@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11291.51
 logical_id: '162874'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC SMT iLogic
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: SMT-Ailogik Kft.
   name_language: HU
   strong: true
@@ -53,6 +44,36 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: LLC “SMT-iLogic”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162880'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: LLC SMT-Ailogik
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: LLC SMT iLogic
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162878'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: ООО “СМТ-Айлогик”
   name_language: RU
   strong: true
@@ -73,26 +94,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: LLC SMT-Ailogik
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: LLC “SMT-iLogic”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162880'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 addresses:
 - street: Nepokorennykh Avenue, 17, building 4, letter V, room 5-N
   city: St. Petersburg
@@ -117,16 +118,6 @@ identifications:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- identification_type_code: regnumber
-  number: '1157847407156'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - identification_type_code: fiscalcode
   number: '7804552300'
   country_iso2_code: RU
@@ -137,3 +128,13 @@ identifications:
     publication_date: '2024-04-12'
     number_title: 2024/753-corr 2024/90233 (OJ L12042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202490233
+- identification_type_code: regnumber
+  number: '1157847407156'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173917'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14070.60
 logical_id: '181100'
 regulations:
@@ -13,22 +14,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Газстройпром
-  name_language: RU
+- whole_name: JSC Gazstroyprom
+  function: JSC Gazstroyprom is a leading company in the Russian energy sector. The
+    company carries out different projects for the extraction, processing and transportation
+    of natural gas.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181103'
+  logical_id: '181104'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: JSC Gazstroyprom
-  function: JSC Gazstroyprom is a leading company in the Russian energy sector. The company carries out different projects for the extraction, processing and transportation of natural gas.
-  name_language: EN
+- whole_name: АО Газстройпром
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '181104'
+  logical_id: '181103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

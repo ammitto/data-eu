@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13535.42
 logical_id: '178269'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Iran Liquefied Natural Gas Co.
-  function: Iran Liquefied Natural Gas Co. is managing Iran LNG projects. It is a subsidiary of the National Iranian Gas Export Company, which is itself a subsidiary of the State-owned National Iranian Oil Company -  NIOC.
+  function: Iran Liquefied Natural Gas Co. is managing Iran LNG projects. It is a
+    subsidiary of the National Iranian Gas Export Company, which is itself a subsidiary
+    of the State-owned National Iranian Oil Company -  NIOC.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13360.33
 logical_id: '177082'
 designation_details: Limited Liability Company
@@ -14,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Aqua Fleet Management LLC
+  strong: true
+  regulation_language: en
+  logical_id: '177086'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "“Aqua Fleet Management” Məhdud Məsuliyyətli Cəmiyyəti"
   name_language: AZ
   strong: true
@@ -24,17 +34,12 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Aqua Fleet Management LLC
-  strong: true
-  regulation_language: en
-  logical_id: '177086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Aqua Fleet Management Limited Liability Company
-  function: 'Aqua Fleet Management LLC is a company registered in Azerbaijan, which manages a fleet of three vessels. The vessels in the company’s fleet are EDERRA (IMO: 9258026), SAURI (IMO: 9266475) and TEMIRO (IMO: 9209972), all of which are listed under Annex XVI to Decision 2014/512/CFSP. Aqua Fleet Management LLC is the ship manager and technical manager for all three vessels.'
+  function: 'Aqua Fleet Management LLC is a company registered in Azerbaijan, which
+    manages a fleet of three vessels. The vessels in the company’s fleet are EDERRA
+    (IMO: 9258026), SAURI (IMO: 9266475) and TEMIRO (IMO: 9209972), all of which are
+    listed under Annex XVI to Decision 2014/512/CFSP. Aqua Fleet Management LLC is
+    the ship manager and technical manager for all three vessels.'
   name_language: EN
   strong: true
   regulation_language: en

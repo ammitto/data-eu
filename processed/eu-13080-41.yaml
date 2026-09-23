@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13080.41
 logical_id: '175145'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: "»VSK« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»VSK« Biztosítási Részvénytársaság"
   name_language: HU
   strong: true
@@ -43,22 +54,14 @@ name_aliases:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Insurance Joint Stock Company “VSK”
-  function: Insurance Joint Stock Company “VSK” (JSC VSK) is a Russian company providing insurance for the Russian energy sector, offering a broad range of insurance and financial services to entities within that sector.
+  function: Insurance Joint Stock Company “VSK” (JSC VSK) is a Russian company providing
+    insurance for the Russian energy sector, offering a broad range of insurance and
+    financial services to entities within that sector.
   title: Insurance Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»VSK« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175293'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -79,6 +82,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
 - identification_type_code: fiscalcode
+  number: '773101001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
   number: '7710026574'
   country_iso2_code: '00'
   regulation_language: en
@@ -93,16 +106,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '773101001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

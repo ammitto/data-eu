@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9047.41
 logical_id: '145515'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Aung Moe Myint
-  function: Director of Dynasty International Company Ltd (DICL) operating in the trading sector. Honorary Consul of the Republic of Belarus to Myanmar.
+  function: Director of Dynasty International Company Ltd (DICL) operating in the
+    trading sector. Honorary Consul of the Republic of Belarus to Myanmar.
   gender: M
   strong: true
   regulation_language: en
@@ -35,21 +37,6 @@ citizenships:
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 birthdates:
-- birthdate: '1969-09-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 9
-  year: 1969
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '145516'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - birthdate: '1971-06-09'
   circa: false
   calendar_type: GREGORIAN
@@ -60,6 +47,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '145517'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- birthdate: '1969-09-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 9
+  year: 1969
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '145516'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14462.28
 logical_id: '182973'
 regulations:
@@ -13,34 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mihail Ambarov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '184691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Michail Ambarov
   gender: M
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '184692'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Михаил Андреевич АМБАРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -57,12 +36,34 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Михаил Андреевич АМБАРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Михаил Амбаров
   gender: M
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '184693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Mihail Ambarov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '184691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

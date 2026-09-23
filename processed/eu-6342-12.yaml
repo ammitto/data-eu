@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6342.12
 logical_id: '129843'
 regulations:
@@ -57,24 +58,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr  Aleksandrovich VOLK
+- whole_name: Aliaksandr Aliaksandravich VOUK
+  function: "Judge of the Sovetsky \nDistrict Court of Minsk"
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '129848'
+  logical_id: '129849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aliaksandr Aliaksandravich VOUK
-  function: |-
-    Judge of the Sovetsky 
-    District Court of Minsk
+- whole_name: Aleksandr  Aleksandrovich VOLK
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '129849'
+  logical_id: '129848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

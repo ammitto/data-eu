@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.345.67
 logical_id: '631'
-remark: 'Believed to be in the Gulf region. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1494026'
+remark: 'Believed to be in the Gulf region. Review pursuant to Security Council Resolution
+  1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special
+  Notice web link: https://www.interpol.int/en/notice/search/un/1494026'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -81,11 +84,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1960
-  city: Paliran village, Namakab District, Takhar Province
+  city: Taluqan City, Takhar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2067'
+  logical_id: '942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'
@@ -94,11 +97,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1960
-  city: Taluqan City, Takhar province
+  city: Paliran village, Namakab District, Takhar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '942'
+  logical_id: '2067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'

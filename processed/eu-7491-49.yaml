@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7491.49
 logical_id: '135829'
 regulations:
@@ -14,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  middle_name: Anatoljevitj
-  last_name: EJBATOV
-  whole_name: Oleg Anatoljevitj EJBATOV
+  last_name: Ejbatov
+  whole_name: Oleg Ejbatov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '135997'
+  logical_id: '164811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -36,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Oleg
+  middle_name: Anatoljevitj
+  last_name: EJBATOV
+  whole_name: Oleg Anatoljevitj EJBATOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -57,19 +71,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Oleg
-  last_name: Ejbatov
-  whole_name: Oleg Ejbatov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS
@@ -81,21 +82,6 @@ citizenships:
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
 birthdates:
-- birthdate: '1972-08-15'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 15
-  month_of_year: 8
-  year: 1972
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '164466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - birthdate: '1972-08-05'
   circa: false
   calendar_type: GREGORIAN
@@ -106,6 +92,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '164467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- birthdate: '1972-08-15'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 15
+  month_of_year: 8
+  year: 1972
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '164466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

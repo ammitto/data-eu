@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3085.27
 logical_id: '6304'
 regulations:
@@ -13,44 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ali
-  last_name: Mamlouk
-  whole_name: Ali Mamlouk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Ali
-  last_name: MAMLUK
-  whole_name: Ali MAMLUK
-  function: Presidential advisor for security affairs since January 2024. Former Vice President of the Syrian Arab Republic for Security Affairs. Former Director of the National Security Bureau. Former Head of Syrian Intelligence Directorate involved in violence against demonstrators.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: Abu Ayham
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: علي مملوك
   gender: M
   name_language: AR
@@ -68,6 +31,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- whole_name: Abu Ayham
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -92,6 +66,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Ali
+  last_name: Mamlouk
+  whole_name: Ali Mamlouk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Ali
+  last_name: MAMLUK
+  whole_name: Ali MAMLUK
+  function: Presidential advisor for security affairs since January 2024. Former Vice
+    President of the Syrian Arab Republic for Security Affairs. Former Director of
+    the National Security Bureau. Former Head of Syrian Intelligence Directorate involved
+    in violence against demonstrators.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

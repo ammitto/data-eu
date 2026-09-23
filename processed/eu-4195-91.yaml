@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4195.91
 logical_id: '6852'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Korea Complex Equipment Import Corporation
-  function: Korea Ryonbong General Corporation is the parent company of Korea Complex Equipment Import Corporation.
+  function: Korea Ryonbong General Corporation is the parent company of Korea Complex
+    Equipment Import Corporation.
   strong: true
   regulation_language: en
   logical_id: '15076'

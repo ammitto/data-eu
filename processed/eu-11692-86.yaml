@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11692.86
 logical_id: '166333'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohammad-Réza
+  middle_name: Gharaei
+  last_name: Aštiání
+  whole_name: Mohammad-Réza Gharaei Aštiání
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166338'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - first_name: Mohammad-Reza
   middle_name: Gharaei
   last_name: ASHTIANI
@@ -23,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- first_name: Mohammad-Réza
-  middle_name: Gharaei
-  last_name: Aštiání
-  whole_name: Mohammad-Réza Gharaei Aštiání
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '166338'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'

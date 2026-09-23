@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11715.49
 logical_id: '166558'
 regulations:
@@ -28,6 +29,21 @@ name_aliases:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Anna
+  middle_name: Yurevna
+  last_name: LUZHANSKAYA
+  whole_name: Anna Yurevna LUZHANSKAYA
+  function: Founder of LLC TC Fly Bridge
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Anna
   middle_name: Yurievna
   last_name: LUZHANSKAYA
   whole_name: Anna Yurievna LUZHANSKAYA
@@ -50,21 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Anna
-  middle_name: Yurevna
-  last_name: LUZHANSKAYA
-  whole_name: Anna Yurevna LUZHANSKAYA
-  function: Founder of LLC TC Fly Bridge
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166565'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

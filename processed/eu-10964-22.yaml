@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10964.22
 logical_id: '159983'
 regulations:
@@ -13,51 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Scientific and Production Association ‘Pribor’, επ ονόματι του S.S. Golembiovsky
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Scientific and Production Association ‘Pribor’ named after S.S. Golembiovsky”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “Научно-Производственное Объединение ‘Прибор’ имени С.С. Голембиовского”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. “Association scientifique et de production “Pribor” — Golembiovsky”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160569'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: "„Pribor” Kutató- és Termelőtársaság"
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '160957'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S.S. Golembiovsky Tudományos és Termelő Szövetkezet „Pribor” Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -73,21 +44,23 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima “Scientific and Production Association ‘Pribor’ named after S.S. Golembiovsky”
-  name_language: ES
+- whole_name: JSC “Scientific and Production Association ‘Pribor’, επ ονόματι του
+    S.S. Golembiovsky
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '160704'
+  logical_id: '161251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.S. Golembiovsky Tudományos és Termelő Szövetkezet „Pribor” Rt.
-  name_language: HU
+- whole_name: sociedad anónima “Scientific and Production Association ‘Pribor’ named
+    after S.S. Golembiovsky”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160958'
+  logical_id: '160704'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -108,6 +81,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S.A. “Association scientifique et de production “Pribor” — Golembiovsky”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160569'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “Scientific and Production Association ‘Pribor’ named after S.S.
+    Golembiovsky”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “Научно-Производственное Объединение ‘Прибор’ имени С.С. Голембиовского”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9080.21
 logical_id: '145728'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: کوچزایی ابراهیم
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Ebrahim
   last_name: KOUCHAKZAEI
   whole_name: Ebrahim KOUCHAKZAEI
@@ -53,7 +43,8 @@ name_aliases:
 - first_name: Ebrahim
   last_name: KOCHZAEI
   whole_name: Ebrahim KOCHZAEI
-  function: Head of Iran’s Law Enforcement Forces (LEF) in the city of Chabahar in Sistan and Baluchestan province until 3 DEcember 2022.
+  function: Head of Iran’s Law Enforcement Forces (LEF) in the city of Chabahar in
+    Sistan and Baluchestan province until 3 DEcember 2022.
   gender: M
   title: Colonel
   name_language: EN
@@ -65,6 +56,17 @@ name_aliases:
     publication_date: '2024-04-05'
     number_title: 2024/1033 (OJ L05042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
+- whole_name: کوچزایی ابراهیم
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

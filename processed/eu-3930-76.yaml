@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3930.76
 logical_id: '3809'
 designation_details: UN designation 24/03/2007
@@ -14,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Βιομηχανικός Όμιλος Πυρομαχικών και Μεταλλουργίας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '162012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Grupa Przemysłowa ds. Amunicji i Metalurgii
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '161996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: El Grupo de Industrias de Municiones y Metalurgia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '169704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Grúpa na  dTionscal Armlóin agus Miotalóireachta
   name_language: GA
   strong: true
@@ -34,6 +65,26 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Laskemoona- ja metallurgiatööstuse kontsern
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '162127'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Grupo das indústrias de munições e de metalurgia
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Ammunition Industries Group
   name_language: EN
   strong: true
@@ -94,74 +145,24 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupo das indústrias de munições e de metalurgia
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupa Przemysłowa ds. Amunicji i Metalurgii
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '161996'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Βιομηχανικός Όμιλος Πυρομαχικών και Μεταλλουργίας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '162012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Laskemoona- ja metallurgiatööstuse kontsern
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '162127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: El Grupo de Industrias de Municiones y Metalurgia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '169704'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
-- street: Department 145-42, Moghan  Avenue, Pasdaran Street
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Pasdaran Street
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Department 145-42, Moghan  Avenue, Pasdaran Street
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159366'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

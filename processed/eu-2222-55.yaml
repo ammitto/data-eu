@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2222.55
 logical_id: '5280'
 regulations:
@@ -16,7 +17,11 @@ name_aliases:
 - first_name: Ahmad
   last_name: VAHIDI
   whole_name: Ahmad VAHIDI
-  function: Brigadier-General Ahmad Vahidi has been a prominent member of the Islamic Revolutionary Guard Corps (IRGC) since 1979. He was appointed as Deputy Chief for Intelligence in 1981, played a role in organising the Ministry of Intelligence, became the first commander of the IRGC Quds Force in 1988 and was in charge of the IRGC Intelligence Unit.
+  function: Brigadier-General Ahmad Vahidi has been a prominent member of the Islamic
+    Revolutionary Guard Corps (IRGC) since 1979. He was appointed as Deputy Chief
+    for Intelligence in 1981, played a role in organising the Ministry of Intelligence,
+    became the first commander of the IRGC Quds Force in 1988 and was in charge of
+    the IRGC Intelligence Unit.
   gender: M
   title: Brigadier-General
   strong: true

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14509.22
 logical_id: '183210'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: PJSC nacionalinis bankas TRUST
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '184788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ПАО Национальный Банк “ТРАСТ”
   name_language: RU
   strong: true
@@ -34,16 +45,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: PJSC nacionalinis bankas TRUST
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '184788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
 - street: Mozhaisky Val street, 8
   city: Moscow
@@ -58,21 +59,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '7831001567'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '183212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: regnumber
   number: '773001001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '7831001567'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183212'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

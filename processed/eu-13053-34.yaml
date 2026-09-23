@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13053.34
 logical_id: '174995'
 regulations:
@@ -23,13 +24,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company Ufa Aggregate Enterprise “Gidravlika”
-  function: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika holding of the State Corporation Rostec and functions as a developer and manufacturer of products for aviation and military equipment, such as MS-21, Il-114, Su-57 and Il-96-400M.
-  title: Joint Stock Company
-  name_language: EN
+- whole_name: UAP »Gidravlika« Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175004'
+  logical_id: '175243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -45,11 +44,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО Уфимское Агрегатное Предприятие “Гидравлика”
-  name_language: RU
+- whole_name: Joint Stock Company Ufa Aggregate Enterprise “Gidravlika”
+  function: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika
+    holding of the State Corporation Rostec and functions as a developer and manufacturer
+    of products for aviation and military equipment, such as MS-21, Il-114, Su-57
+    and Il-96-400M.
+  title: Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175002'
+  logical_id: '175004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -75,11 +79,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: UAP »Gidravlika« Rt.
-  name_language: HU
+- whole_name: АО Уфимское Агрегатное Предприятие “Гидравлика”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175243'
+  logical_id: '175002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -99,16 +103,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '0278179819'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1110280031531'
   country_iso2_code: RU
@@ -124,6 +118,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '0278179819'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174998'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

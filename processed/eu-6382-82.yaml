@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6382.82
 logical_id: '130117'
 regulations:
@@ -24,22 +25,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Valeri Valerevich  IVANKOVICH
-  function: General Director of OJSC "MAZ"
+- whole_name: Valeryj Valerjevitj IVANKOVITJ
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Valery Valerevich  IVANKOVICH
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130122'
+  logical_id: '130721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -67,12 +58,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Valeryj Valerjevitj IVANKOVITJ
+- whole_name: Valery Valerevich  IVANKOVICH
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130721'
+  logical_id: '130122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Valeri Valerevich  IVANKOVICH
+  function: General Director of OJSC "MAZ"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

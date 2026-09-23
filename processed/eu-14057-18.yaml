@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14057.18
 logical_id: '180912'
 regulations:
@@ -22,23 +23,26 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Открытое Акционерное Общество «Авиаагрегат»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180915'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Open Joint Stock Company «Aviaagregat»
-  function: Within the aviation industry of Dagestan, it is an important manufacturer of on-board equipment and ground operating equipment for aircraft and aviation infrastructure. The enterprise is a major manufacturer of airfield equipment for maintenance of military aircraft on the Russian market.
+  function: Within the aviation industry of Dagestan, it is an important manufacturer
+    of on-board equipment and ground operating equipment for aircraft and aviation
+    infrastructure. The enterprise is a major manufacturer of airfield equipment for
+    maintenance of military aircraft on the Russian market.
   title: Open Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Открытое Акционерное Общество «Авиаагрегат»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180915'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -58,6 +62,16 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
+- identification_type_code: regnumber
+  number: '1020502527066'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '182445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: taxid
   number: '0541000777'
   country_iso2_code: '00'
@@ -73,16 +87,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '182443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- identification_type_code: regnumber
-  number: '1020502527066'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '182445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

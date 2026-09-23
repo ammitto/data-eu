@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6694.76
 logical_id: '131973'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Канстанцiн
-  middle_name: Генадзьевiч
-  last_name: МОЛАСТАЎ
-  whole_name: Канстанцiн Генадзьевiч МОЛАСТАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '131978'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Константин
   middle_name: Геннадьевич
   last_name: МОЛОСТОВ
@@ -41,15 +28,27 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Konstantin
-  middle_name: Gennadevich
-  last_name: MOLOSTOV
-  whole_name: Konstantin Gennadevich MOLOSTOV
-  gender: M
-  name_language: EN
+- first_name: Kanstancin
+  last_name: Molastau
+  whole_name: Kanstancin Molastau
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '131979'
+  logical_id: '164166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Канстанцiн
+  middle_name: Генадзьевiч
+  last_name: МОЛАСТАЎ
+  whole_name: Канстанцiн Генадзьевiч МОЛАСТАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '131978'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -87,9 +86,8 @@ name_aliases:
   middle_name: Henadzevich
   last_name: MOLASTAU
   whole_name: Kanstantsin Henadzevich MOLASTAU
-  function: |-
-    Chairman of the State Border Committee, 
-    former Head of the Grodno Border Group (appointed on 1 October 2014), Military Unit 2141, State Border Delegate
+  function: "Chairman of the State Border Committee, \nformer Head of the Grodno Border
+    Group (appointed on 1 October 2014), Military Unit 2141, State Border Delegate"
   gender: M
   title: Colonel
   name_language: EN
@@ -101,13 +99,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Kanstancin
-  last_name: Molastau
-  whole_name: Kanstancin Molastau
-  name_language: CS
+- first_name: Konstantin
+  middle_name: Gennadevich
+  last_name: MOLOSTOV
+  whole_name: Konstantin Gennadevich MOLOSTOV
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164166'
+  logical_id: '131979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

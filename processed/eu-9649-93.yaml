@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9649.93
 logical_id: '149530'
 regulations:
@@ -13,29 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дмитро
-  middle_name: Миколайович
-  last_name: ВОРОНА
-  whole_name: Дмитро Миколайович ВОРОНА
+- first_name: Dmitry
+  middle_name: Nikolayevich
+  last_name: VORONA
+  whole_name: Dmitry Nikolayevich VORONA
+  function: Former CEO of the Crimea Development Corporation. Member of the Federation
+    Council of the Russian Federation.
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Дмитрий
-  middle_name: Николаевич
-  last_name: ВОРОНА
-  whole_name: Дмитрий Николаевич ВОРОНА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149534'
+  logical_id: '149536'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -55,16 +44,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Dmitry
-  middle_name: Nikolayevich
-  last_name: VORONA
-  whole_name: Dmitry Nikolayevich VORONA
-  function: Former CEO of the Crimea Development Corporation. Member of the Federation Council of the Russian Federation.
+- first_name: Дмитро
+  middle_name: Миколайович
+  last_name: ВОРОНА
+  whole_name: Дмитро Миколайович ВОРОНА
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '149536'
+  logical_id: '149533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -87,6 +75,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Дмитрий
+  middle_name: Николаевич
+  last_name: ВОРОНА
+  whole_name: Дмитрий Николаевич ВОРОНА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

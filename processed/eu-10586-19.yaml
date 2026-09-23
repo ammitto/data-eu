@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10586.19
 logical_id: '156392'
 regulations:
@@ -13,46 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Tatstsiana
-  middle_name: Aljaksandrauna
-  last_name: HRAKUN
-  whole_name: Tatstsiana Aljaksandrauna HRAKUN
+- first_name: Taccjana
+  last_name: Grakunová
+  whole_name: Taccjana Grakunová
   gender: F
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatsiana
-  middle_name: Aliaksandrauna
-  last_name: GRAKUN
-  whole_name: Tatsiana Aliaksandrauna GRAKUN
-  function: |-
-    Senior Prosecutor of the Minsk Region Prosecutor's Office for Supervision of Compliance with the Law of Court Decisions in Criminal Cases, 
-    Junior Counselor of Justice
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatyana
-  middle_name: Alexandrovna
-  last_name: GRAKUN
-  whole_name: Tatyana Alexandrovna GRAKUN
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156396'
+  logical_id: '156967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -72,14 +41,32 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Татяна
-  last_name: Гракун
-  whole_name: Татяна Гракун
+- first_name: Татьяна
+  middle_name: Александровна
+  last_name: ГРАКУН
+  whole_name: Татьяна Александровна ГРАКУН
   gender: F
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '156866'
+  logical_id: '156395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tatsiana
+  middle_name: Aliaksandrauna
+  last_name: GRAKUN
+  whole_name: Tatsiana Aliaksandrauna GRAKUN
+  function: "Senior Prosecutor of the Minsk Region Prosecutor's Office for Supervision
+    of Compliance with the Law of Court Decisions in Criminal Cases, \nJunior Counselor
+    of Justice"
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -113,28 +100,42 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Taccjana
-  last_name: Grakunová
-  whole_name: Taccjana Grakunová
+- first_name: Татяна
+  last_name: Гракун
+  whole_name: Татяна Гракун
   gender: F
-  name_language: CS
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '156967'
+  logical_id: '156866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Татьяна
-  middle_name: Александровна
-  last_name: ГРАКУН
-  whole_name: Татьяна Александровна ГРАКУН
+- first_name: Tatstsiana
+  middle_name: Aljaksandrauna
+  last_name: HRAKUN
+  whole_name: Tatstsiana Aljaksandrauna HRAKUN
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156395'
+  logical_id: '156895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tatyana
+  middle_name: Alexandrovna
+  last_name: GRAKUN
+  whole_name: Tatyana Alexandrovna GRAKUN
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7390.41
 logical_id: '135316'
 regulations:
@@ -13,23 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Konstantin
-  middle_name: Sergeyevich
-  last_name: KNYRIK
-  whole_name: Konstantin Sergeyevich KNYRIK
-  function: |-
-    A pro-Russian activist running MediaGroup News Front Ltd, a news website registered in the illegally annexed Crimean Peninsula. Chief of 
-    the Crimean division of the Rodina Party, a pro-Kremlin party in Russia.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Константин
   middle_name: Сергеевич
   last_name: КНЫРИК
@@ -39,6 +23,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135319'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Konstantin
+  middle_name: Sergeyevich
+  last_name: KNYRIK
+  whole_name: Konstantin Sergeyevich KNYRIK
+  function: "A pro-Russian activist running MediaGroup News Front Ltd, a news website
+    registered in the illegally annexed Crimean Peninsula. Chief of \nthe Crimean
+    division of the Rodina Party, a pro-Kremlin party in Russia."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '135320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

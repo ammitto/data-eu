@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11390.61
 logical_id: '163515'
 regulations:
@@ -33,22 +34,22 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "“Уральское конструкторское бюро транспортного машиностроения”"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163517'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: OJSC “Ural Design Bureau of Transport Engineering”
   function: UKBTM is a Russian military industry company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '163520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: "“Уральское конструкторское бюро транспортного машиностроения”"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163517'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

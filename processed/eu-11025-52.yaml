@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11025.52
 logical_id: '160378'
 regulations:
@@ -13,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: movimiento público panruso “Voluntarios de la Victoria”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Allrussische öffentliche Bewegung „Freiwillige für den Sieg“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '160606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Общоруското обществено движение „Volunteers of Victory“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: πανρωσικό δημόσιο κίνημα “Volunteers of Victory”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: ВОД “Волонтёры Победы”
   name_language: RU
   strong: true
@@ -63,11 +24,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Всероссийское Общественное Движение “Волонтёры Победы”
-  name_language: RU
+- whole_name: A Győzelem Önkéntesei
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160381'
+  logical_id: '161139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -145,71 +106,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: movimento público pan-russo “Volunteers of Victory”
-  name_language: PT
+- whole_name: Всероссийское Общественное Движение “Волонтёры Победы”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Všeruské veřejné hnutí „Dobrovolníci vítězství“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Voluntery Pobedy” Összorosz Állami Mozgalom"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Győzelem-önkéntesek
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161138'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: A Győzelem Önkéntesei
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Celoruské verejné hnutie „Volunteers of Victory“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Panruski javni pokret ,Volunteers of Victory’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '161141'
+  logical_id: '160381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -250,6 +151,106 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Allrussische öffentliche Bewegung „Freiwillige für den Sieg“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '160606'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: movimiento público panruso “Voluntarios de la Victoria”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: movimento público pan-russo “Volunteers of Victory”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '160773'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Общоруското обществено движение „Volunteers of Victory“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: πανρωσικό δημόσιο κίνημα “Volunteers of Victory”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Celoruské verejné hnutie „Volunteers of Victory“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Panruski javni pokret ,Volunteers of Victory’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '161141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Všeruské veřejné hnutí „Dobrovolníci vítězství“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„Voluntery Pobedy” Összorosz Állami Mozgalom"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Győzelem-önkéntesek
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13359.55
 logical_id: '177074'
 designation_details: Joint Stock Company
@@ -14,20 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC NPO “POISK”
+- whole_name: Joint Stock Company Scientific and Production Association “POISK”
+  function: JSC Scientific and Production Association “POISK” is a leading Russian
+    manufacturer of weapons and ammunition as well as a leading entity for the development
+    of mechanical, electromechanical and electronic multifunctional fuses for ammunition.
+    It has well-established cooperation with some of the major Russian defence companies,
+    such as Tekhmash, Air Defence Concern Almaz-Antey and Tactical Missile Weapons
+    Corporation.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177078'
+  logical_id: '177081'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное общество “Научно Производственное Объединение ‘ПОИСК’”
-  name_language: RU
+- whole_name: JSC NPO “POISK”
   strong: true
   regulation_language: en
-  logical_id: '177080'
+  logical_id: '177078'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -42,12 +49,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company Scientific and Production Association “POISK”
-  function: JSC Scientific and Production Association “POISK” is a leading Russian manufacturer of weapons and ammunition as well as a leading entity for the development of mechanical, electromechanical and electronic multifunctional fuses for ammunition. It has well-established cooperation with some of the major Russian defence companies, such as Tekhmash, Air Defence Concern Almaz-Antey and Tactical Missile Weapons Corporation.
-  name_language: EN
+- whole_name: Акционерное общество “Научно Производственное Объединение ‘ПОИСК’”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177081'
+  logical_id: '177080'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

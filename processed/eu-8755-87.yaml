@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8755.87
 logical_id: '144318'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Boris
-  middle_name: Jakovlevitj
-  last_name: RAPOPORT
-  whole_name: Boris Jakovlevitj RAPOPORT
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Борис
   middle_name: Яковлевич
   last_name: РАПОПОРТ
@@ -45,11 +32,26 @@ name_aliases:
   middle_name: Yakovlevich
   last_name: RAPOPORT
   whole_name: Boris Yakovlevich RAPOPORT
-  function: Deputy head of the Division of Operation of the State Council in the Administration of the President of the Russian Federation
+  function: Deputy head of the Division of Operation of the State Council in the Administration
+    of the President of the Russian Federation
   gender: M
   strong: true
   regulation_language: en
   logical_id: '144340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Boris
+  middle_name: Jakovlevitj
+  last_name: RAPOPORT
+  whole_name: Boris Jakovlevitj RAPOPORT
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

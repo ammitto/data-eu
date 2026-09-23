@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12292.38
 logical_id: '170463'
 regulations:
@@ -13,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad Reza
-  last_name: KHIABANI
-  whole_name: Mohammad Reza KHIABANI
-  function: Director of Islamic Republic of Iran Shipping Lines (IRISL), a major Iranian maritime carrier.
+- first_name: Mohammed Réza
+  last_name: Chiabání
+  whole_name: Mohammed Réza Chiabání
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '170466'
+  logical_id: '170485'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'
@@ -38,14 +38,16 @@ name_aliases:
     publication_date: '2024-11-18'
     number_title: 2024/2896 (OJ L18112024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
-- first_name: Mohammed Réza
-  last_name: Chiabání
-  whole_name: Mohammed Réza Chiabání
+- first_name: Mohammad Reza
+  last_name: KHIABANI
+  whole_name: Mohammad Reza KHIABANI
+  function: Director of Islamic Republic of Iran Shipping Lines (IRISL), a major Iranian
+    maritime carrier.
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170485'
+  logical_id: '170466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'

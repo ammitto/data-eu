@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13409.25
 logical_id: '177402'
 regulations:
@@ -23,22 +24,23 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Bellatrix Energy
+- whole_name: Bellatrix Energy Limited
+  function: Bellatrix Energy Limited is a Hong Kong-based company that is part of
+    a network of companies that enables shipments and export of Russian oil.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177406'
+  logical_id: '177407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Bellatrix Energy Limited
-  function: Bellatrix Energy Limited is a Hong Kong-based company that is part of a network of companies that enables shipments and export of Russian oil.
+- whole_name: Bellatrix Energy
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177407'
+  logical_id: '177406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

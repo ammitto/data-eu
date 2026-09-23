@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3777.2
 logical_id: '113210'
 regulations:
@@ -17,7 +18,8 @@ name_aliases:
   middle_name: Ziad
   last_name: Ghraywati
   whole_name: Mohammad Ziad Ghraywati
-  function: Mohammad Ziad Ghraywati is an engineer at the Syrian Scientific Studies and Research Centre, a listed entity.
+  function: Mohammad Ziad Ghraywati is an engineer at the Syrian Scientific Studies
+    and Research Centre, a listed entity.
   strong: true
   regulation_language: en
   logical_id: '113211'
@@ -27,7 +29,8 @@ name_aliases:
     number_title: 2017/1327 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1327&from=EN
 - whole_name: Mohammad Ziad GHRIWATI
-  function: Mohammad Ziad  Ghriwati  is  an  engineer at the  Syrian  Scientific Studies and  Research Centre.
+  function: Mohammad Ziad  Ghriwati  is  an  engineer at the  Syrian  Scientific Studies
+    and  Research Centre.
   gender: M
   strong: true
   regulation_language: en

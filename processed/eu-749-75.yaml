@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.749.75
 logical_id: '831'
-remark: 'Deputy to Mullah Mohammed Omar. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www. interpol.int/en/notice/search/un/1427426'
+remark: 'Deputy to Mullah Mohammed Omar. Review pursuant to Security Council Resolution
+  1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special
+  Notice web link: https://www. interpol.int/en/notice/search/un/1427426'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -28,19 +31,19 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Haji Karim
+- whole_name: Noor ud Din Turabi
   strong: true
   regulation_language: en
-  logical_id: '15994'
+  logical_id: '102190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Noor ud Din Turabi
+- whole_name: Haji Karim
   strong: true
   regulation_language: en
-  logical_id: '102190'
+  logical_id: '15994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -57,13 +60,25 @@ citizenships:
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 birthdates:
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  city: Dehrawood District, Uruzgan Province
+  year: 1955
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111228'
+  logical_id: '1816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1956
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -93,18 +108,6 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1955
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
   city: Chora District, Uruzgan Province
@@ -119,11 +122,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1956
+  city: Dehrawood District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1872'
+  logical_id: '111228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

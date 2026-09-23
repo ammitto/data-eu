@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.226.40
 logical_id: '7405'
 remark: 'Date of listing: 25.7.2014'
@@ -15,29 +16,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ramzan
-  middle_name: Akhmadovitch
+  middle_name: Achmatovitj
   last_name: KADYROV
-  whole_name: Ramzan Akhmadovitch KADYROV
-  function: President of the Republic of Chechnya. Member of the Supreme Council of the United Russia Party.
+  whole_name: Ramzan Achmatovitj KADYROV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '17973'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Рамзан
-  middle_name: Ахматович
-  last_name: КАДЫРОВ
-  whole_name: Рамзан Ахматович КАДЫРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '17974'
+  logical_id: '151825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -57,15 +43,31 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Ramzan
-  middle_name: Achmatovitj
-  last_name: KADYROV
-  whole_name: Ramzan Achmatovitj KADYROV
+- first_name: Рамзан
+  middle_name: Ахматович
+  last_name: КАДЫРОВ
+  whole_name: Рамзан Ахматович КАДЫРОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151825'
+  logical_id: '17974'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Ramzan
+  middle_name: Akhmadovitch
+  last_name: KADYROV
+  whole_name: Ramzan Akhmadovitch KADYROV
+  function: President of the Republic of Chechnya. Member of the Supreme Council of
+    the United Russia Party.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17973'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14356.46
 logical_id: '182519'
 regulations:
@@ -13,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Etibar EYYUB
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2588 (OJ L202502588)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 - whole_name: Akin KOCAK
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+- whole_name: Etibar EYYUB
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

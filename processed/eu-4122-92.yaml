@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4122.92
 logical_id: '107814'
 regulations:
@@ -13,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Cho'n Myo'ng-kuk
+  strong: true
+  regulation_language: en
+  logical_id: '113896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - first_name: Myong
   middle_name: Guk
   last_name: Jon
@@ -34,15 +44,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
-- whole_name: Cho'n Myo'ng-kuk
-  strong: true
-  regulation_language: en
-  logical_id: '113896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

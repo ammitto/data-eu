@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3460.60
 logical_id: '6223'
 regulations:
@@ -13,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hodjatoleslam Seyed Mohammad
-  last_name: SOLTANI
-  whole_name: Hodjatoleslam Seyed Mohammad SOLTANI
-  function: Head of the Organisation for Islamic Propaganda in the province of Khorasan-Razavi. Since 2018, deputy prosecutor in the Revolutionary Prosecution Office, Mashhad. Former Judge, Mashhad Revolutionary Court (2013-2019).
+- first_name: Hodžatolislám Sejíd Mohammad
+  last_name: Soltání
+  whole_name: Hodžatolislám Sejíd Mohammad Soltání
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '11968'
+  logical_id: '152235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'
@@ -40,14 +40,17 @@ name_aliases:
     publication_date: '2023-04-03'
     number_title: 2023/721 (OJ L94)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- first_name: Hodžatolislám Sejíd Mohammad
-  last_name: Soltání
-  whole_name: Hodžatolislám Sejíd Mohammad Soltání
+- first_name: Hodjatoleslam Seyed Mohammad
+  last_name: SOLTANI
+  whole_name: Hodjatoleslam Seyed Mohammad SOLTANI
+  function: Head of the Organisation for Islamic Propaganda in the province of Khorasan-Razavi.
+    Since 2018, deputy prosecutor in the Revolutionary Prosecution Office, Mashhad.
+    Former Judge, Mashhad Revolutionary Court (2013-2019).
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152235'
+  logical_id: '11968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13439.29
 logical_id: '177626'
 regulations:
@@ -13,11 +14,40 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: The Cultural Educational Centre of Moldova
+  function: The Cultural Educational Centre of Moldova facilitated electoral interference
+    in the 2024 presidential elections by distributing free vouchers to voters transported
+    to a Moscow polling station, while simultaneously promoting the “Card of the Citizen
+    of the Republic of Moldova in the Russian Federation” propaganda program. Those
+    activities have been conducted in coordination with Ilan Shor and other associates,
+    to systematically influence electoral outcomes. Ilan Shor and Evghenia Guțul,
+    together with the Victory political party, promoted the opening of the Cultural
+    Educational Center in multiple Russian cities.
+  title: Autonomous non-profit organisation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177631'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
 - whole_name: Moldovai Kulturális Oktatási Központ
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '177641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
+- whole_name: Культурно-образовательный центр Молдовы
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -43,58 +73,6 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1434 (OJ L202501434)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: Молдовският културно-образователен център
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: Moldavski kulturno-obrazovni centar
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: Moldovan kulttuurikasvatuskeskus
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '177636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: Zentrum für kulturelle Bildung der Republik Moldau
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '177635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: The Cultural Educational Centre of Moldova
-  function: The Cultural Educational Centre of Moldova facilitated electoral interference in the 2024 presidential elections by distributing free vouchers to voters transported to a Moscow polling station, while simultaneously promoting the “Card of the Citizen of the Republic of Moldova in the Russian Federation” propaganda program. Those activities have been conducted in coordination with Ilan Shor and other associates, to systematically influence electoral outcomes. Ilan Shor and Evghenia Guțul, together with the Victory political party, promoted the opening of the Cultural Educational Center in multiple Russian cities.
-  title: Autonomous non-profit organisation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
 - whole_name: Πολιτιστικό Εκπαιδευτικό Κέντρο της Μολδαβίας
   name_language: EL
   strong: true
@@ -115,11 +93,41 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1434 (OJ L202501434)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: Культурно-образовательный центр Молдовы
-  name_language: RU
+- whole_name: Zentrum für kulturelle Bildung der Republik Moldau
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '177630'
+  logical_id: '177635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
+- whole_name: Moldovan kulttuurikasvatuskeskus
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '177636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
+- whole_name: Moldavski kulturno-obrazovni centar
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177637'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
+- whole_name: Молдовският културно-образователен център
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

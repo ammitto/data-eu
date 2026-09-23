@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8803.59
 logical_id: '144523'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Корпорация «ИРКУТ»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: JSC Irkut Corporation
   function: Russian aircraft manufacturer
   name_language: EN
@@ -34,6 +25,16 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Корпорация «ИРКУТ»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: Korporacja Irkut S.A.
   name_language: PL
   strong: true

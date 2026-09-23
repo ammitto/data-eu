@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2553.15
 logical_id: '6900'
 regulations:
@@ -14,7 +15,9 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Behnam Sahriyari Trading Company
-  function: Behnam Sahriyari Trading Company is owned by Behnam Sahriyari, who leads the Islamic Revolutionary Guard Corps (IRGC) Quds Force Unit 190, which conducts arms smuggling operations.
+  function: Behnam Sahriyari Trading Company is owned by Behnam Sahriyari, who leads
+    the Islamic Revolutionary Guard Corps (IRGC) Quds Force Unit 190, which conducts
+    arms smuggling operations.
   name_language: EN
   strong: true
   regulation_language: en

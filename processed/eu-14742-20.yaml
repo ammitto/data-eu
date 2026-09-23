@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14742.20
 logical_id: '184246'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: P.G. Korobkov IZ KARTEX LLC
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ООО ИЗ КАРТЭКС  ИМЕНИ П.Г.  КОРОБКОВА
   title: Limited Liability Company
   name_language: RU
@@ -35,19 +25,18 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-addresses:
-- street: Ulitsa  Brat'yev  Radchenko
-  city: St  Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '196653'
+- whole_name: P.G. Korobkov IZ KARTEX LLC
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '184247'
+  logical_id: '184251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
 - street: Izhora Plant ter.,  b. 40 c. 2
   city: St. Petersburg
   country_iso2_code: RU
@@ -55,6 +44,18 @@ addresses:
   zip_code: '196650'
   regulation_language: en
   logical_id: '184248'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: Ulitsa  Brat'yev  Radchenko
+  city: St  Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '196653'
+  regulation_language: en
+  logical_id: '184247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13329.51
 logical_id: '176896'
 regulations:
@@ -73,6 +74,16 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: АО “ГРПЗ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Joint Stock Company “State Ryazan Instrument Plant”
   function: |-
     JSC “State Ryazan Instrument Plant” is the largest Russian enterprise for serial production and support of radar systems and communications equipment.
@@ -82,16 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “ГРПЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14526.60
 logical_id: '183321'
 regulations:
@@ -23,22 +24,22 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО “Банк Финсервис”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: JSC “Bank Finservice”
   title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '183326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО “Банк Финсервис”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

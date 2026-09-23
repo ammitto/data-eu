@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11391.60
 logical_id: '163521'
 regulations:
@@ -13,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad de responsabilidad limitada Testkomplekt
-  name_language: ES
+- whole_name: "„Tesztkomplekt” korlátolt felelősségű társaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '164127'
+  logical_id: '163877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -33,16 +34,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„Tesztkomplekt” korlátolt felelősségű társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Tesztkomplekt Kft.
   name_language: HU
   strong: true
@@ -53,8 +44,19 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad de responsabilidad limitada Testkomplekt
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164127'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Limited liability company "Testkomplekt"
-  function: LLC Testkomplekt supplies goods falling under Union restrictive measures to the Russian Federation.
+  function: LLC Testkomplekt supplies goods falling under Union restrictive measures
+    to the Russian Federation.
   name_language: EN
   strong: true
   regulation_language: en

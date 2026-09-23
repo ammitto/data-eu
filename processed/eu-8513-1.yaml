@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8513.1
 logical_id: '141695'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexander Valentinovitj  ISJTJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Александр
   middle_name: Валентинович
   last_name: ИЩЕНКО
@@ -42,7 +32,9 @@ name_aliases:
   middle_name: Valentinovich
   last_name: ISHCHENKO
   whole_name: Alexander Valentinovich ISHCHENKO
-  function: Chairman of the Legislative Assembly of the Rostov Region and Secretary of the Rostov Regional Branch of the Kremlin-aligned ruling party United Russia Party (both since 2016).
+  function: Chairman of the Legislative Assembly of the Rostov Region and Secretary
+    of the Rostov Regional Branch of the Kremlin-aligned ruling party United Russia
+    Party (both since 2016).
   gender: M
   name_language: EN
   strong: true
@@ -61,6 +53,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164822'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Alexander Valentinovitj  ISJTJENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

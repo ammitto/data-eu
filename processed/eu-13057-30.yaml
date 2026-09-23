@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13057.30
 logical_id: '175039'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерно дружество „Ейрбург“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '175236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Airburg« Részvénytársaság"
   name_language: HU
   strong: true
@@ -33,11 +24,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO “Airburg”
-  name_language: RU
+- whole_name: Акционерно дружество „Ейрбург“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '175045'
+  logical_id: '175236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -53,13 +44,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company “Airburg”
-  function: JSC Airburg is a military industry company specialised in the design and production of manned aerial vehicles and unmanned aerial vehicles (UAVs). One of its key developments is the Phaeton, a UAV that offers significant advantages in range, flight time, and ease of take-off and landing.
-  title: Non-public Joint Stock Company
-  name_language: EN
+- whole_name: AO “Airburg”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175047'
+  logical_id: '175045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -70,6 +59,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Joint Stock Company “Airburg”
+  function: JSC Airburg is a military industry company specialised in the design and
+    production of manned aerial vehicles and unmanned aerial vehicles (UAVs). One
+    of its key developments is the Phaeton, a UAV that offers significant advantages
+    in range, flight time, and ease of take-off and landing.
+  title: Non-public Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -90,11 +94,11 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1216600040194'
+- identification_type_code: other
+  number: '49681112'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175043'
+  logical_id: '175041'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -110,11 +114,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '49681112'
+- identification_type_code: regnumber
+  number: '1216600040194'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175041'
+  logical_id: '175043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

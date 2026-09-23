@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11115.92
 logical_id: '161875'
 regulations:
@@ -13,6 +14,47 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Valentyna
+  middle_name: Jevhenijivna
+  last_name: LEVASJOVA
+  whole_name: Valentyna Jevhenijivna LEVASJOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161918'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Valentina
+  middle_name: Jevgenjevna
+  last_name: LEVASJOVA
+  whole_name: Valentina Jevgenjevna LEVASJOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Valentina
+  last_name: Levašovová
+  whole_name: Valentina Levašovová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
 - first_name: Валентина
   middle_name: Євгенiївна
   last_name: ЛЄВАШОВА
@@ -78,47 +120,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Valentina
-  last_name: Levašovová
-  whole_name: Valentina Levašovová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Valentina
-  middle_name: Jevgenjevna
-  last_name: LEVASJOVA
-  whole_name: Valentina Jevgenjevna LEVASJOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Valentyna
-  middle_name: Jevhenijivna
-  last_name: LEVASJOVA
-  whole_name: Valentyna Jevhenijivna LEVASJOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

@@ -1,0 +1,72 @@
+---
+eu_reference_number: EU.14992.77
+logical_id: '185512'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-28'
+  entry_into_force_date: '2026-05-28'
+  number_title: 2026/1177 (OJ L202601177)
+  programme: HR
+  logical_id: '226951'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Daniella WEISS
+  function: Daniella Weiss is the Director of the Nachala Movement (“Nachala”). Nachala
+    has the aim of promoting Jewish settlements and illegal outposts in the West Bank.
+    Through its activities, Nachala plays an instrumental role in facilitating and
+    encouraging coercive acts that lead to the forced displacement of Palestinians
+    and violate their right to property, their right to private and family life and
+    their right to self-determination, as well as the right to life and to physical
+    integrity.
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185516'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: דניאלה וייס
+  gender: F
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+citizenships:
+- country_iso2_code: IL
+  country_description: ISRAEL
+  regulation_language: en
+  logical_id: '185514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+birthdates:
+- birthdate: '1945-08-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 8
+  year: 1945
+  city: Benee Brak
+  country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
+  regulation_language: en
+  logical_id: '185513'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177

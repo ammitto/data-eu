@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10994.26
 logical_id: '160164'
 regulations:
@@ -13,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vědecko-výrobní závod „Saljut“, a. s.
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: SALJUT KUTATÓ- ÉS TERMELŐVÁLLALAT  RT.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: НПП “Салют” АО
   name_language: RU
   strong: true
@@ -48,6 +29,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: SALJUT KUTATÓ- ÉS TERMELŐVÁLLALAT  RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161045'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Vědecko-výrobní závod „Saljut“, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

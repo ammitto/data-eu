@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12296.34
 logical_id: '170476'
 regulations:
@@ -13,47 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic Republic of Iran Shipping Lines (IRISL)
-  function: Islamic Republic of Iran Shipping Lines (IRISL) is a major Iranian maritime carrier.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Compagnie de transport maritime de la République islamique d'Iran
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '170479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Корабна компания на Ислямска република Иран
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '170480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Compañía de Transporte Marítimo de la  República Islámica de Irán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '170481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - whole_name: Compania de transport  maritim a Republicii  Islamice a Iranului
   name_language: RO
   strong: true
@@ -74,16 +34,16 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: گروه کشتیرانی جمهوری  اسلمی ایران
-  name_language: FA
+- whole_name: Poduzeće za pomorski  prijevoz Islamske  Republike Iran (IRISL)
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '170477'
+  logical_id: '177955'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-11-18'
-    number_title: 2024/2896 (OJ L18112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - whole_name: Ναυτιλιακές γραμμές της  Ισλαμικής Δημοκρατίας  του Ιράν
   name_language: EL
   strong: true
@@ -94,6 +54,16 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: گروه کشتیرانی جمهوری  اسلمی ایران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '170477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-11-18'
+    number_title: 2024/2896 (OJ L18112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
 - whole_name: Iranin islamilaisen tasavallan linjavarustamo
   name_language: FI
   strong: true
@@ -134,11 +104,43 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Poduzeće za pomorski  prijevoz Islamske  Republike Iran (IRISL)
-  name_language: HR
+- whole_name: Compañía de Transporte Marítimo de la  República Islámica de Irán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '177955'
+  logical_id: '170481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Islamic Republic of Iran Shipping Lines (IRISL)
+  function: Islamic Republic of Iran Shipping Lines (IRISL) is a major Iranian maritime
+    carrier.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Compagnie de transport maritime de la République islamique d'Iran
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '170479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Корабна компания на Ислямска република Иран
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '170480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'

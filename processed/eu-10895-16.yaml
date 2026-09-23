@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10895.16
 logical_id: '159552'
 regulations:
@@ -14,15 +15,28 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Pavel
-  middle_name: Nikolaevich
-  last_name: MURAVEIKO
-  whole_name: Pavel Nikolaevich MURAVEIKO
-  function: First Deputy Secretary of State of the Security Council of the Republic of Belarus
+  middle_name: Mikalajevitj
+  last_name: MURAVEJKA
+  whole_name: Pavel Mikalajevitj MURAVEJKA
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159559'
+  logical_id: '160628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Pavel
+  middle_name: Nikolajevitj
+  last_name: MURAVEJKO
+  whole_name: Pavel Nikolajevitj MURAVEJKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -70,20 +84,6 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Pavel
-  middle_name: Nikolajevitj
-  last_name: MURAVEJKO
-  whole_name: Pavel Nikolajevitj MURAVEJKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160629'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Pavel
   last_name: Muravejko
   whole_name: Pavel Muravejko
   gender: M
@@ -97,27 +97,16 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Pavel
-  last_name: Muravejko
-  whole_name: Pavel Muravejko
+  middle_name: Nikolaevich
+  last_name: MURAVEIKO
+  whole_name: Pavel Nikolaevich MURAVEIKO
+  function: First Deputy Secretary of State of the Security Council of the Republic
+    of Belarus
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Pavel
-  middle_name: Mikalajevitj
-  last_name: MURAVEJKA
-  whole_name: Pavel Mikalajevitj MURAVEJKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160628'
+  logical_id: '159559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -131,6 +120,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Pavel
+  last_name: Muravejko
+  whole_name: Pavel Muravejko
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

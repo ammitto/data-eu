@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14473.93
 logical_id: '183022'
 regulations:
@@ -13,31 +14,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Публичное  Акционерное Общество  Металлинвестбанк
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Public Joint Stock  Company Metalurgical  Investment Bank
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Banca  de Investiții Metalurgice, societate  publică pe acțiuni
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '184738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Public Joint Stock  Company  Metallinvestbank
+  function: Public Joint Stock Company Metallinvestbank is a Russian universal credit
+    institution with strong market positions in serving large metallurgical enterprises
+    and enterprises of related industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -53,12 +47,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Public Joint Stock  Company  Metallinvestbank
-  function: Public Joint Stock Company Metallinvestbank is a Russian universal credit institution with strong market positions in serving large metallurgical enterprises and enterprises of related industries
+- whole_name: Публичное  Акционерное Общество  Металлинвестбанк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Public Joint Stock  Company Metalurgical  Investment Bank
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183023'
+  logical_id: '183029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

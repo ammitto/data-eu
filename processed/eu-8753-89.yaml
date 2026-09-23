@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8753.89
 logical_id: '144297'
 remark: UNLI - 27.09.2022
@@ -14,20 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mutlaq Ali Aamer Al Marrani
+- whole_name: مطلق عامر المراني
   strong: true
   regulation_language: en
-  logical_id: '144765'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1901 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
-- whole_name: Motlaq Amer Al-Marrani
-  function: "(Former) Deputy Head of the Houthi National Security Bureau (NSB) (intelligence agency)"
-  strong: true
-  regulation_language: en
-  logical_id: '144766'
+  logical_id: '144763'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -42,10 +33,21 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1901 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
-- whole_name: مطلق عامر المراني
+- whole_name: Mutlaq Ali Aamer Al Marrani
   strong: true
   regulation_language: en
-  logical_id: '144763'
+  logical_id: '144765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1901 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
+- whole_name: Motlaq Amer Al-Marrani
+  function: "(Former) Deputy Head of the Houthi National Security Bureau (NSB) (intelligence
+    agency)"
+  strong: true
+  regulation_language: en
+  logical_id: '144766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

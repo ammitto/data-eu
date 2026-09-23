@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.631.4
 logical_id: '944'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdelhalim
+  last_name: Remadna
+  whole_name: Abdelhalim Remadna
+  strong: true
+  regulation_language: en
+  logical_id: '7476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - first_name: Abdelhalim Hafed
   middle_name: Abdelfattah
   last_name: Remadna
@@ -21,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1974'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- first_name: Abdelhalim
-  last_name: Remadna
-  whole_name: Abdelhalim Remadna
-  strong: true
-  regulation_language: en
-  logical_id: '7476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'

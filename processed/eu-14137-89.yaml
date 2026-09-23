@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14137.89
 logical_id: '181495'
 regulations:
@@ -24,7 +25,10 @@ name_aliases:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: LLC "AEROMAKS"
-  function: LLC “AEROMAKS” develops software for drones to perform various aviation operation including aerial photography, collection, processing, and preparation of cartographic data and space information. It is also a manufacturer of helicopter type drones of SH-3000/-750/-450/-350, and in general develops 11 types of drones.
+  function: LLC “AEROMAKS” develops software for drones to perform various aviation
+    operation including aerial photography, collection, processing, and preparation
+    of cartographic data and space information. It is also a manufacturer of helicopter
+    type drones of SH-3000/-750/-450/-350, and in general develops 11 types of drones.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12033.11
 logical_id: '168316'
 regulations:
@@ -13,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Issachar MANN
+- whole_name: יששכר מן
   gender: M
-  name_language: EN
+  name_language: HE
   strong: true
   regulation_language: en
-  logical_id: '168321'
+  logical_id: '168320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'
@@ -36,12 +37,12 @@ name_aliases:
     publication_date: '2024-07-15'
     number_title: 2024/1960 (OJ L15072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: יששכר מן
+- whole_name: Issachar MANN
   gender: M
-  name_language: HE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168320'
+  logical_id: '168321'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

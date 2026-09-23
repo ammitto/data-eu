@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4385.6
 logical_id: '115820'
 united_nation_id: SOi.016
@@ -15,6 +16,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ahmad
+  middle_name: Iman
+  last_name: Ali
+  whole_name: Ahmad Iman Ali
+  function: Kenyan Al-Shabaab commander
+  strong: true
+  regulation_language: en
+  logical_id: '115928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-19'
+    number_title: 2018/413 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0413&from=EN
 - whole_name: Abu Zinira
   strong: true
   regulation_language: en
@@ -55,19 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-19'
-    number_title: 2018/413 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0413&from=EN
-- first_name: Ahmad
-  middle_name: Iman
-  last_name: Ali
-  whole_name: Ahmad Iman Ali
-  function: Kenyan Al-Shabaab commander
-  strong: true
-  regulation_language: en
-  logical_id: '115928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-19'

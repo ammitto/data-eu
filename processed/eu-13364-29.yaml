@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13364.29
 logical_id: '177103'
 designation_details: Limited Liability Company
@@ -15,7 +16,11 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Tarabya Logistics Ltd
-  function: Tarabya Logistics Ltd is a company based in the United Arab Emirates, which manages several ships that have engaged in irregular and high-risk shipping practices, such as sailing with Automatic Identification Systems gaps and high-risk ship-to-ship transfers, while transporting oil originating in Russia or exported from Russia.
+  function: Tarabya Logistics Ltd is a company based in the United Arab Emirates,
+    which manages several ships that have engaged in irregular and high-risk shipping
+    practices, such as sailing with Automatic Identification Systems gaps and high-risk
+    ship-to-ship transfers, while transporting oil originating in Russia or exported
+    from Russia.
   name_language: EN
   strong: true
   regulation_language: en

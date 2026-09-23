@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12157.51
 logical_id: '169161'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Denis Anatolievich TOLSTENKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Dzjanis
   last_name: Tauscjankou
   whole_name: Dzjanis Tauscjankou
@@ -37,35 +49,25 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Dzianis Anatolievich TAUSTSIANKOU
-  function: Head of the correctional institution Penal Colony No 4; lieutenant colonel of the internal service
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Denis Anatolievich TOLSTENKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Дзяніс Анатольевіч ТАЎСЦЯНКОЎ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '169165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Dzianis Anatolievich TAUSTSIANKOU
+  function: Head of the correctional institution Penal Colony No 4; lieutenant colonel
+    of the internal service
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2732.75
 logical_id: '6488'
 regulations:
@@ -13,10 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: أيمن جابر
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Ayman
   last_name: JABIR
   whole_name: Ayman JABIR
-  function: Leading businessman operating in Syria. Honorary president of “Wafa lil-Watan” (loyalty to homeland), an association providing aid to families of Syrian soldiers and militias.
+  function: Leading businessman operating in Syria. Honorary president of “Wafa lil-Watan”
+    (loyalty to homeland), an association providing aid to families of Syrian soldiers
+    and militias.
   gender: M
   strong: true
   regulation_language: en
@@ -38,17 +52,6 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: أيمن جابر
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3584.81
 logical_id: '6506'
 remark: Corrigendum 2025/1094 (OJ L202501094) [corr. 27/06/2025-1]
@@ -14,15 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Moneer ADANOV
+- whole_name: Munir ADANOV
+  function: Deputy Chief of General Staff, Operations and Training, Syrian Army during
+    the former al-Assad regime
+  gender: M
+  title: Lieutenant-General, Syrian Arab Army
   strong: true
   regulation_language: en
-  logical_id: '17238'
+  logical_id: '14273'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+    publication_date: '2025-05-28'
+    number_title: 2025/1094 (OJ L202501094)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
 - whole_name: Mounir ADANOV
   strong: true
   regulation_language: en
@@ -50,18 +55,15 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Munir ADANOV
-  function: Deputy Chief of General Staff, Operations and Training, Syrian Army during the former al-Assad regime
-  gender: M
-  title: Lieutenant-General, Syrian Arab Army
+- whole_name: Moneer ADANOV
   strong: true
   regulation_language: en
-  logical_id: '14273'
+  logical_id: '17238'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1094 (OJ L202501094)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Muneer ADANOV
   strong: true
   regulation_language: en

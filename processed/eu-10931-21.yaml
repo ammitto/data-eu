@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10931.21
 logical_id: '159798'
 regulations:
@@ -13,42 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Эльмира
-  middle_name: Абдулбариевна
-  last_name: ХАЙМУРЗИНА
-  whole_name: Эльмира Абдулбариевна ХАЙМУРЗИНА
+- first_name: Elmira
+  middle_name: Abdulbarievna
+  last_name: HAIMURZYNA
+  whole_name: Elmira Abdulbarievna HAIMURZYNA
+  function: Member of the Central Election Commission of the Russian Federation
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159801'
+  logical_id: '159802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Elmira
-  middle_name: Abdulbarijevna
-  last_name: CHAJMURZINA
-  whole_name: Elmira Abdulbarijevna CHAJMURZINA
+  last_name: Hajmuržina
+  whole_name: Elmira Hajmuržina
   gender: F
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Elmira
-  last_name: Chajmurzina
-  whole_name: Elmira Chajmurzina
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160900'
+  logical_id: '160899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -68,28 +56,41 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Elmira
-  last_name: Hajmuržina
-  whole_name: Elmira Hajmuržina
+  middle_name: Abdulbarijevna
+  last_name: CHAJMURZINA
+  whole_name: Elmira Abdulbarijevna CHAJMURZINA
   gender: F
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160899'
+  logical_id: '160670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Эльмира
+  middle_name: Абдулбариевна
+  last_name: ХАЙМУРЗИНА
+  whole_name: Эльмира Абдулбариевна ХАЙМУРЗИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Elmira
-  middle_name: Abdulbarievna
-  last_name: HAIMURZYNA
-  whole_name: Elmira Abdulbarievna HAIMURZYNA
-  function: Member of the Central Election Commission of the Russian Federation
+  last_name: Chajmurzina
+  whole_name: Elmira Chajmurzina
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159802'
+  logical_id: '160900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4164.26
 logical_id: '110269'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2016/2215 (OJ L334)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
 - whole_name: Kim Song Chol
-  function: Kim Song Chol is a KOMID official who has conducted business in Sudan in the interest of KOMID, a designated entity.
+  function: Kim Song Chol is a KOMID official who has conducted business in Sudan
+    in the interest of KOMID, a designated entity.
   name_language: EN
   strong: true
   regulation_language: en
@@ -45,21 +47,6 @@ citizenships:
     number_title: 2016/2215 (OJ L334)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
 birthdates:
-- birthdate: '1968-03-26'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 26
-  month_of_year: 3
-  year: 1968
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '110271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-12-09'
-    number_title: 2016/2215 (OJ L334)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
 - birthdate: '1970-10-15'
   circa: false
   calendar_type: GREGORIAN
@@ -70,6 +57,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '110270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-12-09'
+    number_title: 2016/2215 (OJ L334)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
+- birthdate: '1968-03-26'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 26
+  month_of_year: 3
+  year: 1968
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '110271'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-12-09'

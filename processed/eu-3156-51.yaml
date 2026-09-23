@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.3156.51
 logical_id: '106773'
-remark: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice
+remark: Photo available for inclusion in the INTERPOL-UN Security Council Special
+  Notice
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,16 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Jihad
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Islam
   middle_name: Seit-Umarovich
   last_name: Atabiev
@@ -32,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Abu Jihad
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -88,20 +90,20 @@ addresses:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 identifications:
 - identification_type_code: passport
-  number: '9103314932'
+  number: '620169661'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106778'
+  logical_id: '106779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - identification_type_code: passport
-  number: '620169661'
+  number: '9103314932'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106779'
+  logical_id: '106778'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12749.37
 logical_id: '172933'
 regulations:
@@ -13,27 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yan
+  middle_name: Vitalyevich
+  last_name: LESHCHENKO
+  whole_name: Yan Vitalyevich LESHCHENKO
+  function: Deputy of the so-called “People’s Council” of the so-called “Luhansk People’s
+    Republic”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Ян Витальевич ЛЕЩЕНКО
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '172936'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Yan
-  middle_name: Vitalyevich
-  last_name: LESHCHENKO
-  whole_name: Yan Vitalyevich LESHCHENKO
-  function: Deputy of the so-called “People’s Council” of the so-called “Luhansk People’s Republic”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7528.74
 logical_id: '136108'
 regulations:
@@ -28,14 +29,16 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Roman
-  middle_name: Georgijevitj
-  last_name: BABAJAN
-  whole_name: Roman Georgijevitj BABAJAN
+  middle_name: Georgievich
+  last_name: BABAYAN
+  whole_name: Roman Georgievich BABAYAN
+  function: Journalist and member of Moscow City Duma . He hosts the "Own Truth" TV
+    show on NTV channel. He is also editor-in-chief of "Moscow Speaks" radio.
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152260'
+  logical_id: '136111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -55,15 +58,14 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Roman
-  middle_name: Georgievich
-  last_name: BABAYAN
-  whole_name: Roman Georgievich BABAYAN
-  function: Journalist and member of Moscow City Duma . He hosts the "Own Truth" TV show on NTV channel. He is also editor-in-chief of "Moscow Speaks" radio.
+  middle_name: Georgijevitj
+  last_name: BABAJAN
+  whole_name: Roman Georgijevitj BABAJAN
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136111'
+  logical_id: '152260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

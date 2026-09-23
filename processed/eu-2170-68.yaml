@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.2170.68
 logical_id: '5418'
-remark: 'Address in Rinala Khurd is previous location. Date of designation referred to in Article 2a(4)(b): 10.12.2008.'
+remark: 'Address in Rinala Khurd is previous location. Date of designation referred
+  to in Article 2a(4)(b): 10.12.2008.'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Zaki-ur-Rehman
-  last_name: Lakhvi
-  whole_name: Zaki-ur-Rehman Lakhvi
-  strong: true
-  regulation_language: en
-  logical_id: '6983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 - first_name: Zakir
   middle_name: Rehman
   last_name: Lakvi
@@ -37,31 +28,10 @@ name_aliases:
     publication_date: '2009-03-07'
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- first_name: Zaki
-  middle_name: Ur-Rehman
-  last_name: Lakvi
-  whole_name: Zaki Ur-Rehman Lakvi
+- whole_name: Chachajee
   strong: true
   regulation_language: en
-  logical_id: '6985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- whole_name: Kaki Ur-Rehman
-  strong: true
-  regulation_language: en
-  logical_id: '6986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- whole_name: Zakir Rehman
-  strong: true
-  regulation_language: en
-  logical_id: '6987'
+  logical_id: '6989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-07'
@@ -76,10 +46,42 @@ name_aliases:
     publication_date: '2009-03-07'
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- whole_name: Chachajee
+- whole_name: Zakir Rehman
   strong: true
   regulation_language: en
-  logical_id: '6989'
+  logical_id: '6987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
+- whole_name: Kaki Ur-Rehman
+  strong: true
+  regulation_language: en
+  logical_id: '6986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
+- first_name: Zaki-ur-Rehman
+  last_name: Lakhvi
+  whole_name: Zaki-ur-Rehman Lakhvi
+  strong: true
+  regulation_language: en
+  logical_id: '6983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
+- first_name: Zaki
+  middle_name: Ur-Rehman
+  last_name: Lakvi
+  whole_name: Zaki Ur-Rehman Lakvi
+  strong: true
+  regulation_language: en
+  logical_id: '6985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-07'
@@ -113,23 +115,23 @@ birthdates:
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 addresses:
-- street: Barahkoh, P.O. DO
-  city: Islamabad (Tehsil and District)
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '1291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 - street: Chak No. 18/IL
   city: Rinala Khurd, Tehsil Rinala Khurd, District Okara
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '1292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
+- street: Barahkoh, P.O. DO
+  city: Islamabad (Tehsil and District)
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '1291'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-07'

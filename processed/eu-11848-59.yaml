@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11848.59
 logical_id: '167419'
 regulations:
@@ -27,20 +28,6 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1778 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
-- first_name: Mikhail
-  middle_name: Mikhailovich
-  last_name: TSAREV
-  whole_name: Mikhail Mikhailovich TSAREV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1778 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
 - first_name: Михаил
   middle_name: Михайлович
   last_name: ЦАРЕВ
@@ -50,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1778 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
+- first_name: Mikhail
+  middle_name: Mikhailovich
+  last_name: TSAREV
+  whole_name: Mikhail Mikhailovich TSAREV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

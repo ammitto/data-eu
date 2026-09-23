@@ -1,0 +1,79 @@
+---
+eu_reference_number: EU.14994.75
+logical_id: '185521'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-05-28'
+  entry_into_force_date: '2026-05-28'
+  number_title: 2026/1177 (OJ L202601177)
+  programme: HR
+  logical_id: '226951'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Avichai SUISSA
+  function: Avichai Suissa is the CEO of Hashomer Yosh, which is an Israeli NGO that
+    provides material support and coordinates volunteers for farm work on herding
+    farms, supporting at least 28 violent outposts and settlements in the West Bank
+    by recruiting armed volunteers and providing guards involved in violent attacks.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: אביחי סויסה
+  gender: M
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+citizenships:
+- country_iso2_code: IL
+  country_description: ISRAEL
+  regulation_language: en
+  logical_id: '185523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+birthdates:
+- birthdate: '1986-07-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 7
+  year: 1986
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '185522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+identifications:
+- identification_type_code: id
+  number: '038172441'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177

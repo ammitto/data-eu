@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3428.67
 logical_id: '107679'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abd Al-Baset Azzouz
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - first_name: Abdul
   middle_name: Baset
   last_name: Azouz
@@ -53,6 +44,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Abd Al-Baset Azzouz
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107680'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

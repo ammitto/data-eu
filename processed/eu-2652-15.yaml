@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2652.15
 logical_id: '6681'
 remark: Date of listing 1.12.2011
@@ -14,19 +15,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Research Centre for Explosion and Impact
+- whole_name: METFAZ
   strong: true
   regulation_language: en
-  logical_id: '14836'
+  logical_id: '14837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-12-01'
     number_title: 1245/2011 (OJ L319)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:319:0011:0031:EN:PDF
-- whole_name: METFAZ
+- whole_name: Research Centre for Explosion and Impact
   strong: true
   regulation_language: en
-  logical_id: '14837'
+  logical_id: '14836'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-12-01'

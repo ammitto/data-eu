@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1163.58
 logical_id: '2560'
 regulations:
@@ -13,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JTJ
-  strong: true
-  regulation_language: en
-  logical_id: '3484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Jama’at al-Tawhid Wa'al-Jihad
   strong: true
   regulation_language: en
@@ -31,6 +23,25 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Islamska država v Iraku in Levantu
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '17519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-06-29'
+    number_title: 632/2013 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
+- whole_name: al-Zarqawi network
+  strong: true
+  regulation_language: en
+  logical_id: '3485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-23'
+    number_title: 1840/2004 (OJ L322)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:322:0005:0006:EN:PDF
 - whole_name: al-Tawhid
   strong: true
   regulation_language: en
@@ -109,55 +120,6 @@ name_aliases:
     publication_date: '2004-10-23'
     number_title: 1840/2004 (OJ L322)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:322:0005:0006:EN:PDF
-- whole_name: Islamic State in Iraq and the Levant
-  strong: true
-  regulation_language: en
-  logical_id: '17514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-29'
-    number_title: 632/2013 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
-- whole_name: Победният фронт
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '17516'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-29'
-    number_title: 632/2013 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
-- whole_name: Фронтът Al-Nusrah за хората от Изтока
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '17517'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-29'
-    number_title: 632/2013 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
-- whole_name: Ислямска държава в Ирак и в Изтока
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '17518'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-29'
-    number_title: 632/2013 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
-- whole_name: Islamska država v Iraku in Levantu
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '17519'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-06-29'
-    number_title: 632/2013 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
 - whole_name: Qaida of the Jihad in the Land of the Two Rivers
   strong: true
   regulation_language: en
@@ -437,12 +399,51 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: al-Zarqawi network
+- whole_name: Islamic State in Iraq and the Levant
   strong: true
   regulation_language: en
-  logical_id: '3485'
+  logical_id: '17514'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2004-10-23'
-    number_title: 1840/2004 (OJ L322)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:322:0005:0006:EN:PDF
+    publication_date: '2013-06-29'
+    number_title: 632/2013 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
+- whole_name: Победният фронт
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '17516'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-06-29'
+    number_title: 632/2013 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
+- whole_name: Фронтът Al-Nusrah за хората от Изтока
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '17517'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-06-29'
+    number_title: 632/2013 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
+- whole_name: Ислямска държава в Ирак и в Изтока
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '17518'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-06-29'
+    number_title: 632/2013 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:179:0085:0086:EN:PDF
+- whole_name: JTJ
+  strong: true
+  regulation_language: en
+  logical_id: '3484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF

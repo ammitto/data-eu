@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3974.37
 logical_id: '3360'
 remark: Ex-serviceman's identification card 4302
@@ -14,26 +15,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gaffar Mohammed
-  last_name: Elhassan
-  whole_name: Gaffar Mohammed Elhassan
-  function: Major-General and Commander of the Western Military Region for the Sudanese Armed Forces (SAF).Retired from the Sudanese Army.
-  gender: M
-  title: Major-General
-  strong: true
-  regulation_language: en
-  logical_id: '4638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/401 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0401&from=EN
 - first_name: Gaffar Mohmed
   last_name: Elhassan
   whole_name: Gaffar Mohmed Elhassan
   strong: true
   regulation_language: en
   logical_id: '17890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/401 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0401&from=EN
+- first_name: Gaffar Mohammed
+  last_name: Elhassan
+  whole_name: Gaffar Mohammed Elhassan
+  function: Major-General and Commander of the Western Military Region for the Sudanese
+    Armed Forces (SAF).Retired from the Sudanese Army.
+  gender: M
+  title: Major-General
+  strong: true
+  regulation_language: en
+  logical_id: '4638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

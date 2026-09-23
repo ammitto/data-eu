@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11289.74
 logical_id: '162864'
 regulations:
@@ -13,25 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Olga Volkovová
+- first_name: Olga
+  last_name: VOLKOVA
+  whole_name: Olga VOLKOVA
+  function: Head of the non-governmental organisation "Delfini"
   gender: F
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Oľga
-  last_name: Volkovová
-  whole_name: Oľga Volkovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '170005'
+  logical_id: '162866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -50,20 +41,30 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Olga
-  last_name: VOLKOVA
-  whole_name: Olga VOLKOVA
-  function: Head of the non-governmental organisation "Delfini"
+- first_name: Oľga
+  last_name: Volkovová
+  whole_name: Oľga Volkovová
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162866'
+  logical_id: '170005'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Olga Volkovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 birthdates:
 - birthdate: '1974-10-09'
   circa: false

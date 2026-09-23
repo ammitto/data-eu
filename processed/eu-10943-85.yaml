@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10943.85
 logical_id: '159860'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Musavirovitj
-  last_name: AFZALOV
-  whole_name: Viktor Musavirovitj AFZALOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Виктор
   middle_name: Мусавирович
   last_name: АФЗАЛОВ
@@ -45,15 +32,28 @@ name_aliases:
   middle_name: Musavirovich
   last_name: AFZALOV
   whole_name: Viktor Musavirovich AFZALOV
-  function: |-
-    Acting Commander-in-Chief of Russian Aerospace Forces; 
-    Chief of the General Staff of Russian Aerospace Forces
+  function: "Acting Commander-in-Chief of Russian Aerospace Forces; \nChief of the
+    General Staff of Russian Aerospace Forces"
   gender: M
   title: Colonel-General
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '159864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Viktor
+  middle_name: Musavirovitj
+  last_name: AFZALOV
+  whole_name: Viktor Musavirovitj AFZALOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160682'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

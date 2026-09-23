@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2091.70
 logical_id: '5288'
 regulations:
@@ -13,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministère de la défense et du soutien logistique aux forces armées
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '6674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Ministero della difesa e del supporto logistico delle forze armate
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '6677'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Ministerium für Verteidigung und Logistik der Streitkräfte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '6670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: MODAFL
   name_language: EN
   strong: true
@@ -53,6 +24,16 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Ministerium für Verteidigung und Logistik der Streitkräfte
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '6670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Aizsardzības un bruņoto spēku loģistikas atbalsta ministrija
   name_language: LV
   strong: true
@@ -93,6 +74,46 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
+- whole_name: Ministerstvo obrany a podpory pre logistiku ozbrojených síl
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '12527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-05-24'
+    number_title: 503/2011 (OJ L136)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
+- whole_name: Ministrstvo za obrambo in podporo logistiki oboroženih sil
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '12526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-05-24'
+    number_title: 503/2011 (OJ L136)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
+- whole_name: Ministère de la défense et du soutien logistique aux forces armées
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '6674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Ministero della difesa e del supporto logistico delle forze armate
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '6677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Ministerstvo obrany a logistiky ozbrojených síl
   name_language: SK
   strong: true
@@ -104,7 +125,8 @@ name_aliases:
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Ministry Of Defense And Support For Armed Forces Logistics
-  function: Responsible for Iran’s defence research, development, manufacturing and export programmes
+  function: Responsible for Iran’s defence research, development, manufacturing and
+    export programmes
   name_language: EN
   strong: true
   regulation_language: en
@@ -144,7 +166,8 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Ministerium für Verteidigung und Unterstützung für die Logistik der Streitkräfte
+- whole_name: Ministerium für Verteidigung und Unterstützung für die Logistik der
+    Streitkräfte
   name_language: DE
   strong: true
   regulation_language: en
@@ -194,33 +217,43 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Ministrstvo za obrambo in podporo logistiki oboroženih sil
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '12526'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-05-24'
-    number_title: 503/2011 (OJ L136)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Ministerstvo obrany a podpory pre logistiku ozbrojených síl
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '12527'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-05-24'
-    number_title: 503/2011 (OJ L136)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
 addresses:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '169652'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- street: Sarhang Sakhaei Street, Ferdowsi  Avenue
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '169651'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - street: Pasdaran Ave
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '169650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '169649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -237,26 +270,6 @@ addresses:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '169652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- street: Ferdowsi Avenue, Sarhang Sakhaei  Street
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '169653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - street: West side of Dabestan Street
   city: Abbas Abad District, Tehran
   country_iso2_code: IR
@@ -268,22 +281,12 @@ addresses:
     publication_date: '2008-06-24'
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '169649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- street: Sarhang Sakhaei Street, Ferdowsi  Avenue
+- street: Ferdowsi Avenue, Sarhang Sakhaei  Street
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '169651'
+  logical_id: '169653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

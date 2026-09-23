@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14041.55
 logical_id: '180841'
 regulations:
@@ -25,7 +26,10 @@ name_aliases:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Denis Gennadievich SHISHKIN
-  function: Denis Gennadievich Shishkin is a Russian businessperson who owns shares in LLC Bina Invest and through this ownership controls several companies, which are involved in importing cotton pulp from Kazakhstan and Uzbekistan for Russian gunpowder factories.
+  function: Denis Gennadievich Shishkin is a Russian businessperson who owns shares
+    in LLC Bina Invest and through this ownership controls several companies, which
+    are involved in importing cotton pulp from Kazakhstan and Uzbekistan for Russian
+    gunpowder factories.
   gender: M
   title: Founder LLC “Aleksinskiye Kraski - Ural” and LLC “Bina Invest”
   name_language: EN

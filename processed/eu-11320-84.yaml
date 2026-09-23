@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11320.84
 logical_id: '163067'
 regulations:
@@ -13,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladimir Medveděv
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '163714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Vladimir
-  middle_name: Mikhailovich
-  last_name: MEDVEDEV
-  whole_name: Vladimir Mikhailovich MEDVEDEV
-  function: Director of JSC GosNIIP (a.k.a. State Scientific Research Institute Of Instrument Making)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Владимир Михайлович МЕДВЕДЕВ
   gender: M
   name_language: RU
@@ -50,20 +25,47 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-citizenships:
-- country_iso2_code: UA
-  country_description: UKRAINE
+- first_name: Vladimir
+  middle_name: Mikhailovich
+  last_name: MEDVEDEV
+  whole_name: Vladimir Mikhailovich MEDVEDEV
+  function: Director of JSC GosNIIP (a.k.a. State Scientific Research Institute Of
+    Instrument Making)
+  gender: M
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '163071'
+  logical_id: '163074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Vladimir Medveděv
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '163714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '163070'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '163071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

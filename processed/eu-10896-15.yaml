@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10896.15
 logical_id: '159560'
 regulations:
@@ -13,14 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валери
-  last_name: Ревенко
-  whole_name: Валери Ревенко
+- first_name: Valeryj
+  middle_name: Aljaksandravitj
+  last_name: REVENKA
+  whole_name: Valeryj Aljaksandravitj REVENKA
   gender: M
-  name_language: BG
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '161222'
+  logical_id: '160630'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Valerij
+  middle_name: Aleksandrovitj
+  last_name: REVENKO
+  whole_name: Valerij Aleksandrovitj REVENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -69,27 +85,13 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Valerij
-  middle_name: Aleksandrovitj
-  last_name: REVENKO
-  whole_name: Valerij Aleksandrovitj REVENKO
+  last_name: Revenko
+  whole_name: Valerij Revenko
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Valeryj
-  last_name: Revenka
-  whole_name: Valeryj Revenka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160835'
+  logical_id: '160834'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -108,33 +110,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Valerij
-  last_name: Revenko
-  whole_name: Valerij Revenko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Valeryj
-  middle_name: Aljaksandravitj
-  last_name: REVENKA
-  whole_name: Valeryj Aljaksandravitj REVENKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160630'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Valery
   middle_name: Alexandrovich
   last_name: REVENKO
@@ -148,6 +123,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Valeryj
+  last_name: Revenka
+  whole_name: Valeryj Revenka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Валери
+  last_name: Ревенко
+  whole_name: Валери Ревенко
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161222'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

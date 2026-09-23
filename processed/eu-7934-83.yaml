@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7934.83
 logical_id: '138415'
 regulations:
@@ -13,11 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Юрий
+  middle_name: Николаевич
+  last_name: АФАНАСЬЕВСКИЙ
+  whole_name: Юрий Николаевич АФАНАСЬЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Yuriy
   middle_name: Nikolaevich
   last_name: AFANASEVSKY
   whole_name: Yuriy Nikolaevich AFANASEVSKY
-  function: Former so-called ‘Chairman of the State Customs Committee’ of the so-called ‘Luhansk People's Republic’
+  function: Former so-called ‘Chairman of the State Customs Committee’ of the so-called
+    ‘Luhansk People's Republic’
   gender: M
   name_language: EN
   strong: true
@@ -34,20 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Юрий
-  middle_name: Николаевич
-  last_name: АФАНАСЬЕВСКИЙ
-  whole_name: Юрий Николаевич АФАНАСЬЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

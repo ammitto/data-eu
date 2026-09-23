@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3088.19
 logical_id: '480'
 regulations:
@@ -62,6 +63,42 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: RIHS
+  strong: true
+  regulation_language: en
+  logical_id: '1146'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Revival of Islamic Society Heritage on the African Continent
+  strong: true
+  regulation_language: en
+  logical_id: '1148'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Jamiat Ihia Al-Turath Al-Islamiya
+  strong: true
+  regulation_language: en
+  logical_id: '1147'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Revival of Islamic Heritage Society
+  strong: true
+  regulation_language: en
+  logical_id: '1145'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Al-Furqan Welfare Foundation
   name_language: EN
   strong: true
@@ -82,42 +119,6 @@ name_aliases:
     publication_date: '2015-08-14'
     number_title: 2015/1390 (OJ L215)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_215_R_0003&from=EN
-- whole_name: Jamiat Ihia Al-Turath Al-Islamiya
-  strong: true
-  regulation_language: en
-  logical_id: '1147'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Revival of Islamic Heritage Society
-  strong: true
-  regulation_language: en
-  logical_id: '1145'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: RIHS
-  strong: true
-  regulation_language: en
-  logical_id: '1146'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Revival of Islamic Society Heritage on the African Continent
-  strong: true
-  regulation_language: en
-  logical_id: '1148'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 addresses:
 - city: 'office locations: Pakistan'
   country_iso2_code: PK

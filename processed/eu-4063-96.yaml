@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4063.96
 logical_id: '6863'
 regulations:
@@ -13,11 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bank of East Land
-  function: DPRK financial institution Bank of East Land facilitates weapons-related transactions for, and other support to, arms manufacturer and exporter Green Pine Associated Corporation (Green Pine).
+- whole_name: Tongbang U'Nhaeng
   strong: true
   regulation_language: en
-  logical_id: '15113'
+  logical_id: '15115'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+- whole_name: Tongbang Bank
+  strong: true
+  regulation_language: en
+  logical_id: '15116'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'
@@ -32,19 +41,13 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Tongbang U'Nhaeng
+- whole_name: Bank of East Land
+  function: DPRK financial institution Bank of East Land facilitates weapons-related
+    transactions for, and other support to, arms manufacturer and exporter Green Pine
+    Associated Corporation (Green Pine).
   strong: true
   regulation_language: en
-  logical_id: '15115'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Tongbang Bank
-  strong: true
-  regulation_language: en
-  logical_id: '15116'
+  logical_id: '15113'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

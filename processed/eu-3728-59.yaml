@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3728.59
 logical_id: '7479'
 remark: "."
@@ -18,15 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abd al-Rahman bin 'Amir al-Na'imi
-  strong: true
-  regulation_language: en
-  logical_id: '18211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -81,6 +73,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abd al-Rahman bin 'Amir al-Na'imi
+  strong: true
+  regulation_language: en
+  logical_id: '18211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -149,16 +150,6 @@ addresses:
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 identifications:
-- identification_type_code: passport
-  number: '00868774'
-  country_iso2_code: QA
-  regulation_language: en
-  logical_id: '885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - identification_type_code: id
   number: '25463400086'
   country_iso2_code: QA
@@ -174,6 +165,16 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- identification_type_code: passport
+  number: '00868774'
+  country_iso2_code: QA
+  regulation_language: en
+  logical_id: '885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

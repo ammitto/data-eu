@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13453.70
 logical_id: '177745'
 regulations:
@@ -26,7 +27,8 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Vladimir NAIDENOV
   gender: M
-  title: Director of the Department for Coordination of Communications Infrastructure Development in New Territories of the Federal State
+  title: Director of the Department for Coordination of Communications Infrastructure
+    Development in New Territories of the Federal State
   name_language: RU
   strong: true
   regulation_language: en

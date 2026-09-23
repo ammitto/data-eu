@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14021.20
 logical_id: '180981'
 regulations:
@@ -13,10 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “ИРЗ-СВЯЗЬ”
+- whole_name: Limited Liability Company “Irz-Svyaz”
+  function: LLC “Irz-Svyaz” is a Russian manufacturer of communication systems that
+    perform the function of switching, mostly for navigation receivers. LLC “Irz-Svyaz”
+    has licenses for production and repair of weapons and military equipment, and
+    the company supplies components to the military-industrial complex of the Russian
+    Federation, as its manufactured products are used in UAV’s “Orlan-10” and “Tachion”,
+    used by Russian armed forces in Ukraine. LLC “Irz-Svyaz” also sells its manufactured
+    goods to Russian military and industrial complex companies, such as JSC “Votokinsk
+    Plant”, a known manufacturer of Iskander-M ballistic missiles.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180983'
+  logical_id: '180986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -32,21 +42,19 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: LLC “Irz-Svyaz”
+- whole_name: ООО “ИРЗ-СВЯЗЬ”
   strong: true
   regulation_language: en
-  logical_id: '180984'
+  logical_id: '180983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Limited Liability Company “Irz-Svyaz”
-  function: LLC “Irz-Svyaz” is a Russian manufacturer of communication systems that perform the function of switching, mostly for navigation receivers. LLC “Irz-Svyaz” has licenses for production and repair of weapons and military equipment, and the company supplies components to the military-industrial complex of the Russian Federation, as its manufactured products are used in UAV’s “Orlan-10” and “Tachion”, used by Russian armed forces in Ukraine. LLC “Irz-Svyaz” also sells its manufactured goods to Russian military and industrial complex companies, such as JSC “Votokinsk Plant”, a known manufacturer of Iskander-M ballistic missiles.
-  name_language: EN
+- whole_name: LLC “Irz-Svyaz”
   strong: true
   regulation_language: en
-  logical_id: '180986'
+  logical_id: '180984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7532.49
 logical_id: '136130'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sergej Michajlovitj PINTJUK
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - first_name: Sergej
   last_name: Pinčuk
   whole_name: Sergej Pinčuk
@@ -39,16 +50,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Sergej Michajlovitj PINTJUK
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - first_name: Сергей
   middle_name: Михайлович
   last_name: ПИНЧУК

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7537.44
 logical_id: '136153'
 regulations:
@@ -13,38 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexej
-  last_name: Mordašov
-  whole_name: Alexej Mordašov
+- first_name: Алексей
+  middle_name: Александрович
+  last_name: МОРДАШОВ
+  whole_name: Алексей Александрович МОРДАШОВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152170'
+  logical_id: '136156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Alexey
-  middle_name: Alexandrovich
-  last_name: MORDASHOV
-  whole_name: Alexey Alexandrovich MORDASHOV
-  gender: M
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '164754'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Alexey
   middle_name: Alexandrovits
   last_name: MORDASHOV
   whole_name: Alexey Alexandrovits MORDASHOV
-  function: Chairman and majority shareholder of the company Severgroup which includes Severstal as a subsidiary
+  function: Chairman and majority shareholder of the company Severgroup which includes
+    Severstal as a subsidiary
   gender: M
   name_language: EN
   strong: true
@@ -69,15 +58,14 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Алексей
-  middle_name: Александрович
-  last_name: МОРДАШОВ
-  whole_name: Алексей Александрович МОРДАШОВ
+- first_name: Alexej
+  last_name: Mordašov
+  whole_name: Alexej Mordašov
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '136156'
+  logical_id: '152170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -96,6 +84,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Alexey
+  middle_name: Alexandrovich
+  last_name: MORDASHOV
+  whole_name: Alexey Alexandrovich MORDASHOV
+  gender: M
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '164754'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Alexej
   last_name: Mordašov
   whole_name: Alexej Mordašov

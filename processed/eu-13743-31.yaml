@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13743.31
 logical_id: '179197'
 designation_details: "(23.5.2011, suspended since 16.1.2016)"
@@ -15,7 +16,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: EMKA Company
-  function: EMKA Company is active in Iran’s nuclear industry. EMKA Company is a subsidiary of TAMAS Company which is a specialised company for the production of raw materials and nuclear fuel in Iran. EMKA Company is specifically responsible for exploration, mining, and mineral processing operations within the nuclear fuel cycle. Therefore, EMKA Company is engaged in and providing support for Iran’s nuclear-proliferation activities.
+  function: EMKA Company is active in Iran’s nuclear industry. EMKA Company is a subsidiary
+    of TAMAS Company which is a specialised company for the production of raw materials
+    and nuclear fuel in Iran. EMKA Company is specifically responsible for exploration,
+    mining, and mineral processing operations within the nuclear fuel cycle. Therefore,
+    EMKA Company is engaged in and providing support for Iran’s nuclear-proliferation
+    activities.
   name_language: EN
   strong: true
   regulation_language: en

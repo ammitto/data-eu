@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11283.80
 logical_id: '162828'
 regulations:
@@ -24,26 +25,27 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Světlana Majboroda
+- first_name: Svetlana
+  middle_name: Anatolievna
+  last_name: MAYBORODA
+  whole_name: Svetlana Anatolievna MAYBORODA
+  function: Head of the so-called State Service for Family and Children Affairs  in
+    the so-called Donetsk people’s  Republic
   gender: F
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163681'
+  logical_id: '162833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Svetlana
-  middle_name: Anatolievna
-  last_name: MAYBORODA
-  whole_name: Svetlana Anatolievna MAYBORODA
-  function: Head of the so-called State Service for Family and Children Affairs  in the so-called Donetsk people’s  Republic
+- whole_name: Светлана Анатольевна МАЙБОРОДА
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '162833'
+  logical_id: '162832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -60,12 +62,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Светлана Анатольевна МАЙБОРОДА
+- whole_name: Světlana Majboroda
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162832'
+  logical_id: '163681'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

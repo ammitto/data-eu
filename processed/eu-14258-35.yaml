@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14258.35
 logical_id: '181996'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Moazzami GOUDARZI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/648 (OJ L202600648)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
 - whole_name: محمد معظمی گودرزی
   name_language: FA
   strong: true
@@ -43,6 +34,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: Mohammad Moazzami GOUDARZI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

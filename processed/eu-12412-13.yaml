@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12412.13
 logical_id: '170917'
 regulations:
@@ -13,6 +14,76 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Николаевич
+  last_name: ПЕТРАКОВИЧ
+  whole_name: Сергей Николаевич ПЕТРАКОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170921'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Сяргей
+  middle_name: Мікалаевіч
+  last_name: ПЕТРАКОВІЧ
+  whole_name: Сяргей Мікалаевіч ПЕТРАКОВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '170922'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Sergey
+  middle_name: Nikolaevich
+  last_name: PETRAKOVICH
+  whole_name: Sergey Nikolaevich PETRAKOVICH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Siarhei
+  middle_name: Mikalaevich
+  last_name: PETRAKOVICH
+  whole_name: Siarhei Mikalaevich PETRAKOVICH
+  function: Head of the correctional institution Penal Colony No 9
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Sjarhej
+  last_name: Pjetrakovič
+  whole_name: Sjarhej Pjetrakovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Sergej
   last_name: Petrakovič
   whole_name: Sergej Petrakovič
@@ -34,76 +105,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Siarhei
-  middle_name: Mikalaevich
-  last_name: PETRAKOVICH
-  whole_name: Siarhei Mikalaevich PETRAKOVICH
-  function: Head of the correctional institution Penal Colony No 9
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Sergey
-  middle_name: Nikolaevich
-  last_name: PETRAKOVICH
-  whole_name: Sergey Nikolaevich PETRAKOVICH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170923'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Сяргей
-  middle_name: Мікалаевіч
-  last_name: ПЕТРАКОВІЧ
-  whole_name: Сяргей Мікалаевіч ПЕТРАКОВІЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Sjarhej
-  last_name: Pjetrakovič
-  whole_name: Sjarhej Pjetrakovič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172233'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Сергей
-  middle_name: Николаевич
-  last_name: ПЕТРАКОВИЧ
-  whole_name: Сергей Николаевич ПЕТРАКОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

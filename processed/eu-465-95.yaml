@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.465.95
 logical_id: '458'
 regulations:
@@ -43,21 +44,20 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: MIU
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1745'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Movimento Islâmico do Usbequistão
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '1744'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: IMU
+  strong: true
+  regulation_language: en
+  logical_id: '1116'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -72,10 +72,11 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: IMU
+- whole_name: MIU
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '1116'
+  logical_id: '1745'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'

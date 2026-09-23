@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13988.17
 logical_id: '180648'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Людмила БАЛАНДИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180651'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-22'
-    number_title: 2025/2638 (OJ L202502638)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638
 - whole_name: Lyudmila BALANDINA
   function: Prosecutor
   gender: F
@@ -31,6 +21,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180652'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-22'
+    number_title: 2025/2638 (OJ L202502638)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202502638
+- whole_name: Людмила БАЛАНДИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180651'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-22'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7642.27
 logical_id: '136649'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Eduard
-  middle_name: Vladimirovich
-  last_name: ISAKOV
-  whole_name: Eduard Vladimirovich ISAKOV
-  function: Former member of the Federation Council who ratified the government decisions on the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian Federation and the Donetsk People’s Republic and between the Russian Federation and the Luhansk People’s Republic”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Эдуард
   middle_name: Владимирович
   last_name: ИСАКОВ
@@ -42,6 +28,24 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Eduard
+  middle_name: Vladimirovich
+  last_name: ISAKOV
+  whole_name: Eduard Vladimirovich ISAKOV
+  function: Former member of the Federation Council who ratified the government decisions
+    on the “Treaty of Friendship, Cooperation and Mutual Assistance between the Russian
+    Federation and the Donetsk People’s Republic and between the Russian Federation
+    and the Luhansk People’s Republic”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136652'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 birthdates:
 - birthdate: '1973-10-04'
   circa: false

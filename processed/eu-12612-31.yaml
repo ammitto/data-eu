@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12612.31
 logical_id: '171720'
 regulations:
@@ -13,21 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Gumich RTK
+- whole_name: OOO Gumich RTK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171726'
+  logical_id: '171725'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Gumics RTK Kft.
+- whole_name: Societatea cu răspundere limitată Gumich RTK
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '171964'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Gumics RTK Korlátolt Felelősségű Társaság
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171953'
+  logical_id: '171954'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -44,31 +55,11 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: OOO Gumich RTK
+- whole_name: LLC Gumich RTK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171725'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Gumics RTK Korlátolt Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '171954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Societatea cu răspundere limitată Gumich RTK
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '171964'
+  logical_id: '171726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -94,6 +85,16 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Gumics RTK Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '171953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
 - street: Varshavskoe 28A
   city: Moscow
@@ -107,21 +108,21 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: regnumber
-  number: '1227700009349'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '171723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: fiscalcode
   number: '9726005407'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: regnumber
+  number: '1227700009349'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '171723'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

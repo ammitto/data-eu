@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14294.12
 logical_id: '182115'
 regulations:
@@ -23,21 +24,21 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: i-Soon
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - whole_name: 安洵信息技术有限公司
   name_language: ZH
   strong: true
   regulation_language: en
   logical_id: '182120'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: i-Soon
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -58,20 +59,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 identifications:
 - identification_type_code: other
-  number: 91310116561906136G
+  number: 91510105332025597A
   country_iso2_code: CN
   regulation_language: en
-  logical_id: '182117'
+  logical_id: '182118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - identification_type_code: other
-  number: 91510105332025597A
+  number: 91310116561906136G
   country_iso2_code: CN
   regulation_language: en
-  logical_id: '182118'
+  logical_id: '182117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3434.14
 logical_id: '107691'
 regulations:
@@ -13,14 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hasan
-  middle_name: Al-Salahayn Salih
-  last_name: Al-Sha'ari
-  whole_name: Hasan Al-Salahayn Salih Al-Sha'ari
+- whole_name: Abu Habib al-Libi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107692'
+  logical_id: '107759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -39,21 +37,24 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Abu Habib al-Libi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - whole_name: Hasan Abu Habib
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '107758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Hasan
+  middle_name: Al-Salahayn Salih
+  last_name: Al-Sha'ari
+  whole_name: Hasan Al-Salahayn Salih Al-Sha'ari
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

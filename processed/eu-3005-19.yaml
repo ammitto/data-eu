@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3005.19
 logical_id: '7219'
 regulations:
@@ -24,19 +25,6 @@ name_aliases:
     publication_date: '2023-11-24'
     number_title: 2023/2670 (OJ L24112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
-- first_name: Sidi Mohamed
-  last_name: Arhali
-  whole_name: Sidi Mohamed Arhali
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18264'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-24'
-    number_title: 2023/2670 (OJ L24112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
 - first_name: Iyad
   last_name: ag Ghali
   whole_name: Iyad ag Ghali
@@ -46,6 +34,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17065'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-24'
+    number_title: 2023/2670 (OJ L24112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
+- first_name: Sidi Mohamed
+  last_name: Arhali
+  whole_name: Sidi Mohamed Arhali
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'
@@ -65,13 +66,12 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1958
-  city: Bouressa, Bourem Region
-  region: Bourem Region
-  place: Bouressa
+  region: Kidal region
+  place: Abeibara
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '2230'
+  logical_id: '1997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'
@@ -94,6 +94,21 @@ birthdates:
     publication_date: '2023-11-24'
     number_title: 2023/2670 (OJ L24112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1958
+  city: Bouressa, Bourem Region
+  region: Bourem Region
+  place: Bouressa
+  country_iso2_code: ML
+  country_description: MALI
+  regulation_language: en
+  logical_id: '2230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-24'
+    number_title: 2023/2670 (OJ L24112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
 - birthdate: '1958-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -107,20 +122,6 @@ birthdates:
   country_description: MALI
   regulation_language: en
   logical_id: '2229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-24'
-    number_title: 2023/2670 (OJ L24112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1958
-  region: Kidal region
-  place: Abeibara
-  country_iso2_code: ML
-  country_description: MALI
-  regulation_language: en
-  logical_id: '1997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'

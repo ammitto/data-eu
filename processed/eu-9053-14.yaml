@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9053.14
 logical_id: '145603'
 regulations:
@@ -24,6 +25,18 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- first_name: Ghasem
+  last_name: REZAEI
+  whole_name: Ghasem REZAEI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145606'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Qasem
   last_name: REZAEI
   whole_name: Qasem REZAEI
@@ -32,18 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Ghasem
-  last_name: REZAEI
-  whole_name: Ghasem REZAEI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

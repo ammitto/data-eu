@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.4080.9
 logical_id: '110425'
-remark: 'Other information: Killed on 3 December 2016 in Makhachkala, the Republic of Dagestan, Russian Federation.'
+remark: 'Other information: Killed on 3 December 2016 in Makhachkala, the Republic
+  of Dagestan, Russian Federation.'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,26 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Мухамадмухтар
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-12-16'
-    number_title: 2016/2262 (OJ L342)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2262&from=EN
-- whole_name: Muhamadmuhtar
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-12-16'
-    number_title: 2016/2262 (OJ L342)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2262&from=EN
 - first_name: Rustam
   middle_name: Magomedovich
   last_name: Aselderov
@@ -78,11 +60,21 @@ name_aliases:
     publication_date: '2016-12-16'
     number_title: 2016/2262 (OJ L342)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2262&from=EN
-- whole_name: Abu Muhammad Al-Kadari
+- whole_name: Мухамадмухтар
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '110432'
+  logical_id: '110429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-12-16'
+    number_title: 2016/2262 (OJ L342)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2262&from=EN
+- whole_name: Muhamadmuhtar
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-12-16'
@@ -92,6 +84,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-12-16'
+    number_title: 2016/2262 (OJ L342)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2262&from=EN
+- whole_name: Abu Muhammad Al-Kadari
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-12-16'

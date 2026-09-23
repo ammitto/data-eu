@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14063.88
 logical_id: '181016'
 regulations:
@@ -13,22 +14,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Slavneft-Krasnoyarskneftegaz
-  function: LLC Slavneft-Krasnoyarskneftegaz is a Russian company active in the energy sector, in particular in the Krasnoyarskiy Kray.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181060'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: ООО «Славнефть-Красноярскнефтегаз»
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '181019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC Slavneft-Krasnoyarskneftegaz
+  function: LLC Slavneft-Krasnoyarskneftegaz is a Russian company active in the energy
+    sector, in particular in the Krasnoyarskiy Kray.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

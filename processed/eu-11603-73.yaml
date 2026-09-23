@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11603.73
 logical_id: '165702'
 regulations:
@@ -13,6 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexander
+  middle_name: Sergeevich
+  last_name: ERMOLENKO
+  whole_name: Alexander Sergeevich ERMOLENKO
+  function: Head of branch No 15 of the federal governmental institution ‘Criminal
+    Executive Inspectorate of the Directorate of the Federal Penitentiary Service
+    in the City of Moscow’
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165706'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Aleksandr
   middle_name: Sergejevitš
   last_name: JERMOLENKO
@@ -22,6 +40,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165949'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Alexander
+  middle_name: Sergejevič
+  last_name: Jermolenko
+  whole_name: Alexander Sergejevič Jermolenko
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165929'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -41,21 +73,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Alexander
-  middle_name: Sergeevich
-  last_name: ERMOLENKO
-  whole_name: Alexander Sergeevich ERMOLENKO
-  function: Head of branch No 15 of the federal governmental institution ‘Criminal Executive Inspectorate of the Directorate of the Federal Penitentiary Service in the City of Moscow’
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165706'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Александр
   middle_name: Сергеевич
   last_name: ЕРМОЛЕНКО
@@ -65,20 +82,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165705'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Alexander
-  middle_name: Sergejevič
-  last_name: Jermolenko
-  whole_name: Alexander Sergejevič Jermolenko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165929'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

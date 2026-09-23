@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13986.19
 logical_id: '180637'
 regulations:
@@ -23,6 +24,26 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: گروه دوران
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Douran Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Douran Software
   name_language: EN
   strong: true
@@ -43,28 +64,9 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: Douran Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: گروه دوران
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 addresses:
-- street: No. 62, 1st floor, Shahid Farshad ayyazi (9th), Shahid Abdolhamid Sabunchi St., Shahid Beheshti Ave.
+- street: No. 62, 1st floor, Shahid Farshad ayyazi (9th), Shahid Abdolhamid Sabunchi
+    St., Shahid Beheshti Ave.
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

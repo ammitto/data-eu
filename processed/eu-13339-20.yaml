@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13339.20
 logical_id: '176957'
 regulations:
@@ -24,7 +25,9 @@ name_aliases:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Viktor Sergeevich FOFANOV
-  function: Viktor Fofanov is the General Director of LLC Volgotrans, a Russian company operating a fleet of several tankers and carrying out transportation of crude oil and oil products by sea, including for export purposes.
+  function: Viktor Fofanov is the General Director of LLC Volgotrans, a Russian company
+    operating a fleet of several tankers and carrying out transportation of crude
+    oil and oil products by sea, including for export purposes.
   gender: M
   title: General Director of LLC Volgotrans
   name_language: EN

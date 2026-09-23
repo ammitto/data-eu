@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9870.27
 logical_id: '150780'
 regulations:
@@ -28,23 +29,23 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aleksandr Zavenovitj AKOPOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Александр Завенович АКОПОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '150783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Aleksandr Zavenovitj AKOPOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.266.94
 logical_id: '327'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Αφγανική Επιτροπή Στήριξης
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '1855'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Comité de soutien afghan
   name_language: FR
   strong: true
@@ -33,10 +24,39 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Afghan Support Committee
+- whole_name: Αφγανική Επιτροπή Στήριξης
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '891'
+  logical_id: '1855'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Comité de Apoio ao Afeganistão
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1721'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahya Ul Turas
+  strong: true
+  regulation_language: en
+  logical_id: '896'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Jamiat Ihya Ul Turath Al Islamia
+  strong: true
+  regulation_language: en
+  logical_id: '895'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -69,29 +89,10 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Jamiat Ihya Ul Turath Al Islamia
+- whole_name: Afghan Support Committee
   strong: true
   regulation_language: en
-  logical_id: '895'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahya Ul Turas
-  strong: true
-  regulation_language: en
-  logical_id: '896'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Comité de Apoio ao Afeganistão
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1721'
+  logical_id: '891'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -109,7 +110,8 @@ addresses:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- street: 'office locations: Headquarters — G. T. Road (probably Grand Trunk Road), near Pushtoon Garhi Pabbi'
+- street: 'office locations: Headquarters — G. T. Road (probably Grand Trunk Road),
+    near Pushtoon Garhi Pabbi'
   city: Peshawar
   country_iso2_code: PK
   country_description: PAKISTAN

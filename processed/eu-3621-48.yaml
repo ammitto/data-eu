@@ -1,6 +1,10 @@
+---
 eu_reference_number: EU.3621.48
 logical_id: '3182'
-remark: "(a) Given the rank of General in the FARDC in December 2004; (b) As of June 2011, detained in Makala Prison in Kinshasa; (c) As of 25 March 2011, the High Military Court in Kinshasa opened a trial against Kakwavu for war crimes; (d) In November 2014, convicted by a DRC military court to ten years in prison."
+remark: "(a) Given the rank of General in the FARDC in December 2004; (b) As of June
+  2011, detained in Makala Prison in Kinshasa; (c) As of 25 March 2011, the High Military
+  Court in Kinshasa opened a trial against Kakwavu for war crimes; (d) In November
+  2014, convicted by a DRC military court to ten years in prison."
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,6 +18,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Jérôme
+  last_name: Kakwavu Bukande
+  whole_name: Jérôme Kakwavu Bukande
+  gender: M
+  title: General
+  strong: true
+  regulation_language: en
+  logical_id: '4306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-21'
+    number_title: 242/2009 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 - first_name: Jérôme
   last_name: Kakwavu
   whole_name: Jérôme Kakwavu
@@ -34,19 +51,6 @@ name_aliases:
     publication_date: '2005-11-10'
     number_title: 1824/2005 (OJ L294)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
-- first_name: Jérôme
-  last_name: Kakwavu Bukande
-  whole_name: Jérôme Kakwavu Bukande
-  gender: M
-  title: General
-  strong: true
-  regulation_language: en
-  logical_id: '4306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-21'
-    number_title: 242/2009 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

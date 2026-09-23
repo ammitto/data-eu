@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4066.88
 logical_id: '3225'
 regulations:
@@ -14,22 +15,12 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Isnilon
-  last_name: Hapilun
-  whole_name: Isnilon Hapilun
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Isnilon
   middle_name: Totoni
   last_name: Hapilon
   whole_name: Isnilon Totoni Hapilon
-  function: Senior leader of Abu Sayyaf Group (ASG); Leader of local affiliates of the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, in the southern Philippines as of May 2017
+  function: Senior leader of Abu Sayyaf Group (ASG); Leader of local affiliates of
+    the Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, in
+    the southern Philippines as of May 2017
   name_language: EN
   strong: true
   regulation_language: en
@@ -39,13 +30,13 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Isnilun
+- first_name: Isnilon
   last_name: Hapilun
-  whole_name: Isnilun Hapilun
+  whole_name: Isnilon Hapilun
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4409'
+  logical_id: '4408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -76,6 +67,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Isnilun
+  last_name: Hapilun
+  whole_name: Isnilun Hapilun
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

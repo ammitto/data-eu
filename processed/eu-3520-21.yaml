@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3520.21
 logical_id: '110370'
 regulations:
@@ -13,25 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "‘Esprit de mort’"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-12-11'
-    number_title: 2020/2021 (OJ L419)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2020.419.01.0005.01.ENG&toc=OJ%3AL%3A2020%3A419%3ATOC
-- first_name: Célestin
-  middle_name: Cishiku Bilolo
-  last_name: Kanyama
-  whole_name: Célestin Cishiku Bilolo Kanyama
+- first_name: Celestin
+  last_name: Kanyama Tshisiku
+  whole_name: Celestin Kanyama Tshisiku
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '110371'
+  logical_id: '110373'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'
@@ -51,14 +41,15 @@ name_aliases:
     publication_date: '2022-12-09'
     number_title: 2022/2401 (OJ L317)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
-- first_name: Celestin
-  last_name: Kanyama Tshisiku
-  whole_name: Celestin Kanyama Tshisiku
+- first_name: Célestin
+  middle_name: Cishiku Bilolo
+  last_name: Kanyama
+  whole_name: Célestin Cishiku Bilolo Kanyama
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '110373'
+  logical_id: '110371'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'
@@ -67,7 +58,8 @@ name_aliases:
 - first_name: Célestin
   last_name: KANYAMA
   whole_name: Célestin KANYAMA
-  function: Commissioner of the Congolese National Police (PNC) in 2016. From July 2017 until April 2023, Director-General of the PNC’s training schools.
+  function: Commissioner of the Congolese National Police (PNC) in 2016. From July
+    2017 until April 2023, Director-General of the PNC’s training schools.
   gender: M
   name_language: EN
   strong: true
@@ -78,6 +70,16 @@ name_aliases:
     publication_date: '2023-12-12'
     number_title: 2023/2771 (OJ L11122013)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302771
+- whole_name: "‘Esprit de mort’"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-12-11'
+    number_title: 2020/2021 (OJ L419)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2020.419.01.0005.01.ENG&toc=OJ%3AL%3A2020%3A419%3ATOC
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

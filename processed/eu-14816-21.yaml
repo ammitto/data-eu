@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14816.21
 logical_id: '184575'
 regulations:
@@ -24,7 +25,8 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: PJSC Bank Saint  Petersburg
-  function: PJSC Bank Saint Petersburg is the largest privately owned universal bank in Russia.
+  function: PJSC Bank Saint Petersburg is the largest privately owned universal bank
+    in Russia.
   name_language: EN
   strong: true
   regulation_language: en

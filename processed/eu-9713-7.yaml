@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9713.7
 logical_id: '149885'
 regulations:
@@ -13,6 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexander
+  middle_name: Vladimirovich
+  last_name: NOVIKOV
+  whole_name: Alexander Vladimirovich NOVIKOV
+  function: Russian military leader - Head of the Directorate for  construction and
+    development of unmanned aerial vehicles
+  gender: M
+  title: Major General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Александр
   middle_name: Владимирович
   last_name: НОВИКОВ
@@ -22,22 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Alexander
-  middle_name: Vladimirovich
-  last_name: NOVIKOV
-  whole_name: Alexander Vladimirovich NOVIKOV
-  function: Russian military leader - Head of the Directorate for  construction and development of unmanned aerial vehicles
-  gender: M
-  title: Major General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14414.84
 logical_id: '182716'
 regulations:
@@ -25,7 +26,9 @@ name_aliases:
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Elena Vasilievna ROMANOVSKAYA
-  function: Deputy Chairman of the Council of Ministers of the Republic of Crimea – Minister of Labor and Social Protection of the Republic of Crimea, and a member of the Federal Organising Committee of “Artek”
+  function: Deputy Chairman of the Council of Ministers of the Republic of Crimea
+    – Minister of Labor and Social Protection of the Republic of Crimea, and a member
+    of the Federal Organising Committee of “Artek”
   gender: F
   name_language: EN
   strong: true
@@ -37,19 +40,19 @@ name_aliases:
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 citizenships:
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '182718'
+  logical_id: '182719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '182719'
+  logical_id: '182718'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

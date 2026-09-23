@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3627.32
 logical_id: '105763'
 remark: |-
@@ -27,31 +28,21 @@ name_aliases:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
+- whole_name: Haji Baseer Hawala
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-08-01'
+    number_title: 2015/1332 (OJ L206)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
 - whole_name: Haji Bashir and Zarjmil Hawala Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '105771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-08-01'
-    number_title: 2015/1332 (OJ L206)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- whole_name: Haji Basir and Zarjamil Currency Exchange
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-08-01'
-    number_title: 2015/1332 (OJ L206)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- whole_name: Haji Basir Hawala
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'
@@ -67,6 +58,16 @@ name_aliases:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
+- whole_name: Haji Basir Hawala
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-08-01'
+    number_title: 2015/1332 (OJ L206)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
 - whole_name: Haji Abdul Basir Exchange Shop
   name_language: EN
   strong: true
@@ -77,11 +78,11 @@ name_aliases:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- whole_name: Haji Baseer Hawala
+- whole_name: Haji Basir and Zarjamil Currency Exchange
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105768'
+  logical_id: '105766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'
@@ -98,11 +99,44 @@ name_aliases:
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
 addresses:
-- region: Herat Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+- street: Branch Office 1 Sanatan (variant Sanatin) Bazaar, Sanatan Bazaar Street,
+    near Trench (variant Tranch) Road
+  city: Chaman
+  region: Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '105776'
+  logical_id: '105764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- city: Peshawar
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '105780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-08-01'
+    number_title: 2015/1332 (OJ L206)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
+- city: Karachi
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '105779'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-08-01'
+    number_title: 2015/1332 (OJ L206)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
+- city: Islamabad
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '105778'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'
@@ -128,43 +162,11 @@ addresses:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- street: Branch Office 1 Sanatan (variant Sanatin) Bazaar, Sanatan Bazaar Street, near Trench (variant Tranch) Road
-  city: Chaman
-  region: Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '105764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- city: Islamabad
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '105778'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-08-01'
-    number_title: 2015/1332 (OJ L206)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
 - city: Dubai
   country_iso2_code: AE
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '105774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-08-01'
-    number_title: 2015/1332 (OJ L206)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- city: Karachi
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '105779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'
@@ -180,10 +182,11 @@ addresses:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- region: Herat Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '105773'
+  logical_id: '105776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'
@@ -199,11 +202,10 @@ addresses:
     publication_date: '2015-08-01'
     number_title: 2015/1332 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
-- city: Peshawar
-  country_iso2_code: PK
-  country_description: PAKISTAN
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '105780'
+  logical_id: '105773'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

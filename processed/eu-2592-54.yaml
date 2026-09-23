@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2592.54
 logical_id: '6841'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Handasieh – organisation för verkstadsindustri
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '140953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: Handasieh – Organization for Engineering Industries
   strong: true
   regulation_language: en
@@ -27,16 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: Handasieh – organisation för verkstadsindustri
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '140953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -64,23 +65,23 @@ addresses:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- street: PO BOX 2849, Al-Moutanabi Street
-  city: Damascus
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '2165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - street: P.O. Box 5966, Abou Bakr Al‐Seddeq St.
   city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2163'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- street: PO BOX 2849, Al-Moutanabi Street
+  city: Damascus
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '2165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

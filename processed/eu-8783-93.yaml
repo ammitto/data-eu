@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8783.93
 logical_id: '144403'
 regulations:
@@ -13,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitry
-  middle_name: Vitalyevich
+- first_name: Dmitrij
+  middle_name: Vitaljevitj
   last_name: BULGAKOV
-  whole_name: Dmitry Vitalyevich BULGAKOV
-  function: Deputy Minister of Defense of the Russian Federation until September 2022 and General in the Russian Army
+  whole_name: Dmitrij Vitaljevitj BULGAKOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144407'
+  logical_id: '144649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -40,15 +41,16 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Dmitrij
-  middle_name: Vitaljevitj
+- first_name: Dmitry
+  middle_name: Vitalyevich
   last_name: BULGAKOV
-  whole_name: Dmitrij Vitaljevitj BULGAKOV
+  whole_name: Dmitry Vitalyevich BULGAKOV
+  function: Deputy Minister of Defense of the Russian Federation until September 2022
+    and General in the Russian Army
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144649'
+  logical_id: '144407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

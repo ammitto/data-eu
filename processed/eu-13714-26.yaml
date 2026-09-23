@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13714.26
 logical_id: '179056'
 designation_details: "(23.5.2011, suspended since 16.1.2016)"
@@ -15,7 +16,11 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Engineer Naser RASTKHAH
-  function: Former Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear programme and is designated under UNSCR 1737 (2006). Rastkhah is currently part of the board of directors of the Iranian Radiation Protection Society, a state institution affiliated with the AEOI, which oversees Iran’s nuclear programme. Rastkhah is therefore engaged in and providing support for Iran’s nuclear programme.
+  function: Former Deputy Head of the AEOI. The AEOI oversees Iran’s nuclear programme
+    and is designated under UNSCR 1737 (2006). Rastkhah is currently part of the board
+    of directors of the Iranian Radiation Protection Society, a state institution
+    affiliated with the AEOI, which oversees Iran’s nuclear programme. Rastkhah is
+    therefore engaged in and providing support for Iran’s nuclear programme.
   gender: M
   name_language: EN
   strong: true

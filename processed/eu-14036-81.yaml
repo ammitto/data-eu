@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14036.81
 logical_id: '180813'
 regulations:
@@ -13,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  middle_name: Petrovič
-  last_name: KAPYŠ
-  whole_name: Vladimir Petrovič KAPYŠ
+- whole_name: Vladimir Petrovitch KAPYSH
   gender: M
-  name_language: EN
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '180817'
+  logical_id: '182202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -31,7 +29,8 @@ name_aliases:
   middle_name: Petrovich
   last_name: KAPYSH
   whole_name: Vladimir Petrovich KAPYSH
-  function: General Director of Siber AO; Member of the Bureau of the League for Assistance to Defence Enterprises
+  function: General Director of Siber AO; Member of the Bureau of the League for Assistance
+    to Defence Enterprises
   gender: M
   name_language: EN
   strong: true
@@ -56,12 +55,15 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Vladimir Petrovitch KAPYSH
+- first_name: Vladimir
+  middle_name: Petrovič
+  last_name: KAPYŠ
+  whole_name: Vladimir Petrovič KAPYŠ
   gender: M
-  name_language: FR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182202'
+  logical_id: '180817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

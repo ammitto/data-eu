@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11880.40
 logical_id: '167685'
 regulations:
@@ -16,7 +17,8 @@ name_aliases:
 - first_name: Ali Morshed
   last_name: Shirazi
   whole_name: Ali Morshed Shirazi
-  function: Senior official of the Islamic Revolutionary Guard Corps – Quds Force official
+  function: Senior official of the Islamic Revolutionary Guard Corps – Quds Force
+    official
   gender: M
   name_language: EN
   strong: true

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9351.43
 logical_id: '147042'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрей
-  middle_name: Александрович
-  last_name: ТРАВНИКОВ
-  whole_name: Андрей Александрович ТРАВНИКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Andrei
   middle_name: Alexandrovich
   last_name: TRAVNIKOV
@@ -50,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Андрей
+  middle_name: Александрович
+  last_name: ТРАВНИКОВ
+  whole_name: Андрей Александрович ТРАВНИКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

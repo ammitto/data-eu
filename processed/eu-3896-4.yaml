@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3896.4
 logical_id: '6584'
 regulations:
@@ -14,6 +15,23 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Seyyed
+  middle_name: Ali-Reza
+  last_name: AVAEE
+  whole_name: Seyyed Ali-Reza AVAEE
+  function: Minister of Justice until 25 August 2021. Former Director of the special
+    investigations office. Deputy Minister of the Interior and Head of the Public
+    Register until July 2016. Advisor to the Disciplinary Court for Judges in April
+    2014. Former President of the Tehran Judiciary.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '14656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-12'
+    number_title: 2022/592 (OJ L114)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
+- first_name: Seyyed
   middle_name: Alireza
   last_name: AVAEE
   whole_name: Seyyed Alireza AVAEE
@@ -21,20 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-12'
-    number_title: 2022/592 (OJ L114)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
-- first_name: Seyyed
-  middle_name: Ali-Reza
-  last_name: AVAEE
-  whole_name: Seyyed Ali-Reza AVAEE
-  function: Minister of Justice until 25 August 2021. Former Director of the special investigations office. Deputy Minister of the Interior and Head of the Public Register until July 2016. Advisor to the Disciplinary Court for Judges in April 2014. Former President of the Tehran Judiciary.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '14656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-12'

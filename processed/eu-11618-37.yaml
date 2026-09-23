@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11618.37
 logical_id: '165809'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Naya  Liu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
 - whole_name: 송림
   gender: M
   name_language: KO
@@ -25,23 +37,13 @@ name_aliases:
     number_title: 2024/1602 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
 - whole_name: SONG Rim
-  function: a worker for the “Biryugang Overseas Technology Cooperation Company” (“Head of IT Development Department”)
+  function: a worker for the “Biryugang Overseas Technology Cooperation Company” (“Head
+    of IT Development Department”)
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '165814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Naya  Liu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

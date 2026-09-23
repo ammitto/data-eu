@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3646.69
 logical_id: '7298'
 remark: none
@@ -15,6 +16,21 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Leonid
+  middle_name: Eduardovich
+  last_name: SLUTSKI
+  whole_name: Leonid Eduardovich SLUTSKI
+  function: "Chairman of the LDPR party, \nHead of the State Duma LDPR faction,  \nChairperson
+    of the Foreign Affairs Committee of the State Duma of the Russian Federation."
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '17703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Leonid
   middle_name: Eduardovitj
   last_name: SLUTSKIJ
   whole_name: Leonid Eduardovitj SLUTSKIJ
@@ -23,23 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Leonid
-  middle_name: Eduardovich
-  last_name: SLUTSKI
-  whole_name: Leonid Eduardovich SLUTSKI
-  function: |-
-    Chairman of the LDPR party, 
-    Head of the State Duma LDPR faction,  
-    Chairperson of the Foreign Affairs Committee of the State Duma of the Russian Federation.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '17703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

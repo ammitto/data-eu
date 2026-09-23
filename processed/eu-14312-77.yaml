@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14312.77
 logical_id: '182203'
 regulations:
@@ -13,22 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Совместное общество с ограниченной ответственностью “Волат-Санцзян”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182206'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/505 (OJ L202600505)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
 - whole_name: Volat-Sanjiang Joint Venture Limited Liability Company
   title: Joint  Venture
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182207'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: Совместное общество с ограниченной ответственностью “Волат-Санцзян”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182206'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

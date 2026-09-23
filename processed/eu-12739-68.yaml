@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12739.68
 logical_id: '172852'
 regulations:
@@ -13,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: SEMZ Rt.
-  name_language: HU
+- whole_name: АО “СЭМЗ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173372'
+  logical_id: '172857'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC “SEMZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -34,7 +45,10 @@ name_aliases:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Joint Stock Company “Samara Electromechanical Plant”
-  function: JSC “Samara Electromechanical Plant” (JSC SEMZ) is a Russian military industry company. JSC SEMZ manufactures high-tech products, precision mechanics, electronics and various machine parts, as well as electronic equipment units for special-purpose complexes
+  function: JSC “Samara Electromechanical Plant” (JSC SEMZ) is a Russian military
+    industry company. JSC SEMZ manufactures high-tech products, precision mechanics,
+    electronics and various machine parts, as well as electronic equipment units for
+    special-purpose complexes
   name_language: EN
   strong: true
   regulation_language: en
@@ -54,21 +68,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “СЭМЗ”
-  name_language: RU
+- whole_name: SEMZ Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172857'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC “SEMZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172858'
+  logical_id: '173372'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -98,21 +102,21 @@ identifications:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: other
-  number: '631701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '6317088527'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172855'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
+  number: '631701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172854'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13973.53
 logical_id: '180544'
 regulations:
@@ -25,7 +26,8 @@ name_aliases:
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Alireza NOSHAD
-  function: Police Commander of Marvdasht County and a member of the Marvdasht County Security Council
+  function: Police Commander of Marvdasht County and a member of the Marvdasht County
+    Security Council
   gender: M
   name_language: EN
   strong: true

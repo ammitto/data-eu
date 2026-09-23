@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11754.23
 logical_id: '166712'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: '"''ATLAS'' Tudományos és Műszaki Központ" Részvénytársaság'
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: JSC “STC 'Atlas'”
   name_language: EN
   strong: true
@@ -33,21 +24,13 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: АО “НТЦ”Атлас”
-  name_language: RU
+- whole_name: Joint Stock Company “Scientific and Technical Center 'ATLAS'”
+  function: Russian enterprise that researches, develops and manufactures secure information
+    and communication equipment and infrastructure
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166715'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akciová spoločnosť Scientific and Technical Center ATLAS
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167262'
+  logical_id: '166718'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -63,11 +46,31 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: STC "Atlas" Rt.
-  name_language: HU
+- whole_name: Akciová spoločnosť Scientific and Technical Center ATLAS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '167260'
+  logical_id: '167262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: АО “НТЦ”Атлас”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166715'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Акционерное Общество “Научно Технический Центр 'АТЛАС'”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166716'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -83,22 +86,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Joint Stock Company “Scientific and Technical Center 'ATLAS'”
-  function: Russian enterprise that researches, develops and manufactures secure information and communication equipment and infrastructure
-  name_language: EN
+- whole_name: STC "Atlas" Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '166718'
+  logical_id: '167260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Акционерное Общество “Научно Технический Центр 'АТЛАС'”
-  name_language: RU
+- whole_name: '"''ATLAS'' Tudományos és Műszaki Központ" Részvénytársaság'
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '166716'
+  logical_id: '167261'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

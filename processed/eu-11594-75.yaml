@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11594.75
 logical_id: '165640'
 regulations:
@@ -13,6 +14,49 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrei
+  middle_name: Vladimirovitš
+  last_name: FJODOROV
+  whole_name: Andrei Vladimirovitš FJODOROV
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165943'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Андрей
+  middle_name: Владимирович
+  last_name: Фьодоров
+  whole_name: Андрей Владимирович Фьодоров
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '165897'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Andrey
+  middle_name: Vladimirovich
+  last_name: FEDOROV
+  whole_name: Andrey Vladimirovich FEDOROV
+  function: Judge of the Kirovsky District Court, city of Tomsk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165644'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Андрей
   middle_name: Владимирович
   last_name: ФЕДОРОВ
@@ -27,15 +71,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Andrei
-  middle_name: Vladimirovitš
-  last_name: FJODOROV
-  whole_name: Andrei Vladimirovitš FJODOROV
+- first_name: Андрей
+  middle_name: Владимирович
+  last_name: ФЁДОРОВ
+  whole_name: Андрей Владимирович ФЁДОРОВ
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165943'
+  logical_id: '165642'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -64,49 +108,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165922'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Andrey
-  middle_name: Vladimirovich
-  last_name: FEDOROV
-  whole_name: Andrey Vladimirovich FEDOROV
-  function: Judge of the Kirovsky District Court, city of Tomsk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165644'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Андрей
-  middle_name: Владимирович
-  last_name: ФЁДОРОВ
-  whole_name: Андрей Владимирович ФЁДОРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165642'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Андрей
-  middle_name: Владимирович
-  last_name: Фьодоров
-  whole_name: Андрей Владимирович Фьодоров
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '165897'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

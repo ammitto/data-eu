@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14463.27
 logical_id: '182978'
 regulations:
@@ -13,22 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество Банк ДOM.РФ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Joint Stock Company Bank DOM.RF
   function: JSC Bank DOM.RF is a Russian bank
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Акционерное Общество Банк ДOM.РФ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13177.74
 logical_id: '175921'
 regulations:
@@ -13,23 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Виктор Владимирович РОГОВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Viktor Vladimirovich ROGOV
-  function: Viktor Rogov is a judge at the First Court of Appeal of General Jurisdiction. He upheld the sentences against politician Alexei Navalny and Daniel Kholodny, technical director of the YouTube channel “Navalny LIVE”. The Moscow City Court found Mr. Navalny guilty of creating an NGO that encroaches on the rights of citizens, financing extremism, creating an extremist community, involving minors in committing dangerous acts, and rehabilitating Nazism.
+  function: Viktor Rogov is a judge at the First Court of Appeal of General Jurisdiction.
+    He upheld the sentences against politician Alexei Navalny and Daniel Kholodny,
+    technical director of the YouTube channel “Navalny LIVE”. The Moscow City Court
+    found Mr. Navalny guilty of creating an NGO that encroaches on the rights of citizens,
+    financing extremism, creating an extremist community, involving minors in committing
+    dangerous acts, and rehabilitating Nazism.
   title: Judge of the First Court of Appeal of General Jurisdiction
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175925'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
+- whole_name: Виктор Владимирович РОГОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

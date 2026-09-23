@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7911.51
 logical_id: '138315'
 regulations:
@@ -13,15 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Руслан
-  middle_name: Михайлович
-  last_name: ДУБОВСЬКИЙ
-  whole_name: Руслан Михайлович ДУБОВСЬКИЙ
+- whole_name: Ruslan Mychajlovytj DUBOVSKYJ
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138317'
+  logical_id: '139378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Ruslan
+  middle_name: Mihajlovich
+  last_name: DUBOVSKIY
+  whole_name: Ruslan Mihajlovich DUBOVSKIY
+  function: Former so-called ‘Minister of Coal and Energy’ of the so-called ‘Donetsk
+    People’s Republic’
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -41,27 +55,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Ruslan
-  middle_name: Mihajlovich
-  last_name: DUBOVSKIY
-  whole_name: Ruslan Mihajlovich DUBOVSKIY
-  function: Former so-called ‘Minister of Coal and Energy’ of the so-called ‘Donetsk People’s Republic’
+- first_name: Руслан
+  middle_name: Михайлович
+  last_name: ДУБОВСЬКИЙ
+  whole_name: Руслан Михайлович ДУБОВСЬКИЙ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '138319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Ruslan Mychajlovytj DUBOVSKYJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139378'
+  logical_id: '138317'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

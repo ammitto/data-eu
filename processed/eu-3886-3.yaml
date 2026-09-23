@@ -1,7 +1,9 @@
+---
 eu_reference_number: EU.3886.3
 logical_id: '6106'
 united_nation_id: LYi.006
-remark: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+remark: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on
+  17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -19,7 +21,8 @@ name_aliases:
   middle_name: Zayd Umar
   last_name: DORDA
   whole_name: Abu Zayd Umar DORDA
-  function: Director, External Security Organisation. Head of external intelligence agency.
+  function: Director, External Security Organisation. Head of external intelligence
+    agency.
   strong: true
   regulation_language: en
   logical_id: '8986'
@@ -28,15 +31,6 @@ name_aliases:
     publication_date: '2014-10-20'
     number_title: 1103/2014 (OJ L301)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0002&from=EN
-- whole_name: Dorda Abuzed OE
-  strong: true
-  regulation_language: en
-  logical_id: '122750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-06'
-    number_title: 2020/371 (OJ L71)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 - whole_name: ABÚ ZAJD UMAR DÚRDA
   name_language: CS
   strong: true
@@ -56,6 +50,15 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1502 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.235.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A235%3ATOC
+- whole_name: Dorda Abuzed OE
+  strong: true
+  regulation_language: en
+  logical_id: '122750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-06'
+    number_title: 2020/371 (OJ L71)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 birthdates:
 - birthdate: '1944-04-04'
   circa: false

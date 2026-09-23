@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9028.5
 logical_id: '145441'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Indústrias de Aviação Qods
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: zakłady przemysłu lotniczego Qods
   name_language: PL
   strong: true
@@ -53,6 +44,35 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: صنایع هوایی قدس
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Qods Aeronautics Industries
+  strong: true
+  regulation_language: en
+  logical_id: '145443'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Indústrias de Aviação Qods
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Industries  aéronautiques Qods
   name_language: FR
   strong: true
@@ -73,35 +93,6 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Qods Aviation Industries
-  function: an Iranian company that designs and manufactures Unmanned Aerial Vehicles
-  strong: true
-  regulation_language: en
-  logical_id: '145444'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: صنایع هوایی قدس
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145442'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Qods Aeronautics Industries
-  strong: true
-  regulation_language: en
-  logical_id: '145443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Industrias  Aeronáuticas Qods
   name_language: ES
   strong: true
@@ -117,6 +108,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Qods Aviation Industries
+  function: an Iranian company that designs and manufactures Unmanned Aerial Vehicles
+  strong: true
+  regulation_language: en
+  logical_id: '145444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

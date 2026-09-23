@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9489.48
 logical_id: '148383'
 regulations:
@@ -33,7 +34,8 @@ name_aliases:
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 addresses:
-- street: Second Floor, No 36, Naqdi Street, North Sohrevardi Street, Shahid Ghandi-Niloufar Neighbourhood
+- street: Second Floor, No 36, Naqdi Street, North Sohrevardi Street, Shahid Ghandi-Niloufar
+    Neighbourhood
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

@@ -1,6 +1,9 @@
+---
 eu_reference_number: EU.4169.45
 logical_id: '110298'
-remark: Kim Chol Sam is a Representative for Daedong Credit Bank (DCB), a designated entity, who has been involved in managing transactions on behalf of DCB Finance Limited.
+remark: Kim Chol Sam is a Representative for Daedong Credit Bank (DCB), a designated
+  entity, who has been involved in managing transactions on behalf of DCB Finance
+  Limited.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -14,6 +17,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Chol Sam
+  last_name: Kim
+  whole_name: Chol Sam Kim
+  function: Representative for Daedong Credit Bank (DCB).
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110299'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - whole_name: 金铁三
   strong: true
   regulation_language: en
@@ -32,19 +48,6 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- first_name: Chol Sam
-  last_name: Kim
-  whole_name: Chol Sam Kim
-  function: Representative for Daedong Credit Bank (DCB).
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110299'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

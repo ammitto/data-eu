@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1447.5
 logical_id: '1964'
 regulations:
@@ -24,10 +25,10 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Fodhil
+- whole_name: Bilal
   strong: true
   regulation_language: en
-  logical_id: '2809'
+  logical_id: '2807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -37,6 +38,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Fodhil
+  strong: true
+  regulation_language: en
+  logical_id: '2809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -56,15 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Bilal
-  strong: true
-  regulation_language: en
-  logical_id: '2807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

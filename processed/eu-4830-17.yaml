@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4830.17
 logical_id: '118691'
 regulations:
@@ -13,49 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Elena
-  middle_name: Valeryevna
-  last_name: KRAVCHENKO
-  whole_name: Elena Valeryevna KRAVCHENKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '118696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Elena
-  middle_name: Valerievna
-  last_name: KRAVCHENKO
-  whole_name: Elena Valerievna KRAVCHENKO
-  function: So-called “Chairperson” of the so-called “Central Electoral Commission” of the so-called “Luhansk People's Republic”.
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '118697'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Olena
-  middle_name: Valerijivna
-  last_name: KRAVTJENKO
-  whole_name: Olena Valerijivna KRAVTJENKO
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Елена
   middle_name: Валериевна
   last_name: КРАВЧЕНКО
@@ -65,34 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '118695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Jelena
-  middle_name: Valerijevna
-  last_name: KRAVTJENKO
-  whole_name: Jelena Valerijevna KRAVTJENKO
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158586'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Олена
-  middle_name: Валерiївна
-  last_name: КРАВЧЕНКО
-  whole_name: Олена Валерiївна КРАВЧЕНКО
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '118693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -112,6 +42,78 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Олена
+  middle_name: Валерiївна
+  last_name: КРАВЧЕНКО
+  whole_name: Олена Валерiївна КРАВЧЕНКО
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '118693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Elena
+  middle_name: Valeryevna
+  last_name: KRAVCHENKO
+  whole_name: Elena Valeryevna KRAVCHENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '118696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jelena
+  middle_name: Valerijevna
+  last_name: KRAVTJENKO
+  whole_name: Jelena Valerijevna KRAVTJENKO
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Olena
+  middle_name: Valerijivna
+  last_name: KRAVTJENKO
+  whole_name: Olena Valerijivna KRAVTJENKO
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Elena
+  middle_name: Valerievna
+  last_name: KRAVCHENKO
+  whole_name: Elena Valerievna KRAVCHENKO
+  function: So-called “Chairperson” of the so-called “Central Electoral Commission”
+    of the so-called “Luhansk People's Republic”.
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '118697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 birthdates:
 - birthdate: '1983-02-22'
   circa: false

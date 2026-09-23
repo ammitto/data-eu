@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11223.72
 logical_id: '162502'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Владимир Егорович ЗАЙЦЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Vladimir
   middle_name: Yegorovich
   last_name: ZAYTSEV
@@ -30,22 +42,12 @@ name_aliases:
   middle_name: Egorovich
   last_name: ZAITSEV
   whole_name: Vladimir Egorovich ZAITSEV
-  function: Director of JSC VNIIRT (a.k.a. All-Russian Research Institute of Radio Engineering)
+  function: Director of JSC VNIIRT (a.k.a. All-Russian Research Institute of Radio
+    Engineering)
   gender: M
   strong: true
   regulation_language: en
   logical_id: '162507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Vladimir Zaicev
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164095'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -62,12 +64,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Владимир Егорович ЗАЙЦЕВ
+- whole_name: Vladimir Zaicev
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162505'
+  logical_id: '164095'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

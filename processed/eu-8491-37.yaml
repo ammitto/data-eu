@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8491.37
 logical_id: '141898'
 regulations:
@@ -14,27 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Andrej
-  last_name: Kozicyn
-  whole_name: Andrej Kozicyn
+  middle_name: Anatoljevitj
+  last_name: KOZITSYN
+  whole_name: Andrej Anatoljevitj KOZITSYN
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158530'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Андрей
-  middle_name: Анатольевич
-  last_name: КОЗИЦЫН
-  whole_name: Андрей Анатольевич КОЗИЦЫН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141901'
+  logical_id: '142401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -82,14 +70,27 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Andrej
-  middle_name: Anatoljevitj
-  last_name: KOZITSYN
-  whole_name: Andrej Anatoljevitj KOZITSYN
+  last_name: Kozicyn
+  whole_name: Andrej Kozicyn
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '142401'
+  logical_id: '158530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Андрей
+  middle_name: Анатольевич
+  last_name: КОЗИЦЫН
+  whole_name: Андрей Анатольевич КОЗИЦЫН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

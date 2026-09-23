@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12273.2
 logical_id: '170436'
 designation_details: UN designation
@@ -19,9 +20,8 @@ name_aliases:
 - first_name: Osman Mohamed Hamid
   last_name: MOHAMED
   whole_name: Osman Mohamed Hamid MOHAMED
-  function: |-
-    Rapid Support Forces (RSF) Major General and 
-    Head of RSF Operations Department
+  function: "Rapid Support Forces (RSF) Major General and \nHead of RSF Operations
+    Department"
   gender: M
   title: Major General
   name_language: EN

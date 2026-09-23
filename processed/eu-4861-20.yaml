@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4861.20
 logical_id: '118868'
 designation_details: 'Date of listing: 21/12/2018'
@@ -15,7 +16,8 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Ba Kyaw
-  function: Ba Kyaw is a Staff Sergeant in the 564th Light Infantry Battalion (LIB) of the Myanmar Armed Forces (Tatmadaw).
+  function: Ba Kyaw is a Staff Sergeant in the 564th Light Infantry Battalion (LIB)
+    of the Myanmar Armed Forces (Tatmadaw).
   gender: M
   strong: true
   regulation_language: en

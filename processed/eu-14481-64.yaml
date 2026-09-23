@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14481.64
 logical_id: '183074'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Limited Liability  Company Bank  Tochka
-  function: Tochka Bank is a major Russian digital bank focusing on rendering banking services to small and medium-sized enterprises.
+  function: Tochka Bank is a major Russian digital bank focusing on rendering banking
+    services to small and medium-sized enterprises.
   name_language: EN
   strong: true
   regulation_language: en
@@ -60,21 +62,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: regnumber
-  number: '772301001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '183077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '9721194461'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: regnumber
+  number: '772301001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183077'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

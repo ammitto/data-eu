@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11617.38
 logical_id: '165800'
 regulations:
@@ -13,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federální vězeňská služba Ruské federace
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165919'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: servizio penitenziario federale della Federazione russa
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '165889'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: FÖDERALER STRAFVOLLZUGS-DIENST DER RUSSISCHEN FÖDERATION
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '165888'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: SERVICE PÉNITENTIAIRE FÉDÉRAL DE LA FÉDÉRATION DE RUSSIE
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '165887'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - whole_name: ΟΜΟΣΠΟΝΔΙΑΚΗ ΣΩΦΡΟΝΙΣΤΙΚΗ ΥΠΗΡΕΣΙΑ ΤΗΣ ΡΩΣΙΚΗΣ ΟΜΟΣΠΟΝΔΙΑΣ
   name_language: EL
   strong: true
@@ -63,8 +24,20 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: Venemaa Föderatsiooni Föderaalne Vanglateenistus
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '165963'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - whole_name: FEDERAL PENITENTIARY SERVICE OF THE RUSSIAN FEDERATION
-  function: Russian federal authority for the detention of suspected and convicted persons, the security and maintenance of prisons in Russia, the transport of prisoners, and rehabilitation programmes
+  function: Russian federal authority for the detention of suspected and convicted
+    persons, the security and maintenance of prisons in Russia, the transport of prisoners,
+    and rehabilitation programmes
   name_language: EN
   strong: true
   regulation_language: en
@@ -104,11 +77,81 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: Venemaa Föderatsiooni Föderaalne Vanglateenistus
-  name_language: ET
+- whole_name: SERVICE PÉNITENTIAIRE FÉDÉRAL DE LA FÉDÉRATION DE RUSSIE
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '165963'
+  logical_id: '165887'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: FÖDERALER STRAFVOLLZUGS-DIENST DER RUSSISCHEN FÖDERATION
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '165888'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: servizio penitenziario federale della Federazione russa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '165889'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: Federálna väzenská služba Ruskej federácie
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165939'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: Federální vězeňská služba Ruské federace
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165919'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: Servicio Penitenciario Federal de la Federación de Rusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '165890'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: SERVIÇO PENITENCIÁRIO FEDERAL DA FEDERAÇÃO DA RÚSSIA
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '165891'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- whole_name: FEDRALNA SŁUŻBA WIĘZIENNA FEDERACJI ROSYJSKIEJ
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '165892'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -184,16 +227,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: Federálna väzenská služba Ruskej federácie
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165939'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - whole_name: FEDERALE PENITENTIAIRE DIENST VAN DE RUSSISCHE FEDERATIE
   name_language: NL
   strong: true
@@ -219,36 +252,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165893'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: FEDRALNA SŁUŻBA WIĘZIENNA FEDERACJI ROSYJSKIEJ
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '165892'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: SERVIÇO PENITENCIÁRIO FEDERAL DA FEDERAÇÃO DA RÚSSIA
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165891'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- whole_name: Servicio Penitenciario Federal de la Federación de Rusia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '165890'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

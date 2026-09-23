@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8115.60
 logical_id: '139180'
 regulations:
@@ -13,26 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jin
-  last_name: YU
-  whole_name: Jin YU
-  function: Former Director of the Munitions Industry Department. Since ! January 2023  Member of the Central Committee of Workers’ Party of Korea
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - whole_name: 유진
   gender: M
   name_language: KO
   strong: true
   regulation_language: en
   logical_id: '141948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Jin
+  last_name: YU
+  whole_name: Jin YU
+  function: Former Director of the Munitions Industry Department. Since ! January
+    2023  Member of the Central Committee of Workers’ Party of Korea
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139183'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

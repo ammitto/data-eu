@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12852.22
 logical_id: '173783'
 regulations:
@@ -16,7 +17,8 @@ name_aliases:
 - first_name: Bertrand
   last_name: BISIMWA
   whole_name: Bertrand BISIMWA
-  function: Leader (President) of the political branch of the “Mouvement du 23 mars” (M23)
+  function: Leader (President) of the political branch of the “Mouvement du 23 mars”
+    (M23)
   gender: M
   name_language: EN
   strong: true

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11001.21
 logical_id: '160195'
 regulations:
@@ -13,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tulai Birodalmi Fegyvergyár
-  name_language: HU
+- whole_name: Тульский оружейный завод
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tulai Fegyvergyár
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161061'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Imperial Tula Arms Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tula Arms Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160201'
+  logical_id: '160199'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -63,11 +34,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Тульский оружейный завод
-  name_language: RU
+- whole_name: Tula Arms Plant
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160199'
+  logical_id: '160201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Imperial Tula Arms Plant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -83,11 +64,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Carská tulská zbrojovka
-  name_language: CS
+- whole_name: Tulai Birodalmi Fegyvergyár
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161060'
+  logical_id: '161062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -98,6 +79,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Carská tulská zbrojovka
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161060'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Tulai Fegyvergyár
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161061'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

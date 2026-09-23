@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1856.95
 logical_id: '5680'
 designation_details: UN designation 09/06/2010 (no longer valid)
@@ -14,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- first_name: صنایع شهید ستاری
+  whole_name: صنایع شهید ستاری
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Mohemat Sazie Shahid Satary
   name_language: EN
   strong: true
@@ -34,27 +46,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: صنایع شهید ستاری
-  whole_name: صنایع شهید ستاری
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158929'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SSIG
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Grupo de Industrias Shahid Sattari
   name_language: ES
   strong: true
@@ -70,6 +61,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: SSIG
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

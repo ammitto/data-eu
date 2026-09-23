@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.708.20
 logical_id: '760'
 remark: |-
@@ -60,11 +61,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1956
   year_range_to: 1957
-  city: Charmistan village, Tirin Kot District, Uruzgan Province
+  city: Marghi village, Nawa District, Ghazni Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '109675'
+  logical_id: '1910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -74,11 +75,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1956
   year_range_to: 1957
-  city: Marghi village, Nawa District, Ghazni Province
+  city: Charmistan village, Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1910'
+  logical_id: '109675'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9166.86
 logical_id: '146284'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Olga
-  middle_name: Nikolayevna
-  last_name: ZANKO
-  whole_name: Olga Nikolayevna ZANKO
-  function: member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '146288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Ольга
   middle_name: Николаевна
   last_name: ЗАНКО
@@ -36,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Olga
+  middle_name: Nikolayevna
+  last_name: ZANKO
+  whole_name: Olga Nikolayevna ZANKO
+  function: member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '146288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

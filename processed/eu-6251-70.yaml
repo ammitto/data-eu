@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6251.70
 logical_id: '128226'
 regulations:
@@ -25,7 +26,10 @@ name_aliases:
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: ZHU Hailun
-  function: Member of the 13th National People’s Congress of the People’s Republic of China (in session from 2018 to 2023) representing the Xinjiang Uyghur Autonomous Region (XUAR); Member of the National People’s Congress Supervisory and Judicial Affairs Committee (since 19 March 2018).
+  function: Member of the 13th National People’s Congress of the People’s Republic
+    of China (in session from 2018 to 2023) representing the Xinjiang Uyghur Autonomous
+    Region (XUAR); Member of the National People’s Congress Supervisory and Judicial
+    Affairs Committee (since 19 March 2018).
   gender: M
   strong: true
   regulation_language: en

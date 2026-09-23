@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9360.13
 logical_id: '147088'
 regulations:
@@ -13,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Pravična Rusija – Patrioti – Za pravico
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '158678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Справедлива Русия – Патриоти – За истината
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158433'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Справедливая Россия — Патриоты — За правду
   name_language: RU
   strong: true
@@ -29,36 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147092'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Pravična Rusija – Patrioti – Za pravico
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158678'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Oikeudenmukainen Venäjä – Venäjän patriootit – Totuuden puolesta
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '158652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Справедлива Русия – Патриоти – За истината
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -234,19 +225,17 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-addresses:
-- street: 29 Bolshaya Tatarskaya St.
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '115184'
+- whole_name: Oikeudenmukainen Venäjä – Venäjän patriootit – Totuuden puolesta
+  name_language: FI
+  strong: true
   regulation_language: en
-  logical_id: '147090'
+  logical_id: '158652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+addresses:
 - street: 14 Akademika Pilugina street, entrance 2
   city: Moscow
   country_iso2_code: RU
@@ -259,6 +248,18 @@ addresses:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- street: 29 Bolshaya Tatarskaya St.
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '115184'
+  regulation_language: en
+  logical_id: '147090'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
 - identification_type_code: fiscalcode
   number: '7703367439'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7555.81
 logical_id: '136282'
 regulations:
@@ -13,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Олег
-  middle_name: Леонидович
-  last_name: ВОИНОВ
-  whole_name: Олег Леонидович ВОИНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Oleg
-  last_name: Voïnov
-  whole_name: Oleg Voïnov
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
   middle_name: Leonidovitj
   last_name: VOINOV
@@ -58,10 +32,10 @@ name_aliases:
   middle_name: Leonidovich
   last_name: VOINOV
   whole_name: Oleg Leonidovich VOINOV
-  function: |-
-    Director of National Historical Archives of Belarus.
-    Former Head of the International Military Cooperation Department of the Belarusian Ministry of Defence and Assistant to the Minister of 
-    Defence for International Military Cooperation.
+  function: "Director of National Historical Archives of Belarus.\nFormer Head of
+    the International Military Cooperation Department of the Belarusian Ministry of
+    Defence and Assistant to the Minister of \nDefence for International Military
+    Cooperation."
   gender: M
   name_language: EN
   strong: true
@@ -86,6 +60,20 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Олег
+  middle_name: Леонидович
+  last_name: ВОИНОВ
+  whole_name: Олег Леонидович ВОИНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
   last_name: Vojnov
   whole_name: Oleg Vojnov
@@ -94,6 +82,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
+  last_name: Voïnov
+  whole_name: Oleg Voïnov
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -116,11 +117,11 @@ birthdates:
   day_of_month: 26
   month_of_year: 3
   year: 1967
-  city: Dnipropetrovsk
+  city: Dnipro
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '136283'
+  logical_id: '158080'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -132,11 +133,11 @@ birthdates:
   day_of_month: 26
   month_of_year: 3
   year: 1967
-  city: Dnipro
+  city: Dnipropetrovsk
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '158080'
+  logical_id: '136283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

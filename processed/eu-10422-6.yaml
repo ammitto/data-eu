@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10422.6
 logical_id: '155578'
 regulations:
@@ -13,32 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexey
-  middle_name: Ivanovich
-  last_name: GIRICHEV
-  whole_name: Alexey Ivanovich GIRICHEV
-  function: |-
-    Former Regional head of the FSIN in Vladimir region (Federal Penitentiary Service) (until March 2023);
-    current deputy head of FSIN
+- first_name: Alexej
+  middle_name: Ivanovič
+  last_name: GIRIČEV
+  whole_name: Alexej Ivanovič GIRIČEV
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '155583'
+  logical_id: '156072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Алексей
-  middle_name: Иванович
-  last_name: ГИРИЧЕВ
-  whole_name: Алексей Иванович ГИРИЧЕВ
+- first_name: Aleksey
+  last_name: Girichev
+  whole_name: Aleksey Girichev
   gender: M
-  name_language: RU
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '155582'
+  logical_id: '156093'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -71,28 +68,32 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexej
-  middle_name: Ivanovič
-  last_name: GIRIČEV
-  whole_name: Alexej Ivanovič GIRIČEV
+- first_name: Алексей
+  middle_name: Иванович
+  last_name: ГИРИЧЕВ
+  whole_name: Алексей Иванович ГИРИЧЕВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '156072'
+  logical_id: '155582'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Aleksey
-  last_name: Girichev
-  whole_name: Aleksey Girichev
+- first_name: Alexey
+  middle_name: Ivanovich
+  last_name: GIRICHEV
+  whole_name: Alexey Ivanovich GIRICHEV
+  function: |-
+    Former Regional head of the FSIN in Vladimir region (Federal Penitentiary Service) (until March 2023);
+    current deputy head of FSIN
   gender: M
-  name_language: MT
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156093'
+  logical_id: '155583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

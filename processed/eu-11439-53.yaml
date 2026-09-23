@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11439.53
 logical_id: '164376'
 regulations:
@@ -13,30 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Михаил
-  middle_name: Юрьевич
-  last_name: ПТИЦЫН
-  whole_name: Михаил Юрьевич ПТИЦЫН
+- first_name: Mihail
+  middle_name: Jurjevitš
+  last_name: Ptitsyn
+  whole_name: Mihail Jurjevitš Ptitsyn
   gender: M
-  name_language: RU
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '164378'
+  logical_id: '164658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Mikhail
-  middle_name: Yurievich
-  last_name: PTITSYN
-  whole_name: Mikhail Yurievich PTITSYN
-  function: Chairman of the Moscow City Court
+- first_name: Michail
+  middle_name: Jurievič
+  last_name: Pticyn
+  whole_name: Michail Jurievič Pticyn
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164379'
+  logical_id: '164699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -70,29 +70,30 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Michail
-  middle_name: Jurievič
-  last_name: Pticyn
-  whole_name: Michail Jurievič Pticyn
+- first_name: Михаил
+  middle_name: Юрьевич
+  last_name: ПТИЦЫН
+  whole_name: Михаил Юрьевич ПТИЦЫН
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164699'
+  logical_id: '164378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Mihail
-  middle_name: Jurjevitš
-  last_name: Ptitsyn
-  whole_name: Mihail Jurjevitš Ptitsyn
+- first_name: Mikhail
+  middle_name: Yurievich
+  last_name: PTITSYN
+  whole_name: Mikhail Yurievich PTITSYN
+  function: Chairman of the Moscow City Court
   gender: M
-  name_language: FI
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164658'
+  logical_id: '164379'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

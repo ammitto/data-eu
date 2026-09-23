@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2786.37
 logical_id: '6593'
 regulations:
@@ -24,19 +25,6 @@ name_aliases:
     publication_date: '2024-04-05'
     number_title: 2024/1033 (OJ L05042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- first_name: Mohamed Saleh
-  last_name: JOKAR
-  whole_name: Mohamed Saleh JOKAR
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - first_name: Mohammad Saleh
   last_name: JOKAR
   whole_name: Mohammad Saleh JOKAR
@@ -49,6 +37,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
+- first_name: Mohamed Saleh
+  last_name: JOKAR
+  whole_name: Mohamed Saleh JOKAR
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '164885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.654.34
 logical_id: '931'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abd El Kader
-  middle_name: Mahmoud Mohamed
-  last_name: El Sayed
-  whole_name: Abd El Kader Mahmoud Mohamed El Sayed
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-06-28'
-    number_title: 732/2007 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:166:0013:0015:EN:PDF
 - first_name: Kader
   last_name: Es Sayed
   whole_name: Kader Es Sayed
@@ -46,6 +34,19 @@ name_aliases:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- first_name: Abd El Kader
+  middle_name: Mahmoud Mohamed
+  last_name: El Sayed
+  whole_name: Abd El Kader Mahmoud Mohamed El Sayed
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '1948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-06-28'
+    number_title: 732/2007 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:166:0013:0015:EN:PDF
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14235.3
 logical_id: '181886'
 regulations:
@@ -13,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: WU Haibo
+- whole_name: shutd0wn
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: 吴海波
-  gender: M
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '181890'
+  logical_id: '181888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -46,12 +36,23 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: shutd0wn
+- whole_name: 吴海波
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '181890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: WU Haibo
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181888'
+  logical_id: '181891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

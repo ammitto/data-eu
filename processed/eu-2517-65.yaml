@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.2517.65
 logical_id: '6445'
-remark: Conducts research into military applications of Iranian nuclear programme. Date of listing 23.5.2011.
+remark: Conducts research into military applications of Iranian nuclear programme.
+  Date of listing 23.5.2011.
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,9 +17,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: IAP
-  function: |-
-    Organisation of Defensive Innovation and Research (SPND); 
-    Ministry of Defense for Armed Forces Logistics (MODAFL)
+  function: "Organisation of Defensive Innovation and Research (SPND); \nMinistry
+    of Defense for Armed Forces Logistics (MODAFL)"
   strong: true
   regulation_language: en
   logical_id: '12473'
@@ -27,9 +28,8 @@ name_aliases:
     number_title: 2025/1559 (OJ L202501559)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
 - whole_name: Institute of Applied Physics
-  function: |-
-    Organisation of Defensive Innovation and Research (SPND); 
-    Ministry of Defense for Armed Forces Logistics (MODAFL)
+  function: "Organisation of Defensive Innovation and Research (SPND); \nMinistry
+    of Defense for Armed Forces Logistics (MODAFL)"
   strong: true
   regulation_language: en
   logical_id: '12472'

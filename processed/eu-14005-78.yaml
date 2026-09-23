@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14005.78
 logical_id: '180707'
 regulations:
@@ -13,24 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sergey Vladimirovich POLUNIN
+  function: ballet dancer and film actor, former rector of the Sevastopol Choreography
+    Academy
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180711'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
 - whole_name: Сергей Владимирович ПОЛУНИН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '180710'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/259 (OJ L202600259)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
-- whole_name: Sergey Vladimirovich POLUNIN
-  function: ballet dancer and film actor, former rector of the Sevastopol Choreography Academy
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

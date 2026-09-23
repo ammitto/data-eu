@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10902.16
 logical_id: '159606'
 regulations:
@@ -13,47 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  last_name: Čereuchin
-  whole_name: Vladimir Čereuchin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160851'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Uladzimir
-  middle_name: Mikalajevitj
-  last_name: TJARAUCHIN
-  whole_name: Uladzimir Mikalajevitj TJARAUCHIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160640'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vladimir
-  middle_name: Nikolajevitj
-  last_name: TJEREUCHIN
-  whole_name: Vladimir Nikolajevitj TJEREUCHIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Уладзімір
   middle_name: Мікалаевіч
   last_name: ЧАРАУХІН
@@ -82,30 +42,27 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Uladzimir
-  middle_name: Mikalaevich
-  last_name: CHARAUKHIN
-  whole_name: Uladzimir Mikalaevich CHARAUKHIN
+- first_name: Vladimir
+  last_name: Čereuchin
+  whole_name: Vladimir Čereuchin
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159613'
+  logical_id: '160851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vladimir
-  middle_name: Nikolaevich
-  last_name: CHEREUKHIN
-  whole_name: Vladimir Nikolaevich CHEREUKHIN
-  function: Head of the Gomel branch of Republican Unitary Enterprise for Air Navigation Services of Air Traffic “Belaeronavigatsia”
+- first_name: Uladzimir
+  last_name: Čarauchin
+  whole_name: Uladzimir Čarauchin
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159614'
+  logical_id: '160850'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -124,14 +81,59 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Uladzimir
-  last_name: Čarauchin
-  whole_name: Uladzimir Čarauchin
+- first_name: Vladimir
+  middle_name: Nikolajevitj
+  last_name: TJEREUCHIN
+  whole_name: Vladimir Nikolajevitj TJEREUCHIN
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160850'
+  logical_id: '160641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Uladzimir
+  middle_name: Mikalajevitj
+  last_name: TJARAUCHIN
+  whole_name: Uladzimir Mikalajevitj TJARAUCHIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vladimir
+  middle_name: Nikolaevich
+  last_name: CHEREUKHIN
+  whole_name: Vladimir Nikolaevich CHEREUKHIN
+  function: Head of the Gomel branch of Republican Unitary Enterprise for Air Navigation
+    Services of Air Traffic “Belaeronavigatsia”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Uladzimir
+  middle_name: Mikalaevich
+  last_name: CHARAUKHIN
+  whole_name: Uladzimir Mikalaevich CHARAUKHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

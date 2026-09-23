@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11228.67
 logical_id: '162530'
 regulations:
@@ -17,7 +18,8 @@ name_aliases:
   middle_name: Alexeyevich
   last_name: MASHKAUTSAN
   whole_name: Semyon Alexeyevich MASHKAUTSAN
-  function: So-called “Deputy Head of Government” and “Minister of Industry” of Kherson Region
+  function: So-called “Deputy Head of Government” and “Minister of Industry” of Kherson
+    Region
   gender: M
   strong: true
   regulation_language: en
@@ -33,6 +35,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164102'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Семен Алексеевич МАШКАУЦАН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -56,17 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Семен Алексеевич МАШКАУЦАН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

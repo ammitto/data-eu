@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13117.66
 logical_id: '175563'
 designation_details: State Unitary Enterprise
@@ -14,17 +15,8 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Государственное Унитарное Предприятие Донецкой Народной Республыкы “Республыканский Оператор Связи” (“Оператор Мобильной Связи “Феникс”)
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Republican Telecommunications Operator”
+- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Republican
+    Telecommunications Operator”
   function: |-
     State Unitary Enterprise of the Donetsk People’s Republic “Republican Telecommunications Operator” (SUE DPR “RTO”) is a telecom operator
     operating in the illegally occupied region of Ukraine of Donetsk.
@@ -32,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Государственное Унитарное Предприятие Донецкой Народной Республыкы “Республыканский
+    Оператор Связи” (“Оператор Мобильной Связи “Феникс”)
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175585'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

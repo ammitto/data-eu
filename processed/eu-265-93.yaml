@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.265.93
 logical_id: '326'
 regulations:
@@ -13,29 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Abu Sayyaf Group
+- whole_name: De Groep Abu Sayyaf
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '889'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Al Harakat Al Islamiyya
-  strong: true
-  regulation_language: en
-  logical_id: '890'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Grupo Abu Sayyaf
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1720'
+  logical_id: '1795'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -51,21 +34,20 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: De Groep Abu Sayyaf
-  name_language: NL
+- whole_name: Grupo Abu Sayyaf
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '1795'
+  logical_id: '1720'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Gruppo Abu Sayyaf
-  name_language: IT
+- whole_name: Al Harakat Al Islamiyya
   strong: true
   regulation_language: en
-  logical_id: '1809'
+  logical_id: '890'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -81,11 +63,30 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Abu Sayyaf Group
+  strong: true
+  regulation_language: en
+  logical_id: '889'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Groupe Abu Sayyaf
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '1875'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Gruppo Abu Sayyaf
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '1809'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'

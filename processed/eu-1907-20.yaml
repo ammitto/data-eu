@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.1907.20
 logical_id: '5745'
 regulations:
@@ -24,26 +25,6 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Arfa Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: ARFA;
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Arfa Vállalat
   name_language: HU
   strong: true
@@ -59,6 +40,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Arfa Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: ARFA;
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

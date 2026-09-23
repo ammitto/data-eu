@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11284.79
 logical_id: '162834'
 regulations:
@@ -15,10 +16,10 @@ subject_type:
 name_aliases:
 - whole_name: Sergej Pitikov
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163737'
+  logical_id: '163738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -26,10 +27,10 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Sergej Pitikov
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '163738'
+  logical_id: '163737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

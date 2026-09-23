@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3530.22
 logical_id: '7328'
 remark: none
@@ -18,27 +19,14 @@ name_aliases:
   middle_name: Vasilevich
   last_name: GERASIMOV
   whole_name: Valery Vasilevich GERASIMOV
-  function: Chief of the General Staff of the Armed Forces of the Russian Federation, First Deputy Minister of Defence of the Russian Federation, General of the Army.
+  function: Chief of the General Staff of the Armed Forces of the Russian Federation,
+    First Deputy Minister of Defence of the Russian Federation, General of the Army.
   gender: M
   title: General
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '17747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Валерий
-  middle_name: Васильевич
-  last_name: ГЕРАСИМОВ
-  whole_name: Валерий Васильевич ГЕРАСИМОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '106285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -53,6 +41,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Валерий
+  middle_name: Васильевич
+  last_name: ГЕРАСИМОВ
+  whole_name: Валерий Васильевич ГЕРАСИМОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '106285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

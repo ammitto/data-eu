@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9072.50
 logical_id: '145684'
 regulations:
@@ -13,14 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Manouchehr
-  last_name: AMANOLLAHI
-  whole_name: Manouchehr AMANOLLAHI
-  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran (LEF) in the province of Chaharmahal and Bakhtiari.
+- whole_name: منوچهر امن اللهي
   gender: M
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '145690'
+  logical_id: '145688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -38,12 +37,15 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- whole_name: منوچهر امن اللهي
+- first_name: Manouchehr
+  last_name: AMANOLLAHI
+  whole_name: Manouchehr AMANOLLAHI
+  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran
+    (LEF) in the province of Chaharmahal and Bakhtiari.
   gender: M
-  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '145688'
+  logical_id: '145690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

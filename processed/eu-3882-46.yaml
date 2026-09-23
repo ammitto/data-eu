@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3882.46
 logical_id: '106144'
 remark: "‘Reportedly deceased as at 11 October 2015.’"
@@ -14,28 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Omar
-  last_name: Younous
-  whole_name: Omar Younous
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-09-03'
-    number_title: 2015/1485 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
-- whole_name: Oumar Sodiam
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-09-03'
-    number_title: 2015/1485 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
 - first_name: Oumar
   last_name: YOUNOUS
   whole_name: Oumar YOUNOUS
@@ -54,6 +33,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106149'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-09-03'
+    number_title: 2015/1485 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
+- whole_name: Oumar Sodiam
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106150'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-09-03'
+    number_title: 2015/1485 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
+- first_name: Omar
+  last_name: Younous
+  whole_name: Omar Younous
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106151'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'

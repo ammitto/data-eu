@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14037.80
 logical_id: '180820'
 regulations:
@@ -13,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Azret
-  middle_name: Yuspovich
-  last_name: BEKKIEV
-  whole_name: Azret Yuspovich BEKKIEV
-  function: First deputy General Director of OPK JSC, member of the League for Assistance to Defence Enterprises
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Azret
   middle_name: Jusupovič
   last_name: BEKKIEV
@@ -51,6 +37,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Azret
+  middle_name: Yuspovich
+  last_name: BEKKIEV
+  whole_name: Azret Yuspovich BEKKIEV
+  function: First deputy General Director of OPK JSC, member of the League for Assistance
+    to Defence Enterprises
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14574.4
 logical_id: '183531'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC TEXTILTECHSNAB
-  title: Limited liability company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: TEXTILTECHSNAB S.R.L.
   name_language: RO
   strong: true
@@ -39,6 +29,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: LLC TEXTILTECHSNAB
+  title: Limited liability company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183536'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

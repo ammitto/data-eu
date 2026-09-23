@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9663.37
 logical_id: '149628'
 regulations:
@@ -31,7 +32,8 @@ name_aliases:
   middle_name: Viktorovich
   last_name: SELIN
   whole_name: Vladimir Viktorovich SELIN
-  function: Director of the Federal Service for Technical and Export Control (FSTEK), which is subordinate to the Ministry of Defence of the Russian Federation
+  function: Director of the Federal Service for Technical and Export Control (FSTEK),
+    which is subordinate to the Ministry of Defence of the Russian Federation
   gender: M
   name_language: EN
   strong: true

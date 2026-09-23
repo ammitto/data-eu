@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14822.91
 logical_id: '184617'
 regulations:
@@ -13,52 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ПАО  ‘’ЮГК’’
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: grupa przedsiębiorstw PJSC Yuzhuralzoloto
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '184742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Yuzhuralzoloto
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: UGC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: PJSC  Yuzhuralzoloto  Group of  Companies
-  function: PJSC Yuzhuralzoloto Group of Companies (Yuzhuralzoloto) is one of the largest gold mining companies in the Russian Federation. It operates multiple goldmines in Russia.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184626'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -79,6 +39,49 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ПАО  ‘’ЮГК’’
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: UGC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Yuzhuralzoloto
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: PJSC  Yuzhuralzoloto  Group of  Companies
+  function: PJSC Yuzhuralzoloto Group of Companies (Yuzhuralzoloto) is one of the
+    largest gold mining companies in the Russian Federation. It operates multiple
+    goldmines in Russia.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184626'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

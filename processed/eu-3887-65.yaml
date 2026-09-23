@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3887.65
 logical_id: '3798'
 designation_details: UN designation 23/12/2006
@@ -14,40 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad Mehdi Nejad
-  last_name: NOURI
-  whole_name: Mohammad Mehdi Nejad NOURI
-  function: Rector of Malek Ashtar University of Defence Technology.
-  gender: M
-  title: Lieutenant General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: محمد مهدی نژد نوری
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158876'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Mehdi Nejad
+- first_name: Mohammad Mehdi Nezhad
   last_name: NURI
-  whole_name: Mohammad Mehdi Nejad NURI
+  whole_name: Mohammad Mehdi Nezhad NURI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158877'
+  logical_id: '158879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -66,19 +41,45 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Mehdi Nezhad
+- first_name: Mohammad Mehdi Nejad
   last_name: NURI
-  whole_name: Mohammad Mehdi Nezhad NURI
+  whole_name: Mohammad Mehdi Nejad NURI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158879'
+  logical_id: '158877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: محمد مهدی نژد نوری
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Mohammad Mehdi Nejad
+  last_name: NOURI
+  whole_name: Mohammad Mehdi Nejad NOURI
+  function: Rector of Malek Ashtar University of Defence Technology.
+  gender: M
+  title: Lieutenant General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

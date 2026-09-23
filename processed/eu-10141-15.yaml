@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10141.15
 logical_id: '153645'
 regulations:
@@ -13,6 +14,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Илья
+  middle_name: Павлович
+  last_name: КОЗЛОВ
+  whole_name: Илья Павлович КОЗЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '153648'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Ilya
+  middle_name: Pavlovich
+  last_name: KOZLOV
+  whole_name: Ilya Pavlovich KOZLOV
+  function: Judge of the Moscow City Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153649'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Ilja
   middle_name: Pavlovitj
   last_name: KOZLOV
@@ -49,35 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Илья
-  middle_name: Павлович
-  last_name: КОЗЛОВ
-  whole_name: Илья Павлович КОЗЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '153648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Ilya
-  middle_name: Pavlovich
-  last_name: KOZLOV
-  whole_name: Ilya Pavlovich KOZLOV
-  function: Judge of the Moscow City Court
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

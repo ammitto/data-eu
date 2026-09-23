@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13042.66
 logical_id: '174898'
 regulations:
@@ -13,21 +14,64 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерно дружество „41-ви централен завод за железопътно оборудване“
-  name_language: BG
+- whole_name: JSC "41 Central Plant"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175234'
+  logical_id: '174903'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Vasúti Berendezéseket Gyártó 41. Központi Üzem« Részvénytársaság"
-  name_language: HU
+- whole_name: АО "41 Центральный Завод Железнодорожной Техники"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175233'
+  logical_id: '174904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО "41 Центральный Завод"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174905'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Aкционерное общество "41 Центральный Завод Железнодорожной Техники"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Joint Stock Company "41 Central Plant of Railway Equipment"
+  function: Is a Russian military industry company that manufactures and supplies
+    mobile repair complexes for the Ministry of Defense of Russia.
+  title: Joint stock company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерно дружество „41-ви централен завод за железопътно оборудване“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '175234'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -53,53 +97,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company "41 Central Plant of Railway Equipment"
-  function: Is a Russian military industry company that manufactures and supplies mobile repair complexes for the Ministry of Defense of Russia.
-  title: Joint stock company
-  name_language: EN
+- whole_name: "»Vasúti Berendezéseket Gyártó 41. Központi Üzem« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '174907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество "41 Центральный Завод Железнодорожной Техники"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО "41 Центральный Завод"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174905'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC "41 Central Plant"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174903'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО "41 Центральный Завод Железнодорожной Техники"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174904'
+  logical_id: '175233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -129,21 +131,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '502701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1095027006722'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '502701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

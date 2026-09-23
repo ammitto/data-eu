@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12903.88
 logical_id: '174072'
 regulations:
@@ -13,61 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Juryi Nazarau
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '174076'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Juryj Nazarau
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '174077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Juryj Nazarau
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Юрий Викторович НАЗАРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Юрый Віктаравіч НАЗАРАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174080'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Yury Viktorovich NAZAROV
   gender: M
   name_language: EN
@@ -86,6 +32,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Юрый Віктаравіч НАЗАРАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Юрий Викторович НАЗАРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174079'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Juryj Nazarau
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Juryj Nazarau
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '174077'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Juryi Nazarau
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

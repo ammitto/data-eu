@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13072.70
 logical_id: '175088'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Limited Liability Company “Aerofregat”
-  function: LLC Aerofregat is active in the Russian military and industrial complex, namely in the development and production of unmanned aerial vehicles (UAVs).
+  function: LLC Aerofregat is active in the Russian military and industrial complex,
+    namely in the development and production of unmanned aerial vehicles (UAVs).
   title: Limited Liability Company
   name_language: EN
   strong: true

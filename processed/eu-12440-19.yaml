@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12440.19
 logical_id: '171028'
 regulations:
@@ -13,40 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: OOO RUDENSKI UDOBRENCHESKI ZAVOD
+- whole_name: OOO «Рузэкспедиция»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '171035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUZEKSPEDITSIYA
-  strong: true
-  regulation_language: en
-  logical_id: '171034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: Ruzekspeditsiya LLC
-  function: Company established in the Bremino-Orsha Special Economic Zone
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171037'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: RUZSPEDITION LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171036'
+  logical_id: '171032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -62,11 +34,40 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: OOO «Рузэкспедиция»
-  name_language: RU
+- whole_name: OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RUZEKSPEDITSIYA
   strong: true
   regulation_language: en
-  logical_id: '171032'
+  logical_id: '171034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: OOO RUDENSKI UDOBRENCHESKI ZAVOD
+  strong: true
+  regulation_language: en
+  logical_id: '171035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: RUZSPEDITION LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: Ruzekspeditsiya LLC
+  function: Company established in the Bremino-Orsha Special Economic Zone
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

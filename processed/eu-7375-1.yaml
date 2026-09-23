@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7375.1
 logical_id: '135243'
 regulations:
@@ -27,11 +28,26 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Nikolai
+  last_name: YEVMENOV
+  whole_name: Nikolai YEVMENOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '135247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Nikolay
   middle_name: Anatolyevich
   last_name: YEVMENOV
   whole_name: Nikolay Anatolyevich YEVMENOV
-  function: Head of the Military Training and Research Center (VUNC) “Naval Academy named after Admiral of the Fleet of the Soviet Union N. G. Kuznetsov”; former Commander in chief of the Russian Navy.
+  function: Head of the Military Training and Research Center (VUNC) “Naval Academy
+    named after Admiral of the Fleet of the Soviet Union N. G. Kuznetsov”; former
+    Commander in chief of the Russian Navy.
   gender: M
   title: Admiral
   name_language: EN
@@ -54,19 +70,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Nikolai
-  last_name: YEVMENOV
-  whole_name: Nikolai YEVMENOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

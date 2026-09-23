@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9152.24
 logical_id: '146188'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Jednotky Basídž
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '146195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Siły Oporu Basidż
   name_language: PL
   strong: true
@@ -94,7 +85,8 @@ name_aliases:
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Basij Resistance Force
-  function: Paramilitary organisation operating under the Islamic Revolutionary Guard Corps (IRGC) with branches throughout Iran
+  function: Paramilitary organisation operating under the Islamic Revolutionary Guard
+    Corps (IRGC) with branches throughout Iran
   name_language: EN
   strong: true
   regulation_language: en
@@ -149,6 +141,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146189'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Jednotky Basídž
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '146195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

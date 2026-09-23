@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6366.43
 logical_id: '130005'
 regulations:
@@ -13,40 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mikhail  Viachaslavavich  HRYB
-  function: |-
-    Head of the Main 
-    Department of Internal Affairs of the Minsk City Executive Committee
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Mikhail  Viacheslavovich GRIB
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Міхаіл  Вячаслававіч ГРЫБ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130009'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Михаил  Вячеславович ГРИБ
   gender: M
   name_language: RU
@@ -75,6 +42,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Міхаіл  Вячаслававіч ГРЫБ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Mikhail  Viacheslavovich GRIB
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Mikhail  Viachaslavavich  HRYB
+  function: "Head of the Main \nDepartment of Internal Affairs of the Minsk City Executive
+    Committee"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11595.74
 logical_id: '165645'
 regulations:
@@ -13,119 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jekatěrina
-  middle_name: Vasiljevna
-  last_name: Naumova
-  whole_name: Jekatěrina Vasiljevna Naumova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165906'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekaterina
-  middle_name: Vasilevna
-  last_name: NAUMOVA
-  whole_name: Jekaterina Vasilevna NAUMOVA
-  gender: F
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165945'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekatěrina
-  middle_name: Vasiljevna
-  last_name: Fědotova
-  whole_name: Jekatěrina Vasiljevna Fědotova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165905'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekaterina
-  middle_name: Vasilievna
-  last_name: Naumovová
-  whole_name: Jekaterina Vasilievna Naumovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165923'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Ekaterina
-  middle_name: Vasilevna
-  last_name: NAUMOVA
-  whole_name: Ekaterina Vasilevna NAUMOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165650'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Ekaterina
-  middle_name: Vasilevna
-  last_name: FEDOTOVA
-  whole_name: Ekaterina Vasilevna FEDOTOVA
-  function: Representative of the Ministry of Internal Affairs of Russia for the city of Khimki, Moscow Oblast
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165651'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekaterina
-  middle_name: Vasilievna
-  last_name: Fedotovová
-  whole_name: Jekaterina Vasilievna Fedotovová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165924'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jekaterina
-  middle_name: Vasilevna
-  last_name: FEDOTOVA
-  whole_name: Jekaterina Vasilevna FEDOTOVA
-  gender: F
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165944'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Екатерина
   middle_name: Васильевна
   last_name: НАУМОВА
@@ -149,6 +37,120 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165649'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Ekaterina
+  middle_name: Vasilevna
+  last_name: NAUMOVA
+  whole_name: Ekaterina Vasilevna NAUMOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165650'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Ekaterina
+  middle_name: Vasilevna
+  last_name: FEDOTOVA
+  whole_name: Ekaterina Vasilevna FEDOTOVA
+  function: Representative of the Ministry of Internal Affairs of Russia for the city
+    of Khimki, Moscow Oblast
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165651'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekatěrina
+  middle_name: Vasiljevna
+  last_name: Fědotova
+  whole_name: Jekatěrina Vasiljevna Fědotova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165905'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekatěrina
+  middle_name: Vasiljevna
+  last_name: Naumova
+  whole_name: Jekatěrina Vasiljevna Naumova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165906'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekaterina
+  middle_name: Vasilievna
+  last_name: Fedotovová
+  whole_name: Jekaterina Vasilievna Fedotovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165924'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekaterina
+  middle_name: Vasilievna
+  last_name: Naumovová
+  whole_name: Jekaterina Vasilievna Naumovová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165923'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekaterina
+  middle_name: Vasilevna
+  last_name: NAUMOVA
+  whole_name: Jekaterina Vasilevna NAUMOVA
+  gender: F
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165945'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekaterina
+  middle_name: Vasilevna
+  last_name: FEDOTOVA
+  whole_name: Jekaterina Vasilevna FEDOTOVA
+  gender: F
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165944'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

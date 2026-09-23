@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6139.18
 logical_id: '127429'
 regulations:
@@ -27,7 +28,8 @@ name_aliases:
 - first_name: Hassan
   last_name: SHAHVARPOUR
   whole_name: Hassan SHAHVARPOUR
-  function: Islamic Revolutionary Guard Corps (IRGC) Commander of Khuzestan Province (Vali Asr Corps)
+  function: Islamic Revolutionary Guard Corps (IRGC) Commander of Khuzestan Province
+    (Vali Asr Corps)
   gender: M
   title: Brigadier General
   name_language: EN

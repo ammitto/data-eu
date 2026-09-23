@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12622.0
 logical_id: '171807'
 regulations:
@@ -13,35 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Илья
-  middle_name: Владимирович
-  last_name: КОРЯКИН
-  whole_name: Илья Владимирович КОРЯКИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Ilya
-  middle_name: Vladimirovich
-  last_name: KORYAKIN
-  whole_name: Ilya Vladimirovich KORYAKIN
-  function: Chief of Staff of the 22nd Guards Heavy Bomber Aviation Division based at Engels-2 airbase
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Iľja
   last_name: Korjakin
   whole_name: Iľja Korjakin
@@ -74,6 +46,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Илья
+  middle_name: Владимирович
+  last_name: КОРЯКИН
+  whole_name: Илья Владимирович КОРЯКИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Ilya
+  middle_name: Vladimirovich
+  last_name: KORYAKIN
+  whole_name: Ilya Vladimirovich KORYAKIN
+  function: Chief of Staff of the 22nd Guards Heavy Bomber Aviation Division based
+    at Engels-2 airbase
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

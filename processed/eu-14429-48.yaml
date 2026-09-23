@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14429.48
 logical_id: '182801'
 regulations:
@@ -13,12 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Олексій Сергійович ЗIНЧЕНКО
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '182806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Алексей Сергеевич ЗИНЧЕНКО
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '182807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Alexey Sergeevich ZINCHENKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -38,42 +61,20 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Олексій Сергійович ЗIНЧЕНКО
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '182806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Alexey Sergeevich ZINCHENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '182804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
   logical_id: '182803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '182804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14252.41
 logical_id: '181929'
 regulations:
@@ -33,29 +34,11 @@ name_aliases:
     publication_date: '2026-03-26'
     number_title: UNLI 26.03.2026
     publication_url: https://press.un.org/en/2026/sc16323.doc.htm
-- whole_name: Mustafa Adnan al-Azeez
-  strong: true
-  regulation_language: en
-  logical_id: '181937'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026
-    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
 - whole_name: ﻣﺻطﻔﻰ ﻋدﻧﺎن اﻟﻌزﯾز
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '181938'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026
-    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
-- whole_name: Hajji Hamid
-  strong: true
-  regulation_language: en
-  logical_id: '181935'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'
@@ -71,8 +54,34 @@ name_aliases:
     publication_date: '2026-03-26'
     number_title: UNLI 26.03.2026
     publication_url: https://press.un.org/en/2026/sc16323.doc.htm
+- whole_name: Mustafa Adnan al-Azeez
+  strong: true
+  regulation_language: en
+  logical_id: '181937'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026
+    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
+- whole_name: Hajji Hamid
+  strong: true
+  regulation_language: en
+  logical_id: '181935'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026
+    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
 - whole_name: Sami Jasim Muhammad Jaata Al-Jaburi
-  function: 'Assumed multiples roles within ISIL (Da’esh) listed as Al-Qaida in Iraq (QDe.115), including overseeing ISIL’s finances, material affairs and sources of revenue. He was also a member of the so-called Delegated Committee, which is the decision-making body of ISIL (Da’esh). He also participated in several terrorist operations against security forces while ISIL was controlling territory and was involved in the smuggling of oil derivates. Mother’s name: A’ishah Hasan. Gender: Male, Physical description: eye colour: black; hair colour: black; Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
+  function: 'Assumed multiples roles within ISIL (Da’esh) listed as Al-Qaida in Iraq
+    (QDe.115), including overseeing ISIL’s finances, material affairs and sources
+    of revenue. He was also a member of the so-called Delegated Committee, which is
+    the decision-making body of ISIL (Da’esh). He also participated in several terrorist
+    operations against security forces while ISIL was controlling territory and was
+    involved in the smuggling of oil derivates. Mother’s name: A’ishah Hasan. Gender:
+    Male, Physical description: eye colour: black; hair colour: black; Photo available
+    for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN
+    Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.'
   gender: M
   name_language: EN
   strong: true
@@ -120,21 +129,21 @@ addresses:
     number_title: UNLI 26.03.2026
     publication_url: https://press.un.org/en/2026/sc16323.doc.htm
 identifications:
-- identification_type_code: id
-  number: '9080002892'
-  country_iso2_code: SY
-  regulation_language: en
-  logical_id: '181934'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026
-    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
 - identification_type_code: residentperm
   number: '4118'
   country_iso2_code: TR
   regulation_language: en
   logical_id: '181933'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026
+    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
+- identification_type_code: id
+  number: '9080002892'
+  country_iso2_code: SY
+  regulation_language: en
+  logical_id: '181934'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'

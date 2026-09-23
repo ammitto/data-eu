@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10919.75
 logical_id: '159716'
 regulations:
@@ -39,6 +40,20 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Radij
+  middle_name: Faritovitj
+  last_name: CHABIROV
+  whole_name: Radij Faritovitj CHABIROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Radiy
   middle_name: Faritovich
   last_name: KHABIROV
@@ -49,20 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159721'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Radij
-  middle_name: Faritovitj
-  last_name: CHABIROV
-  whole_name: Radij Faritovitj CHABIROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

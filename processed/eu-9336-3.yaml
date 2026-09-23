@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9336.3
 logical_id: '146963'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Boris
-  middle_name: Vyacheslavovich
-  last_name: KORCHEVNIKOV
-  whole_name: Boris Vyacheslavovich KORCHEVNIKOV
-  function: Russian TV presenter on the state TV channel “Russia-1”, the general director of the ultraconservative TV channel “Spas”, which belongs to the Russian Orthodox Church
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Борис
   middle_name: Вячеславович
   last_name: КОРЧЕВНИКОВ
@@ -36,6 +23,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Boris
+  middle_name: Vyacheslavovich
+  last_name: KORCHEVNIKOV
+  whole_name: Boris Vyacheslavovich KORCHEVNIKOV
+  function: Russian TV presenter on the state TV channel “Russia-1”, the general director
+    of the ultraconservative TV channel “Spas”, which belongs to the Russian Orthodox
+    Church
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

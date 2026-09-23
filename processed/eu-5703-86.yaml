@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5703.86
 logical_id: '124966'
 regulations:
@@ -27,6 +28,25 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- first_name: Alexey
+  middle_name: Valeryevich
+  last_name: MININ
+  whole_name: Alexey Valeryevich MININ
+  function: Human intelligence support officer of the Main Directorate of the General
+    Staff of the Armed Forces of the Russian Federation (GU/GRU). A grand jury in
+    the Western District of Pennsylvania (United States of America) has indicted Alexey
+    Minin, as an officer of the GRU, for computer aggravated identity theft and money
+    laundering.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '124972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Alexej
   last_name: Minin
   whole_name: Alexej Minin
@@ -40,21 +60,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- first_name: Alexey
-  middle_name: Valeryevich
-  last_name: MININ
-  whole_name: Alexey Valeryevich MININ
-  function: Human intelligence support officer of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU). A grand jury in the Western District of Pennsylvania (United States of America) has indicted Alexey Minin, as an officer of the GRU, for computer aggravated identity theft and money laundering.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '124972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9098.79
 logical_id: '145823'
 regulations:
@@ -13,25 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Parastou
+  last_name: SAFARI
+  whole_name: Parastou SAFARI
+  function: member of the Morality Police, an Islamic religious police that is part
+    of Iran’s Law Enforcement Forces (LEF)
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '145827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - whole_name: سفری پرستو
   gender: F
   name_language: FA
   strong: true
   regulation_language: en
   logical_id: '145826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Parastou
-  last_name: SAFARI
-  whole_name: Parastou SAFARI
-  function: member of the Morality Police, an Islamic religious police that is part of Iran’s Law Enforcement Forces (LEF)
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '145827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

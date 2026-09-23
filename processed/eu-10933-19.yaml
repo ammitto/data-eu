@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10933.19
 logical_id: '159808'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Иванович
-  last_name: КОЛЮШИН
-  whole_name: Евгений Иванович КОЛЮШИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Yevgeny
   middle_name: Ivanovich
   last_name: KOLYUSHIN
@@ -37,6 +24,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Jevgenij
+  last_name: Koľušin
+  whole_name: Jevgenij Koľušin
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Jevgenij
+  last_name: Koljušin
+  whole_name: Jevgenij Koljušin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160904'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -69,27 +82,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Jevgenij
-  last_name: Koljušin
-  whole_name: Jevgenij Koljušin
+- first_name: Евгений
+  middle_name: Иванович
+  last_name: КОЛЮШИН
+  whole_name: Евгений Иванович КОЛЮШИН
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Jevgenij
-  last_name: Koľušin
-  whole_name: Jevgenij Koľušin
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160903'
+  logical_id: '159811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

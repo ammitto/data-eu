@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7529.73
 logical_id: '136112'
 regulations:
@@ -13,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yevgeniy
-  last_name: LAVLINSKIY
-  whole_name: Yevgeniy LAVLINSKIY
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '136115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Захар
   last_name: ПРИЛЕПИН
   whole_name: Захар ПРИЛЕПИН
@@ -38,31 +27,26 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Jevgenij LAVLINSKIJ
-  name_language: SV
+- first_name: Yevgeniy
+  last_name: LAVLINSKIY
+  whole_name: Yevgeniy LAVLINSKIY
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '143979'
+  logical_id: '136115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Zachar PRILEPIN
-  name_language: SV
+- first_name: Евгений
+  last_name: ЛАВЛИНСКИЙ
+  whole_name: Евгений ЛАВЛИНСКИЙ
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Jevgenij Nikolajevitj PRILEPIN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144021'
+  logical_id: '136114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -80,15 +64,31 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Евгений
-  middle_name: Николаевич
-  last_name: ПРИЛЕПИН
-  whole_name: Евгений Николаевич ПРИЛЕПИН
-  gender: M
-  name_language: RU
+- whole_name: Jevgenij Nikolajevitj PRILEPIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136118'
+  logical_id: '144021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Zachar PRILEPIN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Jevgenij LAVLINSKIJ
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -98,7 +98,8 @@ name_aliases:
   middle_name: Nikolaevich
   last_name: PRILEPIN
   whole_name: Yevgeniy Nikolaevich PRILEPIN
-  function: Journalist, writer, co-chairman of “A Just Russia – Patriots – For Truth” party, activist
+  function: Journalist, writer, co-chairman of “A Just Russia – Patriots – For Truth”
+    party, activist
   gender: M
   strong: true
   regulation_language: en
@@ -109,13 +110,14 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Евгений
-  last_name: ЛАВЛИНСКИЙ
-  whole_name: Евгений ЛАВЛИНСКИЙ
+  middle_name: Николаевич
+  last_name: ПРИЛЕПИН
+  whole_name: Евгений Николаевич ПРИЛЕПИН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136114'
+  logical_id: '136118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

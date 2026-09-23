@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4524.17
 logical_id: '116731'
 regulations:
@@ -13,6 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Myroslav
+  middle_name: Oleksandrovych
+  last_name: POHORIELOV
+  whole_name: Myroslav Oleksandrovych POHORIELOV
+  function: Head of the internal policy department of the administration of Novorossiysk
+    since March 2022
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Myroslav Oleksandrovytj POHORJELOV
   name_language: SV
   strong: true
@@ -47,20 +63,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Myroslav
-  middle_name: Oleksandrovych
-  last_name: POHORIELOV
-  whole_name: Myroslav Oleksandrovych POHORIELOV
-  function: Head of the internal policy department of the administration of Novorossiysk since March 2022
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Мирослав
   middle_name: Александрович
   last_name: ПОГОРЕЛОВ
@@ -79,7 +81,9 @@ name_aliases:
   middle_name: Aleksandrovich
   last_name: POGORELOV
   whole_name: Miroslav Aleksandrovich POGORELOV
-  function: Head of the internal policy department of the administration of Novorossiysk since March 2022. Former Deputy Chair of the Sevastopol Electoral Commission (until May 2019).
+  function: Head of the internal policy department of the administration of Novorossiysk
+    since March 2022. Former Deputy Chair of the Sevastopol Electoral Commission (until
+    May 2019).
   gender: M
   strong: true
   regulation_language: en

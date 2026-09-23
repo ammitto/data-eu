@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13772.36
 logical_id: '179395'
 regulations:
@@ -44,7 +45,10 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Joint Stock Company AvtoVAZ
-  function: A Russian State-owned car manufacturing company.  The company has created a structural division responsible for supporting its employees that participate in the so-called “special military operation” and their families, offering benefits to them.
+  function: A Russian State-owned car manufacturing company.  The company has created
+    a structural division responsible for supporting its employees that participate
+    in the so-called “special military operation” and their families, offering benefits
+    to them.
   name_language: EN
   strong: true
   regulation_language: en

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11419.18
 logical_id: '164272'
 regulations:
@@ -28,15 +29,15 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: ГОЛЯКОВ
-  whole_name: Александр Владимирович ГОЛЯКОВ
+- first_name: Alexandr
+  middle_name: Vladimirovič
+  last_name: Goljakov
+  whole_name: Alexandr Vladimirovič Goljakov
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164275'
+  logical_id: '164604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -58,20 +59,6 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Alexandr
   middle_name: Vladimirovič
-  last_name: Goljakov
-  whole_name: Alexandr Vladimirovič Goljakov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Alexandr
-  middle_name: Vladimirovič
   last_name: Goľakov
   whole_name: Alexandr Vladimirovič Goľakov
   gender: M
@@ -79,6 +66,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: ГОЛЯКОВ
+  whole_name: Александр Владимирович ГОЛЯКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

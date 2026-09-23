@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2122.90
 logical_id: '5266'
 regulations:
@@ -47,10 +48,10 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Abdul Khalil
+- whole_name: Anis
   strong: true
   regulation_language: en
-  logical_id: '6559'
+  logical_id: '6562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -65,19 +66,19 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Anis
+- whole_name: Abu Khalil
   strong: true
   regulation_language: en
-  logical_id: '6562'
+  logical_id: '6561'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Abu Khalil
+- whole_name: Abdul Khalil
   strong: true
   regulation_language: en
-  logical_id: '6561'
+  logical_id: '6559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

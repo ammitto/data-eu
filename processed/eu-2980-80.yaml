@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2980.80
 logical_id: '7282'
 regulations:
@@ -17,7 +18,9 @@ name_aliases:
   middle_name: Andreevich
   last_name: KONSTANTINOV
   whole_name: Vladimir Andreevich KONSTANTINOV
-  function: Speaker of the Supreme Council of the Autonomous Republic of Crimea. Since 17 March 2014 ‘Chairman’ of the ‘State Council’ of the so-called Republic of Crimea’ (reelected in 2019).
+  function: Speaker of the Supreme Council of the Autonomous Republic of Crimea. Since
+    17 March 2014 ‘Chairman’ of the ‘State Council’ of the so-called Republic of Crimea’
+    (reelected in 2019).
   gender: M
   name_language: EN
   strong: true
@@ -90,6 +93,22 @@ birthdates:
   day_of_month: 19
   month_of_year: 11
   year: 1956
+  city: Bogomol
+  country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
+  regulation_language: en
+  logical_id: '122831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- birthdate: '1956-11-19'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 19
+  month_of_year: 11
+  year: 1956
   region: Slobozia Regio
   place: Vladimirovka
   country_iso2_code: MD
@@ -114,22 +133,6 @@ birthdates:
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
   logical_id: '158021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- birthdate: '1956-11-19'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 19
-  month_of_year: 11
-  year: 1956
-  city: Bogomol
-  country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
-  regulation_language: en
-  logical_id: '122831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

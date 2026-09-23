@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3638.95
 logical_id: '5421'
 remark: Pacifique Ntawunguka was the commander of the First Division of FOCA
@@ -14,6 +15,47 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Pacifique
+  last_name: Ntawungula
+  whole_name: Pacifique Ntawungula
+  strong: true
+  regulation_language: en
+  logical_id: '7011'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-21'
+    number_title: 242/2009 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
+- whole_name: plukovník Omega
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '8431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-12-23'
+    number_title: 1250/2010 (OJ L341)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
+- whole_name: pulkvedis Omega
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '7020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-21'
+    number_title: 242/2009 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
+- whole_name: Kolonel Omega
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-21'
+    number_title: 242/2009 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 - first_name: Pacifique
   last_name: Ntawunguka
   whole_name: Pacifique Ntawunguka
@@ -55,52 +97,11 @@ name_aliases:
     publication_date: '2009-03-21'
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
-- first_name: Pacifique
-  last_name: Ntawungula
-  whole_name: Pacifique Ntawungula
-  strong: true
-  regulation_language: en
-  logical_id: '7011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-21'
-    number_title: 242/2009 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 - whole_name: полковник Omega
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '7018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-21'
-    number_title: 242/2009 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
-- whole_name: Kolonel Omega
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-21'
-    number_title: 242/2009 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
-- whole_name: plukovník Omega
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '8431'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-12-23'
-    number_title: 1250/2010 (OJ L341)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
-- whole_name: pulkvedis Omega
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '7020'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-21'

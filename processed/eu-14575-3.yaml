@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14575.3
 logical_id: '183537'
 regulations:
@@ -23,6 +24,36 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Societatea cu răspundere limitată «Centrul științific și tehnic Vostok»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Научно Технический Центр ВОСТОК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ООО НТЦ ВОСТОК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183542'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Limited liability company Scientific and technical centre Vostok
   name_language: EN
   strong: true
@@ -39,36 +70,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Societatea cu răspundere limitată «Centrul științific și tehnic Vostok»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184827'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ООО НТЦ ВОСТОК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183542'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Научно Технический Центр ВОСТОК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

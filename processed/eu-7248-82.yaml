@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7248.82
 logical_id: '134728'
 regulations:
@@ -13,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Boris
-  middle_name: Mikhailovich
-  last_name: GLADKIKH
-  whole_name: Boris Mikhailovich GLADKIKH
-  function: Member of the State Duma
-  gender: M
+- whole_name: Boris Michajlovitj GLADKICH
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134731'
+  logical_id: '143911'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -41,11 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Boris Michajlovitj GLADKICH
-  name_language: SV
+- first_name: Boris
+  middle_name: Mikhailovich
+  last_name: GLADKIKH
+  whole_name: Boris Mikhailovich GLADKIKH
+  function: Member of the State Duma
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '143911'
+  logical_id: '134731'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

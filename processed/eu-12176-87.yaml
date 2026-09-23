@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12176.87
 logical_id: '169298'
 regulations:
@@ -39,23 +40,23 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Alexey Anatolievich KHLYSHCHENKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Аляксей Анатольевіч ХЛЫШЧАНКАЎ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '169302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Alexey Anatolievich KHLYSHCHENKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

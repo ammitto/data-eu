@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13428.61
 logical_id: '177576'
 regulations:
@@ -13,24 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Maksim Bronislavovich SOKOLOVSKIY
-  gender: M
-  title: Former judge of the Moscow City Court, from 10 May 2023 Chairman of the Khoroshevsky District Court
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177580'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1438 (OJ L202501438)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501438
 - whole_name: Максим Брониславович СОКОЛОВСКИЙ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '177579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1438 (OJ L202501438)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501438
+- whole_name: Maksim Bronislavovich SOKOLOVSKIY
+  gender: M
+  title: Former judge of the Moscow City Court, from 10 May 2023 Chairman of the Khoroshevsky
+    District Court
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9921.93
 logical_id: '151457'
 regulations:
@@ -13,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gordon Koang
-  last_name: BIEL
-  whole_name: Gordon Koang BIEL
-  function: County commissioner for Koch county (Unity State, South Sudan)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '151463'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - first_name: Koang
   last_name: NYALUALGO
   whole_name: Koang NYALUALGO
@@ -33,6 +21,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Koang Biel
+  last_name: CHAR
+  whole_name: Koang Biel CHAR
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '151461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -50,13 +50,14 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Koang Biel
-  last_name: CHAR
-  whole_name: Koang Biel CHAR
+- first_name: Gordon Koang
+  last_name: BIEL
+  whole_name: Gordon Koang BIEL
+  function: County commissioner for Koch county (Unity State, South Sudan)
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '151461'
+  logical_id: '151463'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

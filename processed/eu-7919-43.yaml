@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7919.43
 logical_id: '138355'
 regulations:
@@ -27,27 +28,28 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Anatoli
-  middle_name: Andreevich
-  last_name: ANTONOV
-  whole_name: Anatoli Andreevich ANTONOV
-  function: Former so-called ‘Minister of State Security’ of the so-called ‘Luhansk People’s Republic’
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Anatolij Andrejevitj ANTONOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '139394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Anatoli
+  middle_name: Andreevich
+  last_name: ANTONOV
+  whole_name: Anatoli Andreevich ANTONOV
+  function: Former so-called ‘Minister of State Security’ of the so-called ‘Luhansk
+    People’s Republic’
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

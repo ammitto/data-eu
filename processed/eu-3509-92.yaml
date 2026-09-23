@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3509.92
 logical_id: '7294'
 regulations:
@@ -14,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Aleksandr
-  middle_name: Borisovitj
-  last_name: TOTOONOV
-  whole_name: Aleksandr Borisovitj TOTOONOV
+  last_name: Totoonow
+  whole_name: Aleksandr Totoonow
   gender: M
-  name_language: SV
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '151802'
+  logical_id: '152138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -31,12 +31,27 @@ name_aliases:
   middle_name: Borisovich
   last_name: TOTOONOV
   whole_name: Aleksandr Borisovich TOTOONOV
-  function: Member of the Parliament of North Ossetia-Alania and owner of the company “Southern Garden”.
+  function: Member of the Parliament of North Ossetia-Alania and owner of the company
+    “Southern Garden”.
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '17699'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Aleksandr
+  middle_name: Borisovitj
+  last_name: TOTOONOV
+  whole_name: Aleksandr Borisovitj TOTOONOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -51,19 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Aleksandr
-  last_name: Totoonow
-  whole_name: Aleksandr Totoonow
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

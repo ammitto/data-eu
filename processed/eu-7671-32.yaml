@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7671.32
 logical_id: '136767'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Сергеи  Алехандрович  КУЛИКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-09'
+    number_title: 2022/396 (OJ L80)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
 - whole_name: Sergej Aleksandrovitj KULIKOV
   name_language: SV
   strong: true
@@ -23,12 +35,10 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Сергеи  Алехандрович  КУЛИКОВ
-  gender: M
-  name_language: RU
+- whole_name: Sergei Alexandrovich KULIKOV
   strong: true
   regulation_language: en
-  logical_id: '136770'
+  logical_id: '137401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'
@@ -55,15 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-09'
-    number_title: 2022/396 (OJ L80)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Sergei Alexandrovich KULIKOV
-  strong: true
-  regulation_language: en
-  logical_id: '137401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'

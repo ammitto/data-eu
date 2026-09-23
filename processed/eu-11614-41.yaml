@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11614.41
 logical_id: '165777'
 regulations:
@@ -13,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ilja
+  middle_name: Andrejevitš
+  last_name: SAVTŠENKO
+  whole_name: Ilja Andrejevitš SAVTŠENKO
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165955'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Iljovi
   middle_name: Andrejevič
   last_name: Savčenkovi
@@ -27,44 +42,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Ilya
-  middle_name: Andreevich
-  last_name: SAVCHENKO
-  whole_name: Ilya Andreevich SAVCHENKO
-  function: nvestigator in the Investigative Department of Tver (Investigative Committee of the Russian Federation)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165781'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Илья
+- first_name: Иля
   middle_name: Андреевич
-  last_name: САВЧЕНКО
-  whole_name: Илья Андреевич САВЧЕНКО
+  last_name: Савченко
+  whole_name: Иля Андреевич Савченко
   gender: M
-  name_language: RU
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '165780'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Ilja
-  middle_name: Andrejevitš
-  last_name: SAVTŠENKO
-  whole_name: Ilja Andrejevitš SAVTŠENKO
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165955'
+  logical_id: '165899'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -84,15 +70,31 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Иля
-  middle_name: Андреевич
-  last_name: Савченко
-  whole_name: Иля Андреевич Савченко
+- first_name: Ilya
+  middle_name: Andreevich
+  last_name: SAVCHENKO
+  whole_name: Ilya Andreevich SAVCHENKO
+  function: nvestigator in the Investigative Department of Tver (Investigative Committee
+    of the Russian Federation)
   gender: M
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165899'
+  logical_id: '165781'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Илья
+  middle_name: Андреевич
+  last_name: САВЧЕНКО
+  whole_name: Илья Андреевич САВЧЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '165780'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

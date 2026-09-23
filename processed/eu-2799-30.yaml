@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2799.30
 logical_id: '6483'
 regulations:
@@ -13,6 +14,61 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdurrahman
+  last_name: Bashir
+  whole_name: Abdurrahman Bashir
+  strong: true
+  regulation_language: en
+  logical_id: '14024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurrahim
+  last_name: Ba’asyir
+  whole_name: Abdurrahim Ba’asyir
+  strong: true
+  regulation_language: en
+  logical_id: '14013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurrochim
+  last_name: Bashir
+  whole_name: Abdurrochim Bashir
+  strong: true
+  regulation_language: en
+  logical_id: '14022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurrochim
+  last_name: Ba’asyir
+  whole_name: Abdurrochim Ba’asyir
+  strong: true
+  regulation_language: en
+  logical_id: '14021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurochim
+  last_name: Bashir
+  whole_name: Abdurochim Bashir
+  strong: true
+  regulation_language: en
+  logical_id: '14020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 - first_name: Abdul
   middle_name: Rahim
   last_name: Ba’aysir
@@ -32,39 +88,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrahman
-  last_name: Bashir
-  whole_name: Abdurrahman Bashir
-  strong: true
-  regulation_language: en
-  logical_id: '14024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrahman
-  last_name: Ba’asyir
-  whole_name: Abdurrahman Ba’asyir
-  strong: true
-  regulation_language: en
-  logical_id: '14023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrochim
-  last_name: Bashir
-  whole_name: Abdurrochim Bashir
-  strong: true
-  regulation_language: en
-  logical_id: '14022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'
@@ -94,12 +117,12 @@ name_aliases:
     publication_date: '2011-07-30'
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrahim
+- first_name: Abdurrahman
   last_name: Ba’asyir
-  whole_name: Abdurrahim Ba’asyir
+  whole_name: Abdurrahman Ba’asyir
   strong: true
   regulation_language: en
-  logical_id: '14013'
+  logical_id: '14023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'
@@ -175,28 +198,6 @@ name_aliases:
     publication_date: '2011-07-30'
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurochim
-  last_name: Bashir
-  whole_name: Abdurochim Bashir
-  strong: true
-  regulation_language: en
-  logical_id: '14020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrochim
-  last_name: Ba’asyir
-  whole_name: Abdurrochim Ba’asyir
-  strong: true
-  regulation_language: en
-  logical_id: '14021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 citizenships:
 - country_iso2_code: ID
   country_description: INDONESIA
@@ -208,22 +209,6 @@ citizenships:
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 birthdates:
-- birthdate: '1977-11-16'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 16
-  month_of_year: 11
-  year: 1977
-  city: Solo
-  country_iso2_code: IN
-  country_description: INDIA
-  regulation_language: en
-  logical_id: '1627'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 - birthdate: '1974-11-16'
   circa: false
   calendar_type: GREGORIAN
@@ -235,6 +220,22 @@ birthdates:
   country_description: INDIA
   regulation_language: en
   logical_id: '1628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- birthdate: '1977-11-16'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 16
+  month_of_year: 11
+  year: 1977
+  city: Solo
+  country_iso2_code: IN
+  country_description: INDIA
+  regulation_language: en
+  logical_id: '1627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'

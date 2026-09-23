@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14333.14
 logical_id: '182330'
 regulations:
@@ -14,7 +15,11 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Raw Materials Cellulose LLC
-  function: Raw Materials Cellulose LLC is an Uzbek company producing cotton pulp. Raw Materials Cellulose LLC supplies cotton pulp to Russian military-industrial companies, including the FSE Tambov Gunpowder Plant, which use it to produce gunpowder. Therefore, Raw Materials Cellulose LLC is supporting Russia’s military and industrial complex by being involved in supply of military technology and equipment.
+  function: Raw Materials Cellulose LLC is an Uzbek company producing cotton pulp.
+    Raw Materials Cellulose LLC supplies cotton pulp to Russian military-industrial
+    companies, including the FSE Tambov Gunpowder Plant, which use it to produce gunpowder.
+    Therefore, Raw Materials Cellulose LLC is supporting Russia’s military and industrial
+    complex by being involved in supply of military technology and equipment.
   name_language: EN
   strong: true
   regulation_language: en

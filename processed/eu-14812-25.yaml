@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14812.25
 logical_id: '184541'
 regulations:
@@ -23,7 +24,8 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Общество с ограниченной ответственностью Энгельсское приборостроитель ное объединение Сигнал
+- whole_name: Общество с ограниченной ответственностью Энгельсское приборостроитель
+    ное объединение Сигнал
   name_language: RU
   strong: true
   regulation_language: en
@@ -54,7 +56,8 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: LLC Engels  Instrumentation  Association  Signal
-  function: LLC Engels Instrumentation Association Signal is a developer and manufacturer of components, including for weapons and the aircraft industry.
+  function: LLC Engels Instrumentation Association Signal is a developer and manufacturer
+    of components, including for weapons and the aircraft industry.
   name_language: EN
   strong: true
   regulation_language: en
@@ -78,6 +81,16 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
+- identification_type_code: other
+  number: '644901001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '6449042991'
   country_iso2_code: RU
@@ -93,16 +106,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: other
-  number: '644901001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

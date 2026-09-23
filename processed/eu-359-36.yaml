@@ -1,8 +1,13 @@
+---
 eu_reference_number: EU.359.36
 logical_id: '597'
-remark: |-
-  Father of Sirajuddin Jallaloudine Haqqani, Nasiruddin Haqqani and Badruddin Haqqani (deceased). Brother of Mohammad Ibrahim Omari and Khalil Ahmed Haqqani. He is an active Taliban leader. 
-  Believed to be in Afghanistan/Pakistan border area. Head of the Taliban Miram Shah Shura as at 2008. Belongs to Zadran tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. Reportedly deceased as of September 2018.INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427400
+remark: "Father of Sirajuddin Jallaloudine Haqqani, Nasiruddin Haqqani and Badruddin
+  Haqqani (deceased). Brother of Mohammad Ibrahim Omari and Khalil Ahmed Haqqani.
+  He is an active Taliban leader. \nBelieved to be in Afghanistan/Pakistan border
+  area. Head of the Taliban Miram Shah Shura as at 2008. Belongs to Zadran tribe.
+  Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul.
+  2010. Reportedly deceased as of September 2018.INTERPOL-UN Security Council Special
+  Notice web link: https://www.interpol.int/en/notice/search/un/1427400"
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -16,12 +21,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jallalouddin
+- first_name: Jalaluddin
   last_name: Haqqani
-  whole_name: Jallalouddin Haqqani
+  whole_name: Jalaluddin Haqqani
+  function: Minister of Frontier Affairs under the Taliban regime
+  gender: M
+  title: Maulavi
   strong: true
   regulation_language: en
-  logical_id: '101806'
+  logical_id: '101804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -38,15 +46,12 @@ name_aliases:
     publication_date: '2014-10-08'
     number_title: 1057/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
-- first_name: Jalaluddin
+- first_name: Jallalouddin
   last_name: Haqqani
-  whole_name: Jalaluddin Haqqani
-  function: Minister of Frontier Affairs under the Taliban regime
-  gender: M
-  title: Maulavi
+  whole_name: Jallalouddin Haqqani
   strong: true
   regulation_language: en
-  logical_id: '101804'
+  logical_id: '101806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -88,18 +93,6 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1948
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '111354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-02-19'
-    number_title: 2019/279 (OJ L47)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
-- circa: true
-  calendar_type: GREGORIAN
   year: 1942
   city: Neka District, Paktika Province
   country_iso2_code: AF
@@ -118,6 +111,18 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '111353'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-02-19'
+    number_title: 2019/279 (OJ L47)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1948
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '111354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'

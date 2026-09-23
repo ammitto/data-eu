@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.379.63
 logical_id: '519'
 regulations:
@@ -13,28 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ahmed
-  middle_name: Khalfan
-  last_name: Ghailani
-  whole_name: Ahmed Khalfan Ghailani
-  gender: M
+- whole_name: Ahmed, Ahmed Khalfan
   strong: true
   regulation_language: en
-  logical_id: '1220'
+  logical_id: '1231'
   regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Ahmed The Tanzanian
-  strong: true
-  regulation_language: en
-  logical_id: '1221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Ahmed Tanzanianul
   name_language: RO
   strong: true
@@ -83,6 +71,28 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- first_name: Ahmed
+  middle_name: Khalfan
+  last_name: Ghailani
+  whole_name: Ahmed Khalfan Ghailani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '1220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed The Tanzanian
+  strong: true
+  regulation_language: en
+  logical_id: '1221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
 - whole_name: Foopie
   strong: true
   regulation_language: en
@@ -150,15 +160,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1230'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, Ahmed Khalfan
-  strong: true
-  regulation_language: en
-  logical_id: '1231'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -264,6 +265,22 @@ citizenships:
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 birthdates:
+- birthdate: '1970-08-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 8
+  year: 1970
+  city: Zanzibar
+  country_iso2_code: TZ
+  country_description: TANZANIA, UNITED REPUBLIC OF
+  regulation_language: en
+  logical_id: '231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
 - birthdate: '1974-04-14'
   circa: false
   calendar_type: GREGORIAN
@@ -275,22 +292,6 @@ birthdates:
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
   logical_id: '230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- birthdate: '1974-03-14'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 3
-  year: 1974
-  city: Zanzibar
-  country_iso2_code: TZ
-  country_description: TANZANIA, UNITED REPUBLIC OF
-  regulation_language: en
-  logical_id: '228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-08-18'
@@ -312,17 +313,17 @@ birthdates:
     publication_date: '2007-08-18'
     number_title: 969/2007 (OJ L215)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- birthdate: '1970-08-01'
+- birthdate: '1974-03-14'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 8
-  year: 1970
+  day_of_month: 14
+  month_of_year: 3
+  year: 1974
   city: Zanzibar
   country_iso2_code: TZ
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
-  logical_id: '231'
+  logical_id: '228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-08-18'

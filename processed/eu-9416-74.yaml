@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9416.74
 logical_id: '147315'
 regulations:
@@ -17,23 +18,12 @@ name_aliases:
   middle_name: Valiullovich
   last_name: GARIYEV
   whole_name: Denis Valiullovich GARIYEV
-  function: head of the 'Russian Imperial Legion', a paramilitary wing of the Russian Imperial Movement (RIM)
+  function: head of the 'Russian Imperial Legion', a paramilitary wing of the Russian
+    Imperial Movement (RIM)
   gender: M
   strong: true
   regulation_language: en
   logical_id: '147321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Denis
-  last_name: GARIJEV
-  whole_name: Denis GARIJEV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '147319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -48,6 +38,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Denis
+  last_name: GARIJEV
+  whole_name: Denis GARIJEV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '147319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

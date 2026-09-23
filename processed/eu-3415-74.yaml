@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3415.74
 logical_id: '5523'
 remark: 'Location: Yemen or Saudi-Arabia (2004 — 2006).'
@@ -14,6 +15,176 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Al-Qaida i Yemen
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '7669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida i den sydlige del af Den Arabiske Halvø
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '7668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida στην Νότια Αραβική Χερσόνησο
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '7671'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida στην Υεμένη
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '7672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qa'ida-organisatie van het Arabisch Schiereiland
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qa'ida van het zuidelijk Arabisch Schiereiland
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qa'ida Jemen
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida Organization fil-Peniżola Għarbija
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '7676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida fil-Peniżola t'Isfel Għarbija
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '7677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida fil-Jemen
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '7678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Organizacja na Półwyspie Arabskim Al-Kaida
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '7679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Kaida w południowej części Półwyspu Arabskiego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '7680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Kaida w Jemenie
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '7681'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: organizacija Al-Kaida z Arabskega polotoka
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '7682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Kaida z južnega dela Arabskega polotoka
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '7683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida iz Jemna
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '7684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Organizația Al-Qaida din Peninsula Arabia
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '7685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 - whole_name: Al-Qaida din Peninsula Arabia de Sud
   name_language: RO
   strong: true
@@ -52,6 +223,26 @@ name_aliases:
     publication_date: '2012-10-12'
     number_title: 933/2012 (OJ L278)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
+- whole_name: οργάνωση Al-Qaida στην Αραβική Χερσόνησο
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '7670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida Organization på Den Arabiske Halvø
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '7667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 - whole_name: Al-Qaida in the Arabian Peninsula
   strong: true
   regulation_language: en
@@ -334,210 +525,20 @@ name_aliases:
     publication_date: '2010-01-26'
     number_title: 70/2010 (OJ L20)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida Organization på Den Arabiske Halvø
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '7667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida i den sydlige del af Den Arabiske Halvø
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '7668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida i Yemen
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '7669'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: οργάνωση Al-Qaida στην Αραβική Χερσόνησο
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '7670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida στην Νότια Αραβική Χερσόνησο
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '7671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida στην Υεμένη
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '7672'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qa'ida-organisatie van het Arabisch Schiereiland
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qa'ida van het zuidelijk Arabisch Schiereiland
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qa'ida Jemen
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7675'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida Organization fil-Peniżola Għarbija
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '7676'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida fil-Peniżola t'Isfel Għarbija
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '7677'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida fil-Jemen
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '7678'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Organizacja na Półwyspie Arabskim Al-Kaida
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7679'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Kaida w południowej części Półwyspu Arabskiego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Kaida w Jemenie
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7681'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: organizacija Al-Kaida z Arabskega polotoka
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '7682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Kaida z južnega dela Arabskega polotoka
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '7683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida iz Jemna
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '7684'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Organizația Al-Qaida din Peninsula Arabia
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '7685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 addresses:
-- country_iso2_code: SA
-  country_description: SAUDI ARABIA
+- country_iso2_code: YE
+  country_description: YEMEN
   regulation_language: en
-  logical_id: '105952'
+  logical_id: '105953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-14'
     number_title: 2015/1390 (OJ L215)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_215_R_0003&from=EN
-- country_iso2_code: YE
-  country_description: YEMEN
+- country_iso2_code: SA
+  country_description: SAUDI ARABIA
   regulation_language: en
-  logical_id: '105953'
+  logical_id: '105952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-14'

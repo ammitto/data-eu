@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7385.67
 logical_id: '135292'
 regulations:
@@ -45,14 +46,14 @@ name_aliases:
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Igor
-  middle_name: Ivanovitj
-  last_name: SJUVALOV
-  whole_name: Igor Ivanovitj SJUVALOV
+  middle_name: Ivanovič
+  last_name: ŠUVALOV
+  whole_name: Igor Ivanovič ŠUVALOV
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '135401'
+  logical_id: '152128'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -73,14 +74,14 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Igor
-  middle_name: Ivanovič
-  last_name: ŠUVALOV
-  whole_name: Igor Ivanovič ŠUVALOV
+  middle_name: Ivanovitj
+  last_name: SJUVALOV
+  whole_name: Igor Ivanovitj SJUVALOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152128'
+  logical_id: '135401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

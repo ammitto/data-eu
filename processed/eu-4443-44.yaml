@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4443.44
 logical_id: '116162'
 remark: UNLI-30.03.2018
@@ -14,20 +15,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: CHANG AN SHIPPING & TECHNOLOGY
-  function: Registered owner, ship manager, and commercial manager of Panama-flagged vessel HUA FU, a cargo ship that loaded DPRK coal at Najin, DPRK on September 24, 2017.
+- whole_name: CHANG AN SHIPPING AND TECHNOLOGY
   strong: true
   regulation_language: en
-  logical_id: '116348'
+  logical_id: '116347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'
     number_title: 2018/548 (OJ L91)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
-- whole_name: CHANG AN SHIPPING AND TECHNOLOGY
+- whole_name: CHANG AN SHIPPING & TECHNOLOGY
+  function: Registered owner, ship manager, and commercial manager of Panama-flagged
+    vessel HUA FU, a cargo ship that loaded DPRK coal at Najin, DPRK on September
+    24, 2017.
   strong: true
   regulation_language: en
-  logical_id: '116347'
+  logical_id: '116348'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'

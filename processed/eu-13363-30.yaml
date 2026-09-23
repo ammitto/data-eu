@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13363.30
 logical_id: '177099'
 designation_details: Limited Liability Company
@@ -15,7 +16,12 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Redbird Corporate Services Ltd
-  function: 'Redbird Corporate Services Ltd is a company registered in Mauritius, which offers corporate and trust services in Mauritius. It is the registered agent of Sapang Shipping Inc, a company registered in Mauritius, which is the registered owner and ship manager of crude oil tanker ARGENT (formerly JAGUAR, IMO: 9293002). The role of the registered agent is to ensure compliance with local regulations and handle the administrative functions of the company.'
+  function: 'Redbird Corporate Services Ltd is a company registered in Mauritius,
+    which offers corporate and trust services in Mauritius. It is the registered agent
+    of Sapang Shipping Inc, a company registered in Mauritius, which is the registered
+    owner and ship manager of crude oil tanker ARGENT (formerly JAGUAR, IMO: 9293002).
+    The role of the registered agent is to ensure compliance with local regulations
+    and handle the administrative functions of the company.'
   name_language: EN
   strong: true
   regulation_language: en

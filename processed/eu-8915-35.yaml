@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8915.35
 logical_id: '144891'
 regulations:
@@ -23,19 +24,6 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- first_name: Seyed Alireza
-  last_name: ADYANI
-  whole_name: Seyed Alireza ADYANI
-  function: Head of the ideological-political office of Iran’s Law Enforcement Forces (LEF)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - first_name: Hojjat al-Islam Seyyed Alireza
   last_name: ADIANI
   whole_name: Hojjat al-Islam Seyyed Alireza ADIANI
@@ -43,6 +31,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- first_name: Seyed Alireza
+  last_name: ADYANI
+  whole_name: Seyed Alireza ADYANI
+  function: Head of the ideological-political office of Iran’s Law Enforcement Forces
+    (LEF)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

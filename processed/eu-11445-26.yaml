@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11445.26
 logical_id: '164403'
 regulations:
@@ -13,24 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Vladimir Sergeevich SHVEDOV
+  function: Head of the Department of State Policy in the Sphere of the Penitentiary
+    System in the Russian Ministry of Justice
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-19'
+    number_title: 2025/345 (OJ L202500345)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
 - whole_name: Владимир Сергеевич ШВЕДОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '164405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-19'
-    number_title: 2025/345 (OJ L202500345)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
-- whole_name: Vladimir Sergeevich SHVEDOV
-  function: Head of the Department of State Policy in the Sphere of the Penitentiary System in the Russian Ministry of Justice
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-19'

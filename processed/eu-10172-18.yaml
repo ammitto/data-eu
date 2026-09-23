@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10172.18
 logical_id: '153880'
 regulations:
@@ -13,26 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ali
-  last_name: YAZDIKHAH
-  whole_name: Ali YAZDIKHAH
-  function: Member of the Iranian Parliament; Member of the Culture Commission of the Iranian Parliament
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153883'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
 - whole_name: علی یزدی خواه
   gender: M
   name_language: FA
   strong: true
   regulation_language: en
   logical_id: '153882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
+- first_name: Ali
+  last_name: YAZDIKHAH
+  whole_name: Ali YAZDIKHAH
+  function: Member of the Iranian Parliament; Member of the Culture Commission of
+    the Iranian Parliament
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153883'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

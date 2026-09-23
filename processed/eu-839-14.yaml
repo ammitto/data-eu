@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.839.14
 logical_id: '653'
 remark: |-
@@ -26,7 +27,8 @@ name_aliases:
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Nazir Mohammad Abdul Basir
-  function: "(a) Mayor of Kunduz City, (b) Acting Governor of Kunduz Province (Afghanistan) under the Taliban regime"
+  function: "(a) Mayor of Kunduz City, (b) Acting Governor of Kunduz Province (Afghanistan)
+    under the Taliban regime"
   title: a) Maulavi, b) Sar Muallim
   strong: true
   regulation_language: en

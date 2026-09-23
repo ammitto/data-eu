@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10153.79
 logical_id: '153792'
 regulations:
@@ -13,15 +14,41 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Grigory
+- first_name: Grigorij
+  last_name: Karamalak
+  whole_name: Grigorij Karamalak
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1046 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
+- first_name: Grigore
   middle_name: Ivanovich
-  last_name: KARAMALAK
-  whole_name: Grigory Ivanovich KARAMALAK
+  last_name: CARAMALAC
+  whole_name: Grigore Ivanovich CARAMALAC
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153797'
+  logical_id: '153801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1046 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
+- first_name: Grigorij
+  last_name: KARAMALAK
+  whole_name: Grigorij KARAMALAK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '153800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -30,10 +57,8 @@ name_aliases:
 - first_name: Grigore
   last_name: CARAMALAC
   whole_name: Grigore CARAMALAC
-  function: |-
-    president of the IFAVIS Foundation; 
-    vice-president of the Russian Federation of Wrestling; 
-    assistant to the senator for the Kursk region, Alexander Bryksin
+  function: "president of the IFAVIS Foundation; \nvice-president of the Russian Federation
+    of Wrestling; \nassistant to the senator for the Kursk region, Alexander Bryksin"
   gender: M
   name_language: EN
   strong: true
@@ -58,41 +83,15 @@ name_aliases:
     publication_date: '2023-05-30'
     number_title: 2023/1046 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
-- first_name: Grigorij
-  last_name: KARAMALAK
-  whole_name: Grigorij KARAMALAK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '153800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1046 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
-- first_name: Grigore
+- first_name: Grigory
   middle_name: Ivanovich
-  last_name: CARAMALAC
-  whole_name: Grigore Ivanovich CARAMALAC
+  last_name: KARAMALAK
+  whole_name: Grigory Ivanovich KARAMALAK
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1046 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
-- first_name: Grigorij
-  last_name: Karamalak
-  whole_name: Grigorij Karamalak
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153802'
+  logical_id: '153797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

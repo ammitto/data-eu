@@ -1,6 +1,10 @@
+---
 eu_reference_number: EU.3870.18
 logical_id: '6124'
-remark: 'Note: This entity is targeted by a limited asset freeze concerning assets belonging to, or owned, held or controlled on 16 September 2011 by it and located outside Libya on that date. There is no prohibition to make funds or economic resources available to this entity, whether directly or indirectly.'
+remark: 'Note: This entity is targeted by a limited asset freeze concerning assets
+  belonging to, or owned, held or controlled on 16 September 2011 by it and located
+  outside Libya on that date. There is no prohibition to make funds or economic resources
+  available to this entity, whether directly or indirectly.'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -24,11 +28,11 @@ name_aliases:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libijski Urząd ds. Inwestycji
-  name_language: PL
+- whole_name: Liibüa Investeerimisamet
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '141472'
+  logical_id: '141469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'
@@ -54,11 +58,11 @@ name_aliases:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Liibüa Investeerimisamet
-  name_language: ET
+- whole_name: Libijski Urząd ds. Inwestycji
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '141469'
+  logical_id: '141472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'

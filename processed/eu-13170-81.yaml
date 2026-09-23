@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13170.81
 logical_id: '175882'
 regulations:
@@ -14,9 +15,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Alexander Alexandrovich KEMEROV
-  function: Alexander Kemerov is the investigator at the Investigative Committee of the Russian Federation for the Kemerovo region, Kuzbass. In that position, he was involved in the fabrication of the “extremism case” against Alexei Navalny’s supporters, including Vadim Ostanin, the former head of the Navalny headquarters in Barnaul, as well as the fabricated fraud case against Alexei Navalny himself. Mr. Kemerov put pressure on the former employee of Navalny’s Anti-Corruption Foundation, Fyodor Gorozhanko, to testify against Alexei Navalny in order to incriminate him.
+  function: Alexander Kemerov is the investigator at the Investigative Committee of
+    the Russian Federation for the Kemerovo region, Kuzbass. In that position, he
+    was involved in the fabrication of the “extremism case” against Alexei Navalny’s
+    supporters, including Vadim Ostanin, the former head of the Navalny headquarters
+    in Barnaul, as well as the fabricated fraud case against Alexei Navalny himself.
+    Mr. Kemerov put pressure on the former employee of Navalny’s Anti-Corruption Foundation,
+    Fyodor Gorozhanko, to testify against Alexei Navalny in order to incriminate him.
   gender: M
-  title: Investigator at the Investigative Committee of the Russian Federation for the Kemerovo region
+  title: Investigator at the Investigative Committee of the Russian Federation for
+    the Kemerovo region
   name_language: EN
   strong: true
   regulation_language: en

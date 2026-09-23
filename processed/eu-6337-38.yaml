@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.6337.38
 logical_id: '129808'
 regulations:
@@ -24,25 +25,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Yuliya  Aliaksandrauna  BLIZNIUK
-  function: |-
-    Deputy Chairwoman/judge 
-    at the Frunzensky District 
-    Court in Minsk
+- whole_name: Юлия  Александровна  БЛИЗНЮК
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Yuliya  Aleksandrovna  BLIZNIUK
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '129813'
+  logical_id: '129811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -59,12 +47,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Юлия  Александровна  БЛИЗНЮК
+- whole_name: Yuliya  Aleksandrovna  BLIZNIUK
   gender: F
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129811'
+  logical_id: '129813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Yuliya  Aliaksandrauna  BLIZNIUK
+  function: "Deputy Chairwoman/judge \nat the Frunzensky District \nCourt in Minsk"
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '129814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

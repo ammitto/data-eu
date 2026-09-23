@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4060.7
 logical_id: '7214'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Korea Kumryong Trading Corporation
-  function: Used as an alias by the Korea Mining Development Trading Corporation (KOMID) to carry out procurement activities.
+  function: Used as an alias by the Korea Mining Development Trading Corporation (KOMID)
+    to carry out procurement activities.
   strong: true
   regulation_language: en
   logical_id: '17049'

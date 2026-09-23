@@ -1,8 +1,8 @@
+---
 eu_reference_number: EU.3195.90
 logical_id: '106532'
-remark: |-
-  a) Physical description: hair colour: brown/black. 
-  b) Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+remark: "a) Physical description: hair colour: brown/black. \nb) Photo available for
+  inclusion in the INTERPOL-UN Security Council Special Notice."
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -16,6 +16,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nasir
+  last_name: Muthana
+  whole_name: Nasir Muthana
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Abdul
   last_name: Muthana
   whole_name: Abdul Muthana
@@ -28,39 +40,13 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Nasser
-  middle_name: Ahmed
-  last_name: Muthana
-  whole_name: Nasser Ahmed Muthana
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Abu
-  last_name: Muthanna
-  whole_name: Abu Muthanna
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Nasir
   last_name: Muthana
-  whole_name: Nasir Muthana
+  whole_name: Abu Muthana
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106618'
+  logical_id: '106616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -80,12 +66,26 @@ name_aliases:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Abu
-  last_name: Muthana
-  whole_name: Abu Muthana
+  last_name: Muthanna
+  whole_name: Abu Muthanna
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106616'
+  logical_id: '106614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Nasser
+  middle_name: Ahmed
+  last_name: Muthana
+  whole_name: Nasser Ahmed Muthana
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -120,19 +120,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: GB
-  country_description: UNITED KINGDOM
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106609'
+  logical_id: '106610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: GB
+  country_description: UNITED KINGDOM
   regulation_language: en
-  logical_id: '106610'
+  logical_id: '106609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

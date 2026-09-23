@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14035.82
 logical_id: '180807'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladimir  Nikolaïevitch LEPINE
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '182201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Владимир
   middle_name: Николаевич
   last_name: ЛЕПИН
@@ -33,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Vladimir  Nikolaïevitch LEPINE
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '182201'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -56,7 +57,8 @@ name_aliases:
   middle_name: Nikolaevich
   last_name: LEPIN
   whole_name: Vladimir Nikolaevich LEPIN
-  function: General designer of JSC Kalashnikov Concern, member of the Bureau of the League for Assistance to Defecse Enterprises
+  function: General designer of JSC Kalashnikov Concern, member of the Bureau of the
+    League for Assistance to Defecse Enterprises
   gender: M
   name_language: EN
   strong: true

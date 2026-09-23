@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4200.28
 logical_id: '6850'
 regulations:
@@ -14,7 +15,8 @@ subject_type:
   classification_code: E
 name_aliases:
 - whole_name: Hesong Trading Company
-  function: The Korea Mining Development Corporation (KOMID) is the parent company of Hesong Trading Corporation
+  function: The Korea Mining Development Corporation (KOMID) is the parent company
+    of Hesong Trading Corporation
   strong: true
   regulation_language: en
   logical_id: '15074'

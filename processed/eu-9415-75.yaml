@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9415.75
 logical_id: '147310'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Larisa
-  middle_name: Pavlovna
-  last_name: FALKOVSKAYA
-  whole_name: Larisa Pavlovna FALKOVSKAYA
-  function: director of the Department of State Policy for the Protection of Children's Rights of the Ministry of Education of the Russian Federation
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '147314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Лариса
   middle_name: Павловна
   last_name: ФАЛЬКОВСКАЯ
@@ -36,6 +23,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147313'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Larisa
+  middle_name: Pavlovna
+  last_name: FALKOVSKAYA
+  whole_name: Larisa Pavlovna FALKOVSKAYA
+  function: director of the Department of State Policy for the Protection of Children's
+    Rights of the Ministry of Education of the Russian Federation
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '147314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

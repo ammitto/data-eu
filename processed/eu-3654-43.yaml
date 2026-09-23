@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3654.43
 logical_id: '7321'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олег Евгеньевич БЕЛАВЕНЦЕВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '106278'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Oleg Jevgenjevitj BELAVENTSEV
   gender: M
   name_language: SV
@@ -38,11 +29,25 @@ name_aliases:
   middle_name: Yevgenyvich
   last_name: BELAVENTSEV
   whole_name: Oleg Yevgenyvich BELAVENTSEV
-  function: Former Plenipotentiary Representative of the President of the Russian Federation into the so-called ‘Crimean Federal District’. Former non-permanent member of the Russian Security Council. Former Plenipotentiary Representative of the President of the Russian Federation into the North Caucasus Federal District (until June 2018).  Honorary Consul of Nicaragua in Crimea since October 2020.
+  function: Former Plenipotentiary Representative of the President of the Russian
+    Federation into the so-called ‘Crimean Federal District’. Former non-permanent
+    member of the Russian Security Council. Former Plenipotentiary Representative
+    of the President of the Russian Federation into the North Caucasus Federal District
+    (until June 2018).  Honorary Consul of Nicaragua in Crimea since October 2020.
   gender: M
   strong: true
   regulation_language: en
   logical_id: '17740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Олег Евгеньевич БЕЛАВЕНЦЕВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '106278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -55,11 +60,12 @@ birthdates:
   day_of_month: 15
   month_of_year: 9
   year: 1949
-  city: Moscow
+  city: Ostrov
+  region: Pskov region
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '122849'
+  logical_id: '122848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'
@@ -71,12 +77,11 @@ birthdates:
   day_of_month: 15
   month_of_year: 9
   year: 1949
-  city: Ostrov
-  region: Pskov region
+  city: Moscow
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '122848'
+  logical_id: '122849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11354.84
 logical_id: '163291'
 regulations:
@@ -13,17 +14,18 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima pública State Airline 224th Flight Detachment
-  name_language: ES
+- whole_name: "„»224th Flight Detachment« State Airline” nyilvánosan működő részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '164079'
+  logical_id: '163792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Открытое акционерное общество «Государственная авиакомпания „224 Лётный отряд“»
+- whole_name: Открытое акционерное общество «Государственная авиакомпания „224 Лётный
+    отряд“»
   name_language: RU
   strong: true
   regulation_language: en
@@ -34,7 +36,10 @@ name_aliases:
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Open Joint Stock Company “State Airline 224th Flight Detachment”
-  function: The open joint-stock company “State Airline “224th Flight Detachment” is a Russian state-owned enterprise, operating under the Russian Ministry of Defence for the purpose of providing commercial air cargo transport services, including of military cargo.
+  function: The open joint-stock company “State Airline “224th Flight Detachment”
+    is a Russian state-owned enterprise, operating under the Russian Ministry of Defence
+    for the purpose of providing commercial air cargo transport services, including
+    of military cargo.
   name_language: EN
   strong: true
   regulation_language: en
@@ -54,11 +59,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„»224th Flight Detachment« State Airline” nyilvánosan működő részvénytársaság"
-  name_language: HU
+- whole_name: sociedad anónima pública State Airline 224th Flight Detachment
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '163792'
+  logical_id: '164079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

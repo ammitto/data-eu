@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10503.76
 logical_id: '155838'
 regulations:
@@ -13,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Institut de la diaspora russe
-  name_language: FR
+- whole_name: Ινστιτούτο της Ρωσικής Διασποράς
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '156600'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: L-Istitut tad-Dijaspora Russa
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '156644'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: ИНСТИТУТ РУССКОГО ЗАРУБЕЖЬЯ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156660'
+  logical_id: '156615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -53,21 +34,53 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Institut ruské diaspory
-  name_language: CS
+- whole_name: Институт на руската диаспора
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '156634'
+  logical_id: '156612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Ινστιτούτο της Ρωσικής Διασποράς
-  name_language: EL
+- whole_name: Az Orosz Diaszpóra Intézete
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '156615'
+  logical_id: '156611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Instytut Diaspory Rosyjskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Institutul Diasporei Ruse
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156610'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Institute of the Russian Diaspora
+  function: Front organization of GRU and an integral part of Inforos´ online disinformation
+    network. It was co-founded by Inforos-founder Denis Tyurin
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -83,12 +96,41 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Institute of the Russian Diaspora
-  function: Front organization of GRU and an integral part of Inforos´ online disinformation network. It was co-founded by Inforos-founder Denis Tyurin
-  name_language: EN
+- whole_name: Institut ruské diaspory
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '155841'
+  logical_id: '156634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Instituto da Diáspora Russa
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '156604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Rusijos diasporos institutas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: L-Istitut tad-Dijaspora Russa
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '156644'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -99,6 +141,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: ИНСТИТУТ РУССКОГО ЗАРУБЕЖЬЯ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Institut de la diaspora russe
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '156600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -129,66 +191,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Instituto da Diáspora Russa
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '156604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Instytut Diaspory Rosyjskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Institutul Diasporei Ruse
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Az Orosz Diaszpóra Intézete
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '156611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Институт на руската диаспора
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Rusijos diasporos institutas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156643'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

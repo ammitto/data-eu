@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12402.44
 logical_id: '170841'
 regulations:
@@ -13,46 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Irina
-  middle_name: Leonidovna
-  last_name: MAIKO
-  whole_name: Irina Leonidovna MAIKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170845'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Iryna
-  middle_name: Leanidauna
-  last_name: MAIKO
-  whole_name: Iryna Leanidauna MAIKO
-  function: Judge of the Minsk Regional Court
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: Iрына Леанідаўна  МАЙКО
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '172187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Irina
   last_name: Majková
   whole_name: Irina Majková
@@ -85,6 +46,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- whole_name: Iрына Леанідаўна  МАЙКО
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '172187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Irina
+  middle_name: Leonidovna
+  last_name: MAIKO
+  whole_name: Irina Leonidovna MAIKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170845'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Iryna
+  middle_name: Leanidauna
+  last_name: MAIKO
+  whole_name: Iryna Leanidauna MAIKO
+  function: Judge of the Minsk Regional Court
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

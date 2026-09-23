@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.5633.81
 logical_id: '124333'
 regulations:
@@ -14,11 +15,9 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Franklyn Leonardo DUARTE
-  function: |-
-    Member of the non-democratically elected 
-    National Assembly. Former member and 
-    illegitimately elected first Vice-President 
-    of the National Assembly elected in 2015.
+  function: "Member of the non-democratically elected \nNational Assembly. Former
+    member and \nillegitimately elected first Vice-President \nof the National Assembly
+    elected in 2015."
   gender: M
   strong: true
   regulation_language: en

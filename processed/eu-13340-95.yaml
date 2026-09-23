@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13340.95
 logical_id: '176962'
 regulations:
@@ -13,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ольга Василівна БУРОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Ольга Васильевна БУРОВА
   gender: F
   name_language: RU
@@ -25,24 +37,16 @@ name_aliases:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Olga Vasilyevna BUROVA
-  function: Olga Burova has been the so-called “First Deputy Minister of Culture of the Republic of Crimea” since 15 May 2023. In that role, she has promoted Crimea as a centre of Russian culture and as a part of Russian history, and supported its illegal annexation by Russia in 2014.
+  function: Olga Burova has been the so-called “First Deputy Minister of Culture of
+    the Republic of Crimea” since 15 May 2023. In that role, she has promoted Crimea
+    as a centre of Russian culture and as a part of Russian history, and supported
+    its illegal annexation by Russia in 2014.
   gender: F
   title: so-called “First Deputy Minister of Culture of the Republic of Crimea”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '176967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Ольга Василівна БУРОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176965'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

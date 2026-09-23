@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10940.88
 logical_id: '159844'
 regulations:
@@ -42,6 +43,19 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alexej
+  last_name: Šapošnikov
+  whole_name: Alexej Šapošnikov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160914'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aleksej
   middle_name: Valerjevitj
   last_name: SJAPOSJNIKOV
@@ -64,19 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alexej
-  last_name: Šapošnikov
-  whole_name: Alexej Šapošnikov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

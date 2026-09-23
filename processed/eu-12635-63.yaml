@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12635.63
 logical_id: '171893'
 regulations:
@@ -13,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Trofim
-  last_name: Kapša
-  whole_name: Trofim Kapša
+- whole_name: Trofim Aleksandrovich KAPSHA
+  function: Deputy Commander of the 22nd Guards Heavy Bomber Aviation Division based
+    at Engels-2 airbase
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172015'
+  logical_id: '171899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -40,13 +41,14 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Trofim Aleksandrovich KAPSHA
-  function: Deputy Commander of the 22nd Guards Heavy Bomber Aviation Division based at Engels-2 airbase
+- first_name: Trofim
+  last_name: Kapša
+  whole_name: Trofim Kapša
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '171899'
+  logical_id: '172015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -79,21 +81,21 @@ birthdates:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: fiscalcode
-  number: '28240321615'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171897'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: passport
   number: '6803906870'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '28240321615'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171897'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

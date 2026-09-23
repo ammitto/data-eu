@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4217.75
 logical_id: '111832'
 regulations:
@@ -13,22 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: JANG Chol
-  function: Member of the State Physical Culture and Sports Guidance Commission and former president of the State Academy of Sciences
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '111835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: 장철
   gender: M
   strong: true
   regulation_language: en
   logical_id: '141944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: JANG Chol
+  function: Member of the State Physical Culture and Sports Guidance Commission and
+    former president of the State Academy of Sciences
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '111835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

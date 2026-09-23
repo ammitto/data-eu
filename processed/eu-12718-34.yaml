@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12718.34
 logical_id: '172702'
 regulations:
@@ -13,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Donobuv Zrt.
-  name_language: HU
+- whole_name: Zatvoreno dioničko društvo ‚Donobuv’
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '173413'
+  logical_id: '173456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -33,18 +34,10 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Закрытое Акционерное Общество “ДОНОБУВЬ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172708'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Closed Joint Stock Company Donobuv
-  function: CJSC Donobuv is a producer of footwear for the Russian Ministry of Defence and is among the organisations included in the consolidated register of organisations of Russia’s defence-industrial complex.
+  function: CJSC Donobuv is a producer of footwear for the Russian Ministry of Defence
+    and is among the organisations included in the consolidated register of organisations
+    of Russia’s defence-industrial complex.
   title: 'Type of entity: Closed Joint Stock Company'
   name_language: EN
   strong: true
@@ -55,11 +48,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Zatvoreno dioničko društvo ‚Donobuv’
-  name_language: HR
+- whole_name: CJSC Donobuv
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173456'
+  logical_id: '172707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Закрытое Акционерное Общество “ДОНОБУВЬ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -75,11 +78,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: CJSC Donobuv
-  name_language: EN
+- whole_name: Donobuv Zrt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172707'
+  logical_id: '173413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -101,6 +104,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
 - identification_type_code: other
+  number: '6163013800'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '172705'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
   number: '616301001'
   country_iso2_code: '00'
   regulation_language: en
@@ -115,16 +128,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '172706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: other
-  number: '6163013800'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '172705'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

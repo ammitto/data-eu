@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13357.57
 logical_id: '177060'
 designation_details: Limited Liability Company
@@ -34,7 +35,10 @@ name_aliases:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Wuhan Global Sensor Technology Co Ltd
-  function: Wuhan Global Sensor Technology Co. Ltd is a Chinese technology and electronics company. It delivers electronic military goods, such as infrared detectors and other optical components, to the Russian military and industrial complex, supporting the production of military goods for the Russian Armed Forces.
+  function: Wuhan Global Sensor Technology Co. Ltd is a Chinese technology and electronics
+    company. It delivers electronic military goods, such as infrared detectors and
+    other optical components, to the Russian military and industrial complex, supporting
+    the production of military goods for the Russian Armed Forces.
   name_language: EN
   strong: true
   regulation_language: en

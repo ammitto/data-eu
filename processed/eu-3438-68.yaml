@@ -1,6 +1,8 @@
+---
 eu_reference_number: EU.3438.68
 logical_id: '107699'
-remark: Photo available for inclusion in the INTERPOL-UN Security Council Special Notice
+remark: Photo available for inclusion in the INTERPOL-UN Security Council Special
+  Notice
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -14,11 +16,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mebrak Yazid
+- whole_name: Yazid Mabrak
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107786'
+  logical_id: '107781'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -29,6 +31,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Yousif Abu Obayda Yazid
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Mibrak Yazid
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Youcef Abu Obeida
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Mebrak Yazid
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -88,46 +130,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Yazid Mabrak
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Yousif Abu Obayda Yazid
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Mibrak Yazid
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Youcef Abu Obeida
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

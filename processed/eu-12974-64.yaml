@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.12974.64
 logical_id: '174682'
 regulations:
@@ -13,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrej Vasiljuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '174687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Andrei VASILYUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Andrei Vasiljuk
   gender: M
   name_language: FI
@@ -57,13 +36,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Andrei VASILIUK
-  function: Judge of the court of Brest region
+- whole_name: Andrej Vasiljuk
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174691'
+  logical_id: '174687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -86,6 +64,29 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Andrei VASILIUK
+  function: Judge of the court of Brest region
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Andrei VASILYUK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

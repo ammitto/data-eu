@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14594.39
 logical_id: '183636'
 regulations:
@@ -49,21 +50,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: other
-  number: '650101001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '183638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '6501021443'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '183639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '650101001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

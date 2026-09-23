@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10634.88
 logical_id: '156694'
 regulations:
@@ -14,15 +15,55 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Alena
-  middle_name: Stanislavauna
-  last_name: HARMASH
-  whole_name: Alena Stanislavauna HARMASH
-  function: Judge of the Court of Bobruisk District and Bobruisk
+  middle_name: Stanislavavna
+  last_name: HORMAŠOVÁ
+  whole_name: Alena Stanislavavna HORMAŠOVÁ
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156700'
+  logical_id: '157009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Alena
+  last_name: Hormašová
+  whole_name: Alena Hormašová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jelena
+  middle_name: Stanislavovna
+  last_name: GORMASJ
+  whole_name: Jelena Stanislavovna GORMASJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Alena
+  middle_name: Stanislavauna
+  last_name: HORMASJ
+  whole_name: Alena Stanislavauna HORMASJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156930'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -42,15 +83,16 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jelena
-  middle_name: Stanislavovna
-  last_name: GORMASJ
-  whole_name: Jelena Stanislavovna GORMASJ
+- first_name: Alena
+  middle_name: Stanislavauna
+  last_name: HARMASH
+  whole_name: Alena Stanislavauna HARMASH
+  function: Judge of the Court of Bobruisk District and Bobruisk
   gender: F
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156929'
+  logical_id: '156700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -79,47 +121,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Alena
-  middle_name: Stanislavauna
-  last_name: HORMASJ
-  whole_name: Alena Stanislavauna HORMASJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Alena
-  last_name: Hormašová
-  whole_name: Alena Hormašová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Alena
-  middle_name: Stanislavavna
-  last_name: HORMAŠOVÁ
-  whole_name: Alena Stanislavavna HORMAŠOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157009'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

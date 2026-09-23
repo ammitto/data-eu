@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4096.91
 logical_id: '114591'
 regulations:
@@ -32,20 +33,20 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korea rahvusvaheline  näitusekorporatsioon
-  name_language: ET
+- whole_name: 조선국제전람사
   strong: true
   regulation_language: en
-  logical_id: '143081'
+  logical_id: '142130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 조선국제전람사
+- whole_name: Korea rahvusvaheline  näitusekorporatsioon
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '142130'
+  logical_id: '143081'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

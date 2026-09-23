@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3071.69
 logical_id: '7245'
 regulations:
@@ -13,372 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: den eksterne sikkerhedsorganisation
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '156155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Organizaciju za vanjsku sigurnost
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '156156'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Externe Veiligheidsorganisatie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '156158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Organizația pentru Securitate Externă
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156162'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Külső Biztonsági Szervezet
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '156163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hizb Allah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hizbu’llah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hisbollah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hezballah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hizbollah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hizbullah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156171'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Wojskowe Skrzydło Hezbollah
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: ulkoisesta turvallisuudesta vastaava organisaatio
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '156173'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Organizacja Bezpieczeństwa Zewnętrznego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizballah Military Wing
-  strong: true
-  regulation_language: en
-  logical_id: '17521'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-07-26'
-    number_title: 714/2013 (OJ L201)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
-- whole_name: Hezbollah Military Wing
-  strong: true
-  regulation_language: en
-  logical_id: '17522'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-07-26'
-    number_title: 714/2013 (OJ L201)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
-- whole_name: Hizbullah Military Wing
-  strong: true
-  regulation_language: en
-  logical_id: '17523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-07-26'
-    number_title: 714/2013 (OJ L201)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
-- whole_name: Hizbollah Military Wing
-  strong: true
-  regulation_language: en
-  logical_id: '17524'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-07-26'
-    number_title: 714/2013 (OJ L201)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
-- whole_name: Военно крило на „Хизбула“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Организацията  за външна сигурност
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: organizace pro vnější bezpečnost
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Organizácie pre vonkajšiu bezpečnosť
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156188'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbullah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hezbollah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hezballah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbollah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizb  Allah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbu’llah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hisbollah karinis sparnas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Išorės saugumo organizaciją
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: välisjulgeolekuorganisatsioon
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizb Allahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbu’llahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hisbollahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hezballahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbollahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156205'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hizbullahi sõjaline tiib
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156206'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Hezbollahi sõjaline tiib
   name_language: ET
   strong: true
@@ -419,16 +54,42 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/329 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- whole_name: Hizbollahs militære gren
-  name_language: DA
+- whole_name: Hizballah Military Wing
   strong: true
   regulation_language: en
-  logical_id: '17549'
+  logical_id: '17521'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+    publication_date: '2013-07-26'
+    number_title: 714/2013 (OJ L201)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
+- whole_name: Hezbollah Military Wing
+  strong: true
+  regulation_language: en
+  logical_id: '17522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-07-26'
+    number_title: 714/2013 (OJ L201)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
+- whole_name: Hizbullah Military Wing
+  strong: true
+  regulation_language: en
+  logical_id: '17523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-07-26'
+    number_title: 714/2013 (OJ L201)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
+- whole_name: Hizbollah Military Wing
+  strong: true
+  regulation_language: en
+  logical_id: '17524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-07-26'
+    number_title: 714/2013 (OJ L201)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
 - whole_name: Hezballah Military Wing
   strong: true
   regulation_language: en
@@ -644,6 +305,16 @@ name_aliases:
     publication_date: '2013-07-26'
     number_title: 714/2013 (OJ L201)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:201:0010:0013:en:PDF
+- whole_name: Hizbollahs militære gren
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '17549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: aripa militară a Hezbollahului
   name_language: RO
   strong: true
@@ -1059,6 +730,336 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: den eksterne sikkerhedsorganisation
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '156155'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Organizaciju za vanjsku sigurnost
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '156156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Externe Veiligheidsorganisatie
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '156158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Organizația pentru Securitate Externă
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Külső Biztonsági Szervezet
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '156163'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hizb Allah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hizbu’llah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hisbollah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hezballah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hizbollah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hizbullah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156171'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Wojskowe Skrzydło Hezbollah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: ulkoisesta turvallisuudesta vastaava organisaatio
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '156173'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Organizacja Bezpieczeństwa Zewnętrznego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Военно крило на „Хизбула“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156175'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Организацията  за външна сигурност
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156176'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: organizace pro vnější bezpečnost
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Organizácie pre vonkajšiu bezpečnosť
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbullah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156189'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hezbollah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hezballah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbollah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizb  Allah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbu’llah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hisbollah karinis sparnas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Išorės saugumo organizaciją
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: välisjulgeolekuorganisatsioon
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizb Allahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbu’llahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hisbollahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hezballahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbollahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156205'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Hizbullahi sõjaline tiib
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156206'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-21'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11601.75
 logical_id: '165686'
 regulations:
@@ -18,10 +19,24 @@ name_aliases:
   last_name: Rastorgujev
   whole_name: Jevgenij Borisovič Rastorgujev
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165928'
+  logical_id: '165909'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Евгений
+  middle_name: Борисович
+  last_name: РАСТОРГУЕВ
+  whole_name: Евгений Борисович РАСТОРГУЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '165689'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -37,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165690'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Евгений
-  middle_name: Борисович
-  last_name: РАСТОРГУЕВ
-  whole_name: Евгений Борисович РАСТОРГУЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165689'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -75,10 +76,10 @@ name_aliases:
   last_name: Rastorgujev
   whole_name: Jevgenij Borisovič Rastorgujev
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165909'
+  logical_id: '165928'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

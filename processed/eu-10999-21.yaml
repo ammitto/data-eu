@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10999.21
 logical_id: '160184'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: PJSC “VASO”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: ПАО Воронежское акционерное самолётостроительное общество
   name_language: RU
   strong: true
@@ -44,21 +35,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Asociación de Producción de Aeronaves de Vorónezh
-  name_language: ES
+- whole_name: entreprise de fabrication d’aéronefs de Voronej
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Voroněžská akciová společnost pro výrobu letadel
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161054'
+  logical_id: '160593'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -74,11 +55,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: entreprise de fabrication d’aéronefs de Voronej
-  name_language: FR
+- whole_name: Voroněžská akciová společnost pro výrobu letadel
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160593'
+  logical_id: '161054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Asociación de Producción de Aeronaves de Vorónezh
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: PJSC “VASO”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

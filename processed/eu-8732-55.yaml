@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.8732.55
 logical_id: '143460'
 regulations:
@@ -13,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anton
-  middle_name: Olegovič
-  last_name: TKACHEV
-  whole_name: Anton Olegovič TKACHEV
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '143505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-01'
-    number_title: 2022/1446 (OJ L227I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
 - first_name: Anton
   middle_name: Olegovitj
   last_name: TKATJOV
@@ -64,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-01'
+    number_title: 2022/1446 (OJ L227I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
+- first_name: Anton
+  middle_name: Olegovič
+  last_name: TKACHEV
+  whole_name: Anton Olegovič TKACHEV
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '143505'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'

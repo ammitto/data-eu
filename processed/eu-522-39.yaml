@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.522.39
 logical_id: '330'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Al Rashid Trust
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - whole_name: Al-Rasheed Trust
   name_language: EN
   strong: true
@@ -43,16 +54,6 @@ name_aliases:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Организация за подпомагане на Ulema, Пакистан
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Aid Organisation of the Ulema, Pakistan
   name_language: EN
   strong: true
@@ -93,31 +94,31 @@ name_aliases:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Al-Madina Trust
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Al Rashid Trust
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - whole_name: Al-Ameen Trust
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '7301'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- whole_name: Организация за подпомагане на Ulema, Пакистан
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al-Madina Trust
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -134,17 +135,63 @@ name_aliases:
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 addresses:
-- street: 302b-40 Good Earth Court, Opposite Pia Planitarium, Block 13a, Gushan-I Igbal
-  city: Karachi
+- street: Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road
+  city: Rawalpindi
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '368'
+  logical_id: '1331'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- street: Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main
+    Baxae,Mingora
+  city: Mingora
+  region: Swat
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '1332'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- street: Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar
+  city: Peshawar
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '1330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- street: Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road
+  city: Mansehra
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '1329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- street: Jamia Maajid, Sulalman Park, Melgium Pura
+  city: Lahore
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '1328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - street: Kitas Ghar, Nazimabad 4, Dahgel-Iftah
   city: Karachi
   country_iso2_code: PK
@@ -167,17 +214,6 @@ addresses:
     publication_date: '2002-06-04'
     number_title: 951/2002 (OJ L145)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:145:0014:0015:EN:PDF
-- street: Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road
-  city: Mansehra
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '1329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - street: 617 Clifton Center, Block 5, 6th floor, Clifton
   city: Karachi
   country_iso2_code: PK
@@ -189,13 +225,13 @@ addresses:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- street: Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae,Mingora
-  city: Mingora
-  region: Swat
+- street: 302b-40 Good Earth Court, Opposite Pia Planitarium, Block 13a, Gushan-I
+    Igbal
+  city: Karachi
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '1332'
+  logical_id: '368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -212,28 +248,6 @@ addresses:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- street: Jamia Maajid, Sulalman Park, Melgium Pura
-  city: Lahore
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '1328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- street: Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar
-  city: Peshawar
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '1330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - street: Jamia Masjid Sulaiman Park, Begum Pura
   city: Lahore
   country_iso2_code: PK
@@ -245,14 +259,3 @@ addresses:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- street: Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road
-  city: Rawalpindi
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '1331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF

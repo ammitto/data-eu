@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.7928.13
 logical_id: '138392'
 regulations:
@@ -13,25 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юрий
-  middle_name: Александрович
-  last_name: ПРОНЬКО
-  whole_name: Юрий Александрович ПРОНЬКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Yuriy
   middle_name: Alexandrovich
   last_name: PRONKO
   whole_name: Yuriy Alexandrovich PRONKO
-  function: Former so-called ‘Minister of Agriculture and Food’ of the so-called ‘Luhansk People's Republic’
+  function: Former so-called ‘Minister of Agriculture and Food’ of the so-called ‘Luhansk
+    People's Republic’
   gender: M
   name_language: EN
   strong: true
@@ -48,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Юрий
+  middle_name: Александрович
+  last_name: ПРОНЬКО
+  whole_name: Юрий Александрович ПРОНЬКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138394'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

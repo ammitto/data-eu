@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9279.61
 logical_id: '146773'
 regulations:
@@ -13,20 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Георгий
-  middle_name: Сергеевич
-  last_name: СТАРОСТИН
-  whole_name: Георгий Сергеевич СТАРОСТИН
+- first_name: Georgij
+  last_name: Starostin
+  whole_name: Georgij Starostin
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '146775'
+  logical_id: '152317'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Georgij
   middle_name: Sergejevitj
   last_name: STAROSTIN
@@ -45,7 +45,8 @@ name_aliases:
   middle_name: Sergeevich
   last_name: STAROSTIN
   whole_name: Georgiy Sergeevich STAROSTIN
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of the General Staff (GVC) of Russia’s Armed Forces General Staff
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces General Staff
   gender: M
   title: Captain
   name_language: EN
@@ -57,19 +58,20 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Georgij
-  last_name: Starostin
-  whole_name: Georgij Starostin
+- first_name: Георгий
+  middle_name: Сергеевич
+  last_name: СТАРОСТИН
+  whole_name: Георгий Сергеевич СТАРОСТИН
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152317'
+  logical_id: '146775'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

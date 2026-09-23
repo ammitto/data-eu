@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2257.77
 logical_id: '5352'
 regulations:
@@ -13,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdelrahman
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '6855'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-12-23'
-    number_title: 1330/2008 (OJ L345)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:345:0060:0061:EN:PDF
 - first_name: Redouane
   last_name: El Habhab
   whole_name: Redouane El Habhab
@@ -30,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-12-23'
+    number_title: 1330/2008 (OJ L345)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:345:0060:0061:EN:PDF
+- whole_name: Abdelrahman
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '6855'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-12-23'

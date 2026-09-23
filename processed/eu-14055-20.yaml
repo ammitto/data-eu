@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14055.20
 logical_id: '180900'
 regulations:
@@ -33,15 +34,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: JSC «Krasnozavodsky Chemical Plant»
-  strong: true
-  regulation_language: en
-  logical_id: '180902'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Акционерное общество «Краснозаводский химический завод»
   name_language: RU
   strong: true
@@ -52,8 +44,19 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: JSC «Krasnozavodsky Chemical Plant»
+  strong: true
+  regulation_language: en
+  logical_id: '180902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Joint Stock Company «Krasnozavodsky chemical plant»
-  function: "«Krasnozavodsky Chemical Plant» is one of the largest enterprises of the military and industrial complex of Russia, located in the Sergiev Posad urban district of the Moscow region."
+  function: "«Krasnozavodsky Chemical Plant» is one of the largest enterprises of
+    the military and industrial complex of Russia, located in the Sergiev Posad urban
+    district of the Moscow region."
   title: Joint Stock Company
   name_language: EN
   strong: true

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14571.7
 logical_id: '183510'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ООО НПФ РОТОР
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Limited liability company Research and production firm Rotor
   name_language: EN
   strong: true
@@ -34,21 +45,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Общество с Ограниченной Ответственностью Научно-производственная Фирма “Ротор”
+- whole_name: Общество с Ограниченной Ответственностью Научно-производственная Фирма
+    “Ротор”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ООО НПФ РОТОР
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -69,20 +71,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '1076382006282'
+  number: '6382053330'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183513'
+  logical_id: '183512'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '6382053330'
+  number: '1076382006282'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183512'
+  logical_id: '183513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

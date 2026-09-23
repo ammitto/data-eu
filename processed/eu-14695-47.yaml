@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14695.47
 logical_id: '184013'
 regulations:
@@ -13,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Moskommertsbank S.A.
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184767'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: AO Москоммерцбанк
   title: Joint Stock Company
   name_language: RU
@@ -35,16 +46,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Moskommertsbank S.A.
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
 - street: 20, Malaya Ordynka Str., Bldg. 1
   city: Moscow
@@ -59,21 +60,21 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '7750005612'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '184016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
   number: '770501001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '7750005612'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184016'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

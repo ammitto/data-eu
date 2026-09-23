@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.3298.47
 logical_id: '5529'
 regulations:
@@ -13,11 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Muthanna Harith Sulayman Al Dari Al-Zawba’
+- first_name: Muthanna
+  last_name: al-Dari
+  whole_name: Muthanna al-Dari
   title: Doctor
   strong: true
   regulation_language: en
-  logical_id: '7765'
+  logical_id: '7770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- first_name: Muthanna
+  middle_name: Hareth
+  last_name: al-Dari
+  whole_name: Muthanna Hareth al-Dari
+  strong: true
+  regulation_language: en
+  logical_id: '7768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
@@ -43,49 +58,23 @@ name_aliases:
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- first_name: Muthana
-  middle_name: Haris
-  last_name: Al-Dhari
-  whole_name: Muthana Haris Al-Dhari
+- whole_name: Muthanna Harith Salman Al-Dari
+  title: Doctor
   strong: true
   regulation_language: en
-  logical_id: '7764'
+  logical_id: '7494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - first_name: Muthanna
-  middle_name: Hareth
-  last_name: Al-Dhari
-  whole_name: Muthanna Hareth Al-Dhari
+  last_name: Al Dari
+  whole_name: Muthanna Al Dari
+  title: Dr.
   strong: true
   regulation_language: en
-  logical_id: '7763'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- first_name: Muthanna
-  middle_name: Harith Sulayman
-  last_name: Al-Dhari
-  whole_name: Muthanna Harith Sulayman Al-Dhari
-  strong: true
-  regulation_language: en
-  logical_id: '7762'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- first_name: Muthanna
-  middle_name: Harith Sulayman
-  last_name: Al-Dari
-  whole_name: Muthanna Harith Sulayman Al-Dari
-  strong: true
-  regulation_language: en
-  logical_id: '7761'
+  logical_id: '7759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
@@ -104,22 +93,58 @@ name_aliases:
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - first_name: Muthanna
-  last_name: Al Dari
-  whole_name: Muthanna Al Dari
-  title: Dr.
+  middle_name: Harith Sulayman
+  last_name: Al-Dari
+  whole_name: Muthanna Harith Sulayman Al-Dari
   strong: true
   regulation_language: en
-  logical_id: '7759'
+  logical_id: '7761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- whole_name: Muthanna Harith Salman Al-Dari
+- first_name: Muthanna
+  middle_name: Harith Sulayman
+  last_name: Al-Dhari
+  whole_name: Muthanna Harith Sulayman Al-Dhari
+  strong: true
+  regulation_language: en
+  logical_id: '7762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- first_name: Muthanna
+  middle_name: Hareth
+  last_name: Al-Dhari
+  whole_name: Muthanna Hareth Al-Dhari
+  strong: true
+  regulation_language: en
+  logical_id: '7763'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- first_name: Muthana
+  middle_name: Haris
+  last_name: Al-Dhari
+  whole_name: Muthana Haris Al-Dhari
+  strong: true
+  regulation_language: en
+  logical_id: '7764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-12'
+    number_title: 2024/3148 (OJ L12122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- whole_name: Muthanna Harith Sulayman Al Dari Al-Zawba’
   title: Doctor
   strong: true
   regulation_language: en
-  logical_id: '7494'
+  logical_id: '7765'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
@@ -143,18 +168,6 @@ name_aliases:
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- first_name: Muthanna
-  last_name: al-Dari
-  whole_name: Muthanna al-Dari
-  title: Doctor
-  strong: true
-  regulation_language: en
-  logical_id: '7770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
 - first_name: Muthana
   middle_name: Haris
   last_name: al-Dari
@@ -162,18 +175,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-12'
-    number_title: 2024/3148 (OJ L12122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- first_name: Muthanna
-  middle_name: Hareth
-  last_name: al-Dari
-  whole_name: Muthanna Hareth al-Dari
-  strong: true
-  regulation_language: en
-  logical_id: '7768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
@@ -206,20 +207,20 @@ birthdates:
     number_title: 290/2010 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:087:0029:0030:EN:PDF
 addresses:
-- city: Khan Dari
-  country_iso2_code: IQ
-  country_description: IRAQ
+- country_iso2_code: EG
+  country_description: EGYPT
   regulation_language: en
-  logical_id: '1381'
+  logical_id: '1383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- country_iso2_code: EG
-  country_description: EGYPT
+- city: Khan Dari
+  country_iso2_code: IQ
+  country_description: IRAQ
   regulation_language: en
-  logical_id: '1383'
+  logical_id: '1381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'

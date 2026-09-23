@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2767.0
 logical_id: '6477'
 regulations:
@@ -13,21 +14,45 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Riyad
+  last_name: CHALICHE
+  whole_name: Riyad CHALICHE
+  function: chairman of Riyad Isa Development Corporation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '12884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Riyad
+  last_name: SHALISH
+  whole_name: Riyad SHALISH
+  strong: true
+  regulation_language: en
+  logical_id: '12901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-24'
+    number_title: 611/2011 (OJ L164)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:164:0001:0003:EN:PDF
+- whole_name: Riyad Shalish
+  strong: true
+  regulation_language: en
+  logical_id: '123886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: رياض شاليش
   gender: M
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '124392'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Riyad Shalish
-  strong: true
-  regulation_language: en
-  logical_id: '123886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -44,27 +69,3 @@ name_aliases:
     publication_date: '2013-04-23'
     number_title: 363/2013 (OJ L111)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
-- first_name: Riyad
-  last_name: SHALISH
-  whole_name: Riyad SHALISH
-  strong: true
-  regulation_language: en
-  logical_id: '12901'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-24'
-    number_title: 611/2011 (OJ L164)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:164:0001:0003:EN:PDF
-- first_name: Riyad
-  last_name: CHALICHE
-  whole_name: Riyad CHALICHE
-  function: chairman of Riyad Isa Development Corporation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '12884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN

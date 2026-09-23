@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.14392.23
 logical_id: '182600'
 designation_details: 'Date of UN designation: 24 February 2026'
@@ -14,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Nashuk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182602'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-05'
+    number_title: 2026/531 (OJ L202600531)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
 - whole_name: GEDO Hamdan Ahmed
   gender: M
   title: Commander for the North Darfur section of the Rapid Support Forces
@@ -21,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-05'
-    number_title: 2026/531 (OJ L202600531)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600531
-- whole_name: Abu Nashuk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-05'

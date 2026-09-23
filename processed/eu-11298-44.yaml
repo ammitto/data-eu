@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11298.44
 logical_id: '162917'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Инна Геннадьевна ВАРЛАМОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Inna
   middle_name: Gennadyevna
   last_name: VARLAMOVA
@@ -32,6 +22,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Инна Геннадьевна ВАРЛАМОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -75,21 +76,21 @@ birthdates:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 identifications:
-- identification_type_code: passport
-  number: '4512826961'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '162921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - identification_type_code: other
   number: '772705293530'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '162920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- identification_type_code: passport
+  number: '4512826961'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '162921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

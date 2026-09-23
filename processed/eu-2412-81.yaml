@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.2412.81
 logical_id: '6422'
 regulations:
@@ -13,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Paya Parto
-  function: An entity that researches stable isotope separation, a key parameter for centrifuges component production, as part of Iran’s nuclear program.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '12438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Paya Partov
   strong: true
   regulation_language: en
@@ -43,21 +33,23 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: National  Centre for Laser Science and  Technology
-  name_language: EN
+- whole_name: Centrul Național pentru  Știința și Tehnologia Laserelor
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '169689'
+  logical_id: '169685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Nemzeti Lézertudományi és  technológiai Központ
-  name_language: HU
+- whole_name: Paya Parto
+  function: An entity that researches stable isotope separation, a key parameter for
+    centrifuges component production, as part of Iran’s nuclear program.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169686'
+  logical_id: '12438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -83,11 +75,21 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Centrul Național pentru  Știința și Tehnologia Laserelor
-  name_language: RO
+- whole_name: National  Centre for Laser Science and  Technology
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169685'
+  logical_id: '169689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Nemzeti Lézertudományi és  technológiai Központ
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

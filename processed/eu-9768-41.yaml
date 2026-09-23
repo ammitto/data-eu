@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.9768.41
 logical_id: '150204'
 regulations:
@@ -18,16 +19,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150208'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Public joint-stock company Rosbank
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -58,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Public joint-stock company Rosbank
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -134,18 +135,6 @@ name_aliases:
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 addresses:
-- street: Masha Poryvaeva str., 34
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '107078'
-  regulation_language: en
-  logical_id: '169914'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - street: 9 ul. Bolshaya Yakimanka
   city: Moscow
   country_iso2_code: RU
@@ -158,17 +147,19 @@ addresses:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-identifications:
-- identification_type_code: regnumber
-  number: '1027739460737'
+- street: Masha Poryvaeva str., 34
+  city: Moscow
   country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '107078'
   regulation_language: en
-  logical_id: '150207'
+  logical_id: '169914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+identifications:
 - identification_type_code: fiscalcode
   number: '7730060164'
   country_iso2_code: RU
@@ -179,3 +170,13 @@ identifications:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- identification_type_code: regnumber
+  number: '1027739460737'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '150207'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455

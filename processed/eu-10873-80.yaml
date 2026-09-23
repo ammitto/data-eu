@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.10873.80
 logical_id: '159341'
 regulations:
@@ -13,6 +14,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrej
+  last_name: Chochlun
+  whole_name: Andrej Chochlun
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Андрей
+  middle_name: Ростиславович
+  last_name: ХОХЛУН
+  whole_name: Андрей Ростиславович ХОХЛУН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Andrei
+  middle_name: Rostislavovich
+  last_name: KHOKHLUN
+  whole_name: Andrei Rostislavovich KHOKHLUN
+  function: Owner and Director General of AK Microtech
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
   last_name: Chochlun
   whole_name: Andrej Chochlun
@@ -35,48 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Andrej
-  last_name: Chochlun
-  whole_name: Andrej Chochlun
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Andrei
-  middle_name: Rostislavovich
-  last_name: KHOKHLUN
-  whole_name: Andrei Rostislavovich KHOKHLUN
-  function: Owner and Director General of AK Microtech
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159345'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Андрей
-  middle_name: Ростиславович
-  last_name: ХОХЛУН
-  whole_name: Андрей Ростиславович ХОХЛУН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -134,21 +135,21 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: fiscalcode
-  number: '773501047190'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '159351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: passport
   number: '764101287'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '159352'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: fiscalcode
+  number: '773501047190'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '159351'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

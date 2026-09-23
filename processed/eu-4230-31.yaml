@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.4230.31
 logical_id: '7281'
 remark: 'Date of listing: 17/03/2014'
@@ -171,11 +172,11 @@ birthdates:
   day_of_month: 26
   month_of_year: 11
   year: 1972
-  city: Bălți
+  city: Beltsy
   country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '158020'
+  logical_id: '2069'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -187,11 +188,11 @@ birthdates:
   day_of_month: 26
   month_of_year: 11
   year: 1972
-  city: Beltsy
+  city: Bălți
   country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '2069'
+  logical_id: '158020'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11632.78
 logical_id: '165977'
 regulations:
@@ -13,15 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artem
-  middle_name: Pavlovich
-  last_name: MARCHEVSKIJ
-  whole_name: Artem Pavlovich MARCHEVSKIJ
+- first_name: Артем
+  middle_name: Павлович
+  last_name: МАРЧЕВСЬКИ
+  whole_name: Артем Павлович МАРЧЕВСЬКИ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '165984'
+  logical_id: '165982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1493 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
+- first_name: Arťom
+  last_name: Marčevskij
+  whole_name: Arťom Marčevskij
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '166001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -49,19 +63,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1493 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- first_name: Arťom
-  last_name: Marčevskij
-  whole_name: Arťom Marčevskij
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '166001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -96,34 +97,34 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- first_name: Артем
-  middle_name: Павлович
-  last_name: МАРЧЕВСЬКИ
-  whole_name: Артем Павлович МАРЧЕВСЬКИ
+- first_name: Artem
+  middle_name: Pavlovich
+  last_name: MARCHEVSKIJ
+  whole_name: Artem Pavlovich MARCHEVSKIJ
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165982'
+  logical_id: '165984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
 citizenships:
-- country_iso2_code: IL
-  country_description: ISRAEL
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '165979'
+  logical_id: '165980'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: IL
+  country_description: ISRAEL
   regulation_language: en
-  logical_id: '165980'
+  logical_id: '165979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.11846.61
 logical_id: '167407'
 regulations:
@@ -26,14 +27,14 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1778 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
-- first_name: Oleksandr
-  last_name: SKLIANKO
-  whole_name: Oleksandr SKLIANKO
+- first_name: Олександр
+  last_name: СКЛЯНКО
+  whole_name: Олександр СКЛЯНКО
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '167412'
+  logical_id: '167410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -52,14 +53,14 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1778 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
-- first_name: Олександр
-  last_name: СКЛЯНКО
-  whole_name: Олександр СКЛЯНКО
+- first_name: Oleksandr
+  last_name: SKLIANKO
+  whole_name: Oleksandr SKLIANKO
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167410'
+  logical_id: '167412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

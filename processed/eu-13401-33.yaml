@@ -1,3 +1,4 @@
+---
 eu_reference_number: EU.13401.33
 logical_id: '177327'
 regulations:
@@ -13,21 +14,13 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Întreprinderea  unitară federală de stat «Uzina  Morozov»
-  name_language: RO
+- whole_name: Federal State Unitary Enterprise  “Morozov Plant”
+  function: FSUE “Morozov Plant” is a State enterprise involved in the production
+    of ammunition and military equipment for the Russian Government.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Morozov Plant« szövetségi  állami vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177332'
+  logical_id: '177335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -43,6 +36,16 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Morozov Plant« szövetségi  állami vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Федеральное  Государственное Унитарное  Предприятие “Завод Имени  Морозова”
   name_language: RU
   strong: true
@@ -53,12 +56,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Federal State Unitary Enterprise  “Morozov Plant”
-  function: FSUE “Morozov Plant” is a State enterprise involved in the production of ammunition and military equipment for the Russian Government.
-  name_language: EN
+- whole_name: Întreprinderea  unitară federală de stat «Uzina  Morozov»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '177335'
+  logical_id: '177331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
