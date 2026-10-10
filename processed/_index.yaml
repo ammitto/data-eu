@@ -1,9 +1,9 @@
 ---
 source: eu
 count: 6241
-fetched_at: '2026-10-09T16:12:19Z'
+fetched_at: '2026-10-10T12:37:44Z'
 schema: ammitto:sources:eu:v1
-pruned: 95
+pruned: 0
 files:
 - eu-1001-60.yaml
 - eu-10012-1.yaml
