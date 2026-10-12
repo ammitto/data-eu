@@ -14,30 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: أمجد يوسف
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Amjad
-  last_name: Yusuf
-  whole_name: Amjad Yusuf
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152910'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Amjad
   last_name: YOUSSEF
   whole_name: Amjad YOUSSEF
@@ -60,6 +36,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Amjad
+  last_name: Yusuf
+  whole_name: Amjad Yusuf
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152910'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: أمجد يوسف
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152908'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

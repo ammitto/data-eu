@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Wagnergroep
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '149499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Vagnergroep
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '149498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Grupa Wagnera
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '149497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Grupa Vagnera
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '149496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
 - whole_name: PMC Wagner
   name_language: EN
   strong: true
@@ -64,21 +24,21 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: League
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
 - whole_name: Liga
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '149494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: League
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'
@@ -144,11 +104,91 @@ name_aliases:
     publication_date: '2021-12-13'
     number_title: 2021/2195 (OJ L445I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Wagnerova skupina
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '132742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
 - whole_name: Grupul Vagner
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '132743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Wagnergroep
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '149499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: Vagnergroep
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '149498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: Grupa Wagnera
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '149497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: Grupa Vagnera
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '149496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: Vagnerova skupina
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '132741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: "„Vagnerio grupė“"
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '132740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Wagner Csoport
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '132739'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'
@@ -327,46 +367,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Wagner Csoport
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '132739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: "„Vagnerio grupė“"
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '132740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Vagnerova skupina
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '132741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Wagnerova skupina
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '132742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

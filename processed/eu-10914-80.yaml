@@ -14,59 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ilja
-  last_name: Kurilov
-  whole_name: Ilja Kurilov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ilja
-  middle_name: Nikolajevitj
-  last_name: KURILOV
-  whole_name: Ilja Nikolajevitj KURILOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160656'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Iľja
-  last_name: Kurilov
-  whole_name: Iľja Kurilov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Иля
-  last_name: Курилов
-  whole_name: Иля Курилов
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Ilya
   middle_name: Nikolaevich
   last_name: KURILOV
@@ -91,6 +38,59 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Iľja
+  last_name: Kurilov
+  whole_name: Iľja Kurilov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Ilja
+  last_name: Kurilov
+  whole_name: Ilja Kurilov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160872'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Иля
+  last_name: Курилов
+  whole_name: Иля Курилов
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Ilja
+  middle_name: Nikolajevitj
+  last_name: KURILOV
+  whole_name: Ilja Nikolajevitj KURILOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

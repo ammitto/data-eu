@@ -14,15 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Павел
-  middle_name: Анатольевич
-  last_name: МИШУНИН
-  whole_name: Павел Анатольевич МИШУНИН
+- first_name: Pavel
+  middle_name: Anatolyevich
+  last_name: MISHUNIN
+  whole_name: Pavel Anatolyevich MISHUNIN
+  function: General Director of the Federal State Enterprise Aleksin Chemical Plant
+    and Member of the United Russia Party and Deputy of the Tula Regional Duma
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162216'
+  logical_id: '162217'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -41,17 +43,15 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Pavel
-  middle_name: Anatolyevich
-  last_name: MISHUNIN
-  whole_name: Pavel Anatolyevich MISHUNIN
-  function: General Director of the Federal State Enterprise Aleksin Chemical Plant
-    and Member of the United Russia Party and Deputy of the Tula Regional Duma
+- first_name: Павел
+  middle_name: Анатольевич
+  last_name: МИШУНИН
+  whole_name: Павел Анатольевич МИШУНИН
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '162217'
+  logical_id: '162216'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

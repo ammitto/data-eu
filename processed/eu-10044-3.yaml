@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: الشركة العامة للفوسفات و المناجم
-  name_language: AR
+- whole_name: Gecopham, the General Company for Phosphate and Mines
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152949'
+  logical_id: '152950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -44,21 +44,21 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Gecopham, Главно  дружество за фосфати и мини
-  name_language: BG
+- whole_name: الشركة العامة للفوسفات و المناجم
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '153100'
+  logical_id: '152949'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Gecopham, the General Company for Phosphate and Mines
-  name_language: EN
+- whole_name: Gecopham, Главно  дружество за фосфати и мини
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '152950'
+  logical_id: '153100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

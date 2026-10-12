@@ -14,86 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic State -Mozambique
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: ISIL-M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152735'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: ISIS-Mozambique
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Al-Shabaab em Moçambique
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Estado Islâmico — Moçambique
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Estado Islâmico do Iraque e da Síria — Moçambique
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: ISIS-Moçambique
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Islamitische Staat —  Mozambique
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '152744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
 - whole_name: Islamitische Staat in Irak en Syrië — Mozambique
   name_language: NL
   strong: true
@@ -104,11 +24,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/845 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Mozambique Wilaya van de Islamitische Staat
+- whole_name: Islamitische Staat —  Mozambique
   name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '152746'
+  logical_id: '152744'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -424,11 +344,91 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/845 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: ISIL-M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Islamic State -Mozambique
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
 - whole_name: Islamic State of Iraq and Syria – Mozambique
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '152737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: ISIS-Mozambique
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Al-Shabaab em Moçambique
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Estado Islâmico — Moçambique
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Estado Islâmico do Iraque e da Síria — Moçambique
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: ISIS-Moçambique
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Mozambique Wilaya van de Islamitische Staat
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '152746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -30,20 +30,6 @@ name_aliases:
     publication_date: '2022-04-21'
     number_title: 2022/658 (OJ L120)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Serhiy
-  middle_name: Vitaliyovich
-  last_name: KURCHENKO
-  whole_name: Serhiy Vitaliyovich KURCHENKO
-  function: Ukrainian businessman (‘Gaz-Alliance’ company)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '139814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/658 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
 - first_name: Сергiй
   middle_name: Вiталiйович
   last_name: КУРЧЕНКО
@@ -53,6 +39,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/658 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
+- first_name: Serhiy
+  middle_name: Vitaliyovich
+  last_name: KURCHENKO
+  whole_name: Serhiy Vitaliyovich KURCHENKO
+  function: Ukrainian businessman (‘Gaz-Alliance’ company)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '139814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-21'

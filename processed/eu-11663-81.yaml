@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fly Bridge Technológiai Vállalat Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167216'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Fly Bridge TC Kft
   name_language: HU
   strong: true
@@ -34,22 +24,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Technologická společnost ‚Fly Bridge‘, s. r. o.
-  name_language: CS
+- whole_name: Fly Bridge Technológiai Vállalat Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167552'
+  logical_id: '167216'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Общество с Ограниченной Ответственностью Технологическая Компания “Флай
-    Бридж”
-  name_language: RU
+- whole_name: Technologická společnost ‚Fly Bridge‘, s. r. o.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166208'
+  logical_id: '167552'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -72,6 +61,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Общество с Ограниченной Ответственностью Технологическая Компания “Флай
+    Бридж”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

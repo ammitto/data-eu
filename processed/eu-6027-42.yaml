@@ -14,15 +14,43 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сяргей
-  middle_name: Леанiдавiч
-  last_name: КАЛИННИК
-  whole_name: Сяргей Леанiдавiч КАЛИННИК
+- first_name: Siarhej
+  middle_name: Leanidavitj
+  last_name: KALINNIK
+  whole_name: Siarhej Leanidavitj KALINNIK
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '126738'
+  logical_id: '127831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sergej
+  middle_name: Leonidovitj
+  last_name: KALINNIK
+  whole_name: Sergej Leonidovitj KALINNIK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sergei
+  middle_name: Leonidovich
+  last_name: KALINNIK
+  whole_name: Sergei Leonidovich KALINNIK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '127009'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -45,43 +73,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sergei
-  middle_name: Leonidovich
-  last_name: KALINNIK
-  whole_name: Sergei Leonidovich KALINNIK
+- first_name: Сяргей
+  middle_name: Леанiдавiч
+  last_name: КАЛИННИК
+  whole_name: Сяргей Леанiдавiч КАЛИННИК
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '127009'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sergej
-  middle_name: Leonidovitj
-  last_name: KALINNIK
-  whole_name: Sergej Leonidovitj KALINNIK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Siarhej
-  middle_name: Leanidavitj
-  last_name: KALINNIK
-  whole_name: Siarhej Leanidavitj KALINNIK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127831'
+  logical_id: '126738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

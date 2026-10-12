@@ -36,18 +36,6 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Park Pobedy business centre, 1 Vasilisa Kozhina ulitsa
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '121096'
-  regulation_language: en
-  logical_id: '183790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - street: 12 Piket-26 ulitsa, Aldan, Aldan ulus
   region: Republic of Sakha (Yakutia)
   country_iso2_code: RU
@@ -55,6 +43,18 @@ addresses:
   zip_code: '678900'
   regulation_language: en
   logical_id: '183791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: Park Pobedy business centre, 1 Vasilisa Kozhina ulitsa
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '121096'
+  regulation_language: en
+  logical_id: '183790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

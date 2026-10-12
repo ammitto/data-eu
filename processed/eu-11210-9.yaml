@@ -14,23 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vasilij Šupranov
+- first_name: Vasily
+  middle_name: Nikolaevich
+  last_name: SHUPRANOV
+  whole_name: Vasily Nikolaevich SHUPRANOV
+  function: Director of JSC NMZ (a.k.a. Nizhny Novgorod Machine-Building Plant)
   gender: M
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164065'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Василий Николаевич ШУПРАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162432'
+  logical_id: '162434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -49,15 +41,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Vasily
-  middle_name: Nikolaevich
-  last_name: SHUPRANOV
-  whole_name: Vasily Nikolaevich SHUPRANOV
-  function: Director of JSC NMZ (a.k.a. Nizhny Novgorod Machine-Building Plant)
+- whole_name: Василий Николаевич ШУПРАНОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '162434'
+  logical_id: '162432'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Vasilij Šupranov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

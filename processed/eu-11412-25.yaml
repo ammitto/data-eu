@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Olga
+  last_name: Nikišina
+  whole_name: Olga Nikišina
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Olga
   middle_name: Vladimirovna
   last_name: NIKISHINA
   whole_name: Olga Vladimirovna NIKISHINA
@@ -39,19 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Olga
-  last_name: Nikišina
-  whole_name: Olga Nikišina
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164226'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

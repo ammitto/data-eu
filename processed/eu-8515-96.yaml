@@ -14,15 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Николай
-  middle_name: Тимофеевич
-  last_name: ВЕЛИКДАНЬ
-  whole_name: Николай Тимофеевич ВЕЛИКДАНЬ
+- first_name: Nikolay
+  middle_name: Timofeevich
+  last_name: VELIKDAN
+  whole_name: Nikolay Timofeevich VELIKDAN
+  function: Chairman of the Stavropol Regional Duma since 30 September 2021. A member
+    of the Stavropol Regional Duma since 19 September 2021 and former first Deputy
+    Chairman of the Government of the Stavropol Territory. A member of the Kremlin-aligned
+    ruling party United Russia and member of the Presidium of the Regional Political
+    Council of the Party.
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '141928'
+  logical_id: '141929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Nikolaj  Timofejevitj VELIKDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142359'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -41,31 +57,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Nikolaj  Timofejevitj VELIKDA
+- first_name: Николай
+  middle_name: Тимофеевич
+  last_name: ВЕЛИКДАНЬ
+  whole_name: Николай Тимофеевич ВЕЛИКДАНЬ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '142359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Nikolay
-  middle_name: Timofeevich
-  last_name: VELIKDAN
-  whole_name: Nikolay Timofeevich VELIKDAN
-  function: Chairman of the Stavropol Regional Duma since 30 September 2021. A member
-    of the Stavropol Regional Duma since 19 September 2021 and former first Deputy
-    Chairman of the Government of the Stavropol Territory. A member of the Kremlin-aligned
-    ruling party United Russia and member of the Presidium of the Regional Political
-    Council of the Party.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141929'
+  logical_id: '141928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

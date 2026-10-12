@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Provincia de Hind del Estado Islámico (ISHP)
-  name_language: ES
+- whole_name: Hindo provincijos Da’esh
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '133738'
+  logical_id: '133751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Daesh — provincia de Hind
-  name_language: ES
+- whole_name: Dàesh - Wilayat al-Hind
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '133739'
+  logical_id: '133752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -119,101 +119,21 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Даиш — провинция Инд
-  name_language: BG
+- whole_name: provinca Hind Islamske države
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '133740'
+  logical_id: '133768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Hindi provintsi Daesh
-  name_language: ET
+- whole_name: Daexe — Província de Hind
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '133741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Provinz Hind des Islamischen Staates
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '133742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Provinz Hind
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '133743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Islámský stát v provincii Indie
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '133744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Province du Hind de l’État islamique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '133745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Wilaya du Hind
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '133746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Daech — Province du Hind
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '133747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Cúige Hind an Stáit Ioslamaigh (ISHP)
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '133748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Wilayah Hind
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '133749'
+  logical_id: '133767'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -229,21 +149,81 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Hindo provincijos Da’esh
-  name_language: LT
+- whole_name: Wilayah Hind
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '133751'
+  logical_id: '133749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Dàesh - Wilayat al-Hind
-  name_language: IT
+- whole_name: Cúige Hind an Stáit Ioslamaigh (ISHP)
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '133752'
+  logical_id: '133748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Daech — Province du Hind
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '133747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Wilaya du Hind
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '133746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Province du Hind de l’État islamique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '133745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Islámský stát v provincii Indie
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '133744'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Provinz Hind
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '133743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Provinz Hind des Islamischen Staates
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '133742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -389,21 +369,41 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Daexe — Província de Hind
-  name_language: PT
+- whole_name: Provincia de Hind del Estado Islámico (ISHP)
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '133767'
+  logical_id: '133738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: provinca Hind Islamske države
-  name_language: SL
+- whole_name: Daesh — provincia de Hind
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '133768'
+  logical_id: '133739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Даиш — провинция Инд
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '133740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Hindi provintsi Daesh
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '133741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

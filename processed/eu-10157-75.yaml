@@ -15,35 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Igor
-  middle_name: Yuryevich
-  last_name: CHAIKA
-  whole_name: Igor Yuryevich CHAIKA
-  function: Russian businessman
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Igor
-  middle_name: Yuryevich
-  last_name: CHAYKA
-  whole_name: Igor Yuryevich CHAYKA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153828'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Igor
   middle_name: Jurjevitj
   last_name: TJAJKA
   whole_name: Igor Jurjevitj TJAJKA
@@ -110,6 +81,35 @@ name_aliases:
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Igor
+  middle_name: Yuryevich
+  last_name: CHAYKA
+  whole_name: Igor Yuryevich CHAYKA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153828'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Igor
+  middle_name: Yuryevich
+  last_name: CHAIKA
+  whole_name: Igor Yuryevich CHAIKA
+  function: Russian businessman
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
@@ -127,11 +127,11 @@ birthdates:
   day_of_month: 13
   month_of_year: 12
   year: 1988
-  city: Irkutsk
+  city: Moscow
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '153826'
+  logical_id: '153825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -143,11 +143,11 @@ birthdates:
   day_of_month: 13
   month_of_year: 12
   year: 1988
-  city: Moscow
+  city: Irkutsk
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '153825'
+  logical_id: '153826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

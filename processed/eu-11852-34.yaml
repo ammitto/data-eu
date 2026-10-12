@@ -15,49 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islāma revolucionāro gvardu korpusa Pētniecības un pašpietiekamības
-    džihāda organizācija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '167464'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: Джихадистка организация  за научни изследвания  и независимост към  Корпуса
-    на гвардейците на  ислямската революция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '167463'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '167446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
-    Organisation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
 - whole_name: islami revolutsioonilise kaardiväe teadusuuringute ja isemajandamise
     džihaadi organisatsioon
   name_language: ET
@@ -69,12 +26,12 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1793 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: Organização Jiadista para a Investigação e a  Autossuficiência do Corpo
-    de Guardas da Revolução Islâmica
-  name_language: PT
+- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
+    Organisation
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167448'
+  logical_id: '167447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -232,12 +189,55 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1793 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: Джихадистка организация  за научни изследвания  и независимост към  Корпуса
+    на гвардейците на  ислямската революция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '167463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: Islāma revolucionāro gvardu korpusa Pētniecības un pašpietiekamības
+    džihāda organizācija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '167464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
 - whole_name: Islamo revoliucijos gvardijos mokslinių tyrimų ir savarankiško apsirūpinimo
     džihado organizacija
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '167465'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '167446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: Organização Jiadista para a Investigação e a  Autossuficiência do Corpo
+    de Guardas da Revolução Islâmica
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '167448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

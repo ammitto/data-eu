@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Egountchi BEHANZIN
+- whole_name: Сильвен АФУА
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175787'
+  logical_id: '175788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -40,17 +40,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Сильвен АФУА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Эгунчи БЕХАНЗИН
   gender: M
   name_language: RU
@@ -62,20 +51,31 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-citizenships:
-- country_iso2_code: FR
-  country_description: FRANCE
+- whole_name: Egountchi BEHANZIN
+  gender: M
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '175785'
+  logical_id: '175787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+citizenships:
 - country_iso2_code: TG
   country_description: TOGO
   regulation_language: en
   logical_id: '175784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- country_iso2_code: FR
+  country_description: FRANCE
+  regulation_language: en
+  logical_id: '175785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

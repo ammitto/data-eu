@@ -45,21 +45,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Vennootschap op aandelen OBORONENERGO
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '158300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Akciová spoločnosť Oboronenergo
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '158551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Vennootschap op aandelen OBORONENERGO
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '158300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

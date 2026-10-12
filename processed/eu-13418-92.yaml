@@ -14,21 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: ASAN Nihat
+- last_name: BAHTIYAR
+  whole_name: BAHTIYAR
   strong: true
   regulation_language: en
-  logical_id: '177497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- first_name: Nihat
-  last_name: ASHAN
-  whole_name: Nihat ASHAN
-  strong: true
-  regulation_language: en
-  logical_id: '177493'
+  logical_id: '177492'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -67,6 +57,15 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- whole_name: ASAN Nihat
+  strong: true
+  regulation_language: en
+  logical_id: '177497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - whole_name: Nihat Abdul Kadir ASAN
   gender: M
   name_language: EN
@@ -78,11 +77,12 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- last_name: BAHTIYAR
-  whole_name: BAHTIYAR
+- first_name: Nihat
+  last_name: ASHAN
+  whole_name: Nihat ASHAN
   strong: true
   regulation_language: en
-  logical_id: '177492'
+  logical_id: '177493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -99,22 +99,6 @@ citizenships:
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 birthdates:
-- birthdate: '1981-11-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 11
-  year: 1981
-  city: Van
-  country_iso2_code: TR
-  country_description: TURKEY
-  regulation_language: en
-  logical_id: '177487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - birthdate: '1981-10-01'
   circa: false
   calendar_type: GREGORIAN
@@ -126,6 +110,22 @@ birthdates:
   country_description: TURKEY
   regulation_language: en
   logical_id: '177488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- birthdate: '1981-11-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 11
+  year: 1981
+  city: Van
+  country_iso2_code: TR
+  country_description: TURKEY
+  regulation_language: en
+  logical_id: '177487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

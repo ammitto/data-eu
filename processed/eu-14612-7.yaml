@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Аркадий Владимирович
+  last_name: ДВОРКОВИЧ
+  whole_name: Аркадий Владимирович ДВОРКОВИЧ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Vladimirovich
   last_name: DVORKOVICH
   whole_name: Vladimirovich DVORKOVICH
@@ -23,18 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Аркадий Владимирович
-  last_name: ДВОРКОВИЧ
-  whole_name: Аркадий Владимирович ДВОРКОВИЧ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

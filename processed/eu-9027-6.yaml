@@ -14,11 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islāma revolucionāro gvardu korpusa Gaisa un kosmosa spēki
-  name_language: LV
+- whole_name: Islamic Revolutionary Guard Corps - Aerospace Force
   strong: true
   regulation_language: en
-  logical_id: '145973'
+  logical_id: '145440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: نیروی هوافضای سپاه پاسداران انقلاب سلامی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -34,11 +43,121 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: نیروی هوافضای سپاه پاسداران انقلاب سلامی
-  name_language: FA
+- whole_name: Islāma revolucionāro gvardu korpusa Gaisa un kosmosa spēki
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '145437'
+  logical_id: '145973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Islami revolutsioonilise kaardiväe õhujõud
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '145972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Islamilaisen vallankumouskaartin  ilmavoimat
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '145971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Islamiska revolutionsgardets luft- och rymdstridskrafter
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Den Islamiske Revolutionsgardes  Luftfartsstyrke
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '145969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Военновъздушни сили на Корпуса на  гвардейците на ислямската революция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '145967'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Az Iszlám Forradalmi Gárda légiereje
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '145966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Zračne snage IGRC-a
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '145965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Zračne snage Islamske revolucionarne garde
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '145964'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Letalske sile Islamske revolucionarne garde
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '145962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Vzdušné sily Zboru islamských  revolučných gárd
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '145961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Letecké síly Islámských revolučních gard
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '145960'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -57,15 +176,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Islamic Revolutionary Guard Corps - Aerospace Force
-  strong: true
-  regulation_language: en
-  logical_id: '145440'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -197,116 +307,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145958'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Letecké síly Islámských revolučních gard
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '145960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Vzdušné sily Zboru islamských  revolučných gárd
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '145961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Letalske sile Islamske revolucionarne garde
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '145962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Zračne snage Islamske revolucionarne garde
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '145964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Zračne snage IGRC-a
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '145965'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Az Iszlám Forradalmi Gárda légiereje
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '145966'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Военновъздушни сили на Корпуса на  гвардейците на ислямската революция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '145967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Den Islamiske Revolutionsgardes  Luftfartsstyrke
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '145969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Islamiska revolutionsgardets luft- och rymdstridskrafter
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Islamilaisen vallankumouskaartin  ilmavoimat
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '145971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Islami revolutsioonilise kaardiväe õhujõud
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '145972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

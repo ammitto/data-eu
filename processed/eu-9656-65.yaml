@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  middle_name: Aleksandrovitj
-  last_name: SPIVAK
-  whole_name: Andrej Aleksandrovitj SPIVAK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Андрей
   middle_name: Александрович
   last_name: СПИВАК
@@ -54,6 +40,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrej
+  middle_name: Aleksandrovitj
+  last_name: SPIVAK
+  whole_name: Andrej Aleksandrovitj SPIVAK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151005'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

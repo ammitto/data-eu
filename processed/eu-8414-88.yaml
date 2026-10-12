@@ -26,18 +26,6 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Jaffar
-  last_name: Dicko
-  whole_name: Jaffar Dicko
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - first_name: Abdoul Salam
   last_name: Dicko
   whole_name: Abdoul Salam Dicko
@@ -70,6 +58,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- first_name: Jaffar
+  last_name: Dicko
+  whole_name: Jaffar Dicko
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

@@ -14,24 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Yuryevich
-  last_name: ANOSOV
-  whole_name: Viktor Yuryevich ANOSOV
-  function: board member of the 'Union of Donbas Volunteers', a paramilitary organisation
+- whole_name: "'Нос'"
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: "'the Nose'"
-  strong: true
-  regulation_language: en
-  logical_id: '147651'
+  logical_id: '147338'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -50,11 +37,15 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: "'Нос'"
+- first_name: Viktor
+  middle_name: Yuryevich
+  last_name: ANOSOV
+  whole_name: Viktor Yuryevich ANOSOV
+  function: board member of the 'Union of Donbas Volunteers', a paramilitary organisation
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147338'
+  logical_id: '147340'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -69,6 +60,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147337'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: "'the Nose'"
+  strong: true
+  regulation_language: en
+  logical_id: '147651'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -112,10 +112,10 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 identifications:
 - identification_type_code: passport
-  number: ES301083
+  number: ES662458
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '147335'
+  logical_id: '147336'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -132,10 +132,10 @@ identifications:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: passport
-  number: ES662458
+  number: ES301083
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '147336'
+  logical_id: '147335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

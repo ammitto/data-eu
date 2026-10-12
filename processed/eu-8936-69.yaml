@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Den Islamiske Revolutionsgardes  cyberforsvarskommando
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '145039'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: командване за киберотбрана на  Корпуса на гвардейците на  ислямската
-    революция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '145034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Az Iszlám Forradalmi Gárda  Kibervédelmi Parancsnoksága
   strong: true
   regulation_language: en
@@ -142,16 +121,6 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Islamilaisen vallankumouskaartin  kyberpuolustusosasto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '145043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Cyber-Abwehrkommando des  Korps der Islamischen  Revolutionsgarde
   name_language: DE
   strong: true
@@ -250,6 +219,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: командване за киберотбрана на  Корпуса на гвардейците на  ислямската
+    революция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '145034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Den Islamiske Revolutionsgardes  cyberforsvarskommando
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '145039'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Islamilaisen vallankumouskaartin  kyberpuolustusosasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '145043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

@@ -54,19 +54,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ruslan
-  last_name: Mashadziyeu
-  whole_name: Ruslan Mashadziyeu
-  gender: M
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '157040'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Руслан
   middle_name: Хікметовіч
   last_name: МАШАДЗЕЎ
@@ -162,6 +149,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Ruslan
+  last_name: Mashadziyeu
+  whole_name: Ruslan Mashadziyeu
+  gender: M
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '157040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

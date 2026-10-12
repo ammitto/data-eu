@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Игорь Валерьевич ЖУРАВЛЁВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Igor Valerievich ZHURAVLEV
   function: Director of the All-Russian Children’s Centre “Smena”
   gender: M
@@ -21,17 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182762'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Игорь Валерьевич ЖУРАВЛЁВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

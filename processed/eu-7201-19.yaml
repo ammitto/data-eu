@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Тимофей
-  middle_name: Тимофеевич
-  last_name: БАЖЕНОВ
-  whole_name: Тимофей Тимофеевич БАЖЕНОВ
+- first_name: Timofej
+  middle_name: Timofejevitj
+  last_name: BAZJENOV
+  whole_name: Timofej Timofejevitj BAZJENOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134542'
+  logical_id: '143730'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -43,15 +43,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Timofej
-  middle_name: Timofejevitj
-  last_name: BAZJENOV
-  whole_name: Timofej Timofejevitj BAZJENOV
+- first_name: Тимофей
+  middle_name: Тимофеевич
+  last_name: БАЖЕНОВ
+  whole_name: Тимофей Тимофеевич БАЖЕНОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143730'
+  logical_id: '134542'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

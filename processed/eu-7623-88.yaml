@@ -43,47 +43,6 @@ name_aliases:
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Galina
-  middle_name: Evgenjevna
-  last_name: PUMPJANSKA
-  whole_name: Galina Evgenjevna PUMPJANSKA
-  gender: F
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '137342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Galina
-  middle_name: Jevgenjevna
-  last_name: PUMPJANSKAJA
-  whole_name: Galina Jevgenjevna PUMPJANSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Galina
-  last_name: Pumpjanskaja
-  whole_name: Galina Pumpjanskaja
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Galina
   last_name: Pumpianskaja
   whole_name: Galina Pumpianskaja
   gender: F
@@ -109,6 +68,47 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Galina
+  last_name: Pumpjanskaja
+  whole_name: Galina Pumpjanskaja
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Galina
+  middle_name: Jevgenjevna
+  last_name: PUMPJANSKAJA
+  whole_name: Galina Jevgenjevna PUMPJANSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Galina
+  middle_name: Evgenjevna
+  last_name: PUMPJANSKA
+  whole_name: Galina Evgenjevna PUMPJANSKA
+  gender: F
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '137342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

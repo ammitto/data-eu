@@ -14,22 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Публичное  Акционерное Общество  Банк Уралсиб
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183006'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Public Joint Stock  Company Bank Uralsib
   function: PJSC Bank Uralsib is among the leading Russian banks
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '183007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Публичное  Акционерное Общество  Банк Уралсиб
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

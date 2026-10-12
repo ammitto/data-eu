@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: מאיר דויטש
-  gender: M
-  name_language: HE
-  strong: true
-  regulation_language: en
-  logical_id: '185519'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: Meir DEUTSCH
   function: Meir Deutsch is the director general of Regavim, which is an Israeli NGO
     with an active pro-Israeli settler and settlement expansion agenda in the West
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: מאיר דויטש
+  gender: M
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

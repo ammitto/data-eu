@@ -14,6 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vladimir
+  middle_name: Nikolaevich
+  last_name: LEPIN
+  whole_name: Vladimir Nikolaevich LEPIN
+  function: General designer of JSC Kalashnikov Concern, member of the Bureau of the
+    League for Assistance to Defecse Enterprises
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Vladimir
+  middle_name: Nikolajevič
+  last_name: LEPIN
+  whole_name: Vladimir Nikolajevič LEPIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Владимир
   middle_name: Николаевич
   last_name: ЛЕПИН
@@ -34,36 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Vladimir
-  middle_name: Nikolajevič
-  last_name: LEPIN
-  whole_name: Vladimir Nikolajevič LEPIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Vladimir
-  middle_name: Nikolaevich
-  last_name: LEPIN
-  whole_name: Vladimir Nikolaevich LEPIN
-  function: General designer of JSC Kalashnikov Concern, member of the Bureau of the
-    League for Assistance to Defecse Enterprises
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -14,100 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: IRGC SSJO
-  strong: true
-  regulation_language: en
-  logical_id: '147584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Islamo revoliucijos gvardijos mokslinių tyrimų ir savarankiško apsirūpinimo
-    džihado organizacija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147582'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
-    Organization
-  strong: true
-  regulation_language: en
-  logical_id: '147482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: ازمان جهاد خودکفایی و تحقیقات سپاه
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '147481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: islami revolutsioonilise kaardiväe teadusuuringute ja isemajandamise
-    džihaadi organisatsioon
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '147581'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Den Islamiske Revolutionsgarde Research and Self-Sufficiency Jihad Organisation
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '147572'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Джихадистка организация за научни изследвания и независимост към военновъздушните
-    сили на Корпуса на гвардейците на ислямската революция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '147563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Organisation du djihad pour la recherche et l’autosuffisance du Corps
-    des gardiens de la révolution islamique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Jihad Research and Self-Sufficiency του Στρατού των Φρουρών της Ισλαμικής
-    Επανάστασης
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '147565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
 - whole_name: Organización para la Jihad de Investigación y Autosuficiencia del Cuerpo
     de la Guardia Revolucionaria Islámica
   name_language: ES
@@ -227,22 +133,116 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2430 (OJ L318-I )
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-addresses:
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- whole_name: islami revolutsioonilise kaardiväe teadusuuringute ja isemajandamise
+    džihaadi organisatsioon
+  name_language: ET
+  strong: true
   regulation_language: en
-  logical_id: '147480'
+  logical_id: '147581'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
     number_title: 2022/2430 (OJ L318-I )
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Islamo revoliucijos gvardijos mokslinių tyrimų ir savarankiško apsirūpinimo
+    džihado organizacija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: IRGC SSJO
+  strong: true
+  regulation_language: en
+  logical_id: '147584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: ازمان جهاد خودکفایی و تحقیقات سپاه
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '147481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
+    Organization
+  strong: true
+  regulation_language: en
+  logical_id: '147482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Den Islamiske Revolutionsgarde Research and Self-Sufficiency Jihad Organisation
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '147572'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Джихадистка организация за научни изследвания и независимост към военновъздушните
+    сили на Корпуса на гвардейците на ислямската революция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '147563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Organisation du djihad pour la recherche et l’autosuffisance du Corps
+    des gardiens de la révolution islamique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147564'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Jihad Research and Self-Sufficiency του Στρατού των Φρουρών της Ισλαμικής
+    Επανάστασης
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+addresses:
 - city: Isfahan
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '147479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '147480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

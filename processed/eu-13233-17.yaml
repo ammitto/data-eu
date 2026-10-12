@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 27e centre scientifique du ministère russe de la défense
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '176346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27ú Lárionad Eolaíochta de chuid Aireacht Cosanta Chónaidhm na Rúise
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '176347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27. znanstveni centar Ministarstva obrane Ruske Federacije
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '176348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: 27o centro scientifico del ministero della Difesa
   name_language: IT
   strong: true
@@ -126,11 +96,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27ο Επιστημονικό Κέντρο του υπουργείου Άμυνας της Ρωσικής Ομοσπονδίας
-  name_language: EL
+- whole_name: 27. znanstveni centar Ministarstva obrane Ruske Federacije
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '176345'
+  logical_id: '176348'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -147,21 +117,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27. wissenschaftliches Zentrum des russischen Verteidigungsministeriums
-  name_language: DE
+- whole_name: 27e centre scientifique du ministère russe de la défense
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '176343'
+  logical_id: '176346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Venemaa Föderatsiooni kaitseministeeriumi 27. teaduskeskus
-  name_language: ET
+- whole_name: 27ú Lárionad Eolaíochta de chuid Aireacht Cosanta Chónaidhm na Rúise
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '176344'
+  logical_id: '176347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -197,6 +167,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: 27. wissenschaftliches Zentrum des russischen Verteidigungsministeriums
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '176343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Venemaa Föderatsiooni kaitseministeeriumi 27. teaduskeskus
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '176344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: 27ο Επιστημονικό Κέντρο του υπουργείου Άμυνας της Ρωσικής Ομοσπονδίας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '176345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

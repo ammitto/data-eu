@@ -14,32 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Asociația Panrusă  privind Mișcarea Patriotică  Militaro-Socială de
-    la nivel  Național din Întreaga Rusie  Tânăra Armată
-  name_language: RO
+- whole_name: Visos Rusijos karinis-patriotinis  visuomeninis judėjimas  Jaunoji armija
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '142809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Associação Pan Russa do Movimento Social  Militar-Patriótico Jovem  Exército
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '142810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Pan-Russische Jong Leger militaire patriottische en sociale beweging
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '142811'
+  logical_id: '142813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -55,31 +34,42 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Visos Rusijos karinis-patriotinis  visuomeninis judėjimas  Jaunoji armija
-  name_language: LT
+- whole_name: Pan-Russische Jong Leger militaire patriottische en sociale beweging
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '142813'
+  logical_id: '142811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Mouvement social  patriotique militaire  panrusse de la Jeune  armée
-  name_language: FR
+- whole_name: Associação Pan Russa do Movimento Social  Militar-Patriótico Jovem  Exército
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '142814'
+  logical_id: '142810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Junarmija
-  name_language: DE
+- whole_name: Asociația Panrusă  privind Mișcarea Patriotică  Militaro-Socială de
+    la nivel  Național din Întreaga Rusie  Tânăra Armată
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '142816'
+  logical_id: '142809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Всероссийское военно патриотическое  общественное движение  Юнармия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -94,16 +84,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Всероссийское военно патриотическое  общественное движение  Юнармия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -153,6 +133,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142817'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Junarmija
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '142816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Mouvement social  patriotique militaire  panrusse de la Jeune  armée
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '142814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

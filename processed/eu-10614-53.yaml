@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sebanyana
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - first_name: Charles
   last_name: SEMATAMA
   whole_name: Charles SEMATAMA
@@ -28,17 +39,6 @@ name_aliases:
     publication_date: '2025-12-09'
     number_title: 2025/2508 (OJ L202502508)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502508
-- whole_name: Sebanyana
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

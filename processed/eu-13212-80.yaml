@@ -15,12 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: ABUBAKAR SWALLEH
+- whole_name: ABUBAKER SWALEH
+  function: ABUBAKER SWALEH
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176411'
+  logical_id: '176410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'
@@ -37,13 +38,12 @@ name_aliases:
     publication_date: '2025-06-26'
     number_title: 2025/1277 (OJ L202501277)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501277
-- whole_name: ABUBAKER SWALEH
-  function: ABUBAKER SWALEH
+- whole_name: ABUBAKAR SWALLEH
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176410'
+  logical_id: '176411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'

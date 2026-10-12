@@ -14,50 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Statsförvaltningsrådet
-  name_language: SV
+- whole_name: Staatsverwaltungsrat
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '145572'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Valtion hallintoneuvosto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '145573'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Államigazgatási Tanács
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '145574'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Statsforvaltningsrådet
-  strong: true
-  regulation_language: en
-  logical_id: '145571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Consiglio di amministrazione dello Stato
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '145570'
+  logical_id: '145568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -73,11 +34,11 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Staatsverwaltungsrat
-  name_language: DE
+- whole_name: Consiglio di amministrazione dello Stato
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '145568'
+  logical_id: '145570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -143,13 +104,11 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: State Administration Council (SAC)
-  function: Public entity established on 2 February 2021 following the military coup
-    in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and
-    judicial powers of the State
+- whole_name: Държавен административен съвет (ДАС)
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '145527'
+  logical_id: '145583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -235,11 +194,52 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Държавен административен съвет (ДАС)
-  name_language: BG
+- whole_name: Államigazgatási Tanács
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '145583'
+  logical_id: '145574'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Valtion hallintoneuvosto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '145573'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Statsförvaltningsrådet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145572'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Statsforvaltningsrådet
+  strong: true
+  regulation_language: en
+  logical_id: '145571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: State Administration Council (SAC)
+  function: Public entity established on 2 February 2021 following the military coup
+    in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and
+    judicial powers of the State
+  strong: true
+  regulation_language: en
+  logical_id: '145527'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

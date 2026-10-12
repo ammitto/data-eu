@@ -29,17 +29,6 @@ name_aliases:
     publication_date: '2025-04-07'
     number_title: 2025/689 (OJ L202500689)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500689
-- whole_name: سید مجتبی مصطفوی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '149343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - first_name: Mojtaba
   last_name: MOSTAF
   whole_name: Mojtaba MOSTAF
@@ -48,6 +37,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: سید مجتبی مصطفوی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '149343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

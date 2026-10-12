@@ -14,96 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fundação para a proteção dos valores nacionais
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Фонд за защита на националните ценности
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '150953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Fundação para a Defesa dos Valores Nacionais
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: organizacija za zaščito nacionalnih vrednot
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150980'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Fundacija za zaščito nacionalnih vrednot
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Sklad za obrambo nacionalnih vrednot
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Fundacija za obrambo nacionalnih vrednot
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Nadácia na obranu národných hodnôt
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '150984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: organisationen för skydd av nationella värden
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '150985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - whole_name: Stiftelsen för skydd av nationella värden
   name_language: SV
   strong: true
@@ -164,31 +74,71 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Fundo para a Defesa dos Valores Nacionais
-  name_language: PT
+- whole_name: Ίδρυμα για την Προάσπιση των Εθνικών Αξιών
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '150978'
+  logical_id: '159020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Nadace pro obranu národních hodnot
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '159023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Fond na obranu národných hodnôt
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '159028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Kansallisten arvojen puolustamissäätiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '159030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Foundation for National Values protection
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: организация за защита на националните ценности
-  name_language: BG
+- whole_name: FZNC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150952'
+  logical_id: '150288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Stiftung für die Verteidigung der nationalen Werte
-  name_language: DE
+- whole_name: FPNV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150951'
+  logical_id: '150289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -404,71 +354,91 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Ίδρυμα για την Προάσπιση των Εθνικών Αξιών
-  name_language: EL
+- whole_name: Fundação para a proteção dos valores nacionais
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '159020'
+  logical_id: '150977'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Nadace pro obranu národních hodnot
-  name_language: CS
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Fundo para a Defesa dos Valores Nacionais
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '159023'
+  logical_id: '150978'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Fond na obranu národných hodnôt
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Fundação para a Defesa dos Valores Nacionais
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '150979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: organizacija za zaščito nacionalnih vrednot
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Fundacija za zaščito nacionalnih vrednot
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Sklad za obrambo nacionalnih vrednot
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Fundacija za obrambo nacionalnih vrednot
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Nadácia na obranu národných hodnôt
   name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '159028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Kansallisten arvojen puolustamissäätiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '159030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Foundation for National Values protection
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150287'
+  logical_id: '150984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: FZNC
-  name_language: EN
+- whole_name: organisationen för skydd av nationella värden
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '150288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: FPNV
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150289'
+  logical_id: '150985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -535,6 +505,36 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Stiftung für die Verteidigung der nationalen Werte
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '150951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: организация за защита на националните ценности
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '150952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Фонд за защита на националните ценности
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '150953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 addresses:
 - street: 64 Zemlyanoy Val str., building 2, office 201
   city: Moscow
@@ -548,21 +548,21 @@ addresses:
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 identifications:
-- identification_type_code: fiscalcode
-  number: '7709448606'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - identification_type_code: regnumber
   number: '1197700003137'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- identification_type_code: fiscalcode
+  number: '7709448606'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-03'

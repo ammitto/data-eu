@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: U Aung Zaw Aye
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153178'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-28'
+    number_title: 2023/886 (OJ L113 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
 - whole_name: Aung Zaw Aye
   function: Shan State chief minister since February 2023; former Commander of the
     Bureau of Special Operations No. 2 of the Myanmar Armed Forces (Tatmadaw)
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-28'
-    number_title: 2023/886 (OJ L113 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
-- whole_name: U Aung Zaw Aye
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-28'

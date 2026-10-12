@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Alapítvány az Igazságtalanságok Leküzdéséért
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177841'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Zaklada za borbu protiv diskriminacije
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Fondation pour la lutte contre l’injustice
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177843'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Stiftung zur Bekämpfung von Ungerechtigkeit
   name_language: DE
   strong: true
@@ -76,11 +46,31 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Fundacja na rzecz Zwalczania Niesprawiedliwości
-  name_language: PL
+- whole_name: Fondation pour la lutte contre l’injustice
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '177840'
+  logical_id: '177843'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Alapítvány az Igazságtalanságok Leküzdéséért
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Zaklada za borbu protiv diskriminacije
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -101,6 +91,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Fundacja na rzecz Zwalczania Niesprawiedliwości
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

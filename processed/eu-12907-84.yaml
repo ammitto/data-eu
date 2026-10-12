@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mikalaj Rahaščuk
+- whole_name: Mikalai Rahaštšuk
   gender: M
-  name_language: CS
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '174122'
+  logical_id: '174120'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -36,12 +36,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Mikalai Rahaštšuk
+- whole_name: Mikalaj Rahaščuk
   gender: M
-  name_language: FI
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174120'
+  logical_id: '174122'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -53,6 +53,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Мікалай Міхайлавіч  РАГАШЧУК
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -81,17 +92,6 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Мікалай Міхайлавіч  РАГАШЧУК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 birthdates:
 - birthdate: '1979-04-22'
   circa: false
@@ -109,21 +109,21 @@ birthdates:
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 identifications:
-- identification_type_code: id
-  number: 3220479C043PB6
-  country_iso2_code: BY
-  regulation_language: en
-  logical_id: '174118'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - identification_type_code: passport
   number: MP4274241
   country_iso2_code: BY
   regulation_language: en
   logical_id: '174119'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- identification_type_code: id
+  number: 3220479C043PB6
+  country_iso2_code: BY
+  regulation_language: en
+  logical_id: '174118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

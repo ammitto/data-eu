@@ -16,24 +16,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shahab al Muhajir
-  gender: M
-  title: Dr.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132936'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 - whole_name: ثناء اللہ غفاری
   gender: M
   name_language: PS
   strong: true
   regulation_language: en
   logical_id: '132938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- first_name: Sanaullah
+  last_name: Ghafari
+  whole_name: Sanaullah Ghafari
+  function: Leader of the Islamic State of Iraq and the Levant-Khorasan (ISIL-K).
+    Information Technology Expert
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -61,27 +64,24 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab Muhajer
+- whole_name: Shahab al Muhajir
   gender: M
+  title: Dr.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132931'
+  logical_id: '132936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- first_name: Sanaullah
-  last_name: Ghafari
-  whole_name: Sanaullah Ghafari
-  function: Leader of the Islamic State of Iraq and the Levant-Khorasan (ISIL-K).
-    Information Technology Expert
+- whole_name: Shihab al Muhajir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132937'
+  logical_id: '132932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -120,12 +120,12 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab al Muhajir
+- whole_name: Shihab Muhajer
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132932'
+  logical_id: '132931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'

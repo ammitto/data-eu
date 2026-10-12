@@ -15,42 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Anton
-  middle_name: Uladzimiravitj
-  last_name: KALJAGA
-  whole_name: Anton Uladzimiravitj KALJAGA
+  middle_name: Vladimirovich
+  last_name: KOLYAGO
+  whole_name: Anton Vladimirovich KOLYAGO
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156941'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Anton
-  middle_name: Uladzimiravič
-  last_name: KAĽAGA
-  whole_name: Anton Uladzimiravič KAĽAGA
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Антон
-  middle_name: Уладзіміравіч
-  last_name: КАЛЯГА
-  whole_name: Антон Уладзіміравіч КАЛЯГА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156746'
+  logical_id: '156748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -71,14 +43,41 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Anton
-  middle_name: Vladimirovich
-  last_name: KOLYAGO
-  whole_name: Anton Vladimirovich KOLYAGO
+  last_name: Kaljaha
+  whole_name: Anton Kaljaha
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156748'
+  logical_id: '157024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Anton
+  middle_name: Uladzimiravič
+  last_name: KAĽAGA
+  whole_name: Anton Uladzimiravič KAĽAGA
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Anton
+  middle_name: Uladzimiravitj
+  last_name: KALJAGA
+  whole_name: Anton Uladzimiravitj KALJAGA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156941'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -98,6 +97,20 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Антон
+  middle_name: Уладзіміравіч
+  last_name: КАЛЯГА
+  whole_name: Антон Уладзіміравіч КАЛЯГА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Anton
   middle_name: Uladzimiravich
   last_name: KALYAGA
@@ -111,19 +124,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Anton
-  last_name: Kaljaha
-  whole_name: Anton Kaljaha
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

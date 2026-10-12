@@ -14,27 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Siarhej Mikalajevitj CHAMENKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Sergei Nikolaevich KHOMENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '125281'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Сергей Николаевич ХОМЕНКО
   gender: M
   name_language: RU
@@ -75,6 +54,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127828'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Siarhej Mikalajevitj CHAMENKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Sergei Nikolaevich KHOMENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '125281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

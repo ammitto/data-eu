@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александра Александровна БОНДАРЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Aleksandra Aleksandrovna BONDAREVA
   function: Ombudsman for Children’s Rights in Astrakhan Oblast
   gender: F
   strong: true
   regulation_language: en
   logical_id: '182739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Александра Александровна БОНДАРЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

@@ -14,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Николай  Владимирович ШКРЕД
+- whole_name: Nikolai Vladimirovich  SHKRED
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174090'
+  logical_id: '174092'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Mikalai Škred
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -36,12 +47,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Mikalai Škred
+- whole_name: Mikalaj Škred
   gender: M
-  name_language: FI
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174087'
+  logical_id: '174089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -60,17 +71,6 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Nikolai Vladimirovich  SHKRED
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174092'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Мікалай Уладзіміравіч  ШКРЭД
   gender: M
   name_language: BE
@@ -82,12 +82,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Mikalaj Škred
+- whole_name: Николай  Владимирович ШКРЕД
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174089'
+  logical_id: '174090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -110,21 +110,21 @@ birthdates:
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 identifications:
-- identification_type_code: passport
-  number: MP4388698
-  country_iso2_code: BY
-  regulation_language: en
-  logical_id: '174086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - identification_type_code: id
   number: 3260481A001PB5
   country_iso2_code: BY
   regulation_language: en
   logical_id: '174085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- identification_type_code: passport
+  number: MP4388698
+  country_iso2_code: BY
+  regulation_language: en
+  logical_id: '174086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

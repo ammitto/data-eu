@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Amana – Cooperative Society for Community Settlement Ltd
-  name_language: EN
+- whole_name: אמנה
+  name_language: HE
   strong: true
   regulation_language: en
-  logical_id: '185530'
+  logical_id: '185558'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
@@ -41,11 +41,11 @@ name_aliases:
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- whole_name: אמנה
-  name_language: HE
+- whole_name: Amana – Cooperative Society for Community Settlement Ltd
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185558'
+  logical_id: '185530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

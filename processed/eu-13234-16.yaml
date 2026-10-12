@@ -14,39 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: It-33 Istitut Ċentrali tar-Riċerka u l-Ittestjar Xjentifiċi tal-Ministeru
-    għad-Difiża tal-Federazzjoni Russa
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '176361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33rd Central Scientific Research and Testing Institute of the Ministry
-    of Defence of the Russian Federation
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Rusijos Federacijos Gynybos ministerijos 33-iasis centrinis mokslinių
-    tyrimų ir bandymų institutas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '176363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: 33o istituto centrale di ricerca e sperimentazione scientifica del ministero
     della Difesa russo
   name_language: IT
@@ -173,12 +140,45 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33e centraal wetenschappelijk instituut voor onderzoek en tests van
-    het Ministerie van Defensie van de Russische Federatie
-  name_language: NL
+- whole_name: Rusijos Federacijos Gynybos ministerijos 33-iasis centrinis mokslinių
+    tyrimų ir bandymų institutas
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '176360'
+  logical_id: '176363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: It-33 Istitut Ċentrali tar-Riċerka u l-Ittestjar Xjentifiċi tal-Ministeru
+    għad-Difiża tal-Federazzjoni Russa
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '176361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: 33rd Central Scientific Research and Testing Institute of the Ministry
+    of Defence of the Russian Federation
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Ryska försvarsministeriets 33:e centrala institut för vetenskaplig forskning
+    och testning
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '176357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -206,12 +206,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Ryska försvarsministeriets 33:e centrala institut för vetenskaplig forskning
-    och testning
-  name_language: SV
+- whole_name: 33e centraal wetenschappelijk instituut voor onderzoek en tests van
+    het Ministerie van Defensie van de Russische Federatie
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '176357'
+  logical_id: '176360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

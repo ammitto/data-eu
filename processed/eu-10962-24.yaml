@@ -74,6 +74,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: AGAT” MOSZKVAI KUTATÓINTÉZET RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: JSC “MOSCOW RESEARCH INSTITUTE ‘AGAT’”
   name_language: EN
   strong: true
@@ -94,16 +104,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: AGAT” MOSZKVAI KUTATÓINTÉZET RT.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
 - street: Tupoleva street 2A
   city: Zhukovsky
@@ -119,6 +119,16 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
+- identification_type_code: fiscalcode
+  number: '5013044999'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '159971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: other
   number: '504001001'
   country_iso2_code: RU
@@ -134,16 +144,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '159969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: fiscalcode
-  number: '5013044999'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '159971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Geopolitikai Szakértői Központ
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centar za geopolitičko znanje
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centre d’expertise géopolitique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Zentrum für Geopolitische Expertise
   name_language: DE
   strong: true
@@ -87,6 +57,36 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Centar za geopolitičko znanje
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Centre d’expertise géopolitique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '177831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Centrul de Expertiză Geopolitică
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Centro especializado em geopolítica
   name_language: PT
   strong: true
@@ -107,11 +107,11 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centrul de Expertiză Geopolitică
-  name_language: RO
+- whole_name: Geopolitikai Szakértői Központ
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177826'
+  logical_id: '177829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Φυλακές  Esfahan
-  name_language: EL
+- whole_name: Eşfahāni keskvangla
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '157828'
+  logical_id: '157961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -34,142 +34,61 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Φυλακές Dastgerd
-  name_language: EL
+- whole_name: Príosún Isfahan
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '157830'
+  logical_id: '157969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Κεντρικές φυλακές Isfahan
-  name_language: EL
+- whole_name: Príosún Dastgerd
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '157831'
+  logical_id: '157970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Isfahan Prison
-  name_language: EN
+- whole_name: Príosún Lárnach Isfahan
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '157757'
+  logical_id: '157971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Esfahan Prison
-  name_language: EN
+- whole_name: Ústřední věznice Isfahán
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157758'
+  logical_id: '157912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Prison of Isfahan
-  name_language: EN
+- whole_name: zatvor Isfahan
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '157759'
+  logical_id: '157918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Dastgerd Prison
-  name_language: EN
+- whole_name: zatvor Esfahan
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '157760'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Isfahan Central Prison
-  function: Prison in Iran
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: centralfängelset i Esfahan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157903'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Централният затвор Isfahan
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '157908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Isfahano centrinis kalėjimas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '157945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Esfahan cietums
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '157949'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Isfahan cietums
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '157950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Dastgerd cietums
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '157951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Isfahan centrālcietums
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '157952'
+  logical_id: '157919'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -515,81 +434,162 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Eşfahāni keskvangla
-  name_language: ET
+- whole_name: Φυλακές  Esfahan
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '157961'
+  logical_id: '157828'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Príosún Esfahan
-  name_language: GA
+- whole_name: Φυλακές του Isfahan
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '157968'
+  logical_id: '157829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Príosún Isfahan
-  name_language: GA
+- whole_name: Φυλακές Dastgerd
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '157969'
+  logical_id: '157830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Príosún Dastgerd
-  name_language: GA
+- whole_name: Κεντρικές φυλακές Isfahan
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '157970'
+  logical_id: '157831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Príosún Lárnach Isfahan
-  name_language: GA
+- whole_name: Isfahan Prison
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157971'
+  logical_id: '157757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Ústřední věznice Isfahán
-  name_language: CS
+- whole_name: Esfahan Prison
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157912'
+  logical_id: '157758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: zatvor Isfahan
-  name_language: HR
+- whole_name: Prison of Isfahan
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157918'
+  logical_id: '157759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: zatvor Esfahan
-  name_language: HR
+- whole_name: Dastgerd Prison
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157919'
+  logical_id: '157760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Isfahan Central Prison
+  function: Prison in Iran
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: centralfängelset i Esfahan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Централният затвор Isfahan
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '157908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Isfahano centrinis kalėjimas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '157945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Esfahan cietums
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '157949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Isfahan cietums
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '157950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Dastgerd cietums
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '157951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Isfahan centrālcietums
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '157952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -635,11 +635,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Φυλακές του Isfahan
-  name_language: EL
+- whole_name: Príosún Esfahan
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '157829'
+  logical_id: '157968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'

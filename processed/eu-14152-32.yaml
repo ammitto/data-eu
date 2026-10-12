@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “СКАЙ ВОРТЕКС”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181516'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Limited Liability Company “Sky Vortex“
   function: LLC “Sky Vortex” is Russia-based distributor of a wide range of certified
     materials from foreign manufacturers for the repair and maintenance of foreign
@@ -67,6 +57,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181517'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО “СКАЙ ВОРТЕКС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181516'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

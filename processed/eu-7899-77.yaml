@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Євген
+  middle_name: Євгенович
+  last_name: ЛАВРЕНОВ
+  whole_name: Євген Євгенович ЛАВРЕНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Евгений
   middle_name: Евгеньевич
   last_name: ЛАВРЕНОВ
@@ -39,20 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Євген
-  middle_name: Євгенович
-  last_name: ЛАВРЕНОВ
-  whole_name: Євген Євгенович ЛАВРЕНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

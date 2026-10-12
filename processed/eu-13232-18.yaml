@@ -14,39 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Truppi tad-Difiża Radjoloġika, Kimika u Bijoloġika tal-Ministeru għad-Difiża
-    tal-Federazzjoni Russa
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '176329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: defensiemacht van het Ministerie van Defensie van de Russische Federatie
-    tegen radiologische, chemische en biologische dreigingen
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '176328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Rusijos Federacijos Gynybos ministerijos Radiacinės, cheminės ir biologinės
-    gynybos pajėgos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '176331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: Truppe di difesa radiologica, chimica e biologica del ministero della
     Difesa della Federazione Russa
   name_language: IT
@@ -58,12 +25,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Postrojbe radiološke, kemijske i biološke obrane u sklopu Ministarstva
-    obrane Ruske Federacije
-  name_language: HR
+- whole_name: Rusijos Federacijos Gynybos ministerijos Radiacinės, cheminės ir biologinės
+    gynybos pajėgos
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '176333'
+  logical_id: '176331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -146,12 +113,45 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Postrojbe radiološke, kemijske i biološke obrane u sklopu Ministarstva
+    obrane Ruske Federacije
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '176333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: Az Oroszországi Föderáció Védelmi Minisztériumának radiológiai, vegyi
     és biológiai védelmi csapatai
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '176330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Truppi tad-Difiża Radjoloġika, Kimika u Bijoloġika tal-Ministeru għad-Difiża
+    tal-Federazzjoni Russa
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '176329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: defensiemacht van het Ministerie van Defensie van de Russische Federatie
+    tegen radiologische, chemische en biologische dreigingen
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '176328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

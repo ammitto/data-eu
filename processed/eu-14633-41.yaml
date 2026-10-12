@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akciová spoločnosť „Neftechemservis“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '184719'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Neftechemservis, societate pe acțiuni
   name_language: RO
   strong: true
@@ -34,21 +24,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC Neftekhimservis
-  name_language: EN
+- whole_name: Akciová spoločnosť „Neftechemservis“
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '183803'
+  logical_id: '184719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО “НХС”
-  name_language: RU
+- whole_name: JSC Neftekhimservis
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183804'
+  logical_id: '183803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -70,6 +60,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО “НХС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

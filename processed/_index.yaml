@@ -1,9 +1,9 @@
 ---
 source: eu
-count: 6241
-fetched_at: '2026-10-11T12:56:25Z'
+count: 6233
+fetched_at: '2026-10-12T15:33:16Z'
 schema: ammitto:sources:eu:v1
-pruned: 0
+pruned: 8
 files:
 - eu-1001-60.yaml
 - eu-10012-1.yaml
@@ -240,7 +240,6 @@ files:
 - eu-10536-77.yaml
 - eu-10538-75.yaml
 - eu-10552-19.yaml
-- eu-10553-18.yaml
 - eu-10554-17.yaml
 - eu-10555-16.yaml
 - eu-10556-15.yaml
@@ -345,7 +344,6 @@ files:
 - eu-10901-17.yaml
 - eu-10902-16.yaml
 - eu-10903-15.yaml
-- eu-10904-14.yaml
 - eu-10906-12.yaml
 - eu-10907-11.yaml
 - eu-10908-10.yaml
@@ -557,7 +555,6 @@ files:
 - eu-11206-34.yaml
 - eu-11207-33.yaml
 - eu-11208-32.yaml
-- eu-11209-31.yaml
 - eu-11210-9.yaml
 - eu-11211-8.yaml
 - eu-11212-7.yaml
@@ -1545,7 +1542,6 @@ files:
 - eu-13360-33.yaml
 - eu-13361-32.yaml
 - eu-13362-31.yaml
-- eu-13363-30.yaml
 - eu-13364-29.yaml
 - eu-13365-28.yaml
 - eu-13366-27.yaml
@@ -2210,7 +2206,6 @@ files:
 - eu-14553-67.yaml
 - eu-14554-66.yaml
 - eu-14555-65.yaml
-- eu-14556-64.yaml
 - eu-14558-62.yaml
 - eu-14560-39.yaml
 - eu-14561-38.yaml
@@ -4597,7 +4592,6 @@ files:
 - eu-7131-14.yaml
 - eu-7132-13.yaml
 - eu-7133-12.yaml
-- eu-7134-11.yaml
 - eu-7135-10.yaml
 - eu-7137-8.yaml
 - eu-7138-7.yaml
@@ -4953,9 +4947,7 @@ files:
 - eu-7511-15.yaml
 - eu-7512-14.yaml
 - eu-7513-13.yaml
-- eu-7514-12.yaml
 - eu-7515-11.yaml
-- eu-7516-10.yaml
 - eu-7517-9.yaml
 - eu-7519-7.yaml
 - eu-7521-81.yaml

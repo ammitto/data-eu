@@ -14,63 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Svetlana
-  middle_name: Pavlovna
-  last_name: POCHODOVA
-  whole_name: Svetlana Pavlovna POCHODOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sviatlana
-  middle_name: Paulauna
-  last_name: PAKHODAVA
-  whole_name: Sviatlana Paulauna PAKHODAVA
-  function: Head of penal colony n°4 for women in Gomel
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Svjatlana
-  middle_name: Paulauna
-  last_name: PACHODAVA
-  whole_name: Svjatlana Paulauna PACHODAVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sviatlana
-  middle_name: Pavlavna
-  last_name: PACHODAVOVÁ
-  whole_name: Sviatlana Pavlavna PACHODAVOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Svjatlana
   last_name: Pachodavová
   whole_name: Svjatlana Pachodavová
@@ -112,6 +55,35 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Sviatlana
+  middle_name: Paulauna
+  last_name: PAKHODAVA
+  whole_name: Sviatlana Paulauna PAKHODAVA
+  function: Head of penal colony n°4 for women in Gomel
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Sviatlana
+  middle_name: Pavlavna
+  last_name: PACHODAVOVÁ
+  whole_name: Sviatlana Pavlavna PACHODAVOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Svetlana
   middle_name: Pavlovna
   last_name: POKHODOVA
@@ -121,6 +93,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Svetlana
+  middle_name: Pavlovna
+  last_name: POCHODOVA
+  whole_name: Svetlana Pavlovna POCHODOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Svjatlana
+  middle_name: Paulauna
+  last_name: PACHODAVA
+  whole_name: Svjatlana Paulauna PACHODAVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -78,11 +78,11 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: other
-  number: '160823'
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '321000400012591'
+  country_iso2_code: CN
   regulation_language: en
-  logical_id: '181298'
+  logical_id: '181420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -98,21 +98,21 @@ identifications:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- identification_type_code: regnumber
-  number: '321000400012591'
-  country_iso2_code: CN
+- identification_type_code: other
+  number: '913210007908906337'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181420'
+  logical_id: '181297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: other
-  number: '913210007908906337'
+  number: '160823'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181297'
+  logical_id: '181298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -41,18 +41,6 @@ name_aliases:
     publication_date: '2022-04-12'
     number_title: 2022/592 (OJ L114)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
-- first_name: Leila
-  last_name: VASEGHI
-  whole_name: Leila VASEGHI
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '127439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-12'
-    number_title: 2022/592 (OJ L114)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
 - first_name: Layla
   last_name: VASEGHI
   whole_name: Layla VASEGHI
@@ -65,21 +53,19 @@ name_aliases:
     publication_date: '2022-04-12'
     number_title: 2022/592 (OJ L114)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
-birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1972
-  city: Sari
-  region: Mazandaran Province
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- first_name: Leila
+  last_name: VASEGHI
+  whole_name: Leila VASEGHI
+  gender: F
+  strong: true
   regulation_language: en
-  logical_id: '127435'
+  logical_id: '127439'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+    publication_date: '2022-04-12'
+    number_title: 2022/592 (OJ L114)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0592
+birthdates:
 - circa: false
   calendar_type: ISLAMIC
   year: 1352
@@ -89,6 +75,20 @@ birthdates:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '127436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1972
+  city: Sari
+  region: Mazandaran Province
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '127435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'

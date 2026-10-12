@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Едуард
-  last_name: Епишин
-  whole_name: Едуард Епишин
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '163812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Eduard
   middle_name: Borisovich
   last_name: EPISHIN
@@ -56,6 +43,17 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Eduard Epišin
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Eduard Epišin
   last_name: Epišin
   whole_name: Eduard Epišin Epišin
@@ -69,12 +67,14 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Eduard Epišin
+- first_name: Едуард
+  last_name: Епишин
+  whole_name: Едуард Епишин
   gender: M
-  name_language: SK
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '163831'
+  logical_id: '163812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

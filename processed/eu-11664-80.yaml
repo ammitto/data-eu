@@ -14,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ingenieurzentrum  für innovative Technologien
-  name_language: DE
+- whole_name: Műszaki Központ az Innovatív Technológiákért
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: LLC “Center of Innovative Technologies and Engineering”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "“Engineering Center for Innovative Technologies”"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "„Centrul de inginerie pentru tehnologii inovatoare”"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167211'
+  logical_id: '167213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -64,11 +34,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Műszaki Központ az Innovatív Technológiákért
-  name_language: HU
+- whole_name: "„Centrul de inginerie pentru tehnologii inovatoare”"
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '167213'
+  logical_id: '167211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -79,6 +49,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: "“Engineering Center of Innovative Technologies”"
+  function: The “Engineering Center of Innovative Technologies” specialises in the
+    sphere of radio electronics and produces new integrated technological lines and
+    electronic components.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: LLC “Center of Innovative Technologies and Engineering”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -134,15 +128,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "“Engineering Center of Innovative Technologies”"
-  function: The “Engineering Center of Innovative Technologies” specialises in the
-    sphere of radio electronics and produces new integrated technological lines and
-    electronic components.
-  title: Limited Liability Company
-  name_language: EN
+- whole_name: Ingenieurzentrum  für innovative Technologien
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '166222'
+  logical_id: '167558'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -218,6 +208,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: "“Engineering Center for Innovative Technologies”"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 addresses:
 - street: Zavodskoy pr-d, 2, office space 632
   city: Fryazino city
@@ -233,21 +233,21 @@ addresses:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
-- identification_type_code: fiscalcode
-  number: '5050127869'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '167553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: regnumber
   number: '1165050054949'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- identification_type_code: fiscalcode
+  number: '5050127869'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '167553'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

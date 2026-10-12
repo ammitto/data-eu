@@ -24,21 +24,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: FSUE Atomflot
+- whole_name: Atomflot
+  function: Russian company that maintains Russia’s icebreaker fleet
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Федеральное Государственное Унитарное Предприятие Атомного Флота
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150854'
+  logical_id: '150856'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -54,12 +45,21 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Atomflot
-  function: Russian company that maintains Russia’s icebreaker fleet
+- whole_name: Федеральное Государственное Унитарное Предприятие Атомного Флота
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: FSUE Atomflot
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150856'
+  logical_id: '150853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

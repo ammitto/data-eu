@@ -14,57 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: regionalna enota  Islamske revolucionarne garde Quds  v provinci Gilan
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamic Revolutionary Guard Corps (IRGC) Regional Corps Quds in Gilan
-  function: Islamic Revolutionary Guard Corps (IRGC) military unit
-  strong: true
-  regulation_language: en
-  logical_id: '148515'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpo regionale Quds del Corpo delle  guardie rivoluzionarie islamiche
-    (IRGC), Gilan
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamiska  revolutionsgardets regionala Qods-styrkor i Gilan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148821'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Az Iszlám Forradalmi Gárda giláni Quds regionális hadteste
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '148843'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Corpul provincial «Quds» al Corpului  Gardienilor Revoluției Iraniene
     (IRGC) din Gilan
   name_language: RO
@@ -113,16 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148589'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Quds-joukot Gilanissa
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -262,6 +201,67 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamic Revolutionary Guard Corps (IRGC) Regional Corps Quds in Gilan
+  function: Islamic Revolutionary Guard Corps (IRGC) military unit
+  strong: true
+  regulation_language: en
+  logical_id: '148515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: regionalna enota  Islamske revolucionarne garde Quds  v provinci Gilan
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Quds-joukot Gilanissa
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Corpo regionale Quds del Corpo delle  guardie rivoluzionarie islamiche
+    (IRGC), Gilan
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '148611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamiska  revolutionsgardets regionala Qods-styrkor i Gilan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Az Iszlám Forradalmi Gárda giláni Quds regionális hadteste
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

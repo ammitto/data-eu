@@ -14,95 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fórsaí  Forfheidhmithe Dlí Phoblacht  Ioslamach na hIaráine
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '144982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Forces de l’ordre de la République  islamique d’Iran
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '144986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Fuerza Disciplinaria de la República  Islámica de Irán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '144990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Forças Policiais da República  Islâmica do Irão
-  strong: true
-  regulation_language: en
-  logical_id: '144994'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Forze dell’ordine della Repubblica  islamica dell’Iran
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '144998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Forțele de  aplicare a legii ale Republicii Islamice  Iran
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '145022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Forzi tal-Infurzar tal-Liġi tar-Repubblika Iżlamika tal-Iran
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '145026'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: правоохранителни сили на Ислямска република Иран
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '145035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Den Islamiske Republik Irans  retshåndhævende styrker
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '145040'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Iranin islamilaisen tasavallan lainvalvontajoukot
   name_language: FI
   strong: true
@@ -222,6 +133,26 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: правоохранителни сили на Ислямска република Иран
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '145035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Den Islamiske Republik Irans  retshåndhævende styrker
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '145040'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: فرماندهی انتظامی جمهوری اسلامی ایران
   strong: true
   regulation_language: en
@@ -284,6 +215,75 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Fórsaí  Forfheidhmithe Dlí Phoblacht  Ioslamach na hIaráine
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '144982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Forces de l’ordre de la République  islamique d’Iran
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '144986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Fuerza Disciplinaria de la República  Islámica de Irán
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '144990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Forças Policiais da República  Islâmica do Irão
+  strong: true
+  regulation_language: en
+  logical_id: '144994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Forze dell’ordine della Repubblica  islamica dell’Iran
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '144998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Forțele de  aplicare a legii ale Republicii Islamice  Iran
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '145022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Forzi tal-Infurzar tal-Liġi tar-Repubblika Iżlamika tal-Iran
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '145026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

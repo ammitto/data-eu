@@ -14,58 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ajk Arsenovitj GASPARJAN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Abrek
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150684'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Hayk
-  middle_name: Arsenovich
-  last_name: GASPARYAN
-  whole_name: Hayk Arsenovich GASPARYAN
-  function: |-
-    Commander of “ArBat” battalion.
-    Commander of the assault forces of the Wagner group (commander of the forces during the battle of Soledar in the Donetsk region of Ukraine in January 2023)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Ajk
-  last_name: Gasparian
-  whole_name: Ajk Gasparian
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Hajk
   last_name: Gasparjan
   whole_name: Hajk Gasparjan
@@ -93,6 +41,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Abrek
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Ayk
   middle_name: Arsenovich
   last_name: GASPARYAN
@@ -107,6 +66,47 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Hayk
+  middle_name: Arsenovich
+  last_name: GASPARYAN
+  whole_name: Hayk Arsenovich GASPARYAN
+  function: |-
+    Commander of “ArBat” battalion.
+    Commander of the assault forces of the Wagner group (commander of the forces during the battle of Soledar in the Donetsk region of Ukraine in January 2023)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Ajk Arsenovitj GASPARJAN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151150'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Ajk
+  last_name: Gasparian
+  whole_name: Ajk Gasparian
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 citizenships:
 - country_iso2_code: AM
   country_description: ARMENIA

@@ -14,137 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Penitenciária de Kechoui
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '157819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Penitenciária de Kachouii
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '157820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Penitenciária de Kachui
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '157821'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Φυλακές Fardis
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '157832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Fardis Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157763'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kachuyi Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kechoui Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157765'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kachouii Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kachui Prison
-  function: Prison in Iran
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Fardis-fängelset
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kachui-fängelset
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157905'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Затворът Kachui
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '157909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Kachui kalėjimas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '157946'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Fardis cietums
   name_language: LV
   strong: true
@@ -680,6 +549,137 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Penitenciária de Kechoui
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '157819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Penitenciária de Kachouii
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '157820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Penitenciária de Kachui
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '157821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Φυλακές Fardis
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '157832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Fardis Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157763'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kachuyi Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kechoui Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kachouii Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kachui Prison
+  function: Prison in Iran
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157767'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Fardis-fängelset
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kachui-fängelset
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157905'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Затворът Kachui
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '157909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Kachui kalėjimas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '157946'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'

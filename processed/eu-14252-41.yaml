@@ -14,11 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mustafa Adnan al-Aziz
-  name_language: EN
+- whole_name: ﺳﺎﻣﻲ ﺟﺎﺳم ﻣﺣﻣد ﺟﻌﺎطﺔ اﻟﺟﺑوري
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '181939'
+  logical_id: '181940'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026
+    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
+- whole_name: Hajji Hamid
+  strong: true
+  regulation_language: en
+  logical_id: '181935'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'
@@ -34,26 +43,6 @@ name_aliases:
     publication_date: '2026-03-26'
     number_title: UNLI 26.03.2026
     publication_url: https://press.un.org/en/2026/sc16323.doc.htm
-- whole_name: ﻣﺻطﻔﻰ ﻋدﻧﺎن اﻟﻌزﯾز
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '181938'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026
-    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
-- whole_name: ﺳﺎﻣﻲ ﺟﺎﺳم ﻣﺣﻣد ﺟﻌﺎطﺔ اﻟﺟﺑوري
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '181940'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026
-    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
 - whole_name: Mustafa Adnan al-Azeez
   strong: true
   regulation_language: en
@@ -63,10 +52,11 @@ name_aliases:
     publication_date: '2026-03-26'
     number_title: UNLI 26.03.2026
     publication_url: https://press.un.org/en/2026/sc16323.doc.htm
-- whole_name: Hajji Hamid
+- whole_name: ﻣﺻطﻔﻰ ﻋدﻧﺎن اﻟﻌزﯾز
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '181935'
+  logical_id: '181938'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'
@@ -87,6 +77,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181941'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026
+    publication_url: https://press.un.org/en/2026/sc16323.doc.htm
+- whole_name: Mustafa Adnan al-Aziz
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181939'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'

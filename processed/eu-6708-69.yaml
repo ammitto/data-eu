@@ -25,12 +25,11 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Марат Сяргеевіч  МАРКАЎ
+- whole_name: Marat Sergeevich  MARKOV
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '132084'
+  logical_id: '132085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -47,12 +46,13 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Марат Сергеевич  МАРКОВ
+- whole_name: Marat Siarheevich  MARKAU
+  function: 'Chairman of the Management Board of State-controlled TV channel ONT,
+    host of the “Markov: Nothing Personal” programme'
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132083'
+  logical_id: '132086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -69,23 +69,23 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Marat Sergeevich  MARKOV
+- whole_name: Марат Сяргеевіч  МАРКАЎ
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '132085'
+  logical_id: '132084'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Marat Siarheevich  MARKAU
-  function: 'Chairman of the Management Board of State-controlled TV channel ONT,
-    host of the “Markov: Nothing Personal” programme'
+- whole_name: Марат Сергеевич  МАРКОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132086'
+  logical_id: '132083'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество “НПО Стеклопластик имени Н.Н. Трофимова”
-  name_language: RU
+- whole_name: "»NPO Stekloplastik named after N.N. Trofimov« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176912'
+  logical_id: '177263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -38,11 +38,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea pe acțiuni «NPO Stekloplastik denumită după N.N. Trofimov»
-  name_language: RO
+- whole_name: Акционерное Общество “НПО Стеклопластик имени Н.Н. Трофимова”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177260'
+  logical_id: '176912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -68,21 +68,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»NPO Stekloplastik named after N.N. Trofimov« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "»NPO Stekloplastik named after N.N. Trofimov« Rt."
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '177262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe acțiuni «NPO Stekloplastik denumită după N.N. Trofimov»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -112,6 +112,16 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
+- identification_type_code: other
+  number: '504401001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1035008852097'
   country_iso2_code: RU
@@ -127,16 +137,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- identification_type_code: other
-  number: '504401001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176907'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

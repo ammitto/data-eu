@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: fábrica "Zvezda"
-  name_language: PT
+- whole_name: ФЛ “Завод  ‘Звезда’” ФГУП  “НПЦАП”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '155018'
+  logical_id: '154749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -62,46 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '154752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: ФЛ “Завод  ‘Звезда’” ФГУП  “НПЦАП”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Zakład „Zvezda”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '155017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Závod „Zvezda“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '155172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: εργοστάσιο «Zvezda»
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '155037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -167,19 +127,47 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-addresses:
-- street: Novaya str., 80
-  region: Tver region
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '172739'
+- whole_name: εργοστάσιο «Zvezda»
+  name_language: EL
+  strong: true
   regulation_language: en
-  logical_id: '154747'
+  logical_id: '155037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Závod „Zvezda“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '155172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Zakład „Zvezda”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '155017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: fábrica "Zvezda"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '155018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+addresses:
 - street: Vvedenskogo street, 1
   city: Moscow City
   country_iso2_code: RU
@@ -187,6 +175,18 @@ addresses:
   zip_code: '117342'
   regulation_language: en
   logical_id: '154746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- street: Novaya str., 80
+  region: Tver region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '172739'
+  regulation_language: en
+  logical_id: '154747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

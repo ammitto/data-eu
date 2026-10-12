@@ -14,50 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Yevgeny Sandro
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Евгений
-  last_name: Примаков-младший
-  whole_name: Евгений Примаков-младший
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Евгений
-  middle_name: Александрович
-  last_name: ПРИМАКОВ
-  whole_name: Евгений Александрович ПРИМАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Jevgenij Aleksandrovitj PRIMAKOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '151012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Евгений Сандро
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -85,14 +58,14 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Yevgeny
-  last_name: Primakov Jr
-  whole_name: Yevgeny Primakov Jr
+- first_name: Евгений
+  last_name: Примаков-младший
+  whole_name: Евгений Примаков-младший
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '149624'
+  logical_id: '149622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -114,12 +87,39 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Евгений Сандро
+- whole_name: Yevgeny Sandro
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Yevgeny
+  last_name: Primakov Jr
+  whole_name: Yevgeny Primakov Jr
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Евгений
+  middle_name: Александрович
+  last_name: ПРИМАКОВ
+  whole_name: Евгений Александрович ПРИМАКОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '149621'
+  logical_id: '149625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

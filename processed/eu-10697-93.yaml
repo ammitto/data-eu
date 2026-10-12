@@ -15,6 +15,35 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Zinaida
+  middle_name: Vasilieuna
+  last_name: BALABALAVA
+  whole_name: Zinaida Vasilieuna BALABALAVA
+  function: Judge at Navapolatsk City Court
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157311'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Zinaida
+  middle_name: Vasilievna
+  last_name: BALABALAVA
+  whole_name: Zinaida Vasilievna BALABALAVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Zinaida
   middle_name: Vasiljevna
   last_name: BALABOLAVA
   whole_name: Zinaida Vasiljevna BALABOLAVA
@@ -23,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Zinaida
+  middle_name: Vasiljeuna
+  last_name: BALABALAVA
+  whole_name: Zinaida Vasiljeuna BALABALAVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157307'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -55,34 +98,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinaida
-  middle_name: Vasiljeuna
-  last_name: BALABALAVA
-  whole_name: Zinaida Vasiljeuna BALABALAVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Зiнаiда
-  middle_name: Васiльеўна
-  last_name: БАЛАБАЛАВА
-  whole_name: Зiнаiда Васiльеўна БАЛАБАЛАВА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Зинаида
   middle_name: Васильевна
   last_name: БАЛАБОЛАВА
@@ -97,30 +112,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinaida
-  middle_name: Vasilievna
-  last_name: BALABALAVA
-  whole_name: Zinaida Vasilievna BALABALAVA
+- first_name: Зiнаiда
+  middle_name: Васiльеўна
+  last_name: БАЛАБАЛАВА
+  whole_name: Зiнаiда Васiльеўна БАЛАБАЛАВА
   gender: F
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '157310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinaida
-  middle_name: Vasilieuna
-  last_name: BALABALAVA
-  whole_name: Zinaida Vasilieuna BALABALAVA
-  function: Judge at Navapolatsk City Court
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157311'
+  logical_id: '157308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

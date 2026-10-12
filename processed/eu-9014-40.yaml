@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
-  middle_name: Aleksandrovitj
-  last_name: PANJAJEV
-  whole_name: Vladimir Aleksandrovitj PANJAJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145978'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Vladimir
   last_name: ALEXEJEV
   whole_name: Vladimir ALEXEJEV
   gender: M
@@ -42,26 +28,14 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Vladimir
-  last_name: ALEXEEV
-  whole_name: Vladimir ALEXEEV
+  middle_name: Aleksandrovitj
+  last_name: PANJAJEV
+  whole_name: Vladimir Aleksandrovitj PANJAJEV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Владимир
-  middle_name: Александрович
-  last_name: ПАНЯЕВ
-  whole_name: Владимир Александрович ПАНЯЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145363'
+  logical_id: '145978'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -83,13 +57,26 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Владимир
-  last_name: АЛЕКСЕЕВ
-  whole_name: Владимир АЛЕКСЕЕВ
+  middle_name: Александрович
+  last_name: ПАНЯЕВ
+  whole_name: Владимир Александрович ПАНЯЕВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '145360'
+  logical_id: '145363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Vladimir
+  last_name: ALEXEEV
+  whole_name: Vladimir ALEXEEV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -102,6 +89,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Владимир
+  last_name: АЛЕКСЕЕВ
+  whole_name: Владимир АЛЕКСЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

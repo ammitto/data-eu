@@ -14,11 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ufa Aggregate Enterprise »Gidravlika« Részvénytársaság
-  name_language: HU
+- whole_name: Joint Stock Company Ufa Aggregate Enterprise “Gidravlika”
+  function: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika
+    holding of the State Corporation Rostec and functions as a developer and manufacturer
+    of products for aviation and military equipment, such as MS-21, Il-114, Su-57
+    and Il-96-400M.
+  title: Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175244'
+  logical_id: '175004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -34,26 +39,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество Уфимское Агрегатное Предприятие “Гидравлика”
+- whole_name: АО Уфимское Агрегатное Предприятие “Гидравлика”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company Ufa Aggregate Enterprise “Gidravlika”
-  function: JSC UAP “Gidravlika” is a military company that is part of the Technodinamika
-    holding of the State Corporation Rostec and functions as a developer and manufacturer
-    of products for aviation and military equipment, such as MS-21, Il-114, Su-57
-    and Il-96-400M.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175004'
+  logical_id: '175002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -79,11 +69,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО Уфимское Агрегатное Предприятие “Гидравлика”
+- whole_name: Aкционерное общество Уфимское Агрегатное Предприятие “Гидравлика”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175002'
+  logical_id: '175003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Ufa Aggregate Enterprise »Gidravlika« Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -113,21 +113,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '027801001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '0278179819'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '027801001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

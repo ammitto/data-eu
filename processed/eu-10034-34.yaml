@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Usama
+  last_name: AL-MALIKI
+  whole_name: Usama AL-MALIKI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Osama
   last_name: AL-MALIKI
   whole_name: Osama AL-MALIKI
@@ -39,19 +52,6 @@ name_aliases:
     publication_date: '2025-03-28'
     number_title: 2025/90279 (OJ L202590279) [corr. 28.03.2025]
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202590279
-- first_name: Usama
-  last_name: AL-MALIKI
-  whole_name: Usama AL-MALIKI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

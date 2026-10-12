@@ -84,19 +84,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Lagoďuk
-  whole_name: Sergej Lagoďuk
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Sergey
   middle_name: Evgenyevich
   last_name: LAGODIUK
@@ -109,6 +96,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  last_name: Lagadzjuk
+  whole_name: Sergej Lagadzjuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -128,13 +128,13 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Sergej
-  last_name: Lagadzjuk
-  whole_name: Sergej Lagadzjuk
+  last_name: Lagoďuk
+  whole_name: Sergej Lagoďuk
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160846'
+  logical_id: '160848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -34,21 +34,21 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Общество с ограниченной ответственностью “Экопром”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Limited Liability Company “Ecoprom”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью “Экопром”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
