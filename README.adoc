@@ -1,352 +1,123 @@
-= Ammitto EU Sanctions Data Repository
+= Ammitto EU financial sanctions data
 
-== Purpose
+image:https://github.com/ammitto/data-eu/actions/workflows/fetch.yml/badge.svg["Fetch Data", link="https://github.com/ammitto/data-eu/actions/workflows/fetch.yml"]
 
-This repository stores downloaded and processed sanctions data from the
-European Union (EU) Consolidated List of Sanctions.
+This repository stores the European Union's consolidated financial sanctions
+list as YAML for Ammitto. The records in `processed/` cover the persons,
+groups and entities listed by the European Commission.
 
-The data is maintained by the Ammitto project and used by the `ammitto` Ruby
-gem for querying international sanctions information.
+== Source
 
-== Legal Basis
+* Publisher: European Commission, Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+* Dataset page: https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en
+* File downloaded (XML, version 1.1): https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw
 
-The EU sanctions are implemented through Common Foreign and Security Policy
-(CFSP) regulations. Key legal instruments include:
+The list consolidates the persons, groups and entities subject to EU
+financial sanctions, with the legal acts that list them.
 
-* Council Regulations based on Article 215 of the Treaty on the Functioning
-  of the European Union (TFEU)
-* Council Decisions adopted under Article 29 of the Treaty on European Union
-* Council Common Positions adopted under Title V of the Treaty on European
-  Union
+== Contents
 
-The consolidated list is maintained by the European Commission's Service for
-Foreign Policy Instruments (FPI).
+`processed/` holds one file per listing, named after its EU reference
+number: `processed/eu-10012-1.yaml` is `EU.10012.1`.
 
-== Data Source
+`processed/_index.yaml` lists every file, with the time of the last fetch.
 
-* **Authority**: European Commission - Service for Foreign Policy Instruments
-* **API Endpoint**: https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList/content
-* **Format**: XML
-* **Update Frequency**: As changes occur in EU sanctions regimes
-* **Official Source**: https://finance.ec.europa.eu/sanctions-dossier_en
-
-== Directory Structure
-
-```
-.
-├── downloaded/           # Raw XML snapshot of the source list
-│   └── eu-data.xml
-├── processed/            # Individual YAML files per sanction entity
-│   └── {reference-number}.yaml
-├── README.adoc           # This file
-└── update.log            # Timestamps of data updates
-```
-
-== Directory Descriptions
-
-downloaded/:: Raw XML snapshot of the EU consolidated list.
-
-processed/:: Contains individual YAML files, one per sanction entity.
-Files are named after the EU reference number, lowercased with other
-characters replaced by hyphens: `EU.1001.60` is in `eu-1001-60.yaml`.
-
-update.log:: Log file tracking when data was last updated with timestamps.
-
-== Updating Data
-
-Data can be updated using the ammitto gem:
-
-[source,shell]
-----
-# From the ammitto gem directory
-bundle exec ruby exe/ammitto fetch eu --format yaml --output-dir ./processed
-----
-
-Or via the adapters repository:
-
-[source,shell]
-----
-# From the adapters/ directory
-ruby adapter.rb
-----
-
-== Source Data Format
-
-The processed YAML files in `processed/` follow this structure:
-
-=== Person Entity
-[source,yaml]
-----
-eu_reference_number: EU.1001.60
-entity_type: person
-subject_type:
-  code: person
-  classification_code: P
-name_aliases:
-- first_name: Yassin
-  last_name: Syawal
-  whole_name: Yassin Syawal
-  gender: M
-  strong: true
-- whole_name: Salim Yasin
-  strong: true
-birthdates:
-- birthdate: "1985-01-01"
-  city: City
-  country: Country
-citizenships:
-- country: Afghanistan
-identifications:
-- type: Passport
-  number: "123456"
-  country: Afghanistan
-regulations:
-- regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2019-04-08'
-  number_title: 2019/555 (OJ L97)
-  programme: TAQA
-----
-
-=== Organization Entity
-[source,yaml]
-----
-eu_reference_number: EU.1002.30
-entity_type: organization
-subject_type:
-  code: enterprise
-  classification_code: E
-name_aliases:
-- whole_name: EXAMPLE COMPANY LTD
-  strong: true
-addresses:
-- city: City
-  country: Country
-regulations:
-- regulation_type: amendment
-  number_title: 2022/123 (OJ L45)
-  programme: RUS
-----
-
-=== Field Definitions
-
-[cols="1,4"]
+[cols="1,1,3"]
 |===
-| Field | Description
+| Key | Type | Meaning
 
-| `eu_reference_number`
-| Unique EU identifier (e.g., EU.1001.60)
-
-| `entity_type`
-| Entity type: person, organization, or vessel
-
-| `subject_type.code`
-| EU subject type classification
-
-| `name_aliases`
-| Array of name variants with whole_name, first_name, last_name
-
-| `birthdates`
-| Array of birth information for persons
-
-| `citizenships`
-| Array of citizenship countries
-
-| `identifications`
-| Array of identification documents
-
-| `addresses`
-| Array of address information
-
-| `regulations`
-| Array of legal instruments/regulations
-
-| `programme`
-| Sanctions programme/regime code
-
+| `eu_reference_number` | string | EU reference number, such as `EU.10012.1`
+| `logical_id` | string | Identifier of the entry in the EU XML
+| `subject_type` | map | `code` (`person` or `enterprise`) and `classification_code` (`P` or `E`)
+| `regulations` | list | Legal acts behind the listing: `regulation_type`, `organisation_type`, `publication_date`, `entry_into_force_date`, `number_title`, `programme` (such as `UKR`, `IRN` or `SYR`) and `publication_url` (EUR-Lex)
+| `name_aliases` | list | Names: `whole_name`, and where given `first_name`, `middle_name`, `last_name`, `title`, `function`, `gender`, `name_language`, plus `strong` (true or false)
+| `birthdates` | list | Dates and places of birth: `birthdate`, `year`, `month_of_year`, `day_of_month`, `circa`, `year_range_from`, `year_range_to`, `city`, `place`, `region`, `country_iso2_code`, `country_description`, `calendar_type`
+| `citizenships` | list | `country_iso2_code` and `country_description`
+| `addresses` | list | `street`, `city`, `zip_code`, `region`, `country_iso2_code`, `country_description`
+| `identifications` | list | Documents: `identification_type_code` (such as `passport`, `regnumber` or `taxid`), `number`, `country_iso2_code`
+| `remark` | string | Remarks published with the listing
+| `designation_details` | string | Designation details, where given
+| `united_nation_id` | string | UN reference number, for listings that implement a UN designation
 |===
 
-== Harmonized Data Format
+Entries in `name_aliases`, `birthdates`, `citizenships`, `addresses` and
+`identifications` also carry their own `logical_id`, `regulation_language`
+and `regulation_summaries`: the legal act each detail comes from.
 
-After harmonization, entities are transformed into JSON-LD format:
+`downloaded/eu-data.xml` and `update.log` are older files that the daily
+fetch no longer updates; use `processed/`.
 
-=== Entity (JSON-LD)
-[source,json]
+== Using the data
+
+Clone or download this repository and run either example from its root
+directory.
+
+Ruby:
+
+[source,ruby]
 ----
-{
-  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
-  "@id": "https://www.ammitto.org/entity/eu/EU.1001.60",
-  "@type": "PersonEntity",
-  "names": [
-    {
-      "@type": "NameVariant",
-      "fullName": "Yassin Syawal",
-      "script": "Latn",
-      "isPrimary": true
-    }
-  ],
-  "birthInfo": [
-    {
-      "@type": "BirthInfo",
-      "date": "1985-01-01"
-    }
-  ],
-  "nationalities": ["Afghanistan"],
-  "sanctionEntries": [
-    {
-      "@id": "https://www.ammitto.org/entry/eu/EU.1001.60",
-      "@type": "SanctionEntry",
-      "authority": {
-        "@id": "https://www.ammitto.org/authority/eu",
-        "name": "European Union"
-      },
-      "regime": {
-        "@type": "SanctionRegime",
-        "code": "TAQA",
-        "name": "Al-Qaida and Taliban"
-      },
-      "status": "active",
-      "legalInstruments": [
-        {
-          "@type": "LegalInstrument",
-          "name": "Regulation 2019/555"
-        }
-      ]
-    }
-  ]
-}
+require "yaml"
+
+Dir.glob("processed/eu-*.yaml").sort.each do |path|
+  record = YAML.safe_load_file(path)
+  name = record["name_aliases"].first["whole_name"]
+  programmes = record["regulations"].map { |r| r["programme"] }.uniq.join(",")
+  puts [record["eu_reference_number"], record["subject_type"]["code"], programmes, name].join("\t")
+end
 ----
 
-=== EU Programme Codes
+Python (requires PyYAML, installed with `python3 -m pip install PyYAML`):
 
-[cols="1,3"]
-|===
-| Code | Description
-
-| `TAQA`
-| Al-Qaida and Taliban
-
-| `RUS`
-| Russia
-
-| `DPRK`
-| North Korea
-
-| `IRN`
-| Iran
-
-| `SYR`
-| Syria
-
-| `LBY`
-| Libya
-
-| `SOM`
-| Somalia
-
-|===
-
-== YAML Schema
-
-Each processed YAML file follows the schema defined in
-`ammitto/lib/ammitto/sources/eu/` using Lutaml::Model.
-
-.Example YAML structure
-[source,yaml]
+[source,python]
 ----
-names:
-  - "PRIMARY NAME"
-  - "ALIAS 1"
-entity_type: person  # or "organization", "vessel"
-source: eu
-country: Country Name
-birthdate: "YYYY-MM-DD"
-identifications:
-  - type: "Passport"
-    number: "XXX123456"
-addresses:
-  - street: "Street Address"
-    city: "City"
-    country: "Country"
+import glob
+import yaml
+
+for path in sorted(glob.glob("processed/eu-*.yaml")):
+    with open(path, encoding="utf-8") as f:
+        record = yaml.safe_load(f)
+    name = record["name_aliases"][0]["whole_name"]
+    programmes = ",".join(sorted({r["programme"] for r in record["regulations"]}))
+    print(record["eu_reference_number"], record["subject_type"]["code"], programmes, name, sep="\t")
 ----
 
-== Entity Types
-
-The EU sanctions list contains the following entity types:
-
-Person:: Individual persons subject to sanctions
-Organization:: Legal entities, companies, and organizations
-Vessel:: Ships and maritime vessels subject to sanctions
-
-== Harmonized Ontology Mapping
-
-The EU source data is transformed to the Ammitto harmonized ontology.
-See `lib/ammitto/ontology/` in the ammitto gem for the full model.
-
-=== Raw Source Model to Harmonized Ontology
-
-[cols="1,2,1"]
-|===
-| Raw Field | Harmonized Field | Class
-
-| eu_reference_number | id (URI) | Entity
-| subject_type.code | entity_type | Entity
-| name_aliases | names | NameVariant[]
-| addresses | addresses | Address[]
-| birthdates | birth_info | BirthInfo[]
-| citizenships | nationalities | String[]
-| identifications | identifications | Identification[]
-| regulations | legal_bases | LegalInstrument[]
-| programme | regime.code | SanctionRegime
-| remark | remarks | String
-|===
-
-=== Entity Type Mapping
-
-[cols="1,1"]
-|===
-| EU Subject Type | Harmonized Entity Type
-
-| person | PersonEntity
-| enterprise | OrganizationEntity
-| entity | OrganizationEntity
-|===
-
-=== Example Harmonized Output
-
-[source,json]
-----
-{
-  "id": "https://www.ammitto.org/entity/eu/EU.123.45",
-  "entity_type": "person",
-  "names": [
-    {"full_name": "Ivan Ivanov", "first_name": "Ivan", "last_name": "Ivanov", "is_primary": true}
-  ],
-  "birth_info": [
-    {"date": "1970-01-15", "city": "Moscow", "country": "Russia"}
-  ],
-  "nationalities": ["RU"],
-  "identifications": [
-    {"type": "passport", "number": "12345678", "issuing_country": "RU"}
-  ]
-}
-----
-
-== Knowledge Graph Integration
-
-This repository's processed YAML data feeds into the Ammitto knowledge graph.
-
-Harmonized JSON-LD for this source:
+The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/eu.jsonld
 
-== Related Repositories
+== Updates
 
-* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
-* https://github.com/ammitto/data[data] - Harmonized knowledge graph output
-* https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
+The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
+every day at 06:15 UTC and commits any change to `processed/`. It runs with
+`--prune`, so a listing the EU has removed is deleted here on the next fetch.
+
+== Development
+
+`processed/` is generated by the Ammitto gem. To refresh it locally, use
+Ruby 3.3 (the version selected by the fetch workflow) and Bundler. From
+the repository root, run:
+
+[source,shell]
+----
+bundle install
+bundle exec ammitto fetch eu --format yaml --output-dir processed --verbose --prune
+----
+
+`--prune` removes files for listings no longer present in the fetched list.
+Review the generated changes before committing them.
+
+Fetch and parser changes belong in the
+https://github.com/ammitto/ammitto[Ammitto gem]; its source models are in
+https://github.com/ammitto/ammitto/tree/main/lib/ammitto/sources/eu[`lib/ammitto/sources/eu/`].
+Report data or source-list issues in
+https://github.com/ammitto/data-eu/issues[this repository].
 
 == License
 
 Data in this repository is sourced from official EU publications and is
 subject to EU copyright and licensing terms. The data processing code is
 part of the Ammitto project.
+
+== Related
+
+* https://www.ammitto.org[ammitto.org]: search across all sources
+* https://github.com/ammitto/ammitto[ammitto]: the Ruby gem that fetches and harmonizes this data
