@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11280.83
 logical_id: '162805'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -118,6 +119,7 @@ addresses:
   zip_code: '297408'
   regulation_language: en
   logical_id: '162807'
+  place: Republic of Crimea
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

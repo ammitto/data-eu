@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14629.66
 logical_id: '183776'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,13 @@ addresses:
   zip_code: '294201'
   regulation_language: en
   logical_id: '183777'
+  contact_infos:
+  - key: WEB
+    value: https://info.ygmk.ru
+  - key: PHONE
+    value: "+7 (495) 103-12-93"
+  - key: EMAIL
+    value: ygmkl@smetalls.com; info@smetalls.com; inform@ygmk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -96,6 +104,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '183779'
+  issue_date: '2022-10-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

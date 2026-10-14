@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9382.46
 logical_id: '147201'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,13 @@ addresses:
   zip_code: '670009'
   regulation_language: en
   logical_id: '147202'
+  contact_infos:
+  - key: WEB
+    value: https://rabotauuaz.ru/o-predpriyatii#O_predpriyatii
+  - key: PHONE
+    value: "+7 (301) 248-0392"
+  - key: EMAIL
+    value: uuaz@uuaz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

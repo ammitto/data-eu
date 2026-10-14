@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9375.74
 logical_id: '147166'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -124,6 +125,11 @@ addresses:
   zip_code: '456304'
   regulation_language: en
   logical_id: '147167'
+  contact_infos:
+  - key: WEB
+    value: https://uralaz.ru/
+  - key: PHONE
+    value: "+7 (3513) 55-49-83"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -135,6 +141,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147168'
+  issue_date: '2000-06-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13076.66
 logical_id: '175115'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -45,6 +46,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '175116'
+  po_box: '48800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -56,6 +58,7 @@ identifications:
   country_iso2_code: AE
   regulation_language: en
   logical_id: '175117'
+  issue_date: '2022-06-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

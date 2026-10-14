@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11667.77
 logical_id: '166239'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -126,6 +127,13 @@ addresses:
   zip_code: '220030'
   regulation_language: en
   logical_id: '166240'
+  contact_infos:
+  - key: WEB
+    value: http://www.brsm.by/ru
+  - key: PHONE
+    value: 8 (017) 371 04 64
+  - key: EMAIL
+    value: okrckbrsm@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

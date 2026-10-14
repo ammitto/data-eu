@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4055.25
 logical_id: '1068'
+designation_date: '2003-09-09'
 remark: 'Date of listing: 09/09/2003'
 regulations:
 - regulation_type: amendment
@@ -83,6 +84,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '354'
+  place: Taman Bukit Ampang
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-02'

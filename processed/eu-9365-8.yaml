@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9365.8
 logical_id: '147114'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -112,6 +113,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147115'
+  contact_infos:
+  - key: PHONE
+    value: "+7 347 942-47-87"
+  - key: EMAIL
+    value: vityaz@bolotohod.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

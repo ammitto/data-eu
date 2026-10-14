@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11405.53
 logical_id: '163615'
+designation_date: '2024-02-22'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -141,6 +142,9 @@ addresses:
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
   logical_id: '163616'
+  contact_infos:
+  - key: WEB
+    value: https://m.facebook.com/people/Scutul-Poporului/100088028496232/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'

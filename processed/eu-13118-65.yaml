@@ -45,6 +45,14 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '175573'
+  po_box: 299045,
+  contact_infos:
+  - key: WEB
+    value: https://chersone sos-sev.ru/
+  - key: PHONE
+    value: "+7(8692) 455-007"
+  - key: EMAIL
+    value: info@chersones os-sev.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

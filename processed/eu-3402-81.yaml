@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3402.81
 logical_id: '7485'
+designation_date: '2014-09-23'
 remark: Located in Syria since 2013.
 regulations:
 - regulation_type: amendment
@@ -67,6 +68,8 @@ identifications:
   country_iso2_code: FR
   regulation_language: en
   logical_id: '108990'
+  issue_date: '2005-11-30'
+  issued_by: sous- prefecture of police of Lorient, France
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-07-01'
@@ -77,6 +80,7 @@ identifications:
   country_iso2_code: FR
   regulation_language: en
   logical_id: '108988'
+  issue_date: '2002-05-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-07-01'
@@ -87,6 +91,8 @@ identifications:
   country_iso2_code: FR
   regulation_language: en
   logical_id: '108989'
+  issue_date: '2005-05-19'
+  issued_by: sous-prefecture of police of Lorient, France
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-07-01'

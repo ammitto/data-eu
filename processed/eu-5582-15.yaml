@@ -49,6 +49,8 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '123617'
+  valid_to: '2021-10-17'
+  issue_date: '2011-10-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-04'

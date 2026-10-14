@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2804.64
 logical_id: '7349'
+designation_date: '2014-05-12'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -261,6 +262,14 @@ addresses:
   zip_code: '295000'
   regulation_language: en
   logical_id: '114373'
+  place: Crimea
+  contact_infos:
+  - key: WEB
+    value: http://gas.crimea.ru/
+  - key: PHONE
+    value: "+7 (3652) 66-70-00; +7 (3652) 66-78-00"
+  - key: EMAIL
+    value: 'office@chernomorneftegaz.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

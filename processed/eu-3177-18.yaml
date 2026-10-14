@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3177.18
 logical_id: '106554'
+designation_date: '2015-09-30'
 remark: 'Physical description: hair colour: brown/black.'
 regulations:
 - regulation_type: amendment
@@ -70,6 +71,8 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '106567'
+  valid_to: '2024-01-07'
+  issue_date: '2014-01-07'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

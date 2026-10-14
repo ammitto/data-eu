@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14412.86
 logical_id: '182704'
+designation_date: '2026-05-11'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -62,6 +63,7 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '182705'
+  place: Melitopol
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

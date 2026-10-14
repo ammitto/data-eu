@@ -2,6 +2,7 @@
 eu_reference_number: EU.1758.60
 logical_id: '4287'
 designation_details: UN designation 03/03/2008 (no longer valid)
+designation_date: '2023-10-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,12 @@ addresses:
   zip_code: '91735'
   regulation_language: en
   logical_id: '159379'
+  po_box: 91735-549
+  contact_infos:
+  - key: WEB
+    value: " www.khwarizmi.ir"
+  - key: PHONE
+    value: "+98 511 3853008; +98 511 3870225"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

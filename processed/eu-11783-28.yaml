@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11783.28
 logical_id: '166883'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,15 @@ addresses:
   zip_code: '195256'
   regulation_language: en
   logical_id: '166884'
+  contact_infos:
+  - key: WEB
+    value: https://taip.su
+  - key: PHONE
+    value: "+7 (812) 244-33-19"
+  - key: EMAIL
+    value: 'info-service@taip.su; ICD@taip.su '
+  - key: FAX
+    value: "+7 (812) 244-33-19"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

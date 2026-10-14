@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14534.31
 logical_id: '183346'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -67,6 +68,9 @@ addresses:
   zip_code: '115184'
   regulation_language: en
   logical_id: '183348'
+  contact_infos:
+  - key: WEB
+    value: www.genbank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -78,6 +82,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183350'
+  issue_date: '1993-09-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

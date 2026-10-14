@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13053.34
 logical_id: '174995'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -97,6 +98,13 @@ addresses:
   zip_code: '450001'
   regulation_language: en
   logical_id: '174996'
+  contact_infos:
+  - key: WEB
+    value: gidravlika-ufa.ru
+  - key: PHONE
+    value: "+7 347 246-70-66"
+  - key: EMAIL
+    value: info@gidravlika-ufa.ru, gidravlika@tdhc.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -108,6 +116,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174999'
+  issue_date: '2011-07-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

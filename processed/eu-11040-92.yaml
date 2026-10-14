@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11040.92
 logical_id: '160448'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -133,6 +134,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '160449'
+  contact_infos:
+  - key: WEB
+    value: https://xn----jtbobdfnjeui.xn-- p1ai/
+  - key: PHONE
+    value: 8-800-300-8378
+  - key: EMAIL
+    value: zakaz@rt-komplekt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -144,6 +152,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160450'
+  issue_date: '2004-02-04'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3734.6
 logical_id: '5807'
+designation_date: '2010-12-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,7 @@ addresses:
   country_description: CONGO, Democratic Republic of (was Zaire)
   regulation_language: en
   logical_id: '111053'
+  place: Kikoma forest, Bogoyi, Walikale
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-08'

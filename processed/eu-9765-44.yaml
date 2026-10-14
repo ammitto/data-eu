@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9765.44
 logical_id: '150184'
+designation_date: '2023-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -103,6 +104,15 @@ addresses:
   zip_code: '195220'
   regulation_language: en
   logical_id: '150186'
+  contact_infos:
+  - key: WEB
+    value: https://www.stc-spb.ru/contacts/
+  - key: PHONE
+    value: 8 (812) 244-33-13
+  - key: EMAIL
+    value: office@stc-spb.ru
+  - key: FAX
+    value: 8 (812) 535-77-00, 8 (812) 535-58-16
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

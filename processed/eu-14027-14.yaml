@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14027.14
 logical_id: '181035'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,13 @@ addresses:
   zip_code: '446009'
   regulation_language: en
   logical_id: '181036'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (8464) 98-80-09"
+  - key: EMAIL
+    value: sekr@snpz.rosneft.ru
+  - key: FAX
+    value: "+7 (8464) 98-81-22"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -106,6 +114,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181037'
+  issue_date: '2002-05-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

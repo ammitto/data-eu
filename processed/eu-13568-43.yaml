@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13568.43
 logical_id: '178392'
+designation_date: '2025-09-29'
 remark: 'Registration number: IR0000365670'
 regulations:
 - regulation_type: amendment
@@ -58,6 +59,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178393'
+  po_box: 15815/3499,
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

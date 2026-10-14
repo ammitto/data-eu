@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4145.86
 logical_id: '107820'
+designation_date: '2016-03-02'
 remark: 'Date of designation: 2.3.2016.'
 regulations:
 - regulation_type: repealing
@@ -75,6 +76,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107878'
+  valid_to: '2018-06-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-05'
@@ -85,6 +87,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107879'
+  valid_to: '2016-01-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-05'
@@ -95,6 +98,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107880'
+  valid_to: '2014-12-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-05'

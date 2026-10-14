@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14699.43
 logical_id: '184039'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -55,6 +56,11 @@ addresses:
   zip_code: '630102'
   regulation_language: en
   logical_id: '184040'
+  contact_infos:
+  - key: WEB
+    value: https://rnko.ru/
+  - key: EMAIL
+    value: mail@rnko.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

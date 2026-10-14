@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3378.10
 logical_id: '6141'
+designation_date: '2011-03-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -28,6 +29,15 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1702'
+  contact_infos:
+  - key: WEB
+    value: http://www.ljbc.net
+  - key: PHONE
+    value: 00 218 21 444 59 26 -00 21 444 59 00
+  - key: EMAIL
+    value: info@ljbc.net
+  - key: FAX
+    value: 00 218 21 340 21 07
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

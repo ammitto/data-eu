@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4405.69
 logical_id: '115977'
+designation_date: '2018-03-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -71,6 +72,7 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '115978'
+  po_box: P.O. Box 4470
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

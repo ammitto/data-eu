@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.955.38
 logical_id: '1085'
+designation_date: '2003-11-12'
 remark: 'Other information: (a) Mother’s name is Khamisah al-Kathiri; (b) Deported
   from Italy to Tunisia on 6.5.2015.'
 regulations:
@@ -206,6 +207,8 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '162'
+  valid_to: '2007-10-31'
+  issue_date: '2002-11-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12716.36
 logical_id: '172689'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '172690'
+  contact_infos:
+  - key: WEB
+    value: http://oko-kb.ru/
+  - key: EMAIL
+    value: oko-kb@yandex.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

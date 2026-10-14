@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12602.62
 logical_id: '171629'
+designation_date: '2024-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -85,6 +86,11 @@ addresses:
   zip_code: '428903'
   regulation_language: en
   logical_id: '171630'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (8352) 39-00-29, +7 (8352) 39-00-23"
+  - key: EMAIL
+    value: progress@vniir.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -96,6 +102,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171631'
+  issue_date: '2011-10-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

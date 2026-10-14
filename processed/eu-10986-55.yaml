@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10986.55
 logical_id: '160130'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,13 @@ addresses:
   zip_code: '420085'
   regulation_language: en
   logical_id: '160131'
+  contact_infos:
+  - key: WEB
+    value: https://www.rhc.aero/structure/ka zanskiy-vertoletnyy-zavod
+  - key: PHONE
+    value: "+7 (843) 549 66 99"
+  - key: EMAIL
+    value: " kvz@kazanhelicopters.com"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

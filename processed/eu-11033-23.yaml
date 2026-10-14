@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11033.23
 logical_id: '160408'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -154,6 +155,13 @@ addresses:
   zip_code: '143070'
   regulation_language: en
   logical_id: '160409'
+  contact_infos:
+  - key: WEB
+    value: https://avangard.center/
+  - key: PHONE
+    value: "+8 (495) 108-51-57"
+  - key: EMAIL
+    value: info@avangardcenter.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -165,6 +173,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160410'
+  issue_date: '2020-04-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

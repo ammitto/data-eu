@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3726.32
 logical_id: '7067'
+designation_date: '2012-06-29'
 remark: |-
   Associated with Abdul Sattar Abdul Manan and Khairullah Barakzai Khudai Nazar. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5235593
 
@@ -371,6 +372,11 @@ addresses:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2308'
+  contact_infos:
+  - key: PHONE
+    value: "+93-202-103386, +93-202-101714, 0202-104748, Mobile: +93-797-059059, +93-702-222222,"
+  - key: EMAIL
+    value: helmand_exchange_msp@ yahoo.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

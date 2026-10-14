@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13424.65
 logical_id: '177548'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,7 @@ addresses:
   country_description: HAITI
   regulation_language: en
   logical_id: '177549'
+  place: Canaan
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

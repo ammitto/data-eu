@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3948.88
 logical_id: '7421'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -375,6 +376,11 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '2617'
+  contact_infos:
+  - key: WEB
+    value: http://patriot-donetsk.ru/
+  - key: EMAIL
+    value: info.patriot.donbassa@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

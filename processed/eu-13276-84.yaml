@@ -2,6 +2,7 @@
 eu_reference_number: EU.13276.84
 logical_id: '176502'
 designation_details: Limited Liability Company
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -97,6 +98,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176506'
+  issue_date: '2011-07-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

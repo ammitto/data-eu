@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13399.28
 logical_id: '177301'
+designation_date: '2025-07-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -124,6 +125,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177302'
+  place: Udmurt Republic
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -145,6 +147,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177304'
+  issue_date: '2012-12-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

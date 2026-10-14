@@ -44,6 +44,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '2615'
+  contact_infos:
+  - key: WEB
+    value: " https://vk.com/s igma_orel"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-09-13'

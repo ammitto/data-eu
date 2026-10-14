@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14476.90
 logical_id: '183042'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,15 @@ addresses:
   zip_code: '125424'
   regulation_language: en
   logical_id: '183043'
+  contact_infos:
+  - key: WEB
+    value: http://www.sdm.ru
+  - key: PHONE
+    value: "+7 (495) 490-15-45; +7 (495) 705-90-90"
+  - key: EMAIL
+    value: post@sdm.ru
+  - key: FAX
+    value: "+7 (495) 490-65-09"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -55,6 +65,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183045'
+  issue_date: '1991-11-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11634.76
 logical_id: '165994'
+designation_date: '2024-05-27'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -64,6 +65,7 @@ identifications:
   country_iso2_code: CZ
   regulation_language: en
   logical_id: '165996'
+  issue_date: '2023-03-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

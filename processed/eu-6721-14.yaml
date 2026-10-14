@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6721.14
 logical_id: '132150'
+designation_date: '2021-12-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -264,6 +265,9 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '132151'
+  contact_infos:
+  - key: WEB
+    value: https://azot.by/en/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -276,6 +280,13 @@ addresses:
   zip_code: '230026'
   regulation_language: en
   logical_id: '132448'
+  contact_infos:
+  - key: WEB
+    value: www.grodno-khim.by
+  - key: PHONE
+    value: "+375 (152) 39-19-00; +375 (152) 39-19-44"
+  - key: EMAIL
+    value: office@grodno-khim.by; market@grodno-khim.by; ppm@grodno-khim.by; tnp@grodno-khim.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

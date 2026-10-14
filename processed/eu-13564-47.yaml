@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13564.47
 logical_id: '178369'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,13 @@ addresses:
   country_description: UNITED KINGDOM
   regulation_language: en
   logical_id: '178370'
+  contact_infos:
+  - key: PHONE
+    value: " +98 21 22372486; +98 21 22374681; +98 21 22374678;"
+  - key: EMAIL
+    value: info@naftiran.com
+  - key: FAX
+    value: "+98 21 22374678; +98 21 22372481"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -97,6 +105,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '178371'
+  po_box: '87000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4448.39
 logical_id: '116182'
+designation_date: '2018-03-30'
 remark: UNLI-30.03.2018
 regulations:
 - regulation_type: amendment
@@ -38,6 +39,7 @@ addresses:
   zip_code: MH 96960
   regulation_language: en
   logical_id: '116359'
+  place: Majuro
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'

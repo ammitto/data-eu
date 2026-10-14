@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8173.70
 logical_id: '139871'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,15 @@ addresses:
   zip_code: '194100'
   regulation_language: en
   logical_id: '139872'
+  contact_infos:
+  - key: WEB
+    value: https://www.klimov.ru/en
+  - key: PHONE
+    value: "+7 (812) 454 71 00"
+  - key: EMAIL
+    value: klimov@klimov.ru
+  - key: FAX
+    value: "+7 (812) 647 00 29"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

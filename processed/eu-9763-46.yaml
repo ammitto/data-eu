@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9763.46
 logical_id: '150176'
+designation_date: '2023-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -109,6 +110,15 @@ addresses:
   zip_code: '141980'
   regulation_language: en
   logical_id: '150177'
+  contact_infos:
+  - key: WEB
+    value: https://ktrv.ru/about/structure/raduga.html#
+  - key: PHONE
+    value: "+7 (495) 777-07-30"
+  - key: EMAIL
+    value: raduga@dubna.ru
+  - key: FAX
+    value: "+7 (495) 777-07-36"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

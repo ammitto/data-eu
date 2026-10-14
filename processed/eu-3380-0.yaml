@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3380.0
 logical_id: '6241'
+designation_date: '2011-04-12'
 remark: Libyan subsidiary of the Central Bank of Libya.
 regulations:
 - regulation_type: amendment
@@ -58,6 +59,14 @@ addresses:
   country_description: LIBYA
   regulation_language: en
   logical_id: '1717'
+  po_box: '1100'
+  contact_infos:
+  - key: PHONE
+    value: "(218)214870586"
+  - key: EMAIL
+    value: agbank@agribankly.org
+  - key: FAX
+    value: "(218) 214870747"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

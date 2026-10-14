@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2488.72
 logical_id: '6342'
+designation_date: '2011-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -48,6 +49,13 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '1931'
+  place: Damascus
+  po_box: P.O. Box 108
+  contact_infos:
+  - key: PHONE
+    value: 963 112110059/963112110043
+  - key: FAX
+    value: 963 933333149
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

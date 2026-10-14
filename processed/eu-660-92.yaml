@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.660.92
 logical_id: '923'
+designation_date: '2002-04-24'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -177,6 +178,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '227'
+  valid_to: '1995-09-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

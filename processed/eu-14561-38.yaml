@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14561.38
 logical_id: '183441'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,11 @@ addresses:
   zip_code: '660077'
   regulation_language: en
   logical_id: '183442'
+  contact_infos:
+  - key: WEB
+    value: https://delmot-motors.ru/
+  - key: EMAIL
+    value: info@delmot-motors.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,6 +60,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183443'
+  issue_date: '2022-01-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

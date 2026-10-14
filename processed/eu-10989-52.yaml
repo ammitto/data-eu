@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10989.52
 logical_id: '160143'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,13 @@ addresses:
   zip_code: '640007'
   regulation_language: en
   logical_id: '160144'
+  contact_infos:
+  - key: WEB
+    value: kurganpribor.ru
+  - key: PHONE
+    value: "+7 (3522) 443-529"
+  - key: EMAIL
+    value: kp@kurganpribor.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

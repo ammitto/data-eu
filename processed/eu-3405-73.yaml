@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3405.73
 logical_id: '106542'
+designation_date: '2015-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -80,6 +81,8 @@ identifications:
   country_iso2_code: FR
   regulation_language: en
   logical_id: '108993'
+  valid_to: '2020-11-04'
+  issued_by: Sous-Préfecture of Bernay
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-07-01'

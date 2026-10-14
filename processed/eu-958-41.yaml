@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.958.41
 logical_id: '1095'
+designation_date: '2003-11-12'
 remark: 'Other information: (a) Mother’s name is Khadijah al-Drissi; (b) Deported
   from Italy to Tunisia on 10.2.2013.'
 regulations:
@@ -109,6 +110,8 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '157'
+  valid_to: '2003-09-08'
+  issue_date: '1998-09-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'

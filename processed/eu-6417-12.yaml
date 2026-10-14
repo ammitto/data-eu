@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6417.12
 logical_id: '130369'
+designation_date: '2021-06-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -130,6 +131,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '130370'
+  contact_infos:
+  - key: EMAIL
+    value: skriba_s@bseu.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

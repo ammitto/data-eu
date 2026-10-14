@@ -2,6 +2,7 @@
 eu_reference_number: EU.13648.17
 logical_id: '178772'
 designation_details: 'Date of UN designation: 9.6.2010'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -34,6 +35,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178773'
+  po_box: 83145-311
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

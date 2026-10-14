@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11044.88
 logical_id: '160474'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -104,6 +105,7 @@ identifications:
   country_iso2_code: UA
   regulation_language: en
   logical_id: '160476'
+  issue_date: '2004-06-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

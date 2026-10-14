@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12240.1
 logical_id: '170089'
+designation_date: '2024-10-14'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '170090'
+  po_box: '1481655761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

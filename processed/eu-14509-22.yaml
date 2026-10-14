@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14509.22
 logical_id: '183210'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,13 @@ addresses:
   zip_code: '121151'
   regulation_language: en
   logical_id: '183211'
+  contact_infos:
+  - key: WEB
+    value: www.trust.ru
+  - key: PHONE
+    value: "+7 (495) 647-90-21; +7 (495) 735-48-85"
+  - key: EMAIL
+    value: secretar@trust.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183255'
+  issue_date: '1995-11-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

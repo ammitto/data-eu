@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14029.12
 logical_id: '181052'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '181053'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (485) 247-70-72"
+  - key: EMAIL
+    value: KulikovDS@post.yanos.slavneft.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

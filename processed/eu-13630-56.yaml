@@ -2,6 +2,7 @@
 eu_reference_number: EU.13630.56
 logical_id: '178707'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -45,6 +46,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '178709'
+  issue_date: '1992-03-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

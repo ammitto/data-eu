@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3485.81
 logical_id: '7426'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -501,6 +502,14 @@ addresses:
   zip_code: '298658'
   regulation_language: en
   logical_id: '2626'
+  place: Oreanda, House 12
+  contact_infos:
+  - key: WEB
+    value: www.oreanda-resort.ru
+  - key: PHONE
+    value: "+7 (978) 944 83 00; +7 (978) 944 83 30"
+  - key: EMAIL
+    value: 'marketing@oreanda-resort.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

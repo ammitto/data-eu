@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7815.38
 logical_id: '137739'
+designation_date: '2022-03-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -92,6 +93,16 @@ addresses:
   zip_code: '422546'
   regulation_language: en
   logical_id: '137740'
+  place: Republic of Tatarstan
+  contact_infos:
+  - key: WEB
+    value: https://www.zdship.ru
+  - key: PHONE
+    value: "+7 (84371) 5-76-10"
+  - key: EMAIL
+    value: nfo@zdship.ru
+  - key: FAX
+    value: "+7 (84371) 5-78-00"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'

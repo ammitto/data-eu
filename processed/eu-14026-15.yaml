@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14026.15
 logical_id: '181031'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -58,6 +59,7 @@ identifications:
   country_iso2_code: KG
   regulation_language: en
   logical_id: '182427'
+  issue_date: '2024-12-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9361.12
 logical_id: '147093'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -233,6 +234,13 @@ addresses:
   zip_code: '103051'
   regulation_language: en
   logical_id: '147094'
+  contact_infos:
+  - key: WEB
+    value: https://kprf.ru/
+  - key: PHONE
+    value: "+7-495-692-7646"
+  - key: EMAIL
+    value: inter@kprf.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

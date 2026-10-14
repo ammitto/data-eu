@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10988.53
 logical_id: '160139'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,15 @@ addresses:
   zip_code: '681018'
   regulation_language: en
   logical_id: '160140'
+  contact_infos:
+  - key: WEB
+    value: https://www.uacrussia.ru/ru/corpo ration/company/filial-otkrytogo-aktsionernogo-obshchestva-aviatsionnaya-kholdingovaya-kompaniya-sukhoy-komsomolskiy
+  - key: PHONE
+    value: "+7 (4217) 52-62-00"
+  - key: EMAIL
+    value: info@knaaz.org; pr@knaaz.org
+  - key: FAX
+    value: "+7 (4217) 52-64-51"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

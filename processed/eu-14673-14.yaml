@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14673.14
 logical_id: '183972'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -76,6 +77,11 @@ addresses:
   zip_code: '119034'
   regulation_language: en
   logical_id: '183974'
+  contact_infos:
+  - key: WEB
+    value: www.mbbru.ru
+  - key: EMAIL
+    value: info@mbbru.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -88,6 +94,11 @@ addresses:
   zip_code: '105062'
   regulation_language: en
   logical_id: '183973'
+  contact_infos:
+  - key: WEB
+    value: www.mbbru.ru
+  - key: EMAIL
+    value: info@mbbru.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

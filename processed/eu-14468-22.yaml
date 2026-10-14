@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14468.22
 logical_id: '183008'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,15 @@ addresses:
   zip_code: '117638'
   regulation_language: en
   logical_id: '183009'
+  contact_infos:
+  - key: WEB
+    value: http://www.ZENIT.ru
+  - key: PHONE
+    value: "+7 (495) 937-07-37"
+  - key: EMAIL
+    value: info@ZENIT.ru
+  - key: FAX
+    value: "+7 (495) 937-07-36"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -65,6 +75,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183011'
+  issue_date: '1995-06-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

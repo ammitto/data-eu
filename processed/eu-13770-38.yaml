@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13770.38
 logical_id: '179375'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -93,6 +94,7 @@ identifications:
   country_iso2_code: KG
   regulation_language: en
   logical_id: '179381'
+  issue_date: '2024-12-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11653.15
 logical_id: '166152'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -96,6 +97,7 @@ addresses:
   zip_code: '620025'
   regulation_language: en
   logical_id: '166153'
+  po_box: '620025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -107,6 +109,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '167630'
+  issue_date: '1993-12-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -117,6 +120,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166154'
+  issue_date: '1993-12-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

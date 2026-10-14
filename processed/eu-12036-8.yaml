@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12036.8
 logical_id: '168344'
+designation_date: '2024-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -102,6 +103,7 @@ addresses:
   country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
   logical_id: '168345'
+  place: Halamish
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

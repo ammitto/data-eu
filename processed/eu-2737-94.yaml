@@ -37,6 +37,13 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1947'
+  contact_infos:
+  - key: WEB
+    value: http://www.addounia.tv
+  - key: PHONE
+    value: "+963-11-5667274"
+  - key: FAX
+    value: "+963-11-5667272"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

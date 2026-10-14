@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9368.5
 logical_id: '147129'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -120,6 +121,7 @@ addresses:
   zip_code: '300002'
   regulation_language: en
   logical_id: '147130'
+  place: Tula region
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -131,6 +133,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147132'
+  issue_date: '2002-09-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

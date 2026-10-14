@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9389.39
 logical_id: '147241'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -162,6 +163,11 @@ addresses:
   zip_code: '119180'
   regulation_language: en
   logical_id: '147242'
+  contact_infos:
+  - key: WEB
+    value: https://www.fondsk.ru/
+  - key: EMAIL
+    value: info@fondsk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -173,6 +179,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147244'
+  issue_date: '2005-02-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

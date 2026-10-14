@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6915.59
 logical_id: '133388'
+designation_date: '2022-02-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -83,6 +84,8 @@ identifications:
   country_iso2_code: MM
   regulation_language: en
   logical_id: '133393'
+  valid_to: '2020-05-06'
+  issue_date: '2015-05-07'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

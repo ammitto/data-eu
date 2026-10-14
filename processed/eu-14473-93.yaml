@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14473.93
 logical_id: '183022'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,15 @@ addresses:
   zip_code: '119180'
   regulation_language: en
   logical_id: '183024'
+  contact_infos:
+  - key: WEB
+    value: http://www.metallinvestbank.ru
+  - key: PHONE
+    value: "+7 (495) 784-69-05; +7 (495) 727-97-97"
+  - key: EMAIL
+    value: smev@metib.ru
+  - key: FAX
+    value: "+7 (495) 784-69-05"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -96,6 +106,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183026'
+  issue_date: '1983-08-02'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

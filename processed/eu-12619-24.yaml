@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12619.24
 logical_id: '171784'
+designation_date: '2024-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -96,6 +97,13 @@ addresses:
   zip_code: '142800'
   regulation_language: en
   logical_id: '171785'
+  contact_infos:
+  - key: WEB
+    value: http://www.aerosila.ru
+  - key: PHONE
+    value: "(496) 642-33-30, 642-80-85"
+  - key: EMAIL
+    value: vint@aerosila.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

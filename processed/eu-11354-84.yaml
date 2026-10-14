@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11354.84
 logical_id: '163291'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,13 @@ addresses:
   zip_code: '107014'
   regulation_language: en
   logical_id: '163292'
+  contact_infos:
+  - key: WEB
+    value: https://224lo.com/ru
+  - key: PHONE
+    value: "+7 (499) 268-40-13"
+  - key: EMAIL
+    value: info@224lo.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -88,6 +96,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '163293'
+  issue_date: '2019-05-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

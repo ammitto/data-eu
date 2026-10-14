@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13318.83
 logical_id: '176804'
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -116,6 +117,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '176806'
+  issue_date: '2017-04-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

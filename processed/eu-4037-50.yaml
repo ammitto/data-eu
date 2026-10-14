@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4037.50
 logical_id: '7423'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -455,6 +456,11 @@ addresses:
   zip_code: '299011'
   regulation_language: en
   logical_id: '2621'
+  contact_infos:
+  - key: WEB
+    value: https://www.sevmp.ru/
+  - key: EMAIL
+    value: gupsmp@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -467,6 +473,11 @@ addresses:
   zip_code: '299011'
   regulation_language: en
   logical_id: '2620'
+  contact_infos:
+  - key: WEB
+    value: https://www.sevmp.ru/
+  - key: EMAIL
+    value: gupsmp@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

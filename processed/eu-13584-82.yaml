@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13584.82
 logical_id: '178461'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -46,6 +47,7 @@ addresses:
   country_description: INDONESIA
   regulation_language: en
   logical_id: '178464'
+  po_box: '12950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -58,6 +60,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '178466'
+  po_box: '87000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -69,6 +72,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '178462'
+  po_box: '87000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -80,6 +84,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '178463'
+  po_box: '50450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -91,6 +96,7 @@ addresses:
   country_description: MALAYSIA
   regulation_language: en
   logical_id: '178465'
+  po_box: '50450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

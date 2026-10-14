@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10044.3
 logical_id: '152947'
+designation_date: '2023-04-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -71,6 +72,11 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '152948'
+  contact_infos:
+  - key: PHONE
+    value: '00963312751122'
+  - key: EMAIL
+    value: info@gecopham.sy
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14692.50
 logical_id: '183995'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,6 +55,11 @@ addresses:
   zip_code: '344019'
   regulation_language: en
   logical_id: '183996'
+  contact_infos:
+  - key: WEB
+    value: https://www.rostfinance.ru/
+  - key: EMAIL
+    value: fvv@rostfinance.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

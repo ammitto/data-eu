@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14126.24
 logical_id: '181401'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -147,6 +148,14 @@ addresses:
   zip_code: '141701'
   regulation_language: en
   logical_id: '181403'
+  place: Dolgoprudny
+  contact_infos:
+  - key: WEB
+    value: https://mipt.ru
+  - key: PHONE
+    value: 7 (495) 408-45-54; +7 (495) 408-42-54
+  - key: EMAIL
+    value: info@mipt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -159,6 +168,7 @@ addresses:
   zip_code: '117303'
   regulation_language: en
   logical_id: '181402'
+  place: Moscow
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -170,6 +180,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181406'
+  issue_date: '2002-10-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

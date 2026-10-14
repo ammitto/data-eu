@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14555.65
 logical_id: '183399'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -108,6 +109,9 @@ addresses:
   zip_code: '400005'
   regulation_language: en
   logical_id: '183400'
+  contact_infos:
+  - key: WEB
+    value: https://nokss.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -119,6 +123,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183401'
+  issue_date: '1995-01-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9387.41
 logical_id: '147229'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -125,6 +126,13 @@ addresses:
   zip_code: '119034'
   regulation_language: en
   logical_id: '147230'
+  contact_infos:
+  - key: WEB
+    value: https://nmg.ru/
+  - key: PHONE
+    value: "+7 (495) 988-11-12"
+  - key: EMAIL
+    value: pr@nmg.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -136,6 +144,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147232'
+  issue_date: '2008-02-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

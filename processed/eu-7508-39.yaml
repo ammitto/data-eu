@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7508.39
 logical_id: '135899'
+designation_date: '2022-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -79,6 +80,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '135900'
+  contact_infos:
+  - key: PHONE
+    value: "(+375 162) 21 23 32"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3453.51
 logical_id: '2325'
+designation_date: '2004-06-23'
 remark: Mother's name is Fatima al-Galasi
 regulations:
 - regulation_type: amendment
@@ -95,6 +96,7 @@ addresses:
   country_description: TUNISIA
   regulation_language: en
   logical_id: '2194'
+  place: Sidi Mesoud
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -116,6 +118,8 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '166'
+  valid_to: '2006-10-19'
+  issue_date: '2001-10-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

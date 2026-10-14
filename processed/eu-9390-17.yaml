@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9390.17
 logical_id: '147247'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '111020'
   regulation_language: en
   logical_id: '147248'
+  contact_infos:
+  - key: WEB
+    value: https://partners.rt.com/contacts/
+  - key: PHONE
+    value: "+7(499)750-00-75, +7(495)926-28-30, +7(495)649-89-89"
+  - key: EMAIL
+    value: info@rttv.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

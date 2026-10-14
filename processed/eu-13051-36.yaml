@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13051.36
 logical_id: '174973'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -131,6 +132,13 @@ addresses:
   zip_code: '144001'
   regulation_language: en
   logical_id: '174974'
+  contact_infos:
+  - key: WEB
+    value: https://ehmz.ru/
+  - key: PHONE
+    value: "+7 (800) 707-00-76"
+  - key: EMAIL
+    value: ehmz@zelinskygroup.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -142,6 +150,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174977'
+  issue_date: '1994-05-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

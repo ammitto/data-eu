@@ -59,6 +59,8 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '123622'
+  valid_to: '2028-11-19'
+  issue_date: '2019-11-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-04'

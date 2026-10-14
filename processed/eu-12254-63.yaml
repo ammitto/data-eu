@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12254.63
 logical_id: '170210'
+designation_date: '2024-04-26'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -93,6 +94,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '170211'
+  place: Atamanovka village
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

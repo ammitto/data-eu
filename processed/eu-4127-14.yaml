@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4127.14
 logical_id: '5816'
+designation_date: '2016-11-30'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -69,6 +70,13 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '1620'
+  contact_infos:
+  - key: PHONE
+    value: "+850-2-18111-8208"
+  - key: EMAIL
+    value: daesong@star-co.net.kp
+  - key: FAX
+    value: "+850-2-381-4432"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

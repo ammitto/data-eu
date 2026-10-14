@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2923.66
 logical_id: '7591'
+designation_date: '2015-03-07'
 remark: 'Date of listing: 2015-03-07. Other informaiton: Subsidiary of Hamsho International.'
 regulations:
 - regulation_type: amendment
@@ -68,6 +69,11 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2703'
+  contact_infos:
+  - key: PHONE
+    value: '00963 (11) 3227530'
+  - key: EMAIL
+    value: info@hamsho-group.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

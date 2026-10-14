@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3706.30
 logical_id: '7231'
+designation_date: '2013-02-26'
 remark: 'Owns and operates the Roshan Money Exchange. Provided financial services
   to Ghul Agha Ishakzai and other Taliban in Helmand Province. Alternative title is
   Maulavi. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5278407'
@@ -132,6 +133,7 @@ identifications:
   country_iso2_code: PK
   regulation_language: en
   logical_id: '854'
+  valid_to: '2014-10-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

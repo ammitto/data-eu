@@ -91,6 +91,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '2257'
+  contact_infos:
+  - key: WEB
+    value: http://ansharuttauhid.com/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -100,6 +103,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '2256'
+  contact_infos:
+  - key: EMAIL
+    value: info@ansharuttauhid.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -111,6 +117,9 @@ addresses:
   country_description: INDONESIA
   regulation_language: en
   logical_id: '2255'
+  contact_infos:
+  - key: PHONE
+    value: 0271-2167285
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

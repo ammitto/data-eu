@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9391.16
 logical_id: '147251'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -241,6 +242,13 @@ addresses:
   zip_code: '119160'
   regulation_language: en
   logical_id: '147252'
+  contact_infos:
+  - key: WEB
+    value: https://mil.ru/
+  - key: PHONE
+    value: 8 (495) 498-01-84
+  - key: EMAIL
+    value: ps-smi@mil.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

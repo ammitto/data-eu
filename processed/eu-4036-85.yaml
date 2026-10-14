@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4036.85
 logical_id: '7417'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -240,6 +241,13 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '2613'
+  contact_infos:
+  - key: WEB
+    value: http://vk.com/sobolipress; http://www.русскоедвижение.рф/
+  - key: PHONE
+    value: "(0652) 60-23-93"
+  - key: EMAIL
+    value: SoboliPress@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

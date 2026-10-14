@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13402.32
 logical_id: '177336'
+designation_date: '2025-07-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,10 @@ addresses:
   zip_code: '109380'
   regulation_language: en
   logical_id: '177337'
+  place: Lyublino Municipal  District
+  contact_infos:
+  - key: WEB
+    value: https://areasystems.tech/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -106,6 +111,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177339'
+  issue_date: '2023-07-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

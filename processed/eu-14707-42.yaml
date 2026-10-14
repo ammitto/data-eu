@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14707.42
 logical_id: '184095'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -55,6 +56,11 @@ addresses:
   zip_code: '460058'
   regulation_language: en
   logical_id: '184096'
+  contact_infos:
+  - key: WEB
+    value: https://forshtadt.ru/
+  - key: EMAIL
+    value: bank@forshtadt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -38,6 +38,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '125028'
+  contact_infos:
+  - key: WEB
+    value: https://vk.com/reportage24
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9378.71
 logical_id: '147182'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147183'
+  contact_infos:
+  - key: WEB
+    value: https://rusbitech.ru/
+  - key: PHONE
+    value: "+7 (495) 648-06-40"
+  - key: EMAIL
+    value: mail@rusbitech.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -106,6 +114,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147184'
+  issue_date: '2008-09-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

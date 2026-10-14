@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13569.42
 logical_id: '178397'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -48,6 +49,12 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178398'
+  po_box: 19395-4833
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 23801"
+  - key: EMAIL
+    value: info@nitc-tankers.com; all offices worldwide
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

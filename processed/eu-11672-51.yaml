@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11672.51
 logical_id: '166266'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,15 @@ addresses:
   zip_code: '241017'
   regulation_language: en
   logical_id: '166267'
+  contact_infos:
+  - key: WEB
+    value: http://aobemz.ru/
+  - key: PHONE
+    value: "(4832)53-01-01"
+  - key: EMAIL
+    value: mail@aobemz.ru
+  - key: FAX
+    value: "(4832)53-08-01"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

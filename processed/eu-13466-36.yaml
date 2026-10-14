@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13466.36
 logical_id: '177847'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -33,6 +34,9 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177848'
+  contact_infos:
+  - key: WEB
+    value: Tigerweb.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

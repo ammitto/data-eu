@@ -30,6 +30,12 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2156'
+  po_box: P.O. Box 7155
+  contact_infos:
+  - key: PHONE
+    value: "+963 11 2725499"
+  - key: FAX
+    value: "+963 11 2725399"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

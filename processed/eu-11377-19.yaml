@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11377.19
 logical_id: '163429'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -124,6 +125,8 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '163432'
+  issue_date: '2000-11-24'
+  issued_by: OGRN
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

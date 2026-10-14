@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8050.29
 logical_id: '138970'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -134,6 +135,11 @@ addresses:
   zip_code: 62900B
   regulation_language: en
   logical_id: '138971'
+  contact_infos:
+  - key: PHONE
+    value: "(495) 221-00-12 , 8-800-200-12-99"
+  - key: EMAIL
+    value: 'gtlk@gtlk.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -146,6 +152,11 @@ addresses:
   zip_code: '125284'
   regulation_language: en
   logical_id: '139221'
+  contact_infos:
+  - key: PHONE
+    value: "(495) 221-00-12 , 8-800-200-12-99"
+  - key: EMAIL
+    value: gtlk@gtlk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

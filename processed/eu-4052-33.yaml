@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4052.33
 logical_id: '7441'
+designation_date: '2014-07-30'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -274,6 +275,9 @@ addresses:
   zip_code: '295000'
   regulation_language: en
   logical_id: '2639'
+  contact_infos:
+  - key: WEB
+    value: http://www.rncb.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

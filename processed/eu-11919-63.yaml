@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11919.63
 logical_id: '167847'
+designation_date: '2024-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -61,6 +62,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '167848'
+  contact_infos:
+  - key: WEB
+    value: https://www.tzav9.co.il/faq/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

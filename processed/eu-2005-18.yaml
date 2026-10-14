@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2005.18
 logical_id: '5735'
+designation_date: '2010-07-26'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -106,6 +107,7 @@ addresses:
   zip_code: '15178'
   regulation_language: en
   logical_id: '1521'
+  po_box: 15178 43316
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

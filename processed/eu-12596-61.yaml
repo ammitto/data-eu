@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12596.61
 logical_id: '171588'
+designation_date: '2024-12-16'
 remark: Corrigendum 2024/3183 (OJ L16122024) [corr. 07/02/2025-1]
 regulations:
 - regulation_type: amendment
@@ -59,6 +60,13 @@ addresses:
   zip_code: '432601'
   regulation_language: en
   logical_id: '171589'
+  contact_infos:
+  - key: WEB
+    value: development.alabuga.ru
+  - key: PHONE
+    value: "+7 855 575 90 13"
+  - key: EMAIL
+    value: dnurkhametova@alabuga.ru, damirova@alabuga.ru, mperevozchikova@alabuga.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

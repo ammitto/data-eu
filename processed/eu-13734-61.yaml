@@ -2,6 +2,7 @@
 eu_reference_number: EU.13734.61
 logical_id: '179150'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -36,6 +37,7 @@ addresses:
   country_description: VENEZUELA
   regulation_language: en
   logical_id: '179151'
+  po_box: '1060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

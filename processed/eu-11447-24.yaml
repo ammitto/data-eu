@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11447.24
 logical_id: '164416'
+designation_date: '2024-03-22'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -493,6 +494,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '164417'
+  place: Melekhovo, Kovrovsky district
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

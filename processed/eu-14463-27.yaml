@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14463.27
 logical_id: '182978'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,15 @@ addresses:
   zip_code: '125009'
   regulation_language: en
   logical_id: '182979'
+  contact_infos:
+  - key: WEB
+    value: https://domrfbank.ru
+  - key: PHONE
+    value: "+7 (495) 956-68-26; +7 (495) 775-86-86; +7 (495) 775-47-40"
+  - key: EMAIL
+    value: aleksandr.babuchin@domrf.ru; isb@domrf.ru
+  - key: FAX
+    value: "+7 (495) 203-86-06"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,6 +64,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '182981'
+  issue_date: '1993-04-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

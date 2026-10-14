@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11344.18
 logical_id: '163241'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,15 @@ addresses:
   zip_code: '105318'
   regulation_language: en
   logical_id: '163242'
+  contact_infos:
+  - key: WEB
+    value: https://www.bazalt.ru/
+  - key: PHONE
+    value: "+7 (499) 369-01-22"
+  - key: EMAIL
+    value: moscow@bazalt.ru
+  - key: FAX
+    value: "+7 (499) 369- 24-18"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

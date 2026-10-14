@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8297.13
 logical_id: '140439'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '423580'
   regulation_language: en
   logical_id: '140440'
+  contact_infos:
+  - key: WEB
+    value: https://cmk.tatneft.ru/?lang=ru
+  - key: PHONE
+    value: "+7 (8555) 49-73-40"
+  - key: EMAIL
+    value: nkastp@tatneft.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '151764'
+  issue_date: '2007-01-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

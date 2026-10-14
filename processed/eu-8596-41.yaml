@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8596.41
 logical_id: '142720'
+designation_date: '2022-07-21'
 remark: "Type of entity: Russian Federal \nGovernment Agency\nPlace of registration:
   Russian \nFederation, 119019, Moscow, \nVozdvizhenka Str. 18/9\nDate of registration:
   6.9.2008"
@@ -256,6 +257,13 @@ addresses:
   zip_code: '119019'
   regulation_language: en
   logical_id: '142721'
+  contact_infos:
+  - key: WEB
+    value: https://rs.gov.ru
+  - key: PHONE
+    value: " +7 (495) 690-12-45"
+  - key: EMAIL
+    value: rossotr@rs.gov.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

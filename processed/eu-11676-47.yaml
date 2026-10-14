@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11676.47
 logical_id: '166283'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166285'
+  issue_date: '2009-05-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

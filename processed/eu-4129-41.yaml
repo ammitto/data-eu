@@ -2,6 +2,7 @@
 eu_reference_number: EU.4129.41
 logical_id: '112371'
 united_nation_id: KPe.044
+designation_date: '2017-06-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,13 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '112372'
+  contact_infos:
+  - key: PHONE
+    value: "+850-2-18111-8550"
+  - key: EMAIL
+    value: mhs-ip@star-co.net.kp
+  - key: FAX
+    value: "+850-2-381-4410/4416"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

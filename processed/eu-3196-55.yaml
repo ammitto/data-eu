@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3196.55
 logical_id: '106546'
+designation_date: '2015-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -110,6 +111,7 @@ identifications:
   country_iso2_code: SA
   regulation_language: en
   logical_id: '106680'
+  issue_date: '1998-07-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

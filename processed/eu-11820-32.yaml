@@ -201,6 +201,13 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '167072'
+  contact_infos:
+  - key: WEB
+    value: https://belomo.by
+  - key: PHONE
+    value: "+375 17 348-44-71 +375 17 272-31-63"
+  - key: EMAIL
+    value: belomo@belomo.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.522.39
 logical_id: '330'
+designation_date: '2001-10-06'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -209,6 +210,9 @@ addresses:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '370'
+  contact_infos:
+  - key: PHONE
+    value: 262 38 18-19
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2002-06-04'
@@ -220,6 +224,9 @@ addresses:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '369'
+  contact_infos:
+  - key: PHONE
+    value: 587-25 45
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -232,6 +239,9 @@ addresses:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '368'
+  contact_infos:
+  - key: PHONE
+    value: 497 92 63
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -243,6 +253,11 @@ addresses:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '367'
+  contact_infos:
+  - key: PHONE
+    value: 668 33 01; 0300- 820 91 99
+  - key: FAX
+    value: 662 38 14
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -254,6 +269,9 @@ addresses:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '366'
+  contact_infos:
+  - key: PHONE
+    value: 042-681 20 81
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

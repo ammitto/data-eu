@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13105.2
 logical_id: '175451'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -127,6 +128,11 @@ addresses:
   zip_code: '198515'
   regulation_language: en
   logical_id: '175452'
+  contact_infos:
+  - key: WEB
+    value: 61btrz.ru
+  - key: EMAIL
+    value: 61baza@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -138,6 +144,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175455'
+  issue_date: '2009-05-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

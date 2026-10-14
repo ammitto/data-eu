@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13566.45
 logical_id: '178384'
+designation_date: '2025-09-29'
 remark: 'Registration Number: 03503060  - United Kingdom'
 regulations:
 - regulation_type: amendment
@@ -36,6 +37,7 @@ addresses:
   country_description: UNITED KINGDOM
   regulation_language: en
   logical_id: '178385'
+  po_box: N3 2JU
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -47,6 +49,7 @@ addresses:
   country_description: UNITED KINGDOM
   regulation_language: en
   logical_id: '178386'
+  po_box: W1G 9JG
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6634.68
 logical_id: '131573'
+designation_date: '2021-10-11'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -108,6 +109,9 @@ addresses:
   zip_code: '344022'
   regulation_language: en
   logical_id: '131574'
+  contact_infos:
+  - key: PHONE
+    value: "(+7) 8 863  263-04-67, (+7) 8  863 282-79-68"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'

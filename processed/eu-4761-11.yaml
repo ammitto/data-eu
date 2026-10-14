@@ -2,6 +2,7 @@
 eu_reference_number: EU.4761.11
 logical_id: '118362'
 united_nation_id: QDi.419
+designation_date: '2018-10-15'
 remark: UNLI-15.10.2018
 regulations:
 - regulation_type: amendment
@@ -80,6 +81,9 @@ identifications:
   country_iso2_code: GB
   regulation_language: en
   logical_id: '118408'
+  valid_to: '2023-06-06'
+  issue_date: '2013-05-06'
+  issued_by: Passport Office Glasgow
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-10-18'

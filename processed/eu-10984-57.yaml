@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10984.57
 logical_id: '160121'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,15 @@ addresses:
   zip_code: '142205'
   regulation_language: en
   logical_id: '160122'
+  contact_infos:
+  - key: WEB
+    value: http://www.ratep.ru/
+  - key: PHONE
+    value: "+7 (4967) 786-400"
+  - key: EMAIL
+    value: ratep@ratep.ru
+  - key: FAX
+    value: "+7 (4967) 36-63-01"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

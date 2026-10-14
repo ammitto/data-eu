@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8599.38
 logical_id: '142734'
+designation_date: '2022-07-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -104,6 +105,11 @@ addresses:
   zip_code: '173000'
   regulation_language: en
   logical_id: '142735'
+  contact_infos:
+  - key: PHONE
+    value: "(8162) 681303"
+  - key: EMAIL
+    value: ok@kvant-vn.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

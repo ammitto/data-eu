@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8295.15
 logical_id: '140431'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,6 +55,13 @@ addresses:
   zip_code: '423570'
   regulation_language: en
   logical_id: '140432'
+  contact_infos:
+  - key: WEB
+    value: https://www.td-kama.com
+  - key: PHONE
+    value: "+7 (8555) 24-10-00, 24-10-10  "
+  - key: EMAIL
+    value: 'info@td-kama.com '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -75,6 +83,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '151778'
+  issue_date: '2022-12-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

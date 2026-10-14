@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14503.28
 logical_id: '183173'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -74,6 +75,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '183174'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (423) 242-42-42"
+  - key: EMAIL
+    value: bank@pskb.com
+  - key: FAX
+    value: "+7 (423) 242-20-7"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -95,6 +103,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183176'
+  issue_date: '1994-03-04'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

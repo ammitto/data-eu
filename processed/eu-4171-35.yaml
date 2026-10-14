@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4171.35
 logical_id: '114281'
+designation_date: '2017-09-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -269,6 +270,13 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '114288'
+  contact_infos:
+  - key: WEB
+    value: https://crimeaports.ru
+  - key: PHONE
+    value: "+7(36561)-3-93-10,  3-93-19; +7(36561)-3-95-16"
+  - key: EMAIL
+    value: info@crimeaport.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

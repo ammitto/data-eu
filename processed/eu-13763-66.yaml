@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13763.66
 logical_id: '179311'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -200,6 +201,13 @@ addresses:
   zip_code: 127411,
   regulation_language: en
   logical_id: '179312'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (495) 484-63-33;  (495) 484-63-61"
+  - key: EMAIL
+    value: mail@niistalli.ru
+  - key: FAX
+    value: "+7 (495) 485-43-95;  (495) 485-43-95"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -211,6 +219,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179315'
+  issue_date: '1993-02-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

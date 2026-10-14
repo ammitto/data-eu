@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13464.38
 logical_id: '177823'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -122,6 +123,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '177824'
+  contact_infos:
+  - key: WEB
+    value: cge.evrazia.ru - cge.su
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -133,6 +137,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177825'
+  issue_date: '2002-12-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

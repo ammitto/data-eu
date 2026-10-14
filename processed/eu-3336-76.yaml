@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3336.76
 logical_id: '108458'
+designation_date: '2016-04-20'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -143,6 +144,7 @@ identifications:
   country_iso2_code: PS
   regulation_language: en
   logical_id: '108462'
+  issued_by: Palestinian Authority
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-04-26'

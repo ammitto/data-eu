@@ -46,6 +46,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '2612'
+  contact_infos:
+  - key: WEB
+    value: http://xn– 80aaaajfjszd7a3b0e.xn– p1ai/
+  - key: PHONE
+    value: "+7-8-908-178-65-57"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-09-13'
@@ -56,6 +61,9 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '114382'
+  contact_infos:
+  - key: WEB
+    value: http://vk.com/kazak_ nac_guard
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4034.58
 logical_id: '7413'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -278,6 +279,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '2609'
+  contact_infos:
+  - key: WEB
+    value: https://glava-lnr.info/; https://sovminlnr.ru/; https://nslnr.su/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

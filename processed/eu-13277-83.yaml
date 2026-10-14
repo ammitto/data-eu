@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13277.83
 logical_id: '176511'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,6 +66,9 @@ addresses:
   zip_code: '111397'
   regulation_language: en
   logical_id: '176512'
+  contact_infos:
+  - key: WEB
+    value: https://intervesp.ru/; https://metal-stanki.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -76,6 +80,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176514'
+  issue_date: '2016-09-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

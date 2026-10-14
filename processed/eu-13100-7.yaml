@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13100.7
 logical_id: '175415'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,7 @@ identifications:
   country_iso2_code: IL
   regulation_language: en
   logical_id: '175417'
+  issue_date: '1994-10-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

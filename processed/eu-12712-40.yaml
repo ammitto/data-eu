@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12712.40
 logical_id: '172648'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -195,6 +196,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172651'
+  issue_date: '1992-11-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

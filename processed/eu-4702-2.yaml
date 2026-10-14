@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4702.2
 logical_id: '117943'
+designation_date: '2018-08-23'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -217,6 +218,9 @@ identifications:
   country_iso2_code: MY
   regulation_language: en
   logical_id: '117952'
+  valid_to: '2015-11-06'
+  issue_date: '2013-11-06'
+  issued_by: Immigration Department of Malaysia
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'

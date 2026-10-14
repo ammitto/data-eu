@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3575.45
 logical_id: '7573'
+designation_date: '2015-02-16'
 remark: none
 regulations:
 - regulation_type: amendment
@@ -39,6 +40,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '122890'
+  contact_infos:
+  - key: WEB
+    value: https://vk.com/public73385255
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

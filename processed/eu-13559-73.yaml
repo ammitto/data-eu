@@ -2,6 +2,7 @@
 eu_reference_number: EU.13559.73
 logical_id: '178347'
 designation_details: 8.4.2015, suspended since 16.1.2016
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -38,6 +39,12 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178348'
+  po_box: 11365 -5416
+  contact_infos:
+  - key: PHONE
+    value: '88826690'
+  - key: FAX
+    value: '8890028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

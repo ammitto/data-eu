@@ -2,6 +2,7 @@
 eu_reference_number: EU.13355.59
 logical_id: '177046'
 designation_details: Limited Liability Company
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -46,6 +47,7 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '177048'
+  po_box: '250000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -59,6 +61,7 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '177047'
+  po_box: '255086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -70,6 +73,7 @@ identifications:
   country_iso2_code: CN
   regulation_language: en
   logical_id: '177050'
+  issue_date: '2024-11-07'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

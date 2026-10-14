@@ -2,6 +2,7 @@
 eu_reference_number: EU.13718.22
 logical_id: '179072'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -37,6 +38,7 @@ addresses:
   zip_code: '15817'
   regulation_language: en
   logical_id: '179073'
+  po_box: 11365-5964
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3882.46
 logical_id: '106144'
+designation_date: '2015-08-20'
 remark: "‘Reportedly deceased as at 11 October 2015.’"
 regulations:
 - regulation_type: amendment
@@ -124,6 +125,9 @@ addresses:
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
   logical_id: '106147'
+  contact_infos:
+  - key: PHONE
+    value: "+236 75507560"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'
@@ -135,6 +139,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107184'
+  valid_to: '2018-04-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-12-24'

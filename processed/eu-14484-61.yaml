@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14484.61
 logical_id: '183094'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -66,6 +67,11 @@ addresses:
   zip_code: '350000'
   regulation_language: en
   logical_id: '183096'
+  contact_infos:
+  - key: WEB
+    value: https://kk.ru/
+  - key: EMAIL
+    value: bank@kk.bank
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -77,6 +83,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183098'
+  issue_date: '1993-09-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

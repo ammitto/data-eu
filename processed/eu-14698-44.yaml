@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14698.44
 logical_id: '184031'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -87,6 +88,9 @@ addresses:
   zip_code: '195112'
   regulation_language: en
   logical_id: '184033'
+  contact_infos:
+  - key: WEB
+    value: " https://www.mcplat.ru/"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

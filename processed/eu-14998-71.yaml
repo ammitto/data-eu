@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14998.71
 logical_id: '185549'
+designation_date: '2026-05-28'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -83,6 +84,9 @@ addresses:
   zip_code: '4483000'
   regulation_language: en
   logical_id: '185550'
+  contact_infos:
+  - key: WEB
+    value: https://hashomeryosh.org/home-en/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
@@ -94,6 +98,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '185551'
+  issue_date: '2013-06-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

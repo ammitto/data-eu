@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4215.48
 logical_id: '111822'
+designation_date: '2017-04-07'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -61,6 +62,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '111824'
+  valid_to: '2021-11-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

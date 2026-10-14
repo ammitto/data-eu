@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6313.7
 logical_id: '129454'
+designation_date: '2021-04-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -31,6 +32,11 @@ addresses:
   country_description: MYANMAR
   regulation_language: en
   logical_id: '129455'
+  contact_infos:
+  - key: PHONE
+    value: 01-8221369
+  - key: EMAIL
+    value: mecadm.hq@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-19'

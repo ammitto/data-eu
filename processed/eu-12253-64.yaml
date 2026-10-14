@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12253.64
 logical_id: '170204'
+designation_date: '2024-10-14'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -166,6 +167,9 @@ addresses:
   zip_code: '127006'
   regulation_language: en
   logical_id: '170205'
+  contact_infos:
+  - key: WEB
+    value: https://evrazia.su/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

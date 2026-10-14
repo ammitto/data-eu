@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4443.44
 logical_id: '116162'
+designation_date: '2018-03-30'
 remark: UNLI-30.03.2018
 regulations:
 - regulation_type: amendment
@@ -43,6 +44,7 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '116346'
+  place: Chai Wan
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'

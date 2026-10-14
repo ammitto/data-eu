@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9366.7
 logical_id: '147118'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -194,6 +195,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147119'
+  contact_infos:
+  - key: WEB
+    value: https://komzrt.ru/
+  - key: PHONE
+    value: "+7(843) 235-80-35"
+  - key: EMAIL
+    value: Info@komzrt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

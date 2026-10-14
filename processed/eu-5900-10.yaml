@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5900.10
 logical_id: '126020'
+designation_date: '2020-10-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,15 @@ addresses:
   zip_code: 11 124
   regulation_language: en
   logical_id: '126021'
+  contact_infos:
+  - key: WEB
+    value: http://gosniiokht.ru
+  - key: PHONE
+    value: "+7 (495) 673 7530"
+  - key: EMAIL
+    value: dir@gosniiokht.ru
+  - key: FAX
+    value: "+7 (495) 673 2218"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-15'

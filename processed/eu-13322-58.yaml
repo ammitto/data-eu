@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13322.58
 logical_id: '176833'
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -117,6 +118,15 @@ addresses:
   zip_code: '220019'
   regulation_language: en
   logical_id: '176834'
+  contact_infos:
+  - key: WEB
+    value: https://eng.e-motors.tech/; https://lasercut.by/
+  - key: PHONE
+    value: "+375 17 390 54 47; +375 17 390 30 76"
+  - key: EMAIL
+    value: info@e-motors.tech
+  - key: FAX
+    value: "+375 17 390 54 48"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -128,6 +138,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '176835'
+  issue_date: '2000-02-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

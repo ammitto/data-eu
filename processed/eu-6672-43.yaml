@@ -2,6 +2,7 @@
 eu_reference_number: EU.6672.43
 logical_id: '131805'
 united_nation_id: YEi.007
+designation_date: '2021-11-09'
 remark: UNLI - 09.11.2021
 regulations:
 - regulation_type: amendment
@@ -131,6 +132,8 @@ identifications:
   country_iso2_code: YE
   regulation_language: en
   logical_id: '131911'
+  valid_to: '2019-10-07'
+  issue_date: '2013-10-07'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'
@@ -141,6 +144,8 @@ identifications:
   country_iso2_code: YE
   regulation_language: en
   logical_id: '131910'
+  valid_to: '2006-12-09'
+  issue_date: '2000-12-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'

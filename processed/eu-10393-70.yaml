@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10393.70
 logical_id: '154866'
+designation_date: '2023-06-23'
 remark: 'Date of registration: 3.7.2013'
 regulations:
 - regulation_type: amendment
@@ -63,6 +64,9 @@ addresses:
   zip_code: '194021'
   regulation_language: en
   logical_id: '154867'
+  contact_infos:
+  - key: WEB
+    value: http://www.fti-optronic.com/Optoelektronnye-komponenty.html
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

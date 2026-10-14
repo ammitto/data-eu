@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8296.14
 logical_id: '140435'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -73,6 +74,15 @@ addresses:
   zip_code: '423570'
   regulation_language: en
   logical_id: '140436'
+  contact_infos:
+  - key: WEB
+    value: https://shina-kama.ru
+  - key: PHONE
+    value: "+8 555 49-79-30"
+  - key: EMAIL
+    value: minnegalievfg@kamatyres.com
+  - key: FAX
+    value: "+ 8 555 24-15-70"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

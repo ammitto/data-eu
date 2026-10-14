@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8088.25
 logical_id: '139125'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,13 @@ addresses:
   zip_code: '298176'
   regulation_language: en
   logical_id: '139126'
+  contact_infos:
+  - key: WEB
+    value: https://moreship.ru/main/
+  - key: PHONE
+    value: "+7 (36562) 29-3-22"
+  - key: EMAIL
+    value: office@moreship.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

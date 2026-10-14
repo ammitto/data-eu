@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8294.16
 logical_id: '140425'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -64,6 +65,13 @@ addresses:
   zip_code: '143900'
   regulation_language: en
   logical_id: '140426'
+  contact_infos:
+  - key: WEB
+    value: https://www.blmz.ru
+  - key: PHONE
+    value: "+7 (495) 639-94-94"
+  - key: EMAIL
+    value: info@blmz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

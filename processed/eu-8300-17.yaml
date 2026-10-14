@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8300.17
 logical_id: '140455'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,13 @@ addresses:
   zip_code: '199178'
   regulation_language: en
   logical_id: '140456'
+  contact_infos:
+  - key: WEB
+    value: https://kronshtadt.ru
+  - key: PHONE
+    value: "+7 (812) 449‑90‑90 "
+  - key: EMAIL
+    value: uav@kronshtadt.ru; office@kronshtadt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -84,6 +92,13 @@ addresses:
   zip_code: '115432'
   regulation_language: en
   logical_id: '140457'
+  contact_infos:
+  - key: WEB
+    value: https://kronshtadt.ru
+  - key: PHONE
+    value: "+7 (495) 748‑35‑77,  +7 (495) 230‑00‑36, +7 (812) 449-90-90  "
+  - key: EMAIL
+    value: uav@kronshtadt.ru ; office@kronshtadt.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11385.87
 logical_id: '163486'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,15 @@ addresses:
   zip_code: '607220'
   regulation_language: en
   logical_id: '163487'
+  contact_infos:
+  - key: WEB
+    value: https://www.temp-avia.ru/
+  - key: PHONE
+    value: "+7 (83147) 7-13-35, 7 83 19"
+  - key: EMAIL
+    value: ao@temp-avia.ru
+  - key: FAX
+    value: "+7 (83147) 9-46-42"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

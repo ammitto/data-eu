@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9783.81
 logical_id: '150285'
+designation_date: '2023-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -542,6 +543,9 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '150286'
+  contact_infos:
+  - key: WEB
+    value: https://en.fznc.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

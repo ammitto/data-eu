@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6513.25
 logical_id: '130937'
+designation_date: '2021-06-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -80,6 +81,11 @@ addresses:
   zip_code: '220004'
   regulation_language: en
   logical_id: '130939'
+  contact_infos:
+  - key: WEB
+    value: http://www.bremino.by
+  - key: EMAIL
+    value: 'office@bremino.by; marketing@bremino.by '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -89,6 +95,12 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '130938'
+  place: Bolbasovo village, Zavodskaya 1k, Orsha Region/Oblast
+  contact_infos:
+  - key: WEB
+    value: http://www.bremino.by
+  - key: EMAIL
+    value: office@bremino.by; marketing@bremino.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

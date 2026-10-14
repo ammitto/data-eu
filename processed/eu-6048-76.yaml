@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6048.76
 logical_id: '126873'
+designation_date: '2020-12-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,11 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '126874'
+  contact_infos:
+  - key: WEB
+    value: https://bte.by
+  - key: EMAIL
+    value: mail@bte.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

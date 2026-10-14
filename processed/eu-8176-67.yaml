@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8176.67
 logical_id: '139905'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -62,6 +63,13 @@ addresses:
   zip_code: '644020'
   regulation_language: en
   logical_id: '139906'
+  contact_infos:
+  - key: WEB
+    value: http://transmash-omsk.ru
+  - key: PHONE
+    value: "+7 (3812) 44 61 03"
+  - key: EMAIL
+    value: info@transmash-omsk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

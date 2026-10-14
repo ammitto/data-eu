@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6439.45
 logical_id: '130431'
+designation_date: '2021-06-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -39,6 +40,9 @@ addresses:
   country_description: MYANMAR
   regulation_language: en
   logical_id: '130432'
+  contact_infos:
+  - key: WEB
+    value: http://www.mge.gov.mm/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

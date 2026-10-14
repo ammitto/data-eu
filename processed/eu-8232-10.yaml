@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8232.10
 logical_id: '140026'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -88,6 +89,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '140027'
+  place: Knyaz-Volkonskoye
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

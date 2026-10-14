@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8177.66
 logical_id: '139910'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,11 @@ addresses:
   zip_code: '115184'
   regulation_language: en
   logical_id: '139911'
+  contact_infos:
+  - key: WEB
+    value: https://www.ruselectronics.ru/
+  - key: PHONE
+    value: "+7 495 777 42 82"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

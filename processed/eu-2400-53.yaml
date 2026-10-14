@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2400.53
 logical_id: '6333'
+designation_date: '2011-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -30,6 +31,7 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '129696'
+  po_box: '9525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

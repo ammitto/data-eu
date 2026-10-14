@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9360.13
 logical_id: '147088'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -243,6 +244,13 @@ addresses:
   zip_code: '115184'
   regulation_language: en
   logical_id: '147090'
+  contact_infos:
+  - key: WEB
+    value: https://spravedlivo.ru/main
+  - key: PHONE
+    value: "+7 495 787 85 15"
+  - key: EMAIL
+    value: info@spravedlivo.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

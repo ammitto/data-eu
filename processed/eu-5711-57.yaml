@@ -2,6 +2,7 @@
 eu_reference_number: EU.5711.57
 logical_id: '125154'
 united_nation_id: CFi.014
+designation_date: '2020-08-05'
 remark: Reportedly killed during fighting in December 2020
 regulations:
 - regulation_type: amendment
@@ -117,6 +118,8 @@ identifications:
   country_iso2_code: CF
   regulation_language: en
   logical_id: '125158'
+  issue_date: '2019-03-15'
+  issued_by: Minister of Interior of the Central African Republic
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-13'

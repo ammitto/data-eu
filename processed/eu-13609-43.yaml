@@ -2,6 +2,7 @@
 eu_reference_number: EU.13609.43
 logical_id: '178592'
 designation_details: "(16.11.2013, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,6 +66,7 @@ addresses:
   zip_code: '100'
   regulation_language: en
   logical_id: '178594'
+  po_box: '417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -75,6 +77,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '178595'
+  po_box: '2004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -109,6 +112,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '178593'
+  po_box: '3281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

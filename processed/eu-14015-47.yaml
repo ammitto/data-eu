@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14015.47
 logical_id: '180948'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,11 @@ addresses:
   zip_code: '129626'
   regulation_language: en
   logical_id: '180949'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (499) 608-18-38; +7 (495) 781-26-93"
+  - key: EMAIL
+    value: impuls@impuls.ru; ok@impuls.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -88,6 +94,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '182435'
+  issue_date: '1994-06-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13212.80
 logical_id: '176206'
+designation_date: '2025-06-16'
 remark: UNLI 16.06.2025
 regulations:
 - regulation_type: amendment
@@ -82,6 +83,9 @@ addresses:
   country_description: UGANDA
   regulation_language: en
   logical_id: '176404'
+  contact_infos:
+  - key: PHONE
+    value: "+963936016952"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'

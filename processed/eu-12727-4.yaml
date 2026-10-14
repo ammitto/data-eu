@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12727.4
 logical_id: '172765'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,13 @@ addresses:
   zip_code: '610008'
   regulation_language: en
   logical_id: '172766'
+  contact_infos:
+  - key: WEB
+    value: nmz.ru
+  - key: PHONE
+    value: "+7 (8332) 31-84-00"
+  - key: EMAIL
+    value: info@nmz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -134,6 +142,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172769'
+  issue_date: '2003-06-02'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

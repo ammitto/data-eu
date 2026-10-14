@@ -2,6 +2,7 @@
 eu_reference_number: EU.4040.5
 logical_id: '113378'
 united_nation_id: QDi.407
+designation_date: '2017-07-20'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -144,6 +145,7 @@ addresses:
   country_description: INDONESIA
   regulation_language: en
   logical_id: '113509'
+  place: Nusa Kambangan Island
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

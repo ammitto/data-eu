@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14514.93
 logical_id: '183238'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '236016'
   regulation_language: en
   logical_id: '183239'
+  contact_infos:
+  - key: WEB
+    value: www.etbank.ru
+  - key: PHONE
+    value: "+7 (4012) 59-00-99 ; 8 (800) 100-22-48"
+  - key: EMAIL
+    value: mail@energotransbank.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183241'
+  issue_date: '1990-12-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

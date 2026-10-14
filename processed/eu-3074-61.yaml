@@ -241,6 +241,9 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2281'
+  contact_infos:
+  - key: PHONE
+    value: "+963 11 2219400; +963 11 2219401; +963 11 2220220; +963 11 2210404"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

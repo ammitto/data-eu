@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13423.66
 logical_id: '177540'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -86,6 +87,7 @@ addresses:
   country_description: HAITI
   regulation_language: en
   logical_id: '177541'
+  place: Commune of Carrefour
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

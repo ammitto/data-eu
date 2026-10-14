@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3838.25
 logical_id: '112075'
+designation_date: '2017-05-17'
 remark: Father's name is Abdoulaye. Mother's name is Absita Moussa.
 regulations:
 - regulation_type: amendment
@@ -224,6 +225,8 @@ identifications:
   country_iso2_code: CF
   regulation_language: en
   logical_id: '112087'
+  valid_to: '2018-04-04'
+  issue_date: '2013-04-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'
@@ -234,6 +237,8 @@ identifications:
   country_iso2_code: CF
   regulation_language: en
   logical_id: '125149'
+  valid_to: '2019-03-10'
+  issue_date: '2014-03-11'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'
@@ -244,6 +249,8 @@ identifications:
   country_iso2_code: TD
   regulation_language: en
   logical_id: '120110'
+  valid_to: '2019-04-21'
+  issue_date: '2009-04-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'

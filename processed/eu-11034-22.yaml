@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11034.22
 logical_id: '160414'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -133,6 +134,11 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '160415'
+  contact_infos:
+  - key: WEB
+    value: https://www.krympatriotcentr.ru/
+  - key: PHONE
+    value: "+7 (3652) 545-615"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -144,6 +150,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160416'
+  issue_date: '2015-06-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

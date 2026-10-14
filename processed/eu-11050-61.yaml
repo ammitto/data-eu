@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11050.61
 logical_id: '160506'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -133,6 +134,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '160507'
+  contact_infos:
+  - key: WEB
+    value: tsargrad.tv
+  - key: PHONE
+    value: "+7 (495) 374-77-73"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

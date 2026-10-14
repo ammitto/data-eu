@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12714.38
 logical_id: '172667'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -210,6 +211,7 @@ addresses:
   zip_code: '140250'
   regulation_language: en
   logical_id: '172668'
+  place: Voskresensk urban district, Beloozersky town,
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -231,6 +233,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172671'
+  issue_date: '2023-01-31'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

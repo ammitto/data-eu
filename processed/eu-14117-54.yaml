@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14117.54
 logical_id: '181266'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,13 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '181267'
+  contact_infos:
+  - key: WEB
+    value: https://brightmile-ltd.com/
+  - key: PHONE
+    value: "(+86) 852 8121-2633; 86-00852-82278479"
+  - key: EMAIL
+    value: herea@brightmile-ltd.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

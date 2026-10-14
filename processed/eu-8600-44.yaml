@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8600.44
 logical_id: '142738'
+designation_date: '2022-07-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -165,6 +166,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '142739'
+  contact_infos:
+  - key: WEB
+    value: " https://yunarmy.ru/"
+  - key: PHONE
+    value: "+7 (495) 106-75-75"
+  - key: EMAIL
+    value: " info@yunarmy.ru"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

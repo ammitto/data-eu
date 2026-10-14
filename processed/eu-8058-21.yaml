@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8058.21
 logical_id: '139001'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '139658'
+  issue_date: '1990-10-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13985.20
 logical_id: '180627'
+designation_date: '2026-01-29'
 remark: 'Type of entity: Limited Company'
 regulations:
 - regulation_type: amendment
@@ -52,6 +53,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180629'
+  po_box: '1576984418'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

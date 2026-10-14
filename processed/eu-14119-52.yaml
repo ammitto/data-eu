@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14119.52
 logical_id: '181300'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -45,6 +46,13 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '181302'
+  contact_infos:
+  - key: WEB
+    value: https://sctchemicals.ae/
+  - key: PHONE
+    value: "+971 4 813 7200"
+  - key: EMAIL
+    value: info@sctchemicals.ae
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -77,6 +85,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181303'
+  issued_by: Cedar Rose
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

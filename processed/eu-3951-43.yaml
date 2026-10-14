@@ -2,6 +2,7 @@
 eu_reference_number: EU.3951.43
 logical_id: '3815'
 designation_details: UN designation 23/12/2006
+designation_date: '2023-10-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -232,6 +233,12 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159090'
+  place: Parchin
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 88978036"
+  - key: FAX
+    value: "+98 21 88960239"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -243,6 +250,11 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159091'
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 88978036"
+  - key: FAX
+    value: "+98 21 88960239"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -253,6 +265,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159092'
+  po_box: 1985/777
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

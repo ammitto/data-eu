@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14748.14
 logical_id: '184287'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -56,6 +57,11 @@ addresses:
   zip_code: '454138'
   regulation_language: en
   logical_id: '184288'
+  contact_infos:
+  - key: WEB
+    value: https://www.coal metbank.ru/
+  - key: PHONE
+    value: "+7 (351)  220-53-82  "
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

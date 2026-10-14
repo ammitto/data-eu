@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9372.77
 logical_id: '147149'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -81,6 +82,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147152'
+  issue_date: '1997-10-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

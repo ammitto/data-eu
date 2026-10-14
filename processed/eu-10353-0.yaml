@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10353.0
 logical_id: '154677'
+designation_date: '2023-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -248,6 +249,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '154680'
+  issue_date: '2009-06-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -258,6 +260,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '154679'
+  issue_date: '2009-06-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

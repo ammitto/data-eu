@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12606.58
 logical_id: '171666'
+designation_date: '2024-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -126,6 +127,9 @@ addresses:
   zip_code: '347801'
   regulation_language: en
   logical_id: '171667'
+  contact_infos:
+  - key: WEB
+    value: www.fkpkk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -137,6 +141,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171668'
+  issue_date: '2006-03-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -2,6 +2,7 @@
 eu_reference_number: EU.13352.62
 logical_id: '177020'
 designation_details: Open Systems Development Technology
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177021'
+  po_box: '105082'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -95,6 +97,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177023'
+  issued_by: RUSSIA FEDERATION
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -105,6 +108,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177022'
+  issued_by: RUSSIA FEDERATION
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -115,6 +119,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177024'
+  issued_by: RUSSIA FEDERATION
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

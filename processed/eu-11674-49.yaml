@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11674.49
 logical_id: '166273'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,15 @@ addresses:
   zip_code: '142181'
   regulation_language: en
   logical_id: '166274'
+  contact_infos:
+  - key: WEB
+    value: 'Website: www.cniitm.ru'
+  - key: PHONE
+    value: "+7 (495) 996-59-09, +7 495 249-49-99"
+  - key: EMAIL
+    value: info@cniitm.ru, 223ctm@gmail.com, ctm76@rambler.ru,  tsniitochmash@podolsk.ru
+  - key: FAX
+    value: "+ 7 (495) 996-59-10"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

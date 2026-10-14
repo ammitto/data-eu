@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3510.20
 logical_id: '1079'
+designation_date: '2003-11-03'
 remark: "(a) Passport No A-333602 has been revoked by the Government of India, (b)
   Father's name is Sheikh Ibrahim Ali Kaskar, mother's name is Amina Bi, wife's name
   is Mehjabeen Shaikh."
@@ -311,6 +312,8 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '51'
+  issue_date: '1985-06-04'
+  issued_by: Bombay
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -321,6 +324,8 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '246'
+  issue_date: '1981-11-26'
+  issued_by: Bombay
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -331,6 +336,8 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '245'
+  issue_date: '1978-11-13'
+  issued_by: Bombay
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -381,6 +388,7 @@ identifications:
   country_iso2_code: PK
   regulation_language: en
   logical_id: '253'
+  issue_date: '1991-08-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -391,6 +399,7 @@ identifications:
   country_iso2_code: AE
   regulation_language: en
   logical_id: '252'
+  issue_date: '1985-08-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -401,6 +410,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '251'
+  issue_date: '1979-07-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -411,6 +421,7 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '250'
+  issue_date: '1983-10-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -421,6 +432,8 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '249'
+  issue_date: '1975-07-30'
+  issued_by: BOMBAY
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -431,6 +444,7 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '248'
+  issue_date: '1985-07-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -441,6 +455,8 @@ identifications:
   country_iso2_code: IN
   regulation_language: en
   logical_id: '247'
+  issue_date: '1989-09-02'
+  issued_by: CGI in Jeddah
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'

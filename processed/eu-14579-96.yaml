@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14579.96
 logical_id: '183562'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -51,6 +52,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '183563'
+  contact_infos:
+  - key: PHONE
+    value: "(3466) 31-10-95"
+  - key: EMAIL
+    value: snnv@gazprom-neft.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

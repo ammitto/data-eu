@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6142.91
 logical_id: '127444'
+designation_date: '2021-04-12'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -563,6 +564,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '127445'
+  contact_infos:
+  - key: PHONE
+    value: " +98 21 5625 8050"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'

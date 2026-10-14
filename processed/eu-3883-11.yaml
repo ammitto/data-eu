@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3883.11
 logical_id: '107163'
+designation_date: '2015-12-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,7 @@ identifications:
   country_iso2_code: CF
   regulation_language: en
   logical_id: '107167'
+  valid_to: '2019-12-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-12-24'

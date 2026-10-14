@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9737.38
 logical_id: '150056'
+designation_date: '2023-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -94,6 +95,7 @@ identifications:
   country_iso2_code: UA
   regulation_language: en
   logical_id: '150058'
+  issue_date: '2015-09-04'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

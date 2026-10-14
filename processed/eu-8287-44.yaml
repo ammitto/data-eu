@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8287.44
 logical_id: '140394'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -196,6 +197,9 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '140395'
+  contact_infos:
+  - key: WEB
+    value: tvr.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -207,6 +211,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '140396'
+  issue_date: '1994-09-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

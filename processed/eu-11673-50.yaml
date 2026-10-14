@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11673.50
 logical_id: '166270'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -66,6 +67,13 @@ addresses:
   zip_code: '656037'
   regulation_language: en
   logical_id: '166271'
+  contact_infos:
+  - key: WEB
+    value: http://www.barnaultransmash.ru/
+  - key: PHONE
+    value: "+7 (3852) 39-80-00"
+  - key: EMAIL
+    value: SecrBTM@barnaultransmash.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

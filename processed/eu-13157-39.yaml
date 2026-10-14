@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13157.39
 logical_id: '175808'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -64,6 +65,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175812'
+  issue_date: '2007-11-02'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

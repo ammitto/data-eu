@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14294.12
 logical_id: '182115'
+designation_date: '2026-03-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,13 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '182116'
+  contact_infos:
+  - key: WEB
+    value: i-soon.net isoon.net i-soon.com.cn isoonren.com
+  - key: PHONE
+    value: "+862161119992, +8605645893417, +8613761671735, +864000665915"
+  - key: EMAIL
+    value: shutdown@163.com, isoon2015@126.com, tao_tingting@i-soon.net, li_ping@i-soon.net
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8298.12
 logical_id: '140443'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,15 @@ addresses:
   zip_code: '423570'
   regulation_language: en
   logical_id: '158161'
+  contact_infos:
+  - key: WEB
+    value: www.neftehim.tatneft.ru
+  - key: PHONE
+    value: "+7(8555) 49-73-42, +7(8555) 49-75-86, +7 (855) 549-74-39"
+  - key: EMAIL
+    value: nhk@tnnh.tatneft.ru
+  - key: FAX
+    value: "+7(8555) 49-75-86"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -124,6 +134,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '158164'
+  issue_date: '2002-11-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13812.37
 logical_id: '179673'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,14 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '179674'
+  po_box: '54509'
+  contact_infos:
+  - key: WEB
+    value: https://www.armored-cars.com/
+  - key: PHONE
+    value: "+97172447395"
+  - key: EMAIL
+    value: sales@armored-cars.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -74,6 +83,7 @@ identifications:
   country_iso2_code: AE
   regulation_language: en
   logical_id: '179676'
+  issue_date: '2008-04-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

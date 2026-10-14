@@ -42,6 +42,11 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '114418'
+  contact_infos:
+  - key: WEB
+    value: http://novorossia.pro/; https://vk.com/od_novorossia
+  - key: EMAIL
+    value: 'info@clubnb.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

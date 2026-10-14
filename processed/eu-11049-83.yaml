@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11049.83
 logical_id: '160502'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,9 @@ addresses:
   zip_code: '11787'
   regulation_language: en
   logical_id: '160503'
+  contact_infos:
+  - key: PHONE
+    value: " 516 774 645-16-48"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

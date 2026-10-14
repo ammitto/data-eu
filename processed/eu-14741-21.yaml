@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14741.21
 logical_id: '184238'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,14 @@ addresses:
   zip_code: '620012'
   regulation_language: en
   logical_id: '184239'
+  contact_infos:
+  - key: WEB
+    value: www.uralmash.ru ; www.uralmash kartex.ru
+  - key: PHONE
+    value: " +7 (343)  336-65-81; +7  (343) 336-68-40;  +7 (343) 336-68-38; +7 (343)
+      336 63-58; +7 (343)  327-12-77 "
+  - key: EMAIL
+    value: mail@uralmash.r u
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

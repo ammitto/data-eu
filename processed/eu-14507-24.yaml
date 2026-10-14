@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14507.24
 logical_id: '183198'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '248030'
   regulation_language: en
   logical_id: '183199'
+  contact_infos:
+  - key: WEB
+    value: https://www.genbank.ru
+  - key: PHONE
+    value: "+7 (4842) 55-77-55; +7 (495) 725-63-95"
+  - key: EMAIL
+    value: info@gebank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183253'
+  issue_date: '1995-05-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

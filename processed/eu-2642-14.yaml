@@ -59,6 +59,17 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '1951'
+  contact_infos:
+  - key: WEB
+    value: http://sites.google.com/site/sorohco
+  - key: PHONE
+    value: "+963-11-5327266"
+  - key: PHONE
+    value: "+963-933-526812 +963-932-878282"
+  - key: EMAIL
+    value: sorohco@gmail.com
+  - key: FAX
+    value: "+963-11-5316396"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'

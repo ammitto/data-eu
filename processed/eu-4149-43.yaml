@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4149.43
 logical_id: '107830'
+designation_date: '2016-03-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -59,6 +60,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107890'
+  valid_to: '2016-04-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

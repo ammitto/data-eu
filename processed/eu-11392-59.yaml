@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11392.59
 logical_id: '163527'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -64,6 +65,13 @@ addresses:
   zip_code: '622051'
   regulation_language: en
   logical_id: '163528'
+  contact_infos:
+  - key: WEB
+    value: https://www.cryont.ru
+  - key: PHONE
+    value: "+7 (3435) 499-080"
+  - key: EMAIL
+    value: сrуont@ucm.uvz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2591.89
 logical_id: '6840'
+designation_date: '2021-12-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -40,6 +41,14 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2161'
+  po_box: P.O. Box 5966
+  contact_infos:
+  - key: PHONE
+    value: "+963 11 5111352"
+  - key: EMAIL
+    value: info@syronics.com.sy
+  - key: FAX
+    value: "+963 11 5110117"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

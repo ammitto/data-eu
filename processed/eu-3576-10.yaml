@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3576.10
 logical_id: '7575'
+designation_date: '2015-02-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -42,6 +43,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '120954'
+  contact_infos:
+  - key: WEB
+    value: " http://vk.com/oplot_info; https://vk.com/5ombroplot"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14138.88
 logical_id: '181499'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -50,6 +51,13 @@ addresses:
   zip_code: '192019'
   regulation_language: en
   logical_id: '181500'
+  contact_infos:
+  - key: WEB
+    value: https://kotlin-novator.ru/
+  - key: PHONE
+    value: "+7 (812) 718-68-70; +7 (812) 567-41-55"
+  - key: EMAIL
+    value: official@kotlin-novator.ru; shishkina_en@kotlin-novator.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

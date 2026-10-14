@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8042.58
 logical_id: '138938'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -133,6 +134,13 @@ addresses:
   zip_code: '607220'
   regulation_language: en
   logical_id: '138939'
+  contact_infos:
+  - key: WEB
+    value: amz.ru
+  - key: PHONE
+    value: "+7 831 4740780"
+  - key: EMAIL
+    value: oao_amz@amz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

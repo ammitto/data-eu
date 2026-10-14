@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11374.22
 logical_id: '163406'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -128,6 +129,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '163407'
+  contact_infos:
+  - key: WEB
+    value: https://radar-mms.com/
+  - key: PHONE
+    value: "+78127775051"
+  - key: EMAIL
+    value: radar@radar-mms.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -139,6 +147,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '163408'
+  issue_date: '1992-05-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13174.77
 logical_id: '175904'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,6 +66,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '175905'
+  contact_infos:
+  - key: PHONE
+    value: "+ 7-916-456-3230"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

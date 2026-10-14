@@ -2,6 +2,7 @@
 eu_reference_number: EU.13875.42
 logical_id: '180078'
 designation_details: "(8.11.2014, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 remark: Corrigendum 2025/1980 (OJ L202501980) [corr. 02/02/2026-1]
 regulations:
 - regulation_type: amendment
@@ -73,6 +74,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180084'
+  contact_infos:
+  - key: EMAIL
+    value: info@sctbankers.com zanjani@sctbankers.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -84,6 +88,10 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '180083'
+  po_box: '31988'
+  contact_infos:
+  - key: PHONE
+    value: '09347695504/97-143257022-99'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -95,6 +103,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180082'
+  contact_infos:
+  - key: PHONE
+    value: '09347695504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -105,6 +116,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '180081'
+  contact_infos:
+  - key: PHONE
+    value: '09347695504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -115,6 +129,7 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '180080'
+  po_box: '87'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -126,6 +141,7 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '180079'
+  po_box: '31988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6055.48
 logical_id: '126904'
+designation_date: '2020-12-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -60,6 +61,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '126905'
+  contact_infos:
+  - key: WEB
+    value: 140zavod.org
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

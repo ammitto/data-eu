@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3376.80
 logical_id: '6139'
+designation_date: '2011-03-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -31,6 +32,14 @@ addresses:
   country_description: LIBYA
   regulation_language: en
   logical_id: '1700'
+  po_box: '1101'
+  contact_infos:
+  - key: PHONE
+    value: "(+218) 214778301"
+  - key: EMAIL
+    value: info@gicdf.org
+  - key: FAX
+    value: "(+218) 214778766"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

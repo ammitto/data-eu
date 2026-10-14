@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13074.68
 logical_id: '175101'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -76,6 +77,7 @@ addresses:
   zip_code: 652399,
   regulation_language: en
   logical_id: '175102'
+  place: Honghe Prefecture
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -87,6 +89,7 @@ identifications:
   country_iso2_code: CN
   regulation_language: en
   logical_id: '175106'
+  issue_date: '2007-12-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3949.53
 logical_id: '7439'
+designation_date: '2014-07-30'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -285,6 +286,11 @@ addresses:
   zip_code: '121471'
   regulation_language: en
   logical_id: '2636'
+  contact_infos:
+  - key: WEB
+    value: www.almaz-antey.ru
+  - key: EMAIL
+    value: antey@almaz-antey.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10987.54
 logical_id: '160134'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -93,6 +94,15 @@ addresses:
   zip_code: '140408'
   regulation_language: en
   logical_id: '160135'
+  contact_infos:
+  - key: WEB
+    value: www.kolomnadiesel.com
+  - key: PHONE
+    value: "+7 (496) 613-89-85"
+  - key: EMAIL
+    value: info@tmholding.ru
+  - key: FAX
+    value: "+7 (496) 613-80-66"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14504.27
 logical_id: '183181'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -66,6 +67,11 @@ addresses:
   zip_code: '628400'
   regulation_language: en
   logical_id: '183182'
+  contact_infos:
+  - key: WEB
+    value: https://www.surgutneftegas.ru/
+  - key: PHONE
+    value: "+7 (3462) 39-83-00; +7 (3462) 39-88-04"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -77,6 +83,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183250'
+  issue_date: '1990-10-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -87,6 +94,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183183'
+  issue_date: '1990-10-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

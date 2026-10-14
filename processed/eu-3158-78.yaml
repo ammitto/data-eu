@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3158.78
 logical_id: '106530'
+designation_date: '2015-09-28'
 remark: Photo available for inclusion in the INTERPOL-UN Security Council Special
   Notice.
 regulations:
@@ -83,6 +84,8 @@ identifications:
   country_iso2_code: GB
   regulation_language: en
   logical_id: '106597'
+  valid_to: '2022-06-27'
+  issue_date: '2012-06-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

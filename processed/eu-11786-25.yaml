@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11786.25
 logical_id: '166904'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -64,6 +65,15 @@ addresses:
   zip_code: '111024'
   regulation_language: en
   logical_id: '166905'
+  contact_infos:
+  - key: WEB
+    value: https://mmz-vpered.ru
+  - key: PHONE
+    value: "+ 7 (495) 673-44-27"
+  - key: EMAIL
+    value: company@mmz-vpered.ru
+  - key: FAX
+    value: "+7 (495) 673-36-18"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

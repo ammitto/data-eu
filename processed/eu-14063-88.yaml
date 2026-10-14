@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14063.88
 logical_id: '181016'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,14 @@ addresses:
   zip_code: '660016'
   regulation_language: en
   logical_id: '181017'
+  place: Krasnoyarskiy Kray
+  contact_infos:
+  - key: WEB
+    value: https://www.slavneft.ru/company/geography/krasnoyarsknefnegaz/
+  - key: PHONE
+    value: "+7 (391) 231-92-03"
+  - key: EMAIL
+    value: office@snkng.rosneft.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

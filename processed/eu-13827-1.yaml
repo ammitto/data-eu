@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13827.1
 logical_id: '179862'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,13 @@ addresses:
   zip_code: '454139'
   regulation_language: en
   logical_id: '179863'
+  contact_infos:
+  - key: WEB
+    value: https://ao-signal.ru/
+  - key: PHONE
+    value: "+7 (351) 253-37-60"
+  - key: EMAIL
+    value: kd@ao-signal.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

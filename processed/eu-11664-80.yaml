@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11664.80
 logical_id: '166212'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -227,6 +228,13 @@ addresses:
   zip_code: '141190'
   regulation_language: en
   logical_id: '166213'
+  contact_infos:
+  - key: WEB
+    value: www.ecitech.ru
+  - key: PHONE
+    value: "+7 499 390‑19‑63"
+  - key: EMAIL
+    value: info@ecitech.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -238,6 +246,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166214'
+  issue_date: '2016-09-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

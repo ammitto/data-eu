@@ -2,6 +2,7 @@
 eu_reference_number: EU.3964.36
 logical_id: '3826'
 designation_details: UN designation 24/03/2007 (no longer valid)
+designation_date: '2023-10-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -131,6 +132,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159444'
+  po_box: 19575/596
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -165,6 +167,11 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159441'
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 2546008; +98 21 2556772; +98 21 88969501"
+  - key: FAX
+    value: "+98 21 2556830; +98 21 88969501"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

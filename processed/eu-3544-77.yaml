@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3544.77
 logical_id: '109887'
+designation_date: '2016-10-28'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -150,6 +151,8 @@ identifications:
   country_iso2_code: SY
   regulation_language: en
   logical_id: '115617'
+  valid_to: '2021-07-13'
+  issue_date: '2015-07-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-02-26'

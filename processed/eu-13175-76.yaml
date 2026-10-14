@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13175.76
 logical_id: '175909'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,9 @@ addresses:
   zip_code: '127224'
   regulation_language: en
   logical_id: '175910'
+  contact_infos:
+  - key: PHONE
+    value: "+ 7-926-288-0049"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

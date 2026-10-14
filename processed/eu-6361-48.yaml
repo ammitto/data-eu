@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6361.48
 logical_id: '129976'
+designation_date: '2021-06-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -230,6 +231,9 @@ addresses:
   zip_code: '222161'
   regulation_language: en
   logical_id: '129977'
+  contact_infos:
+  - key: WEB
+    value: https://belaz.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6724.11
 logical_id: '132167'
+designation_date: '2021-12-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -181,6 +182,9 @@ addresses:
   zip_code: '213824'
   regulation_language: en
   logical_id: '132168'
+  contact_infos:
+  - key: WEB
+    value: http://www.belshinajsc.by/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -192,6 +196,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '132169'
+  issue_date: '1994-01-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-25'

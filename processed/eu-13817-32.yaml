@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13817.32
 logical_id: '179725'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -117,6 +118,16 @@ addresses:
   zip_code: '220014'
   regulation_language: en
   logical_id: '179726'
+  po_box: room 16
+  contact_infos:
+  - key: WEB
+    value: https://h-tv.by/, https://h-holding.by/
+  - key: PHONE
+    value: "+375 (17) 226 36 01"
+  - key: EMAIL
+    value: info@h-tv.by
+  - key: FAX
+    value: "+375 (17) 303 76 07"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

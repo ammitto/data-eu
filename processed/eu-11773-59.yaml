@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11773.59
 logical_id: '166833'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -89,6 +90,14 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '166834'
+  place: Hurzuf
+  contact_infos:
+  - key: WEB
+    value: https://artek.org/
+  - key: PHONE
+    value: "+7 800 600 20 85"
+  - key: EMAIL
+    value: center@artek.org
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -100,6 +109,7 @@ identifications:
   country_iso2_code: UA
   regulation_language: en
   logical_id: '166835'
+  issue_date: '2014-08-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

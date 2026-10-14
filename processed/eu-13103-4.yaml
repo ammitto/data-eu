@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13103.4
 logical_id: '175442'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -46,6 +47,7 @@ addresses:
   country_description: HONG KONG
   regulation_language: en
   logical_id: '175443'
+  place: Kwun Tong
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -57,6 +59,7 @@ identifications:
   country_iso2_code: HK
   regulation_language: en
   logical_id: '175446'
+  issue_date: '2022-10-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

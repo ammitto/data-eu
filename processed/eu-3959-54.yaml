@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3959.54
 logical_id: '7574'
+designation_date: '2015-02-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -238,6 +239,13 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '118090'
+  contact_infos:
+  - key: WEB
+    value: https://vk.com/battalionprizrak
+  - key: PHONE
+    value: "+38 (072) 199-86-39"
+  - key: EMAIL
+    value: mail@prizrak.info
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

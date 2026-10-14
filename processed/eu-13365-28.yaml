@@ -2,6 +2,7 @@
 eu_reference_number: EU.13365.28
 logical_id: '177107'
 designation_details: Limited Liability Company
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -66,6 +67,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177108'
+  po_box: '142450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -77,6 +79,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177110'
+  issue_date: '2005-09-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

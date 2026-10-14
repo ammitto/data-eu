@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6051.52
 logical_id: '126887'
+designation_date: '2020-12-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,13 @@ addresses:
   zip_code: '220005'
   regulation_language: en
   logical_id: '126889'
+  contact_infos:
+  - key: WEB
+    value: https://synesis.partners; https://synesis-group.com/
+  - key: PHONE
+    value: "+375 (17) 240-36-50 "
+  - key: EMAIL
+    value: yuriy.serbenkov@synesis.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -53,6 +61,9 @@ addresses:
   zip_code: '123100'
   regulation_language: en
   logical_id: '126888'
+  contact_infos:
+  - key: WEB
+    value: https://synesis.partners; https://synesis-group.com/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -2,6 +2,7 @@
 eu_reference_number: EU.13744.30
 logical_id: '179200'
 designation_details: "(23.5.2011, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -87,6 +88,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '179202'
+  place: Karegar e Shomali
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

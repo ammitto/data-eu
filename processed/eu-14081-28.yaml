@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14081.28
 logical_id: '181641'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -58,6 +59,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181643'
+  issue_date: '2011-08-16'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -68,6 +70,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181644'
+  issue_date: '2011-08-16'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

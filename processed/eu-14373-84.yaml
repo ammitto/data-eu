@@ -2,6 +2,7 @@
 eu_reference_number: EU.14373.84
 logical_id: '182588'
 designation_details: 'Type of entity: Open Joint Stock Company'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -79,6 +80,13 @@ addresses:
   zip_code: '603950'
   regulation_language: en
   logical_id: '182589'
+  contact_infos:
+  - key: WEB
+    value: https://nzif.ru/
+  - key: PHONE
+    value: "+7 (831) 464-06-15; +7 (831) 466-66-00"
+  - key: EMAIL
+    value: mail@nzif.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -110,6 +118,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '182590'
+  issue_date: '2011-08-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

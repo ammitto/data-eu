@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13155.41
 logical_id: '175795'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -62,6 +63,9 @@ addresses:
   country_description: TURKEY
   regulation_language: en
   logical_id: '175796'
+  contact_infos:
+  - key: WEB
+    value: https://thered.stream/imprint/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -83,6 +87,7 @@ identifications:
   country_iso2_code: TR
   regulation_language: en
   logical_id: '175798'
+  issue_date: '2022-11-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

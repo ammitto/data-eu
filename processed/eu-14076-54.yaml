@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14076.54
 logical_id: '181295'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,16 @@ addresses:
   zip_code: '225008'
   regulation_language: en
   logical_id: '181296'
+  place: Hanjiang District Yangzhou
+  contact_infos:
+  - key: WEB
+    value: https://www.21yangjie.com/
+  - key: PHONE
+    value: 400 106 0780
+  - key: EMAIL
+    value: yangjie@21yangjie.com
+  - key: FAX
+    value: "(0514) 87943666"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -83,6 +94,7 @@ identifications:
   country_iso2_code: CN
   regulation_language: en
   logical_id: '181420'
+  issue_date: '2000-01-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

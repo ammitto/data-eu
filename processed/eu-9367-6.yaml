@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9367.6
 logical_id: '147124'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -85,6 +86,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147125'
+  contact_infos:
+  - key: WEB
+    value: https://enics.aero/
+  - key: PHONE
+    value: " +7 (843) 212-07-08"
+  - key: EMAIL
+    value: uav@enics.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

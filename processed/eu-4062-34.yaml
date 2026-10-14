@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4062.34
 logical_id: '6855'
+designation_date: '2013-01-22'
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -157,6 +158,11 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '2181'
+  contact_infos:
+  - key: PHONE
+    value: 8502- 18111; 8502-18111-8642; and 850 2 18111- 3818642
+  - key: EMAIL
+    value: ryonha@ silibank.com; sjc117@ hotmail.com; and millim@ silibank.com
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'
@@ -167,6 +173,11 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '2180'
+  contact_infos:
+  - key: PHONE
+    value: 8502- 18111; 8502-18111-8642; and 850 2 18111- 3818642
+  - key: EMAIL
+    value: ryonha@ silibank.com; sjc117@ hotmail.com; and millim@ silibank.com
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'
@@ -177,6 +188,11 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '2179'
+  contact_infos:
+  - key: PHONE
+    value: 8502- 18111; 8502-18111-8642; and 850 2 18111- 3818642
+  - key: EMAIL
+    value: ryonha@ silibank.com; sjc117@ hotmail.com; and millim@ silibank.com
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

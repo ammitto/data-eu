@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3975.2
 logical_id: '106123'
+designation_date: '2015-08-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -154,6 +155,9 @@ addresses:
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
   logical_id: '106125'
+  contact_infos:
+  - key: PHONE
+    value: "+236 72 15 47 07 / +236 75 09 43 41"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'

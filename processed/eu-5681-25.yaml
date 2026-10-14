@@ -2,6 +2,7 @@
 eu_reference_number: EU.5681.25
 logical_id: '124886'
 united_nation_id: QDi.427
+designation_date: '2020-07-16'
 remark: UNLI 17.7.2020
 regulations:
 - regulation_type: amendment
@@ -74,6 +75,7 @@ addresses:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '161369'
+  place: Lamman, District Barmal
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11317.11
 logical_id: '163047'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -101,6 +102,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '163048'
+  contact_infos:
+  - key: WEB
+    value: https://впцвымпел.рф/
+  - key: PHONE
+    value: "+7 (977) 990 46 96  +7 (963) 602-90-32"
+  - key: EMAIL
+    value: " lager@vpc-vympel.ru"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -112,6 +120,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '163049'
+  issue_date: '2005-09-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

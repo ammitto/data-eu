@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11936.4
 logical_id: '167917'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -101,6 +102,7 @@ identifications:
   country_iso2_code: IL
   regulation_language: en
   logical_id: '167925'
+  valid_to: '2031-10-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -109,6 +109,7 @@ identifications:
   country_iso2_code: US
   regulation_language: en
   logical_id: '620'
+  valid_to: '2016-03-15'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2015-08-01'

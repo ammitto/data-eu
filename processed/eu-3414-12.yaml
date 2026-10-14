@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3414.12
 logical_id: '5629'
+designation_date: '2010-05-11'
 remark: 'Date of designation referred to in Article 7d(2), point (i): 11.5.2010'
 regulations:
 - regulation_type: amendment
@@ -194,6 +195,7 @@ identifications:
   country_iso2_code: YE
   regulation_language: en
   logical_id: '174642'
+  issue_date: '1996-07-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -204,6 +206,7 @@ identifications:
   country_iso2_code: YE
   regulation_language: en
   logical_id: '174643'
+  issue_date: '1999-07-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5705.84
 logical_id: '124980'
+designation_date: '2020-07-30'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -126,6 +127,8 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '124984'
+  valid_to: '2022-04-17'
+  issued_by: Ministry of foreign Affairs of the Russian Federation
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-07-30'

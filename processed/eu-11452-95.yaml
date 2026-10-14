@@ -93,6 +93,13 @@ addresses:
   zip_code: '454085'
   regulation_language: en
   logical_id: '164851'
+  contact_infos:
+  - key: WEB
+    value: https://www.skb-turbina.com/
+  - key: PHONE
+    value: "+7 (351) 7751037"
+  - key: EMAIL
+    value: jur@skb-turbina.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

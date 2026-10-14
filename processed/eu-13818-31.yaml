@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13818.31
 logical_id: '179746'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,12 @@ addresses:
   zip_code: '428006'
   regulation_language: en
   logical_id: '179747'
+  place: Cheboksary
+  contact_infos:
+  - key: WEB
+    value: https://en.chapaew.ru/
+  - key: EMAIL
+    value: oaochap@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -74,6 +81,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179748'
+  issue_date: '2011-11-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

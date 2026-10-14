@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11824.28
 logical_id: '167101'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -87,6 +88,13 @@ addresses:
   zip_code: '191186'
   regulation_language: en
   logical_id: '167103'
+  contact_infos:
+  - key: WEB
+    value: https://www.sovcomflot.ru
+  - key: PHONE
+    value: "+7 (495) 660-40-00"
+  - key: EMAIL
+    value: info@scf-group.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

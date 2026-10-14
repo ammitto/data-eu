@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9362.11
 logical_id: '147097'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147098'
+  contact_infos:
+  - key: WEB
+    value: https://www.burevestnik.com/products_engl/history.html
+  - key: PHONE
+    value: "+7 (831) 241-12-42"
+  - key: EMAIL
+    value: mail@burevestnik.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

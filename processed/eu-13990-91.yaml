@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13990.91
 logical_id: '180750'
+designation_date: '2026-01-29'
 remark: 'Type of entity: Private Limited Company'
 regulations:
 - regulation_type: amendment
@@ -42,6 +43,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180751'
+  po_box: '166993356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -53,6 +55,7 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '180753'
+  issue_date: '2007-12-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

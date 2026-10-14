@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13799.64
 logical_id: '179590'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -38,6 +39,9 @@ addresses:
   zip_code: RM6 6AX
   regulation_language: en
   logical_id: '179591'
+  contact_infos:
+  - key: PHONE
+    value: "+447830670309"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

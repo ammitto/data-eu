@@ -2,6 +2,7 @@
 eu_reference_number: EU.3886.3
 logical_id: '6106'
 united_nation_id: LYi.006
+designation_date: '2011-02-26'
 remark: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed on
   17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
 regulations:
@@ -92,6 +93,8 @@ identifications:
   country_iso2_code: LY
   regulation_language: en
   logical_id: '122749'
+  valid_to: '2026-11-24'
+  issue_date: '2018-11-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-06'

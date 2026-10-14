@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6819.46
 logical_id: '132830'
+designation_date: '2022-01-10'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -258,6 +259,9 @@ addresses:
   country_description: NICARAGUA
   regulation_language: en
   logical_id: '132831'
+  contact_infos:
+  - key: WEB
+    value: http://www.policia.gob.ni/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4603.89
 logical_id: '117373'
+designation_date: '2018-06-18'
 regulations:
 - regulation_type: regulation
   organisation_type: commission
@@ -184,6 +185,7 @@ identifications:
   country_iso2_code: PH
   regulation_language: en
   logical_id: '117442'
+  valid_to: '2021-01-19'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

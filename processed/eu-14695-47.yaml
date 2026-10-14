@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14695.47
 logical_id: '184013'
+designation_date: '2026-06-09'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,6 +55,9 @@ addresses:
   zip_code: '119017'
   regulation_language: en
   logical_id: '184014'
+  contact_infos:
+  - key: WEB
+    value: https://www.moskb.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

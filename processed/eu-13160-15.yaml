@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13160.15
 logical_id: '175827'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,9 @@ addresses:
   country_description: UNITED KINGDOM
   regulation_language: en
   logical_id: '175828'
+  contact_infos:
+  - key: WEB
+    value: https://pq.hosting/; https://stark-industries.solutions/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -52,6 +56,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175829'
+  issue_date: '2022-02-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

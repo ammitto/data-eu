@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11311.17
 logical_id: '163004'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -127,6 +128,13 @@ addresses:
   zip_code: '109028'
   regulation_language: en
   logical_id: '163005'
+  contact_infos:
+  - key: WEB
+    value: https://будьвдвижении.рф
+  - key: PHONE
+    value: "+7 495 565 30 10, +8 800 333 63 11"
+  - key: EMAIL
+    value: " zabota@rddm.team; info@rddm.team"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

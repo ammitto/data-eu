@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4668.92
 logical_id: '117795'
+designation_date: '2018-07-31'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,13 @@ addresses:
   zip_code: '160019'
   regulation_language: en
   logical_id: '117797'
+  contact_infos:
+  - key: WEB
+    value: www.zaovad.com
+  - key: PHONE
+    value: "(812) 328-89-80"
+  - key: EMAIL
+    value: office@zaovad.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

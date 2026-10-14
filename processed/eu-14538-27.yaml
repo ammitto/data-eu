@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14538.27
 logical_id: '183373'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '183374'
+  contact_infos:
+  - key: WEB
+    value: https://aversbank.ru/
+  - key: PHONE
+    value: "+7 (843) 5-672-641; +7 (843)5-672-672;  +7 (843)5-672-672-670; 8-800-700-43-21"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,6 +60,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183376'
+  issue_date: '1990-09-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +71,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183375'
+  issue_date: '1990-09-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

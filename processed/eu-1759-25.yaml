@@ -2,6 +2,7 @@
 eu_reference_number: EU.1759.25
 logical_id: '4288'
 designation_details: UN designation 03/03/2008 (no longer valid)
+designation_date: '2023-10-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -226,6 +227,15 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159421'
+  po_box: 19575/361
+  contact_infos:
+  - key: WEB
+    value: " www.nirubattery.com; www.niruco.com"
+  - key: PHONE
+    value: "+98 21 251 0523/ 254 7093; +98 21 22547094; +98 21 22567608-9; +98 21
+      2545084"
+  - key: EMAIL
+    value: info@nirubattery.com; export@niruco.com; niru@isiran.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

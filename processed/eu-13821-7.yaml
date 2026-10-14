@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13821.7
 logical_id: '179790'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -85,6 +86,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179794'
+  issue_date: '2022-12-16'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

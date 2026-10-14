@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2592.54
 logical_id: '6841'
+designation_date: '2011-12-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -60,6 +61,13 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2166'
+  place: Damascus
+  po_box: PO BOX 21120
+  contact_infos:
+  - key: PHONE
+    value: "+ 963 11 2121824"
+  - key: EMAIL
+    value: g.o.eng.ind@net.sy
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -71,6 +79,13 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2163'
+  place: Damascus
+  po_box: P.O. Box 5966
+  contact_infos:
+  - key: PHONE
+    value: "+ 963 11 2121824"
+  - key: EMAIL
+    value: g.o.eng.ind@net.sy
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -82,6 +97,13 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2165'
+  place: Damascus
+  po_box: PO BOX 2849
+  contact_infos:
+  - key: PHONE
+    value: "+ 963 11 2121824"
+  - key: EMAIL
+    value: g.o.eng.ind@net.sy
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

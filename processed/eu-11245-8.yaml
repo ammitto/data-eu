@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11245.8
 logical_id: '162650'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,14 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '162651'
+  place: Rostov-on-Don
+  contact_infos:
+  - key: WEB
+    value: www.rostvertolplc.ru
+  - key: PHONE
+    value: "+7(863)272-72-21"
+  - key: EMAIL
+    value: v.myshevskaya@rostvert.ru   g.bunyaeva@rostvert.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -106,6 +115,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '162652'
+  issue_date: '2002-09-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

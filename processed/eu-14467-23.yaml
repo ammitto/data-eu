@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14467.23
 logical_id: '183002'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,16 @@ addresses:
   zip_code: '119048'
   regulation_language: en
   logical_id: '183003'
+  contact_infos:
+  - key: WEB
+    value: https://uralsib.ru/
+  - key: PHONE
+    value: "+7 (800) 250-57-57;  +7 (800) 200-55-20;  +7 (495) 785-12-12;  +7 (495)
+      372-39-14;  +7 (495) 651-81-09; +7 (495) 609-26-97"
+  - key: EMAIL
+    value: bank@uralsib.ru
+  - key: FAX
+    value: "+7 (495) 745-70-10"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +75,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183005'
+  issue_date: '1993-01-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

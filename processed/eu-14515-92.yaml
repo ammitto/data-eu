@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14515.92
 logical_id: '183244'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,11 @@ addresses:
   zip_code: '443079'
   regulation_language: en
   logical_id: '183245'
+  contact_infos:
+  - key: WEB
+    value: https://solid.ru/
+  - key: EMAIL
+    value: info@solid.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +70,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183246'
+  issue_date: '1990-10-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

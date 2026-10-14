@@ -3,6 +3,7 @@ eu_reference_number: EU.3868.28
 logical_id: '7199'
 designation_details: Listed pursuant to paragraph 19 of UN Security Council Resolution
   1973 (2011) (Asset Freeze).
+designation_date: '2011-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -122,6 +123,7 @@ addresses:
   country_description: OMAN
   regulation_language: en
   logical_id: '107524'
+  place: Sultanate of Oman
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-05-05'
@@ -133,6 +135,8 @@ identifications:
   country_iso2_code: OM
   regulation_language: en
   logical_id: '105190'
+  valid_to: '2024-05-03'
+  issue_date: '2014-05-04'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'

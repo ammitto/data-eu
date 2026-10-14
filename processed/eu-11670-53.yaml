@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11670.53
 logical_id: '166259'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,13 @@ addresses:
   zip_code: '127015'
   regulation_language: en
   logical_id: '166260'
+  contact_infos:
+  - key: WEB
+    value: https://www.aeroem.ru/
+  - key: PHONE
+    value: "+7 (495) 980-65-00"
+  - key: EMAIL
+    value: info@aeroem.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

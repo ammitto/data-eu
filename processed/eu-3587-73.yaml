@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3587.73
 logical_id: '109244'
+designation_date: '2016-08-03'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -118,6 +119,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '109245'
+  place: Republic of Chechnya
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-09'

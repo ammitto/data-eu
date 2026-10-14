@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3383.89
 logical_id: '6245'
+designation_date: '2011-04-12'
 remark: Libyan subsidiary of the Economic & Social Development Fund.
 regulations:
 - regulation_type: amendment
@@ -30,6 +31,13 @@ addresses:
   country_description: LIBYA
   regulation_language: en
   logical_id: '1721'
+  contact_infos:
+  - key: PHONE
+    value: "(218) 213345187"
+  - key: EMAIL
+    value: info@ethic.ly
+  - key: FAX
+    value: "+218.21.334.5188"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

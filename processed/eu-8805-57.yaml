@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8805.57
 logical_id: '144531'
+designation_date: '2022-10-06'
 remark: Corrigendum 2024/2455 (OJ L13092024) [corr. 07/02/2025-1]
 regulations:
 - regulation_type: amendment
@@ -102,6 +103,13 @@ addresses:
   zip_code: '300004'
   regulation_language: en
   logical_id: '144532'
+  contact_infos:
+  - key: WEB
+    value: www.splav.org, www.splavtula.ru, сплав.рф
+  - key: PHONE
+    value: "+7 (4872) 46-44-09"
+  - key: EMAIL
+    value: mail@splavtula.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

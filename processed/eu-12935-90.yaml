@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12935.90
 logical_id: '174320'
+designation_date: '2025-03-27'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -83,6 +84,11 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '174321'
+  contact_infos:
+  - key: PHONE
+    value: "+ 375 17 240-36-50"
+  - key: EMAIL
+    value: info@ridotto.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -94,6 +100,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '174322'
+  issue_date: '2020-02-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

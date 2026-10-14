@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9441.83
 logical_id: '147489'
+designation_date: '2022-12-12'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -100,6 +101,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '147490'
+  contact_infos:
+  - key: EMAIL
+    value: info@paravar-pars.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

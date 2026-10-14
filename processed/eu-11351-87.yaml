@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11351.87
 logical_id: '163274'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,13 @@ addresses:
   zip_code: '125315'
   regulation_language: en
   logical_id: '163275'
+  contact_infos:
+  - key: WEB
+    value: https://sonatec.ru/
+  - key: PHONE
+    value: "+7 (495) 540-56-46"
+  - key: EMAIL
+    value: info@sonatec.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -63,6 +71,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '163276'
+  issue_date: '2009-09-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6715.41
 logical_id: '132122'
+designation_date: '2021-12-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -209,6 +210,15 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '132123'
+  contact_infos:
+  - key: WEB
+    value: http://hotelminsk.by/
+  - key: PHONE
+    value: 375 (17) 209-90-61
+  - key: EMAIL
+    value: 'hotelminsk@udp.gov.by ;  marketing@hotelminsk.by '
+  - key: FAX
+    value: "+375 (17) 200-00-72"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

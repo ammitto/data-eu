@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11785.26
 logical_id: '166897'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -96,6 +97,13 @@ addresses:
   zip_code: '142184'
   regulation_language: en
   logical_id: '166898'
+  contact_infos:
+  - key: WEB
+    value: http://www.kbal.ru/
+  - key: PHONE
+    value: "+7 495 858 56 29"
+  - key: EMAIL
+    value: kbal@kbal.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

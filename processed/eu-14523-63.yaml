@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14523.63
 logical_id: '183301'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '610002'
   regulation_language: en
   logical_id: '183302'
+  contact_infos:
+  - key: WEB
+    value: https://www.bank-hlynov.ru/
+  - key: PHONE
+    value: "+7 (8332) 25-27-77"
+  - key: EMAIL
+    value: bank@bank-hlynov.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,6 +62,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183303'
+  issue_date: '1990-03-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

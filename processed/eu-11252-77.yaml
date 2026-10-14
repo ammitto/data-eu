@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11252.77
 logical_id: '162701'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -104,6 +105,7 @@ addresses:
   zip_code: '249100'
   regulation_language: en
   logical_id: '162702'
+  place: Tarusa district
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -115,6 +117,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '162703'
+  issue_date: '2001-08-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

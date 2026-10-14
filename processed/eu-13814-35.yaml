@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13814.35
 logical_id: '179694'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -71,6 +72,13 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '179695'
+  contact_infos:
+  - key: WEB
+    value: www.holography.by
+  - key: PHONE
+    value: "+375 266 01 31, +375 266 34 17"
+  - key: EMAIL
+    value: info@holography.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -82,6 +90,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179696'
+  issue_date: '1998-05-07'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

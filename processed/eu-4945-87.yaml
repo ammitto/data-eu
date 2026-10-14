@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4945.87
 logical_id: '119208'
+designation_date: '2019-01-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -136,6 +137,7 @@ identifications:
   country_iso2_code: TR
   regulation_language: en
   logical_id: '124101'
+  valid_to: '2024-07-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

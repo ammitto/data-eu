@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11661.83
 logical_id: '166192'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -117,6 +118,14 @@ addresses:
   zip_code: '454012'
   regulation_language: en
   logical_id: '166193'
+  po_box: '454012'
+  contact_infos:
+  - key: WEB
+    value: https://www.chkpz.ru/
+  - key: PHONE
+    value: "+7 (351) 259-70-16"
+  - key: EMAIL
+    value: com@chkpz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -138,6 +147,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166194'
+  issue_date: '1993-11-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -2,6 +2,7 @@
 eu_reference_number: EU.4382.9
 logical_id: '115714'
 united_nation_id: QDi.412
+designation_date: '2018-03-06'
 remark: UNLI-06.03.2018
 regulations:
 - regulation_type: amendment
@@ -180,6 +181,7 @@ addresses:
   country_description: IRAQ
   regulation_language: en
   logical_id: '115789'
+  place: Al-Anbar Province
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -191,6 +193,8 @@ identifications:
   country_iso2_code: IQ
   regulation_language: en
   logical_id: '115795'
+  valid_to: '2021-05-27'
+  issue_date: '2013-05-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -201,6 +205,7 @@ identifications:
   country_iso2_code: IQ
   regulation_language: en
   logical_id: '115793'
+  issue_date: '1984-02-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -211,6 +216,7 @@ identifications:
   country_iso2_code: IQ
   regulation_language: en
   logical_id: '115794'
+  issue_date: '2013-05-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

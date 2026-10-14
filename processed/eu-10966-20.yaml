@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10966.20
 logical_id: '159998'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -102,6 +103,7 @@ addresses:
   zip_code: '426011'
   regulation_language: en
   logical_id: '159999'
+  po_box: PO Box 9050
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -123,6 +125,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160000'
+  issue_date: '2010-12-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

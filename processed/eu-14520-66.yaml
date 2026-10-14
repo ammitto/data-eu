@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14520.66
 logical_id: '183283'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '119435'
   regulation_language: en
   logical_id: '183284'
+  contact_infos:
+  - key: WEB
+    value: https://derzhava.ru/
+  - key: PHONE
+    value: "+7 (495) 380-04-80"
+  - key: EMAIL
+    value: dp@derzhava.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183286'
+  issue_date: '1994-03-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -2,6 +2,7 @@
 eu_reference_number: EU.2039.75
 logical_id: '5764'
 designation_details: UN designation of 09/06/2010 (no longer valid)
+designation_date: '2010-07-26'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -91,6 +92,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '162017'
+  po_box: P.O. Box 19575-657
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -102,6 +104,13 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '162018'
+  contact_infos:
+  - key: WEB
+    value: www.sepanir.com
+  - key: PHONE
+    value: "+98 21 22833960; +98 22833960"
+  - key: FAX
+    value: "+98 2122 833970"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

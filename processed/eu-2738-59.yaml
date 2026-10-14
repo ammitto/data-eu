@@ -29,6 +29,16 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '1948'
+  po_box: PO Box 9525
+  contact_infos:
+  - key: WEB
+    value: http://www.chamholding.sy
+  - key: PHONE
+    value: "+963 11 9962; +963 11 668 14000; +963 11 673 1044"
+  - key: EMAIL
+    value: info@chamholding.sy
+  - key: FAX
+    value: "+963 11 673 1274"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7412.5
 logical_id: '135450'
+designation_date: '2020-12-17'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,13 @@ addresses:
   zip_code: '220076'
   regulation_language: en
   logical_id: '135451'
+  contact_infos:
+  - key: WEB
+    value: https://bir.by/; https://en.dana-holdings.com; https://dana-holdings.com/
+  - key: PHONE
+    value: "+375 (29) 636-23-91"
+  - key: EMAIL
+    value: info@bir.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

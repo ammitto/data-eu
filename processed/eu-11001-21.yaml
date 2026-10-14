@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11001.21
 logical_id: '160195'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160198'
+  issue_date: '2002-09-02'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

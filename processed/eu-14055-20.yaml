@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14055.20
 logical_id: '180900'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '180901'
+  po_box: '141321'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -96,6 +98,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181334'
+  issue_date: '2012-11-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

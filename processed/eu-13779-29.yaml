@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13779.29
 logical_id: '179445'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,11 @@ addresses:
   zip_code: TX 75204
   regulation_language: en
   logical_id: '179446'
+  contact_infos:
+  - key: PHONE
+    value: "+1- 7138370255"
+  - key: EMAIL
+    value: registration@ama ocr.org
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

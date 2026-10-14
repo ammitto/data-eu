@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13570.20
 logical_id: '178400'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -37,6 +38,14 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '178401'
+  po_box: '220035'
+  contact_infos:
+  - key: PHONE
+    value: "+375 (17) 3121012"
+  - key: EMAIL
+    value: " info@tcbank.by"
+  - key: FAX
+    value: "+375 (17) 3121008"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

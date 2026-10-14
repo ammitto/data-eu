@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3891.82
 logical_id: '7355'
+designation_date: '2014-05-09'
 remark: Mother's name is Martine Kofio
 regulations:
 - regulation_type: amendment
@@ -165,6 +166,9 @@ identifications:
   country_iso2_code: SS
   regulation_language: en
   logical_id: '115681'
+  valid_to: '2017-06-11'
+  issue_date: '2013-06-11'
+  issued_by: Minister of Foreign Affairs
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'

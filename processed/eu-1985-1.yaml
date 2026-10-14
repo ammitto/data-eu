@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.1985.1
 logical_id: '5626'
+designation_date: '2010-04-22'
 remark: The year of birth 1976 relates to Mohamed Ould Ahmed Ould Ali.
 regulations:
 - regulation_type: amendment
@@ -130,6 +131,7 @@ addresses:
   country_description: ALGERIA
   regulation_language: en
   logical_id: '161466'
+  place: Merine
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

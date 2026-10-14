@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8056.23
 logical_id: '138993'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -84,6 +85,15 @@ addresses:
   zip_code: '141080'
   regulation_language: en
   logical_id: '138994'
+  contact_infos:
+  - key: WEB
+    value: http://www.ktrv.ru
+  - key: PHONE
+    value: "+7 (495) 542-57-09"
+  - key: EMAIL
+    value: kmo@ktrv.ru
+  - key: FAX
+    value: "+7 (495) 511-94-39 "
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

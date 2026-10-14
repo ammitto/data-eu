@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13781.6
 logical_id: '179452'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,9 @@ addresses:
   zip_code: CA  90212
   regulation_language: en
   logical_id: '179453'
+  contact_infos:
+  - key: PHONE
+    value: "+1-310- 734-2662"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

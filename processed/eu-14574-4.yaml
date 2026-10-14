@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14574.4
 logical_id: '183531'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,11 @@ addresses:
   zip_code: '109428'
   regulation_language: en
   logical_id: '183532'
+  contact_infos:
+  - key: WEB
+    value: https://textiltehsnab.ru/
+  - key: EMAIL
+    value: textiltehsnab@yandex.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,6 +80,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183534'
+  issue_date: '2019-02-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3491.28
 logical_id: '7601'
+designation_date: '2015-04-10'
 remark: 'Physical description: eye colour: brown; height: 171 cm; (b) Photo available
   for inclusion in the Interpol-UN Security Council Special Notice; (c) Father''s
   name is Taher Ouni Harzi, mother''s name is Borkana Bedairia. Reportedly killed
@@ -113,6 +114,7 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '921'
+  issue_date: '2015-02-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'
@@ -123,6 +125,8 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '920'
+  valid_to: '2016-03-13'
+  issue_date: '2011-03-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'

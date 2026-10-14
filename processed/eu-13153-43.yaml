@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13153.43
 logical_id: '175781'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -103,6 +104,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '175782'
+  contact_infos:
+  - key: WEB
+    value: www.egountchibehanzin.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

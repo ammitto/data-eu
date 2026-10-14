@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.1649.59
 logical_id: '4142'
+designation_date: '2008-01-16'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -166,6 +167,8 @@ identifications:
   country_iso2_code: KW
   regulation_language: en
   logical_id: '273'
+  valid_to: '2007-05-11'
+  issue_date: '2005-05-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

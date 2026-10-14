@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11239.35
 logical_id: '162604'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,14 @@ addresses:
   zip_code: '215505'
   regulation_language: en
   logical_id: '162605'
+  place: Safonovsky District
+  contact_infos:
+  - key: WEB
+    value: www.avangard plastik.ru
+  - key: PHONE
+    value: 8 481 423 24 52, 8 481 226 86 05
+  - key: EMAIL
+    value: info@avangard-plastik.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -124,6 +133,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '162606'
+  issue_date: '2008-11-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

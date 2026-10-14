@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12739.68
 logical_id: '172852'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -86,6 +87,13 @@ addresses:
   zip_code: '443099'
   regulation_language: en
   logical_id: '172853'
+  contact_infos:
+  - key: WEB
+    value: https://smrsemz.ru
+  - key: PHONE
+    value: "+7 846 332-24-02"
+  - key: EMAIL
+    value: mail@smrsemz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -97,6 +105,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172856'
+  issue_date: '2011-09-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

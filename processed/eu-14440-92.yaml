@@ -2,6 +2,7 @@
 eu_reference_number: EU.14440.92
 logical_id: '182893'
 designation_details: 'Type of entity: Federal State Budgetary Educational Institution'
+designation_date: '2026-05-11'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,13 @@ addresses:
   zip_code: '297408'
   regulation_language: en
   logical_id: '182894'
+  contact_infos:
+  - key: WEB
+    value: https://ap-evp.ru
+  - key: PHONE
+    value: "+7 (978) 170-20-72"
+  - key: EMAIL
+    value: endo@ap-evp.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

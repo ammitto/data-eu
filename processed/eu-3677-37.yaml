@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3677.37
 logical_id: '3742'
+designation_date: '2007-03-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -32,6 +33,9 @@ addresses:
   country_description: UGANDA
   regulation_language: en
   logical_id: '1010'
+  contact_infos:
+  - key: PHONE
+    value: "+256 41 533 578/9"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-19'
@@ -42,6 +46,7 @@ addresses:
   country_description: UGANDA
   regulation_language: en
   logical_id: '1011'
+  po_box: PO BOX 22 709
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-19'

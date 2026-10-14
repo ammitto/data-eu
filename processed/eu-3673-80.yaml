@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3673.80
 logical_id: '7202'
+designation_date: '2012-12-31'
 remark: 'Date of designation referred to in Article 5(1)(b): 31.12.2012.'
 regulations:
 - regulation_type: amendment
@@ -96,6 +97,9 @@ addresses:
   country_description: CONGO, Democratic Republic of (was Zaire)
   regulation_language: en
   logical_id: '2494'
+  contact_infos:
+  - key: EMAIL
+    value: fldrrse@yahoo.fr
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'

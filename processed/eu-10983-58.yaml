@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10983.58
 logical_id: '160117'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,15 @@ addresses:
   zip_code: '194044'
   regulation_language: en
   logical_id: '160118'
+  contact_infos:
+  - key: WEB
+    value: https://www.lomo.ru/
+  - key: PHONE
+    value: "+7 (812) 292-5242"
+  - key: EMAIL
+    value: lomo@lomo.ru
+  - key: FAX
+    value: "+7 (812) 542-1839"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

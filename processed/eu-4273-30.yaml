@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4273.30
 logical_id: '114898'
+designation_date: '2017-12-22'
 remark: UNLI-22.12.2017
 regulations:
 - regulation_type: amendment
@@ -73,6 +74,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '115034'
+  valid_to: '2018-08-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

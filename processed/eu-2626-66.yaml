@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2626.66
 logical_id: '6675'
+designation_date: '2021-07-31'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -114,6 +115,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '1976'
+  po_box: 19395-6439
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9397.10
 logical_id: '147277'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -230,6 +231,10 @@ addresses:
   zip_code: '99450'
   regulation_language: en
   logical_id: '147278'
+  place: Senezh
+  contact_infos:
+  - key: EMAIL
+    value: ps-smi@mil.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14024.17
 logical_id: '181021'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,11 @@ addresses:
   zip_code: '443004'
   regulation_language: en
   logical_id: '181022'
+  contact_infos:
+  - key: WEB
+    value: vbm.ru
+  - key: EMAIL
+    value: mail@vbm.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -88,6 +94,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181369'
+  issue_date: '2015-12-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

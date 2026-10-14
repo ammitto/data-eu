@@ -2,6 +2,7 @@
 eu_reference_number: EU.13366.27
 logical_id: '177115'
 designation_details: Joint Stock Company
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177116'
+  po_box: '214012'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -98,6 +100,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177118'
+  issue_date: '2002-12-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

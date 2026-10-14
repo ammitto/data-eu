@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14512.95
 logical_id: '183227'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,11 @@ addresses:
   zip_code: '454113'
   regulation_language: en
   logical_id: '183228'
+  contact_infos:
+  - key: WEB
+    value: https://chelinvest.ru/
+  - key: PHONE
+    value: "+7 (351) 268-00-88"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +70,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183258'
+  issue_date: '1990-10-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

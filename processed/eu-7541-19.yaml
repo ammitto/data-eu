@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7541.19
 logical_id: '136170'
+designation_date: '2022-02-28'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -221,6 +222,13 @@ addresses:
   zip_code: '105066'
   regulation_language: en
   logical_id: '151698'
+  contact_infos:
+  - key: WEB
+    value: https://sogaz.ru
+  - key: PHONE
+    value: "+7 8(495) 234-44-24 , +7 8 800 333 0 888"
+  - key: EMAIL
+    value: sogaz@sogaz.ru; cf@sogaz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

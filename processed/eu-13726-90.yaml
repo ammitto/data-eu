@@ -2,6 +2,7 @@
 eu_reference_number: EU.13726.90
 logical_id: '179108'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -56,6 +57,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '179109'
+  po_box: 37515-183
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -68,6 +70,7 @@ addresses:
   zip_code: '1398185611'
   regulation_language: en
   logical_id: '179111'
+  po_box: 37515-183
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

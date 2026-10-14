@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8324.48
 logical_id: '140587'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,13 @@ addresses:
   zip_code: '115035'
   regulation_language: en
   logical_id: '140588'
+  contact_infos:
+  - key: WEB
+    value: http://www.oaovoentorg.ru
+  - key: PHONE
+    value: "+7 (495) 609-5200"
+  - key: EMAIL
+    value: info@oaovoentorg.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

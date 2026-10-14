@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4122.92
 logical_id: '107814'
+designation_date: '2016-03-02'
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -96,6 +97,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '113898'
+  valid_to: '2020-01-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'
@@ -106,6 +108,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '107869'
+  valid_to: '2017-02-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-05'

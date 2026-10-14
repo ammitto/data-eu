@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14120.30
 logical_id: '181307'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,6 +66,14 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '181308'
+  po_box: '9732'
+  contact_infos:
+  - key: WEB
+    value: http://turboshaft.net/index.html
+  - key: PHONE
+    value: "+1 888 222 9553"
+  - key: EMAIL
+    value: qa@turboshaft.ae; aog@turboshaft.ae
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -76,6 +85,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181312'
+  issued_by: Cedar Rose
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -86,6 +96,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '181311'
+  issued_by: Acuris Unique ID
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

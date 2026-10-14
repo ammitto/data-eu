@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10997.23
 logical_id: '160176'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -83,6 +84,15 @@ addresses:
   zip_code: '603035'
   regulation_language: en
   logical_id: '160177'
+  contact_infos:
+  - key: WEB
+    value: https://uacrussia.ru/ru/corporation/ company/nizhegorodskiy-aviastroitelnyy-zavod-sokol/
+  - key: PHONE
+    value: "(831) 242-36-03"
+  - key: EMAIL
+    value: nazsokol@rsk-mig.ru
+  - key: FAX
+    value: "(831) 242-33-04"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

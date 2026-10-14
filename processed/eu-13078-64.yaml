@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13078.64
 logical_id: '175129'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,13 @@ addresses:
   zip_code: '141310'
   regulation_language: en
   logical_id: '175130'
+  contact_infos:
+  - key: WEB
+    value: http://zomz.ru
+  - key: PHONE
+    value: "+7 (495) 540-62-45, +7 (495)728-77-98"
+  - key: EMAIL
+    value: info@zomz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -154,6 +162,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175133'
+  issue_date: '1992-09-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

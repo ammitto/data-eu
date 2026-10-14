@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13475.6
 logical_id: '177939'
+designation_date: '2025-07-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,6 +55,13 @@ addresses:
   country_description: SUDAN
   regulation_language: en
   logical_id: '177941'
+  contact_infos:
+  - key: WEB
+    value: https://redrockmining.co/contact-us/#
+  - key: PHONE
+    value: "+ 249 1203 47711"
+  - key: EMAIL
+    value: corporate@redrockmining.net; info@redrocksd.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'

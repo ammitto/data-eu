@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14522.64
 logical_id: '183295'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -42,6 +43,13 @@ addresses:
   zip_code: '426008'
   regulation_language: en
   logical_id: '183296'
+  contact_infos:
+  - key: WEB
+    value: https://www.bystrobank.ru/
+  - key: PHONE
+    value: "+7 (3412) 90-80-90"
+  - key: FAX
+    value: "+7 (3412) 72-39-69"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -53,6 +61,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183297'
+  issue_date: '1992-04-02'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

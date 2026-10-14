@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2267.78
 logical_id: '5283'
+designation_date: '2008-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '1195'
+  po_box: 18575-365
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

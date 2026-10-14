@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4183.63
 logical_id: '5810'
+designation_date: '2012-05-02'
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -125,6 +126,7 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '113163'
+  place: Mangyongdae District
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
@@ -147,6 +149,11 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '1621'
+  contact_infos:
+  - key: PHONE
+    value: "+850-2-18111(ext. 8327)"
+  - key: EMAIL
+    value: pac@silibank.com and kndic@co.chesin.com
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'
@@ -158,6 +165,14 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '113164'
+  place: Rakrang District
+  contact_infos:
+  - key: PHONE
+    value: "+850-2-18111 (ext. 8327)."
+  - key: EMAIL
+    value: pac@silibank. com and kndic@co.chesin.com
+  - key: FAX
+    value: "+850-2-3814685 and +850-2-3813372"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'

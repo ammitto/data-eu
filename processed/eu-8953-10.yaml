@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8953.10
 logical_id: '145112'
+designation_date: '2022-10-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -87,6 +88,7 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '158130'
+  valid_to: '2022-10-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -97,6 +99,7 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '158131'
+  valid_to: '2027-09-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -107,6 +110,7 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '158132'
+  valid_to: '2025-08-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -127,6 +131,7 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '158129'
+  valid_to: '2021-07-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10863.14
 logical_id: '159242'
+designation_date: '2023-12-11'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -89,6 +90,7 @@ addresses:
   zip_code: '7941659854'
   regulation_language: en
   logical_id: '159249'
+  place: Exhibition Industrial Town
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

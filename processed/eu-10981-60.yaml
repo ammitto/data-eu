@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10981.60
 logical_id: '160108'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -73,6 +74,13 @@ addresses:
   zip_code: '125190'
   regulation_language: en
   logical_id: '160109'
+  contact_infos:
+  - key: WEB
+    value: www.ilyushin.org
+  - key: PHONE
+    value: "+7 (495) 000-00-10"
+  - key: EMAIL
+    value: info@ilyushin.net
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

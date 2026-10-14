@@ -2,6 +2,7 @@
 eu_reference_number: EU.13725.91
 logical_id: '179103'
 designation_details: "(23.6.2008, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -59,6 +60,13 @@ addresses:
   zip_code: '105062'
   regulation_language: en
   logical_id: '179107'
+  contact_infos:
+  - key: WEB
+    value: www.mbbru.com www.bmiru.com
+  - key: EMAIL
+    value: mbbmos@mbbru.com  Mellimos@BMIRU.com  Mellimos@Rex400.ru
+  - key: FAX
+    value: "+7 (495) 9286286, (007495) 6286286"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

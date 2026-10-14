@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10979.83
 logical_id: '160100'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,15 @@ addresses:
   zip_code: '432072'
   regulation_language: en
   logical_id: '160101'
+  contact_infos:
+  - key: WEB
+    value: www.aviastar-sp.ru
+  - key: PHONE
+    value: "+7 (8422) 28 28 28"
+  - key: EMAIL
+    value: mail@aviastar-sp.ru
+  - key: FAX
+    value: "+7 (8422) 50 25 72"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

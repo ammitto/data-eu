@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13576.14
 logical_id: '178426'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -34,6 +35,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178429'
+  po_box: 11365/4978
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -45,6 +47,13 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178427'
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 22029811-19, 22029837"
+  - key: EMAIL
+    value: " info@bim.ir"
+  - key: FAX
+    value: "+98 21 22029894, 0451-7724202"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -56,6 +65,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178428'
+  po_box: 15875-4456
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

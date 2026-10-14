@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3638.95
 logical_id: '5421'
+designation_date: '2009-03-03'
 remark: Pacifique Ntawunguka was the commander of the First Division of FOCA
 regulations:
 - regulation_type: amendment
@@ -151,6 +152,7 @@ addresses:
   country_description: CONGO, Democratic Republic of (was Zaire)
   regulation_language: en
   logical_id: '110785'
+  place: Rutshuru Territory, North Kivu
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-07'

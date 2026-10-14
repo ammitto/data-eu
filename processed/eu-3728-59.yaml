@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3728.59
 logical_id: '7479'
+designation_date: '2014-09-23'
 remark: "."
 regulations:
 - regulation_type: amendment
@@ -165,6 +166,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '886'
+  valid_to: '2019-12-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -175,6 +177,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '885'
+  valid_to: '2014-04-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -185,6 +188,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '129091'
+  valid_to: '2024-01-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

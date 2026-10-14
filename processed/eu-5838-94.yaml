@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5838.94
 logical_id: '125672'
+designation_date: '2020-10-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -121,6 +122,11 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '125673'
+  contact_infos:
+  - key: WEB
+    value: https://kpsk-ins.ru/about
+  - key: EMAIL
+    value: info@kspk-ins.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

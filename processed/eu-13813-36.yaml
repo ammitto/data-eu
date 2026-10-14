@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13813.36
 logical_id: '179680'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -113,6 +114,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '179681'
+  place: Zelenograd
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -144,6 +146,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179682'
+  issue_date: '2015-04-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

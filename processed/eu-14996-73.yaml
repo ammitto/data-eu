@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14996.73
 logical_id: '185532'
+designation_date: '2026-05-28'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -46,6 +47,9 @@ addresses:
   country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
   logical_id: '185533'
+  contact_infos:
+  - key: WEB
+    value: https://www.nachalaisrael.org/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

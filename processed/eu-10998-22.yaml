@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10998.22
 logical_id: '160180'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,15 @@ addresses:
   zip_code: '105005'
   regulation_language: en
   logical_id: '160181'
+  contact_infos:
+  - key: WEB
+    value: www.tupolev.ru
+  - key: PHONE
+    value: "+7 (499) 263-77-77"
+  - key: EMAIL
+    value: info@tupolev.ru
+  - key: FAX
+    value: "+7 (843) 533-40-78"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

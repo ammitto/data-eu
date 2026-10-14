@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14510.0
 logical_id: '183215'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -73,6 +74,13 @@ addresses:
   zip_code: '117292'
   regulation_language: en
   logical_id: '183216'
+  contact_infos:
+  - key: WEB
+    value: www.nrb.ru
+  - key: PHONE
+    value: "+7 (495) 213-32-20"
+  - key: EMAIL
+    value: info@nrb.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -84,6 +92,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183256'
+  issue_date: '1992-11-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13579.11
 logical_id: '178440'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -47,6 +48,13 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178441'
+  contact_infos:
+  - key: WEB
+    value: www.ioptc.com
+  - key: PHONE
+    value: "+98-21-88801960 / +98-21-66152223"
+  - key: FAX
+    value: "+98-21-66154351"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14562.37
 logical_id: '183447'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -116,6 +117,9 @@ addresses:
   zip_code: '129626'
   regulation_language: en
   logical_id: '183448'
+  contact_infos:
+  - key: WEB
+    value: https://www.cccb.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -127,6 +131,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183449'
+  issue_date: '2002-07-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

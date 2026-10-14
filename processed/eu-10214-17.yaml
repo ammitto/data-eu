@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10214.17
 logical_id: '154112'
+designation_date: '2023-06-26'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -81,6 +82,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '154113'
+  place: Rezvanshahr
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'

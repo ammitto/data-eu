@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11779.53
 logical_id: '166866'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -65,6 +66,13 @@ addresses:
   zip_code: '105318'
   regulation_language: en
   logical_id: '166867'
+  contact_infos:
+  - key: WEB
+    value: https://mzmayak.ru/index.html
+  - key: PHONE
+    value: "+7(495) 899-08-11"
+  - key: EMAIL
+    value: 'mail@mzmayak.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

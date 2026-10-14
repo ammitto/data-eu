@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13462.40
 logical_id: '177799'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -138,6 +139,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177800'
+  po_box: '238580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -150,6 +152,10 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177801'
+  po_box: '238580'
+  contact_infos:
+  - key: PHONE
+    value: 8(40153)37-244 - Military unit 09643
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

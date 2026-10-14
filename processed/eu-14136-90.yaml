@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14136.90
 logical_id: '181488'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,13 @@ addresses:
   zip_code: '446100'
   regulation_language: en
   logical_id: '181489'
+  contact_infos:
+  - key: WEB
+    value: https://promsintez.su
+  - key: PHONE
+    value: "+7 (84639) 2-11-55"
+  - key: EMAIL
+    value: info@psintez.su
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -60,6 +68,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181492'
+  issue_date: '2002-11-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

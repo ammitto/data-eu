@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12608.56
 logical_id: '171681'
+designation_date: '2024-12-16'
 remark: 'Associated entity: JSC Kalashnikov Concern (holding company) (registration
   number: 1111832003018)'
 regulations:
@@ -203,6 +204,13 @@ addresses:
   zip_code: '115432'
   regulation_language: en
   logical_id: '171682'
+  contact_infos:
+  - key: WEB
+    value: www.izh-bs.ru, www.izh-bs
+  - key: PHONE
+    value: "+7 (3412) 43-01-11, +7 (939) 875-00-17"
+  - key: EMAIL
+    value: info@izh-bs.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -215,6 +223,7 @@ addresses:
   zip_code: '426063'
   regulation_language: en
   logical_id: '172128'
+  place: Udmurt Republic
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -246,6 +255,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171683'
+  issue_date: '2006-10-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

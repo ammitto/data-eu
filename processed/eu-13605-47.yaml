@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13605.47
 logical_id: '178571'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178572'
+  contact_infos:
+  - key: PHONE
+    value: "(+98) (21) 22372340"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

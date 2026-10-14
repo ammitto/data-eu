@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4132.93
 logical_id: '113740'
+designation_date: '2017-08-05'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -50,6 +51,7 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '113880'
+  place: FTB Building, Jungsong-dong, Central District
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

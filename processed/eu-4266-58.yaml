@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4266.58
 logical_id: '114855'
+designation_date: '2017-12-22'
 remark: UNLI-22.12.2017
 regulations:
 - regulation_type: amendment
@@ -86,6 +87,8 @@ identifications:
   country_iso2_code: KP
   regulation_language: en
   logical_id: '143164'
+  valid_to: '2023-02-14'
+  issue_date: '2018-02-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

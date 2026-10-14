@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13768.61
 logical_id: '179364'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -41,6 +42,8 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '179365'
+  place: Xianshuigu Town
+  po_box: '300350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

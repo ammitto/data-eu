@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13054.33
 logical_id: '175005'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -127,6 +128,13 @@ addresses:
   zip_code: '127055'
   regulation_language: en
   logical_id: '175006'
+  contact_infos:
+  - key: WEB
+    value: http://niidmsk.ru/, http://niid.su/
+  - key: PHONE
+    value: "+7 343 538-04-27, +7 968 052-92-97, +7 499 978-13-97"
+  - key: EMAIL
+    value: dis_agree@mail.ru, info@niid.uvz.ru, sebniid@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -148,6 +156,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175009'
+  issue_date: '2009-01-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.175.57
 logical_id: '106385'
+designation_date: '2015-09-21'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -127,6 +128,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '106415'
+  issue_date: '2001-07-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -147,6 +149,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '129093'
+  valid_to: '2025-03-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -167,6 +170,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '106416'
+  issue_date: '2007-05-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

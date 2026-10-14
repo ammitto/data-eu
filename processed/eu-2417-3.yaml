@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2417.3
 logical_id: '6428'
+designation_date: '2011-05-23'
 remark: Engineering firm that procures equipment for Iran's IR-40 heavy water research
   reactor. Date of listing 23.5.2011.
 regulations:
@@ -41,6 +42,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '177674'
+  po_box: '14316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

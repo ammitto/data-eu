@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14819.18
 logical_id: '184589'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '184591'
+  place: ","
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

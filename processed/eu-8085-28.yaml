@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8085.28
 logical_id: '139112'
+designation_date: '2022-04-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -82,6 +83,13 @@ addresses:
   zip_code: '236005'
   regulation_language: en
   logical_id: '139113'
+  contact_infos:
+  - key: WEB
+    value: https://shipyard-yantar.ru/en
+  - key: PHONE
+    value: "+7 (4012) 61 30 83"
+  - key: EMAIL
+    value: office@shipyard-yantar.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14074.56
 logical_id: '181137'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -57,6 +58,13 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '181138'
+  contact_infos:
+  - key: WEB
+    value: https://www.llc-edm.com/
+  - key: PHONE
+    value: "(+86) 852 8121-2633; 86-00852-82278479"
+  - key: EMAIL
+    value: ceo@llc-edm.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -68,6 +76,7 @@ identifications:
   country_iso2_code: AE
   regulation_language: en
   logical_id: '181139'
+  issue_date: '2022-03-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

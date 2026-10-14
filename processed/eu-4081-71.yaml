@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4081.71
 logical_id: '114601'
+designation_date: '2017-10-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -198,6 +199,16 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '114602'
+  po_box: '416'
+  contact_infos:
+  - key: WEB
+    value: www.ma.gov.kp
+  - key: PHONE
+    value: 850-2-18111 Ex 8059
+  - key: EMAIL
+    value: mab@silibank.net.kp
+  - key: FAX
+    value: 850 2 381 4410
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-10-16'

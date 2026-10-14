@@ -2,6 +2,7 @@
 eu_reference_number: EU.13736.59
 logical_id: '179158'
 designation_details: "(26.7.2010, suspended since 16.1.2016)"
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -67,6 +68,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '179171'
+  po_box: '16820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -88,6 +90,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '179169'
+  po_box: 19395-1855
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -110,6 +113,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '179159'
+  po_box: '55958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

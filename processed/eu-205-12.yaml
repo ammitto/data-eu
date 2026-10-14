@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.205.12
 logical_id: '106389'
+designation_date: '2015-09-21'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -167,6 +168,7 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '106393'
+  valid_to: '2016-02-16'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

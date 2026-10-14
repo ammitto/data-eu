@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3674.45
 logical_id: '7203'
+designation_date: '2012-12-31'
 remark: 'Date of designation referred to in Article 5(1)(b): 31.12.2012'
 regulations:
 - regulation_type: amendment
@@ -48,6 +49,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '2713'
+  contact_infos:
+  - key: EMAIL
+    value: mouvementdu23mars1@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9024.9
 logical_id: '145420'
+designation_date: '2022-11-14'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -31,6 +32,15 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '145421'
+  contact_infos:
+  - key: WEB
+    value: https://houranieh.com/
+  - key: PHONE
+    value: "(+963) 11-2210758, (+963) 11-2224349"
+  - key: EMAIL
+    value: info@houranieh.com
+  - key: FAX
+    value: "(+963) 11-2235892"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

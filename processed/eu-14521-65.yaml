@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14521.65
 logical_id: '183289'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,11 @@ addresses:
   zip_code: '156005'
   regulation_language: en
   logical_id: '183290'
+  contact_infos:
+  - key: WEB
+    value: https://modulbank.ru/
+  - key: EMAIL
+    value: info@modulbank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,6 +80,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183291'
+  issue_date: '1992-06-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

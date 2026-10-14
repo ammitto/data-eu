@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14079.51
 logical_id: '181433'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -45,6 +46,15 @@ addresses:
   zip_code: '121357'
   regulation_language: en
   logical_id: '181434'
+  contact_infos:
+  - key: WEB
+    value: http://www.ntc-reb.ru
+  - key: PHONE
+    value: "+7 (495) 609-61-77"
+  - key: EMAIL
+    value: ntc_reb@mail.ru
+  - key: FAX
+    value: "+7 (495) 609-61-77"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

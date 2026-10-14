@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.1447.5
 logical_id: '1964'
+designation_date: '2004-05-03'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -113,6 +114,7 @@ addresses:
   country_description: ALGERIA
   regulation_language: en
   logical_id: '161617'
+  place: Sidi Argis village
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

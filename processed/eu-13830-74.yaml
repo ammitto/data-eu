@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13830.74
 logical_id: '179885'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -48,6 +49,9 @@ addresses:
   zip_code: '111003'
   regulation_language: en
   logical_id: '179886'
+  contact_infos:
+  - key: PHONE
+    value: '0419-5152248; 0419-5355566'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

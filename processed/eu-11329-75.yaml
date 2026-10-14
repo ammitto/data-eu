@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11329.75
 logical_id: '163126'
+designation_date: '2024-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -115,6 +116,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '163128'
+  issue_date: '1994-02-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

@@ -64,6 +64,7 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '175338'
+  po_box: '390023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -75,6 +76,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175339'
+  issued_by: RUSSIA  FEDERATION
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

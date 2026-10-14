@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13578.12
 logical_id: '178437'
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,12 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178438'
+  po_box: 79145/3184
+  contact_infos:
+  - key: WEB
+    value: " www.niopdc.ir"
+  - key: PHONE
+    value: "+98-21-77606030"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

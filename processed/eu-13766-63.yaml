@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13766.63
 logical_id: '179345'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -143,6 +144,7 @@ addresses:
   zip_code: '291011'
   regulation_language: en
   logical_id: '179347'
+  place: Urban District
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -154,6 +156,7 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '179346'
+  place: Luhansk district
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -165,6 +168,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179349'
+  issue_date: '2022-11-29'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

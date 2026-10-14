@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7391.40
 logical_id: '135321'
+designation_date: '2022-02-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -100,6 +101,11 @@ addresses:
   zip_code: '614000'
   regulation_language: en
   logical_id: '135322'
+  contact_infos:
+  - key: PHONE
+    value: 8 (495) 697-58-69
+  - key: FAX
+    value: 8 (495) 697-58-69
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

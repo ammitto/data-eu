@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12553.91
 logical_id: '171336'
+designation_date: '2024-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -54,6 +55,14 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '171337'
+  po_box: office 203
+  contact_infos:
+  - key: WEB
+    value: https://chartertech.ru/  https://lct-uae.com/ https://lct.com.cy/
+  - key: PHONE
+    value: "+7 495 215-01-15"
+  - key: EMAIL
+    value: sales@chartertech.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13321.59
 logical_id: '176826'
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -96,6 +97,11 @@ addresses:
   zip_code: '210627'
   regulation_language: en
   logical_id: '176827'
+  contact_infos:
+  - key: WEB
+    value: https://vistan.ru/index.html
+  - key: EMAIL
+    value: comintern@tut.by; info@vistan.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -107,6 +113,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '176828'
+  issue_date: '1994-02-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4587.22
 logical_id: '117261'
+designation_date: '2018-06-07'
 remark: Corrigendum 2018/1285 (OJ L240 [corr. 26/10/2018-1]
 regulations:
 - regulation_type: amendment
@@ -97,6 +98,7 @@ identifications:
   country_iso2_code: LY
   regulation_language: en
   logical_id: '117265'
+  issue_date: '2005-05-31'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'
@@ -107,6 +109,7 @@ identifications:
   country_iso2_code: LY
   regulation_language: en
   logical_id: '117264'
+  issue_date: '2008-01-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'

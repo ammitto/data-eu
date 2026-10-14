@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13463.39
 logical_id: '177813'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -105,6 +106,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '177814'
+  contact_infos:
+  - key: WEB
+    value: bricspress.live
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

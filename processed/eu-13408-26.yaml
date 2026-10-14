@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13408.26
 logical_id: '177391'
+designation_date: '2025-07-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -67,6 +68,9 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '177397'
+  contact_infos:
+  - key: WEB
+    value: www.ace-chip.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

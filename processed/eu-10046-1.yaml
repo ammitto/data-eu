@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10046.1
 logical_id: '152954'
+designation_date: '2023-04-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -71,6 +72,9 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '152955'
+  contact_infos:
+  - key: PHONE
+    value: "+963116119331; +963943800808"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

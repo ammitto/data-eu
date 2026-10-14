@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3488.73
 logical_id: '108437'
+designation_date: '2016-04-20'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -108,6 +109,7 @@ identifications:
   country_iso2_code: SA
   regulation_language: en
   logical_id: '108442'
+  issue_date: '2011-07-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-02'

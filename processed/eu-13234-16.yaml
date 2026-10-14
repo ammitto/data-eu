@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13234.16
 logical_id: '176318'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -236,6 +237,13 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '176320'
+  contact_infos:
+  - key: WEB
+    value: " https://ens.mil.ru/science/SRI/information.htm?id=12027@morfOrgScience"
+  - key: PHONE
+    value: "+ 7 (343) 255 99 88"
+  - key: EMAIL
+    value: 33cnii-fes@mil.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

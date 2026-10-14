@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4051.68
 logical_id: '7430'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -737,6 +738,11 @@ addresses:
   zip_code: '298032'
   regulation_language: en
   logical_id: '2634'
+  contact_infos:
+  - key: WEB
+    value: https://nsvet-crimea.ru/
+  - key: PHONE
+    value: "+7-(365) 663-35-00; +7-(365) 663-35-22; +7-978-914- 00-10"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -749,6 +755,7 @@ addresses:
   zip_code: '298032'
   regulation_language: en
   logical_id: '2635'
+  place: Крым
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-13'

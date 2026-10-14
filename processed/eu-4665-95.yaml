@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4665.95
 logical_id: '117779'
+designation_date: '2018-07-31'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -262,6 +263,11 @@ addresses:
   zip_code: '119415'
   regulation_language: en
   logical_id: '117780'
+  contact_infos:
+  - key: WEB
+    value: www.aosgm.com
+  - key: EMAIL
+    value: info@ooosgm.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

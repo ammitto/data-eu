@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13986.19
 logical_id: '180637'
+designation_date: '2026-01-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -72,6 +73,10 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '180638'
+  po_box: '1533763811'
+  contact_infos:
+  - key: WEB
+    value: www.douran.ir
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13764.65
 logical_id: '179329'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -83,6 +84,14 @@ addresses:
   zip_code: '618554'
   regulation_language: en
   logical_id: '179330'
+  place: Solikamsk
+  contact_infos:
+  - key: WEB
+    value: " www.zavodural.ru"
+  - key: PHONE
+    value: "+7 (34253) 4-00-07,  +7 (34253) 4-00-29"
+  - key: EMAIL
+    value: zavod-ural@yandex.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -94,6 +103,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179333'
+  issue_date: '2011-12-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

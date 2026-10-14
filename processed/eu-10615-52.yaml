@@ -4,6 +4,7 @@ logical_id: '156560'
 designation_details: |-
   EU designation: 28/07/2023;
   UN designation: 20/02/2024
+designation_date: '2023-07-28'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -229,6 +230,7 @@ identifications:
   country_iso2_code: TZ
   regulation_language: en
   logical_id: '165408'
+  valid_to: '2016-11-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -239,6 +241,7 @@ identifications:
   country_iso2_code: TZ
   regulation_language: en
   logical_id: '165409'
+  valid_to: '2026-12-11'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

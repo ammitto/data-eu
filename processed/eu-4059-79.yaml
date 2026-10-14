@@ -42,6 +42,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '125027'
+  contact_infos:
+  - key: WEB
+    value: https://vk.com/club163716218/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

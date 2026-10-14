@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4113.56
 logical_id: '113801'
+designation_date: '2017-08-04'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,11 @@ addresses:
   zip_code: '115280'
   regulation_language: en
   logical_id: '113805'
+  contact_infos:
+  - key: WEB
+    value: http://ia.ru
+  - key: EMAIL
+    value: ia.office@ia.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -70,6 +76,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '113813'
+  issue_date: '1994-01-31'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

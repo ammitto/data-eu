@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12748.38
 logical_id: '172910'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -94,6 +95,11 @@ addresses:
   zip_code: '194358'
   regulation_language: en
   logical_id: '172911'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (495) 077 04 29"
+  - key: EMAIL
+    value: sales@3mx.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -105,6 +111,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172914'
+  issue_date: '2023-07-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

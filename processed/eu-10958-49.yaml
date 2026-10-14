@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10958.49
 logical_id: '159945'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -122,6 +123,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '159950'
+  issue_date: '1992-12-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

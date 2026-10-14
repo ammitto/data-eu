@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6716.40
 logical_id: '132127'
+designation_date: '2021-12-02'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -178,6 +179,15 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '132128'
+  contact_infos:
+  - key: WEB
+    value: https://hotelplaneta.by/
+  - key: PHONE
+    value: "+375 (17) 226-78-53"
+  - key: EMAIL
+    value: planeta@udp.gov.by
+  - key: FAX
+    value: "+375 (17) 226-78-55"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

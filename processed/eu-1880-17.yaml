@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.1880.17
 logical_id: '5740'
+designation_date: '2021-07-31'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -57,6 +58,7 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1523'
+  po_box: 17665/153 6 19389
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'

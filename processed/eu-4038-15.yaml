@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4038.15
 logical_id: '7425'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -498,6 +499,13 @@ addresses:
   zip_code: '295021'
   regulation_language: en
   logical_id: '2624'
+  contact_infos:
+  - key: WEB
+    value: https://universal-avia.ru/
+  - key: PHONE
+    value: "+7 (3652) 502-300; +7 (918) 699-1020"
+  - key: EMAIL
+    value: 'unavia_2014@mail.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

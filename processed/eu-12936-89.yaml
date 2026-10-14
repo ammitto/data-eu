@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12936.89
 logical_id: '174329'
+designation_date: '2025-03-27'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -104,6 +105,13 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '174330'
+  contact_infos:
+  - key: WEB
+    value: planar.by
+  - key: PHONE
+    value: "+ 375 17 297 37 09"
+  - key: EMAIL
+    value: office@kbtem-omo.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -115,6 +123,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '174331'
+  issue_date: '1992-03-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

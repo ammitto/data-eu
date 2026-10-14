@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14139.87
 logical_id: '181503'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -98,6 +99,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181507'
+  issue_date: '2012-08-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13461.41
 logical_id: '177784'
+designation_date: '2025-07-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -145,6 +146,9 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '177785'
+  contact_infos:
+  - key: EMAIL
+    value: https://moscow.rtrs.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -156,6 +160,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177786'
+  issue_date: '2001-11-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -166,6 +171,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177787'
+  issue_date: '2001-11-30'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

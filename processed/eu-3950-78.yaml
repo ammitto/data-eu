@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3950.78
 logical_id: '3361'
+designation_date: '2006-04-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -175,6 +176,8 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '873'
+  valid_to: '2015-02-21'
+  issue_date: '2013-02-21'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-28'
@@ -195,6 +198,8 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '114646'
+  valid_to: '2013-02-17'
+  issue_date: '2011-02-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-28'

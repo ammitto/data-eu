@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11037.19
 logical_id: '160431'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -62,6 +63,13 @@ addresses:
   zip_code: '105082'
   regulation_language: en
   logical_id: '160432'
+  contact_infos:
+  - key: WEB
+    value: www.lantan-npf.ru
+  - key: PHONE
+    value: "(499) 261-22-57"
+  - key: EMAIL
+    value: office@lantan-npf.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -73,6 +81,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160433'
+  issue_date: '1994-05-31'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

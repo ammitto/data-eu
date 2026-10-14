@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.3484.19
 logical_id: '7420'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -46,6 +47,11 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '2616'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (926) 428-99-51 +7 (967) 171-27-09"
+  - key: EMAIL
+    value: voenkom.dnr@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-09-13'

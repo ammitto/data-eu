@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11668.76
 logical_id: '166244'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -94,6 +95,14 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '166245'
+  po_box: '194100'
+  contact_infos:
+  - key: WEB
+    value: www.inkotech.ru
+  - key: PHONE
+    value: 8 (812) 779-18-88
+  - key: EMAIL
+    value: contact@inkotech.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -105,6 +114,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '166246'
+  issue_date: '2016-02-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9422.47
 logical_id: '147361'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -278,6 +279,7 @@ addresses:
   zip_code: '197022'
   regulation_language: en
   logical_id: '147362'
+  po_box: PO Box 128
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

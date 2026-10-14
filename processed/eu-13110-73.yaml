@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13110.73
 logical_id: '175504'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -88,6 +89,11 @@ addresses:
   zip_code: '172735'
   regulation_language: en
   logical_id: '175505'
+  contact_infos:
+  - key: WEB
+    value: http://luchost.ru/
+  - key: PHONE
+    value: "+ 7(48235)5-14-48"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -109,6 +115,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175508'
+  issue_date: '2002-11-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14483.62
 logical_id: '183087'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -76,6 +77,14 @@ addresses:
   zip_code: '119034'
   regulation_language: en
   logical_id: '183088'
+  contact_infos:
+  - key: WEB
+    value: https://www.rshb.ru
+  - key: PHONE
+    value: "+7 (800) 100-01-00;  +7 (495) 363-06-45;  +7 (495) 363-02-90;  +7 (495)
+      787-77-87;  +7 (495) 777-11-00"
+  - key: FAX
+    value: "+7 (495) 363-02-76"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -97,6 +106,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183090'
+  issue_date: '2000-04-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

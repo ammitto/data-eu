@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10350.3
 logical_id: '154661'
+designation_date: '2023-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -112,6 +113,13 @@ addresses:
   zip_code: '127055'
   regulation_language: en
   logical_id: '154662'
+  contact_infos:
+  - key: WEB
+    value: https://cmrbank.ru
+  - key: PHONE
+    value: "+7-495-980-80-44,+8-800-250-09-22"
+  - key: EMAIL
+    value: cmr@cmrbank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -123,6 +131,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '154663'
+  issue_date: '2015-04-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

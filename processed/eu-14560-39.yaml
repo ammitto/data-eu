@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14560.39
 logical_id: '183435'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,11 @@ addresses:
   zip_code: '617760'
   regulation_language: en
   logical_id: '183436'
+  contact_infos:
+  - key: WEB
+    value: http://www.autolife18.ru/
+  - key: EMAIL
+    value: autolife18@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -54,6 +60,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183437'
+  issue_date: '2013-12-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

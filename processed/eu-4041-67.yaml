@@ -2,6 +2,7 @@
 eu_reference_number: EU.4041.67
 logical_id: '113391'
 united_nation_id: QDe.153
+designation_date: '2017-07-20'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -84,6 +85,7 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '113522'
+  place: Albu Kamal
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -93,6 +95,7 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '113521'
+  place: Al-Bukamal
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

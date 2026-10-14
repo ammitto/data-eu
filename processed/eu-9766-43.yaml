@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9766.43
 logical_id: '150191'
+designation_date: '2023-02-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,15 @@ addresses:
   zip_code: '620025'
   regulation_language: en
   logical_id: '150192'
+  contact_infos:
+  - key: WEB
+    value: https://www.uwca.ru/en/
+  - key: PHONE
+    value: "+7 (343) 295-51-51"
+  - key: EMAIL
+    value: 'PRESSA@UWCA.RU '
+  - key: FAX
+    value: "+7 (343) 205-81-81"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

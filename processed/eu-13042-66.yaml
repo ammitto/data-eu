@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13042.66
 logical_id: '174898'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -115,6 +116,11 @@ addresses:
   zip_code: '140008'
   regulation_language: en
   logical_id: '174899'
+  contact_infos:
+  - key: WEB
+    value: http://41zavod.ru
+  - key: PHONE
+    value: "+7 (495) 500-10-20"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -136,6 +142,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174902'
+  issue_date: '2009-06-18'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7810.43
 logical_id: '137724'
+designation_date: '2022-03-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,15 @@ addresses:
   zip_code: '640021'
   regulation_language: en
   logical_id: '137725'
+  contact_infos:
+  - key: WEB
+    value: https://www.kurganmash.ru , https://www.kmz.ru/kontakty/
+  - key: PHONE
+    value: "+7 (3522) 23-20-83, +7 (3522) 47-19-99"
+  - key: EMAIL
+    value: kmz@kmz.ru
+  - key: FAX
+    value: "+7 (3522) 23-20-71, +7 (3522) 23-20-82"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

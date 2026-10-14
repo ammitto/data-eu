@@ -3,6 +3,7 @@ eu_reference_number: EU.2734.5
 logical_id: '7195'
 designation_details: 'Associated entities: Aerospace Industries Organization (AIO);
   Islamic Revolutionary Guard Corps (IRGC)'
+designation_date: '2014-11-08'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -87,6 +88,12 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '2489'
+  po_box: 11365-11155
+  contact_infos:
+  - key: PHONE
+    value: "+98 21 66 161"
+  - key: EMAIL
+    value: info@sharif.ir
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-06-19'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14280.47
 logical_id: '182062'
+designation_date: '2026-03-30'
 regulations:
 - regulation_type: regulation
   organisation_type: un
@@ -118,6 +119,7 @@ identifications:
   country_iso2_code: UG
   regulation_language: en
   logical_id: '182066'
+  valid_to: '2029-03-19'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-30'

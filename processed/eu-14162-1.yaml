@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14162.1
 logical_id: '181613'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -107,6 +108,13 @@ addresses:
   zip_code: '115230'
   regulation_language: en
   logical_id: '181614'
+  contact_infos:
+  - key: WEB
+    value: https://time-che.ru/
+  - key: PHONE
+    value: 8 (800) 101-33-32; 8 (499) 957-85-45
+  - key: EMAIL
+    value: info@time-che.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -138,6 +146,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181617'
+  issue_date: '2021-07-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

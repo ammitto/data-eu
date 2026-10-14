@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8356.50
 logical_id: '140921'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -134,6 +135,7 @@ identifications:
   country_iso2_code: HR
   regulation_language: en
   logical_id: '158126'
+  valid_to: '2033-05-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

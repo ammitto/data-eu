@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13816.33
 logical_id: '179712'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -139,6 +140,15 @@ addresses:
   zip_code: '220029'
   regulation_language: en
   logical_id: '179713'
+  contact_infos:
+  - key: WEB
+    value: https://h-rnd.by/
+  - key: PHONE
+    value: 8 740 740 91 00, +375 740 740 91 00
+  - key: EMAIL
+    value: office@horizont-rnd.by, ict@dtv.horizont.by
+  - key: FAX
+    value: "+375 17 288 11 82"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -150,6 +160,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '179715'
+  issue_date: '1991-11-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

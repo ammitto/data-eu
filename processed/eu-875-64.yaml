@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.875.64
 logical_id: '1098'
+designation_date: '2003-12-04'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -160,6 +161,7 @@ addresses:
   country_description: ALGERIA
   regulation_language: en
   logical_id: '161431'
+  place: Commune of Bouhechana
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

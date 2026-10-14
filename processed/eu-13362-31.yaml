@@ -2,6 +2,7 @@
 eu_reference_number: EU.13362.31
 logical_id: '177094'
 designation_details: Private Company Limited by shares
+designation_date: '2025-07-19'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -38,6 +39,7 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '177095'
+  po_box: RM.1801
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -59,6 +61,7 @@ identifications:
   country_iso2_code: CN
   regulation_language: en
   logical_id: '177097'
+  issue_date: '2024-11-11'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

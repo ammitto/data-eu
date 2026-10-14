@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5834.1
 logical_id: '125648'
+designation_date: '2020-10-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -230,6 +231,11 @@ addresses:
   zip_code: '195197'
   regulation_language: en
   logical_id: '125649'
+  contact_infos:
+  - key: WEB
+    value: https://lptp.ru/
+  - key: EMAIL
+    value: ptp@sp.ru ; lptp.buh@yandex.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

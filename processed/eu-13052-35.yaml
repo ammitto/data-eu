@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13052.35
 logical_id: '174984'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,14 @@ addresses:
   zip_code: '198099'
   regulation_language: en
   logical_id: '174985'
+  contact_infos:
+  - key: WEB
+    value: https://gidropribor.ru/about/departments/electrotyaga.html
+  - key: PHONE
+    value: "+7 (812) 786-32-19, +7 (812) 240-12-90, +7 (812) 786-3244, +7 (812) 786-9759,
+      +7 (812) 786-9719"
+  - key: EMAIL
+    value: aelektrotyaga@mail.ru, contact@aoelectrotyaga.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -106,6 +115,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174989'
+  issue_date: '2001-11-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -116,6 +126,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174988'
+  issue_date: '2002-09-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

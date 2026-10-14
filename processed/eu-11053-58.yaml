@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11053.58
 logical_id: '160548'
+designation_date: '2024-01-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -76,6 +77,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160552'
+  issue_date: '2002-07-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-03'

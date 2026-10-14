@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5839.93
 logical_id: '125688'
+designation_date: '2020-09-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -31,6 +32,13 @@ addresses:
   country_description: TURKEY
   regulation_language: en
   logical_id: '125689'
+  contact_infos:
+  - key: WEB
+    value: http://www.avrasyashipping.com/iletisim
+  - key: PHONE
+    value: "+90 549 720 1748"
+  - key: EMAIL
+    value: info@avrasyashipping.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-21'

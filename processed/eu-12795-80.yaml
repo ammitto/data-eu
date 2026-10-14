@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12795.80
 logical_id: '173255'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -202,6 +203,12 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '173256'
+  place: d. 7
+  contact_infos:
+  - key: PHONE
+    value: "+7 (495) 098-00-00"
+  - key: EMAIL
+    value: info@crvsp.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

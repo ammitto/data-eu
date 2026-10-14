@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10993.27
 logical_id: '160160'
+designation_date: '2023-12-18'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -123,6 +124,15 @@ addresses:
   zip_code: '692335'
   regulation_language: en
   logical_id: '160161'
+  contact_infos:
+  - key: WEB
+    value: https://www.rhc.aero/structure/ars enevskaya-aviacionnaya-kompaniya-progress-im-n-i-sazykina
+  - key: PHONE
+    value: "+ 7 (42361) 4 55 91,4 52 31; + 7 (42361) 4-52-32, + 7 (42361) 2-52-32"
+  - key: EMAIL
+    value: info@aacprogress.ru
+  - key: FAX
+    value: "+7 (42361) 4 50 93"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -134,6 +144,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173911'
+  issue_date: '2002-11-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

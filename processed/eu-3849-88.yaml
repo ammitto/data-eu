@@ -3,6 +3,7 @@ eu_reference_number: EU.3849.88
 logical_id: '6111'
 designation_details: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel
   Ban, Asset Freeze).
+designation_date: '2011-02-26'
 remark: 'Believed status/ location: Sultanate of Oman'
 regulations:
 - regulation_type: amendment
@@ -49,6 +50,7 @@ addresses:
   country_description: OMAN
   regulation_language: en
   logical_id: '105188'
+  place: Sultanate of Oman
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-19'

@@ -30,6 +30,9 @@ addresses:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1942'
+  contact_infos:
+  - key: PHONE
+    value: 00 963 11 99 62
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

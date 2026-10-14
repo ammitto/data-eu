@@ -48,6 +48,16 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '1949'
+  po_box: P.O. Box 13052
+  contact_infos:
+  - key: WEB
+    value: " www.eltelme.com, www.abrajtec.com"
+  - key: PHONE
+    value: "+963 11 2212345"
+  - key: EMAIL
+    value: sales@eltelme.com
+  - key: FAX
+    value: "+963 11 44694450"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13233.17
 logical_id: '176313'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -210,6 +211,13 @@ addresses:
   zip_code: '123007'
   regulation_language: en
   logical_id: '176314'
+  contact_infos:
+  - key: WEB
+    value: http://eng.mil.ru/en/science/sro/information.htm?id=10992@morfOrgScience
+  - key: PHONE
+    value: "+ 7 (495) 945 76 96"
+  - key: EMAIL
+    value: fin27cnii@mail.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

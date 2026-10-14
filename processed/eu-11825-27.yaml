@@ -129,6 +129,14 @@ addresses:
   zip_code: '109052'
   regulation_language: en
   logical_id: '167109'
+  po_box: '109052'
+  contact_infos:
+  - key: WEB
+    value: https://www.rbamanagement.ru/
+  - key: PHONE
+    value: "+7 (495) 221-78-05"
+  - key: EMAIL
+    value: info@rbamanagement.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -150,6 +158,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '167110'
+  issue_date: '2007-07-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11794.93
 logical_id: '166948'
+designation_date: '2024-06-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -102,6 +103,11 @@ addresses:
   zip_code: '115184'
   regulation_language: en
   logical_id: '166949'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (495) 782-30-07, +7 (499) 782-32-51"
+  - key: FAX
+    value: "+7 (495) 782-30-07"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

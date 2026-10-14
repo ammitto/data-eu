@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4136.50
 logical_id: '113677'
+designation_date: '2017-08-05'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -86,6 +87,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '113850'
+  valid_to: '2020-10-19'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

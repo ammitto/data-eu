@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8803.59
 logical_id: '144523'
+designation_date: '2022-10-06'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,13 @@ addresses:
   zip_code: '125315'
   regulation_language: en
   logical_id: '144524'
+  contact_infos:
+  - key: WEB
+    value: www.irkut.com
+  - key: PHONE
+    value: "+7 (495) 777-21-01"
+  - key: EMAIL
+    value: office@irkut.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

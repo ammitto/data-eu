@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12793.82
 logical_id: '173235'
+designation_date: '2025-02-24'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -144,6 +145,11 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '173237'
+  contact_infos:
+  - key: PHONE
+    value: "+7 (812) 448-8001, +7 (812) 610-9848"
+  - key: EMAIL
+    value: office@npo-leninetz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -156,6 +162,11 @@ addresses:
   zip_code: '196143'
   regulation_language: en
   logical_id: '173236'
+  contact_infos:
+  - key: PHONE
+    value: "+ 7 (812) 448-8001, + 7 (812) 610-9848"
+  - key: EMAIL
+    value: 'office@npo-leninetz.ru '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

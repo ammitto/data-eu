@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14580.74
 logical_id: '183567'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -52,6 +53,11 @@ addresses:
   zip_code: '628684'
   regulation_language: en
   logical_id: '183568'
+  contact_infos:
+  - key: PHONE
+    value: "(3462) 37-75-08"
+  - key: EMAIL
+    value: info@ongg.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

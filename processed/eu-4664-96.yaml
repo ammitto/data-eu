@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4664.96
 logical_id: '117775'
+designation_date: '2018-07-31'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -121,6 +122,13 @@ addresses:
   zip_code: '298310'
   regulation_language: en
   logical_id: '117776'
+  contact_infos:
+  - key: WEB
+    value: http://zaliv.com
+  - key: PHONE
+    value: "+7(36561)33055"
+  - key: EMAIL
+    value: press@zalivkerch.com, sess@zalivkerch.com, uzis@zalivkerch.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

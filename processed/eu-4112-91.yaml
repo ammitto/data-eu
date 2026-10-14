@@ -57,6 +57,13 @@ addresses:
   zip_code: '119019'
   regulation_language: en
   logical_id: '113800'
+  contact_infos:
+  - key: WEB
+    value: www.tpe-vo.ru
+  - key: PHONE
+    value: "+7 (495) 989-97-29  "
+  - key: EMAIL
+    value: inform@tpe-vo.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'
@@ -68,6 +75,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '113811'
+  issue_date: '2014-05-08'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-04'

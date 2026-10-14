@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14020.21
 logical_id: '180977'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -44,6 +45,13 @@ addresses:
   country_description: UZBEKISTAN
   regulation_language: en
   logical_id: '180978'
+  contact_infos:
+  - key: WEB
+    value: https://fergchem.com
+  - key: PHONE
+    value: "+998 93 501 03 32"
+  - key: EMAIL
+    value: info@fergchem.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

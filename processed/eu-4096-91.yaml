@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4096.91
 logical_id: '114591'
+designation_date: '2017-10-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -59,6 +60,11 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '142129'
+  contact_infos:
+  - key: PHONE
+    value: 850 2 381 5926
+  - key: EMAIL
+    value: 'kiec@silibank.net.kp '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

@@ -2,6 +2,7 @@
 eu_reference_number: EU.3953.70
 logical_id: '3822'
 designation_details: UN designation:24/03/2007 (no longer valid)
+designation_date: '2008-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -184,6 +185,11 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158919'
+  contact_infos:
+  - key: WEB
+    value: http://icig.ir/
+  - key: PHONE
+    value: "+98 21 2258929; +98 21 35243153; +98 21 3130626"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -218,6 +224,11 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158922'
+  contact_infos:
+  - key: WEB
+    value: http://icig.ir/
+  - key: PHONE
+    value: "+98 21 2258929; +98 21 35243153; +98 21 3130626"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -229,6 +240,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158923'
+  po_box: 16765/358
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -240,6 +252,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158924'
+  po_box: 16765/358
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

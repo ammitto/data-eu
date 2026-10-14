@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14704.45
 logical_id: '184075'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -79,6 +80,13 @@ addresses:
   zip_code: '308015'
   regulation_language: en
   logical_id: '184076'
+  contact_infos:
+  - key: WEB
+    value: https://belsocbank.ru/
+  - key: PHONE
+    value: "+7 (4722) 35-30-79"
+  - key: EMAIL
+    value: mail@belsocbank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

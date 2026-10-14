@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8280.51
 logical_id: '140352'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -221,6 +222,11 @@ addresses:
   zip_code: '220002'
   regulation_language: en
   logical_id: '140353'
+  contact_infos:
+  - key: PHONE
+    value: " +375 (17) 309-30-10; +375 (17) 309-30-30"
+  - key: EMAIL
+    value: 'info@belpc.by '
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -232,6 +238,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '140354'
+  issue_date: '2013-09-13'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

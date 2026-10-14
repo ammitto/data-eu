@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14797.54
 logical_id: '184510'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,12 @@ addresses:
   zip_code: '353265'
   regulation_language: en
   logical_id: '184511'
+  place: Chernomorskiy
+  contact_infos:
+  - key: PHONE
+    value: 'Тel: +7 (495)  229-47-21; +7  (861) 201-77-78'
+  - key: EMAIL
+    value: kngmzs@rn-npo.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,6 +81,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '184512'
+  issue_date: '1994-04-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

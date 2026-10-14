@@ -2,6 +2,7 @@
 eu_reference_number: EU.4383.8
 logical_id: '115730'
 united_nation_id: QDe.157
+designation_date: '2018-03-06'
 remark: |-
   Money exchange business and owned by Umar Mahmud Irhayyim al-Kubaysi (QDi.412) as of mid-2016.
   UNLI-06.03.2018
@@ -64,6 +65,7 @@ addresses:
   country_description: IRAQ
   regulation_language: en
   logical_id: '115806'
+  place: Al Anbar Province
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -75,6 +77,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '115807'
+  issue_date: '2000-05-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

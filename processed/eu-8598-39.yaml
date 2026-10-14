@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8598.39
 logical_id: '142730'
+designation_date: '2022-07-21'
 remark: "Type of entity: Russian Federal \nGovernment Agency\nDate of registration:
   31.8.2007"
 regulations:
@@ -238,6 +239,13 @@ addresses:
   zip_code: '119285'
   regulation_language: en
   logical_id: '142731'
+  contact_infos:
+  - key: WEB
+    value: https://russkiymir.ru
+  - key: PHONE
+    value: "+7 (495) 981-5680"
+  - key: EMAIL
+    value: info@russkiymir.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

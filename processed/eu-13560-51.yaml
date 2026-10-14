@@ -2,6 +2,7 @@
 eu_reference_number: EU.13560.51
 logical_id: '178350'
 designation_details: 16.10.2012, suspended since 16.1.2016
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -86,6 +87,7 @@ addresses:
   zip_code: Tehran Province
   regulation_language: en
   logical_id: '178352'
+  po_box: 19968 32611
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -98,6 +100,7 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178351'
+  po_box: '199683393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

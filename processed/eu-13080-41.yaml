@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13080.41
 logical_id: '175145'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -75,6 +76,9 @@ addresses:
   zip_code: '121552'
   regulation_language: en
   logical_id: '175146'
+  contact_infos:
+  - key: WEB
+    value: www.vsk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -106,6 +110,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175149'
+  issue_date: '1992-02-11'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

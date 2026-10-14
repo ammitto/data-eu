@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14921.4
 logical_id: '184950'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -56,6 +57,14 @@ addresses:
   zip_code: '247782'
   regulation_language: en
   logical_id: '184951'
+  place: Mozyr distric
+  contact_infos:
+  - key: WEB
+    value: https://mnpz.by
+  - key: PHONE
+    value: "+375 236 37 33 30"
+  - key: EMAIL
+    value: office@mnpz.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -67,6 +76,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '184952'
+  issue_date: '1991-12-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

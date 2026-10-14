@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12607.57
 logical_id: '171674'
+designation_date: '2024-12-16'
 remark: 'Additional information: JSC “KRET” (associated company)'
 regulations:
 - regulation_type: amendment
@@ -115,6 +116,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171676'
+  issue_date: '2012-06-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

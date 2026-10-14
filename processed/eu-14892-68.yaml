@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14892.68
 logical_id: '184837'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -77,6 +78,11 @@ addresses:
   zip_code: '450077'
   regulation_language: en
   logical_id: '184838'
+  contact_infos:
+  - key: WEB
+    value: www.umeks.ru
+  - key: EMAIL
+    value: buh@umeks.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.7813.40
 logical_id: '137733'
+designation_date: '2022-03-15'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,13 @@ addresses:
   zip_code: '115184'
   regulation_language: en
   logical_id: '137734'
+  contact_infos:
+  - key: WEB
+    value: https://www.aoosk.ru
+  - key: PHONE
+    value: "+7 495 617 33 00 "
+  - key: EMAIL
+    value: info@aoosk.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'
@@ -75,6 +83,9 @@ addresses:
   zip_code: '191119'
   regulation_language: en
   logical_id: '151717'
+  contact_infos:
+  - key: PHONE
+    value: "+7 812 494-17-42"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

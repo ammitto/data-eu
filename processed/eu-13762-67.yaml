@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13762.67
 logical_id: '179301'
+designation_date: '2025-10-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -95,6 +96,13 @@ addresses:
   zip_code: '660123'
   regulation_language: en
   logical_id: '179302'
+  contact_infos:
+  - key: WEB
+    value: http://www.krskmz.ru
+  - key: PHONE
+    value: "+7 (391) 264-47-12"
+  - key: EMAIL
+    value: info@krskmz.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -106,6 +114,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179305'
+  issue_date: '2008-12-23'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

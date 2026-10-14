@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.877.66
 logical_id: '1088'
+designation_date: '2003-11-12'
 remark: In prison in Italy until 6.2.2026.
 regulations:
 - regulation_type: amendment
@@ -138,6 +139,8 @@ identifications:
   country_iso2_code: TN
   regulation_language: en
   logical_id: '179'
+  valid_to: '2003-05-04'
+  issue_date: '1998-05-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'

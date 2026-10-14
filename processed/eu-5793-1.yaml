@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.5793.1
 logical_id: '125394'
+designation_date: '2020-09-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -50,6 +51,11 @@ addresses:
   zip_code: '050013'
   regulation_language: en
   logical_id: '125395'
+  contact_infos:
+  - key: WEB
+    value: https://airsigma.pro/
+  - key: PHONE
+    value: "+77272922305  "
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-21'

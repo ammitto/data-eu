@@ -76,6 +76,14 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '175362'
+  po_box: '249038'
+  contact_infos:
+  - key: WEB
+    value: https://pzsignal. ru/
+  - key: PHONE
+    value: " +7 (484) 399-35-50, +7 (484) 399-35-88"
+  - key: EMAIL
+    value: alarm@pzsignal. ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

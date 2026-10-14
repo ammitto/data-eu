@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.12934.91
 logical_id: '174295'
+designation_date: '2025-03-27'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -242,6 +243,11 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '174296'
+  contact_infos:
+  - key: PHONE
+    value: "+ 375173292103"
+  - key: EMAIL
+    value: info@belloto.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -253,6 +259,7 @@ identifications:
   country_iso2_code: BY
   regulation_language: en
   logical_id: '174297'
+  issue_date: '1999-09-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.6935.94
 logical_id: '133467'
+designation_date: '2022-02-21'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -50,6 +51,11 @@ addresses:
   country_description: MYANMAR
   regulation_language: en
   logical_id: '133468'
+  contact_infos:
+  - key: WEB
+    value: https://htoo.com/
+  - key: PHONE
+    value: "+95  1 500344 / +95 1  500355"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

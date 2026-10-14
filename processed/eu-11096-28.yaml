@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.11096.28
 logical_id: '161658'
+designation_date: '2024-01-22'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -30,6 +31,7 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '161659'
+  po_box: P.O. Box 86436
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

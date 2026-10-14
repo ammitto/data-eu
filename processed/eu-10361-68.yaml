@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.10361.68
 logical_id: '154745'
+designation_date: '2023-06-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -187,6 +188,7 @@ addresses:
   zip_code: '172739'
   regulation_language: en
   logical_id: '154747'
+  place: Solnechny island
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -208,6 +210,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '154748'
+  issue_date: '2002-11-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

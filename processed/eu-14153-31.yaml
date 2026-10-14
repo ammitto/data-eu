@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14153.31
 logical_id: '181521'
+designation_date: '2026-04-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -66,6 +67,9 @@ addresses:
   zip_code: '050059'
   regulation_language: en
   logical_id: '181522'
+  contact_infos:
+  - key: PHONE
+    value: "+7(701)999-42-60"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -87,6 +91,7 @@ identifications:
   country_iso2_code: KZ
   regulation_language: en
   logical_id: '181524'
+  issue_date: '2022-03-17'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

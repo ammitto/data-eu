@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14628.67
 logical_id: '183768'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -53,6 +54,11 @@ addresses:
   zip_code: '115304'
   regulation_language: en
   logical_id: '183769'
+  contact_infos:
+  - key: WEB
+    value: finist.pro
+  - key: EMAIL
+    value: finiststanko@gmail.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -84,6 +90,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183772'
+  issue_date: '2016-11-16'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

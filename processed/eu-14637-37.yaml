@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14637.37
 logical_id: '183837'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,7 @@ identifications:
   country_iso2_code: AE
   regulation_language: en
   logical_id: '183839'
+  issue_date: '2024-11-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

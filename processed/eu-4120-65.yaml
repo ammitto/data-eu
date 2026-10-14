@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4120.65
 logical_id: '107810'
+designation_date: '2016-03-02'
 regulations:
 - regulation_type: repealing
   organisation_type: council
@@ -100,6 +101,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '113894'
+  valid_to: '2020-01-01'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

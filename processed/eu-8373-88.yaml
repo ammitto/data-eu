@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.8373.88
 logical_id: '141268'
+designation_date: '2022-06-03'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -91,6 +92,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '141271'
+  issue_date: '1996-06-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -111,6 +113,7 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '141272'
+  issue_date: '1996-06-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

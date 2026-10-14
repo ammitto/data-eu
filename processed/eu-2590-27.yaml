@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.2590.27
 logical_id: '6839'
+designation_date: '2011-12-01'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -30,6 +31,13 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2160'
+  place: Damascus
+  po_box: P.O. Box 35202
+  contact_infos:
+  - key: PHONE
+    value: "+963 011 5810719"
+  - key: EMAIL
+    value: info@metallic-sy.com / shaamco@mail.sy
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

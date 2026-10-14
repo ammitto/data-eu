@@ -2,6 +2,7 @@
 eu_reference_number: EU.13586.80
 logical_id: '178471'
 designation_details: 16.10.2012, suspended since 16.1.2016
+designation_date: '2025-09-29'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -49,6 +50,9 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178472'
+  contact_infos:
+  - key: PHONE
+    value: "(+98) 7112138204"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

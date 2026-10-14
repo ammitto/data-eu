@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4050.6
 logical_id: '7428'
+designation_date: '2014-07-25'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -988,6 +989,11 @@ addresses:
   zip_code: '298650'
   regulation_language: en
   logical_id: '2630'
+  contact_infos:
+  - key: WEB
+    value: http://massandra.su
+  - key: PHONE
+    value: "+7 978 936 75 04; +7 3654 23 31 96; +7 3654 26 16 83 "
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

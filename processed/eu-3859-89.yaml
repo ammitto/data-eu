@@ -3,6 +3,7 @@ eu_reference_number: EU.3859.89
 logical_id: '6114'
 designation_details: Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban).
   Listed on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+designation_date: '2011-02-26'
 remark: 'Believed status/location: Libya.'
 regulations:
 - regulation_type: amendment
@@ -84,6 +85,8 @@ identifications:
   country_iso2_code: ML
   regulation_language: en
   logical_id: '897'
+  valid_to: '2017-01-10'
+  issue_date: '2012-01-10'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'
@@ -94,6 +97,7 @@ identifications:
   country_iso2_code: ML
   regulation_language: en
   logical_id: '898'
+  issue_date: '2011-12-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-01-19'

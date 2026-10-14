@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.13096.4
 logical_id: '175372'
+designation_date: '2025-05-20'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -116,6 +117,7 @@ identifications:
   country_iso2_code: UA
   regulation_language: en
   logical_id: '175374'
+  issue_date: '2018-07-05'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

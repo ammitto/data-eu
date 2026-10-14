@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.4704.0
 logical_id: '117974'
+designation_date: '2018-08-23'
 regulations:
 - regulation_type: amendment
   organisation_type: commission
@@ -116,6 +117,9 @@ identifications:
   country_iso2_code: PH
   regulation_language: en
   logical_id: '117981'
+  valid_to: '2020-02-24'
+  issue_date: '2015-02-25'
+  issued_by: Department of Foreign Affairs of Philippines
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'

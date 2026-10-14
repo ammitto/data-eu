@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.9399.8
 logical_id: '147285'
+designation_date: '2022-12-16'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -231,6 +232,9 @@ addresses:
   zip_code: '125252'
   regulation_language: en
   logical_id: '147286'
+  contact_infos:
+  - key: WEB
+    value: https://structure.mil.ru/structure/ministry_of_defence/details.htm?id=9711@egOrganization
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

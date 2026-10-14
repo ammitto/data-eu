@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14623.72
 logical_id: '183726'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -63,6 +64,11 @@ addresses:
   zip_code: '119017'
   regulation_language: en
   logical_id: '183727'
+  contact_infos:
+  - key: WEB
+    value: https://wb-bank.ru
+  - key: EMAIL
+    value: info@wb-bank.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,6 +80,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183729'
+  issue_date: '2002-10-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

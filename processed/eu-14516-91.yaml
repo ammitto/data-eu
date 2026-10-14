@@ -1,6 +1,7 @@
 ---
 eu_reference_number: EU.14516.91
 logical_id: '183259'
+designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -43,6 +44,13 @@ addresses:
   zip_code: '115035'
   regulation_language: en
   logical_id: '183260'
+  contact_infos:
+  - key: WEB
+    value: www.avangard.ru
+  - key: PHONE
+    value: "+7 (495) 737-73-73; +7 (495) 234-23-24"
+  - key: EMAIL
+    value: info@avangard.ru
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +72,7 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183262'
+  issue_date: '1994-06-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
