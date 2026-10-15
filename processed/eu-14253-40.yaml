@@ -15,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: ABU OMAR AL SARRAF
-  strong: true
-  regulation_language: en
-  logical_id: '181946'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-26'
-    number_title: UNLI 26.03.2026 - 2
-    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
 - whole_name: Abd El Hamid Salim Ibrahim Brukan al-Khatouniv
   function: 'Served as a senior leader in ISIL (Da’esh) listed as Al-Qaida in Iraq
     (QDe.115) as its financial management officer. Mother’s name: Khadija Hattab Ismail.
@@ -33,6 +24,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181948'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-26'
+    number_title: UNLI 26.03.2026 - 2
+    publication_url: https://press.un.org/en/2026/sc16324.doc.htm
+- whole_name: ABU OMAR AL SARRAF
+  strong: true
+  regulation_language: en
+  logical_id: '181946'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-26'

@@ -15,16 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Seyed Hashem GHIASI
-  function: |-
-    Seyed Hashem Ghiasi is the Commander of the Imam Reza Islamic Revolutionary Guard Corps, the local branch of the Islamic Revolutionary Guard Corps (IRGC) in Khorasan Razavi Province. Under his command, IRGC and Basij forces in Khorasan Razavi Province have been involved in the violent repression of demonstrations, including during the nationwide protests in Iran that began in December 2025 where IRGC forces opened fire on protesters, resulting in deaths and injuries.
-    Seyed Hashem Ghiasi is therefore responsible for serious human rights violations in Iran.
-  gender: M
-  title: Commander of the Imam Reza Islamic Revolutionary Guard Corps
-  name_language: EN
+- whole_name: سید هاشم غیاثی
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '182012'
+  logical_id: '182011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -50,11 +45,16 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/648 (OJ L202600648)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
-- whole_name: سید هاشم غیاثی
-  name_language: FA
+- whole_name: Seyed Hashem GHIASI
+  function: |-
+    Seyed Hashem Ghiasi is the Commander of the Imam Reza Islamic Revolutionary Guard Corps, the local branch of the Islamic Revolutionary Guard Corps (IRGC) in Khorasan Razavi Province. Under his command, IRGC and Basij forces in Khorasan Razavi Province have been involved in the violent repression of demonstrations, including during the nationwide protests in Iran that began in December 2025 where IRGC forces opened fire on protesters, resulting in deaths and injuries.
+    Seyed Hashem Ghiasi is therefore responsible for serious human rights violations in Iran.
+  gender: M
+  title: Commander of the Imam Reza Islamic Revolutionary Guard Corps
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182011'
+  logical_id: '182012'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

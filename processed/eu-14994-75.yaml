@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: אביחי סויסה
+  gender: M
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: Avichai SUISSA
   function: Avichai Suissa is the CEO of Hashomer Yosh, which is an Israeli NGO that
     provides material support and coordinates volunteers for farm work on herding
@@ -25,17 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185526'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- whole_name: אביחי סויסה
-  gender: M
-  name_language: HE
-  strong: true
-  regulation_language: en
-  logical_id: '185525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
