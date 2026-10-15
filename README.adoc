@@ -84,6 +84,56 @@ for path in sorted(glob.glob("processed/eu-*.yaml")):
 The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/eu.jsonld
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/main/lib/ammitto/sources/eu/transformer.rb[eu transformer]
+maps the processed source fields below to canonical Ruby attributes.
+Entity classes are in `Ammitto::Ontology::Entities`, entry/regime classes in
+`Ammitto::Ontology::Sanction`, and nested values in
+`Ammitto::Ontology::ValueObjects`. JSON-LD serialization can use different keys.
+
+[cols="2,2,4",options="header"]
+|===
+| Source fields | Canonical target | Transformation
+
+| `eu_reference_number`, `subject_type.code`
+| `Entity.id`, concrete entity class; `SanctionEntry.entity_id`, `reference_number`
+| The reference supplies source-scoped IDs; a person becomes `PersonEntity`, otherwise `OrganizationEntity`.
+
+| `name_aliases`
+| `Entity.names` (`NameVariant`)
+| Copy whole and component names; the first alias is primary and its script is detected from the text.
+
+| `addresses`
+| `PersonEntity.addresses` or `OrganizationEntity.addresses` (`Address`)
+| Map `region` to `state`, `zip_code` to `postal_code`, and retain country text/code and a stated PO box.
+
+| `birthdates`
+| `PersonEntity.birth_info` (`BirthInfo`)
+| Keep full dates, years, year-range bounds and `circa`; a year alone is not expanded into a full date.
+
+| `identifications`
+| `PersonEntity.identifications` or `OrganizationEntity.identifications`
+| Normalize document type labels and retain number, issuing country and parsed issue/expiry dates.
+
+| `regulations`
+| `SanctionEntry.legal_bases` (`LegalInstrument`) and `regime` (`SanctionRegime`)
+| Map each regulation and its publication URL/date; derive the regime from the primary regulation programme.
+
+| `designation_date`, `regulations`
+| `SanctionEntry.period` (`TemporalPeriod`)
+| Use the designation date for `listed_date`, falling back to the primary regulation publication date; use its entry-into-force date for `effective_date`.
+
+| `remark`
+| `Entity.remarks`, `SanctionEntry.remarks`
+| Copy the published remarks to both records.
+
+| `logical_id`, `united_nation_id`, `designation_details`, `subject_type.code`
+| `SanctionEntry.raw_source_detail.source_specific_fields`
+| Retain these additional fields under their `eu:` metadata keys.
+
+|===
+
 == Updates
 
 The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
