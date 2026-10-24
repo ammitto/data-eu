@@ -15,13 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Анна
-  last_name: Цивильова
-  whole_name: Анна Цивильова
-  name_language: BG
+- first_name: Anna
+  middle_name: Evgenievna
+  last_name: TSIVILYOVA
+  whole_name: Anna Evgenievna TSIVILYOVA
+  gender: F
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161227'
+  logical_id: '159683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -53,33 +55,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anna
-  middle_name: Evgenievna
-  last_name: TSIVILEVA
-  whole_name: Anna Evgenievna TSIVILEVA
-  function: |-
-    Deputy Minister of Defence of the Russian Federation; Chair of the Foundation “Defenders of the Fatherland”; Chair of the Council for Guardianship in the Social Sphere of the Kemerovo Region
-
-    Member of the Council of the Eurasian Women’s Forum under the Federation Council of Russia
+- first_name: Анна
+  middle_name: Евгеньевна
+  last_name: ЦИВИЛЁВА
+  whole_name: Анна Евгеньевна ЦИВИЛЁВА
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '159684'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Anna
-  middle_name: Evgenievna
-  last_name: TSIVILYOVA
-  whole_name: Anna Evgenievna TSIVILYOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159683'
+  logical_id: '159681'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -99,19 +83,35 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Анна
-  middle_name: Евгеньевна
-  last_name: ЦИВИЛЁВА
-  whole_name: Анна Евгеньевна ЦИВИЛЁВА
-  gender: F
-  name_language: RU
+  last_name: Цивильова
+  whole_name: Анна Цивильова
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '159681'
+  logical_id: '161227'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anna
+  middle_name: Evgenievna
+  last_name: TSIVILEVA
+  whole_name: Anna Evgenievna TSIVILEVA
+  function: |-
+    Deputy Minister of Defence of the Russian Federation; Chair of the Foundation “Defenders of the Fatherland”; Chair of the Council for Guardianship in the Social Sphere of the Kemerovo Region
+
+    Member of the Council of the Eurasian Women’s Forum under the Federation Council of Russia
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Anna
   middle_name: Jevgenjevna
   last_name: TSIVILJOVA

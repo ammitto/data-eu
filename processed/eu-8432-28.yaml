@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ali Mohamed RAGE
+  function: Spokesperson of Al-Shabaab
+  strong: true
+  regulation_language: en
+  logical_id: '141637'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/340 (OJ L56)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
 - whole_name: Ali Mohammed Rage
   strong: true
   regulation_language: en
@@ -33,25 +43,6 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/340 (OJ L56)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
-- whole_name: Ali Dhere
-  strong: true
-  regulation_language: en
-  logical_id: '141634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/340 (OJ L56)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
-- whole_name: Ali Mohamed RAGE
-  function: Spokesperson of Al-Shabaab
-  strong: true
-  regulation_language: en
-  logical_id: '141637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/340 (OJ L56)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
 - whole_name: Ali Mohamud Rage
   strong: true
   regulation_language: en
@@ -65,6 +56,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/340 (OJ L56)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
+- whole_name: Ali Dhere
+  strong: true
+  regulation_language: en
+  logical_id: '141634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

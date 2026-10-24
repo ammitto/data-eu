@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество "Аккумуляторная Компания "Ригель""
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Rigel
   strong: true
   regulation_language: en
@@ -65,16 +55,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Producent Baterii Rigel S.A.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Societatea de baterii Rigel SA
   name_language: RO
   strong: true
@@ -100,6 +80,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Акционерное Общество "Аккумуляторная Компания "Ригель""
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Producent Baterii Rigel S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

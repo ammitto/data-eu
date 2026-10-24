@@ -21,6 +21,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Haji Malek Noorzai
+  strong: true
+  regulation_language: en
+  logical_id: '14730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Haji Aminullah
+  strong: true
+  regulation_language: en
+  logical_id: '14729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-10-21'
+    number_title: 1049/2011 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
 - whole_name: Allah Muhammad
   strong: true
   regulation_language: en
@@ -34,6 +52,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Hajji Malak Noorzai
+  strong: true
+  regulation_language: en
+  logical_id: '14728'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Hajji Malik Noorzai
+  strong: true
+  regulation_language: en
+  logical_id: '14727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -53,42 +89,6 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Hajji Malik Noorzai
-  strong: true
-  regulation_language: en
-  logical_id: '14727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Hajji Malak Noorzai
-  strong: true
-  regulation_language: en
-  logical_id: '14728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Haji Aminullah
-  strong: true
-  regulation_language: en
-  logical_id: '14729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-10-21'
-    number_title: 1049/2011 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
-- whole_name: Haji Malek Noorzai
-  strong: true
-  regulation_language: en
-  logical_id: '14730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -100,30 +100,6 @@ citizenships:
     number_title: 1049/2011 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1957
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1672'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1960
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - birthdate: '1963-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -146,6 +122,30 @@ birthdates:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '111235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1957
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1960
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -186,22 +186,22 @@ addresses:
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 identifications:
+- identification_type_code: id
+  number: 54201-247561-5
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - identification_type_code: passport
   number: FA0157612
   country_iso2_code: PK
   regulation_language: en
   logical_id: '892'
   valid_to: '2014-07-22'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- identification_type_code: id
-  number: 54201-247561-5
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

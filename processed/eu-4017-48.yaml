@@ -16,6 +16,34 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Eduard
+  middle_name: Oleksandrovytj
+  last_name: BASURIN
+  whole_name: Eduard Oleksandrovytj BASURIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Eduard
+  middle_name: Aleksandrovitj
+  last_name: BASURIN
+  whole_name: Eduard Aleksandrovitj BASURIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Eduard
   middle_name: Aleksandrovich
   last_name: BASURIN
   whole_name: Eduard Aleksandrovich BASURIN
@@ -70,34 +98,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Eduard
-  middle_name: Oleksandrovytj
-  last_name: BASURIN
-  whole_name: Eduard Oleksandrovytj BASURIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131440'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Eduard
-  middle_name: Aleksandrovitj
-  last_name: BASURIN
-  whole_name: Eduard Aleksandrovitj BASURIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131441'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

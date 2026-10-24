@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abudu Hake
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - first_name: Abdul
   last_name: Heq
   whole_name: Abdul Heq
@@ -34,6 +23,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7033'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Maimaitiming Maimaiti
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Abdul Heq Jundullah
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7035'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -167,23 +178,12 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Abdul Heq Jundullah
+- whole_name: Abudu Hake
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Maimaitiming Maimaiti
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7032'
+  logical_id: '7034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

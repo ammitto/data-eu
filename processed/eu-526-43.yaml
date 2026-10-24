@@ -5,17 +5,27 @@ designation_date: '2001-10-06'
 remark: 'Other information: Headquarters was in Kandahar, Afghanistan as at 2001.'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2020-09-17'
-  entry_into_force_date: '2020-09-17'
-  number_title: 2020/1297 (OJ L303I)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '132278'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Wafa Al-Igatha Al-Islamia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '1159'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Organização Humanitária Wafa
   name_language: PT
   strong: true
@@ -26,37 +36,42 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Wafa Al-Igatha Al-Islamia
+- whole_name: Al Wafa
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1159'
+  logical_id: '1157'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Al Wafa Organization
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '1158'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
-- whole_name: Al Wafa
-  strong: true
-  regulation_language: en
-  logical_id: '1157'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Wafa Humanitarian Organisation
+  function: Wafa was a component of Al-Qaida in 2001.
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '1156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: L'organisation humanitaire de Wafa
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '1909'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -72,37 +87,7 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: L'organisation humanitaire de Wafa
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '1909'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 addresses:
-- street: Jordan house No 125, Street 54, Phase II Hayatabad
-  city: Peshawar
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
-- country_iso2_code: KW
-  country_description: KUWAIT
-  regulation_language: en
-  logical_id: '167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 - country_iso2_code: AE
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
@@ -116,6 +101,15 @@ addresses:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- country_iso2_code: KW
+  country_description: KUWAIT
+  regulation_language: en
+  logical_id: '167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'

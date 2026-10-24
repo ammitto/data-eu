@@ -24,6 +24,16 @@ name_aliases:
     number_title: 180/2004 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:028:0015:0016:EN:PDF
 addresses:
+- city: Singida
+  country_iso2_code: TZ
+  country_description: TANZANIA, UNITED REPUBLIC OF
+  regulation_language: en
+  logical_id: '396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-04-13'
+    number_title: 316/2012 (OJ L103)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
 - street: PO box 3616
   city: Dar es Salaam
   country_iso2_code: TZ
@@ -40,16 +50,6 @@ addresses:
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
   logical_id: '395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
-- city: Singida
-  country_iso2_code: TZ
-  country_description: TANZANIA, UNITED REPUBLIC OF
-  regulation_language: en
-  logical_id: '396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-04-13'

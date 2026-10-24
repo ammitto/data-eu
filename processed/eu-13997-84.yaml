@@ -16,14 +16,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Gedo HAMDAN
-  function: Regional Commander for North Darfur Section, Brigadier General of the
-    RSF
+- whole_name: Gedo Hamdan Ahmed
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180673'
+  logical_id: '180671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -40,12 +38,23 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/251 (OJ L202600251)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
-- whole_name: Gedo Hamdan Ahmed
+- whole_name: Abunshuk
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180671'
+  logical_id: '180668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- whole_name: Jadu Hamdan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -73,23 +82,14 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/251 (OJ L202600251)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
-- whole_name: Abunshuk
+- whole_name: Gedo HAMDAN
+  function: Regional Commander for North Darfur Section, Brigadier General of the
+    RSF
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/251 (OJ L202600251)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
-- whole_name: Jadu Hamdan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180667'
+  logical_id: '180673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

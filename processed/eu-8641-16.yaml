@@ -15,19 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexander
-  middle_name: Nikolaevich
-  last_name: BELSKIY
-  whole_name: Alexander Nikolaevich BELSKIY
-  function: |-
-    Chairman of the Legislative Assembly of St. Petersburg since 29 September 2021.
-    Deputy governor of St. Petersburg in the period 2020-2021.
-    First Deputy Secretary of the regional branch of the “United Russia” Party.
+- whole_name: Aleksandr Nikolajevitj BELSKIJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143294'
+  logical_id: '143292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -47,12 +40,19 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Aleksandr Nikolajevitj BELSKIJ
+- first_name: Alexander
+  middle_name: Nikolaevich
+  last_name: BELSKIY
+  whole_name: Alexander Nikolaevich BELSKIY
+  function: |-
+    Chairman of the Legislative Assembly of St. Petersburg since 29 September 2021.
+    Deputy governor of St. Petersburg in the period 2020-2021.
+    First Deputy Secretary of the regional branch of the “United Russia” Party.
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143292'
+  logical_id: '143294'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

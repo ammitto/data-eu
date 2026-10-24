@@ -1,28 +1,30 @@
 ---
 eu_reference_number: EU.994.91
 logical_id: '1104'
+designation_date: '2004-01-26'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2012-04-13'
-  entry_into_force_date: '2012-04-12'
-  number_title: 316/2012 (OJ L103)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1046'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
 - whole_name: Al-Haramain Foundation (Pakistan)
+  function: As at late 2025, it was not active and had no structures in Pakistan
   strong: true
   regulation_language: en
   logical_id: '2478'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2004-01-31'
-    number_title: 180/2004 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:028:0015:0016:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 addresses:
 - street: House No 279, Nazimuddin Road, F-10/1
   city: Islamabad
@@ -32,6 +34,6 @@ addresses:
   logical_id: '390'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-04-13'
-    number_title: 316/2012 (OJ L103)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:103:0042:0044:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900

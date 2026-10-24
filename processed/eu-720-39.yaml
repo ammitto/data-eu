@@ -57,11 +57,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Chaman district
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  city: Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '102121'
+  logical_id: '1829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -70,11 +70,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Spin Boldak District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  city: Chaman district
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '1829'
+  logical_id: '102121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

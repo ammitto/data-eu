@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Douran Software Technologies
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: گروه دوران
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: Douran Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Douran Software
   name_language: EN
   strong: true
@@ -60,6 +30,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Douran Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: گروه دوران
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Douran Software Technologies
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180643'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -83,21 +83,21 @@ addresses:
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 identifications:
-- identification_type_code: other
-  number: '10102527140'
-  country_iso2_code: IR
-  regulation_language: en
-  logical_id: '180601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - identification_type_code: regnumber
   number: '231475'
   country_iso2_code: IR
   regulation_language: en
   logical_id: '180602'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- identification_type_code: other
+  number: '10102527140'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '180601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

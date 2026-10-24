@@ -17,23 +17,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Algoney Hamdan Daglo Musa
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/251 (OJ L202600251)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 - whole_name: Musa Ahmed
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180613'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- whole_name: Algoney Hamdan Daglo Musa
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -80,21 +80,21 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 identifications:
 - identification_type_code: passport
-  number: B00024943
+  number: B00017334
   country_iso2_code: SD
   regulation_language: en
-  logical_id: '180611'
-  valid_to: '2031-09-27'
+  logical_id: '180612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
     number_title: 2026/251 (OJ L202600251)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 - identification_type_code: passport
-  number: B00017334
+  number: B00024943
   country_iso2_code: SD
   regulation_language: en
-  logical_id: '180612'
+  logical_id: '180611'
+  valid_to: '2031-09-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

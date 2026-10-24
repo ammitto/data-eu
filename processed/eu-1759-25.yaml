@@ -16,6 +16,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Niru Battery Manufacturing (Batrisazi-ye Niru)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sherkate Batri-e Niru
   name_language: EN
   strong: true
@@ -41,16 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159418'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Battery Manufacturing (Batrisazi-ye Niru)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -146,6 +146,26 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Niru Battery Manufacturing Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: شرکت باطری سازی نیرو
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Niru Akkumulátorgyártó Vállalat
   name_language: HU
   strong: true
@@ -166,27 +186,27 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: شرکت باطری سازی نیرو
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Niru Battery Manufacturing Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
+- street: Nobonyad Blvd., Pasdaran Avenue,
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159421'
+  po_box: 19575/361
+  contact_infos:
+  - key: WEB
+    value: " www.nirubattery.com; www.niruco.com"
+  - key: PHONE
+    value: "+98 21 251 0523/ 254 7093; +98 21 22547094; +98 21 22567608-9; +98 21
+      2545084"
+  - key: EMAIL
+    value: info@nirubattery.com; export@niruco.com; niru@isiran.com
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: End of Pasdaran Avenue, Nobonyad Square,
   city: Tehran
   country_iso2_code: IR
@@ -216,26 +236,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Nobonyad Blvd., Pasdaran Avenue,
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159421'
-  po_box: 19575/361
-  contact_infos:
-  - key: WEB
-    value: " www.nirubattery.com; www.niruco.com"
-  - key: PHONE
-    value: "+98 21 251 0523/ 254 7093; +98 21 22547094; +98 21 22567608-9; +98 21
-      2545084"
-  - key: EMAIL
-    value: info@nirubattery.com; export@niruco.com; niru@isiran.com
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

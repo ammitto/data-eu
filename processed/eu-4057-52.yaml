@@ -1,16 +1,17 @@
 ---
 eu_reference_number: EU.4057.52
 logical_id: '6484'
+designation_date: '2011-07-19'
 remark: 'Date of listing: 19.7.2011'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2017-09-29'
-  entry_into_force_date: '2017-09-30'
-  number_title: 2017/1773 (OJ L251)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '109047'
-  publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1773&from=EN
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
@@ -18,14 +19,17 @@ name_aliases:
 - first_name: Umar
   last_name: Patek
   whole_name: Umar Patek
+  function: Senior member of Jemaah Islamiyah involved in planning and funding multiple
+    terrorist attacks in the Philippines and Indonesia.  Provided training to Abu
+    Sayyaf Group
   strong: true
   regulation_language: en
   logical_id: '14025'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - first_name: Omar
   last_name: Patek
   whole_name: Omar Patek
@@ -120,12 +124,12 @@ citizenships:
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 birthdates:
-- birthdate: '1970-07-20'
+- birthdate: '1966-07-20'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 20
   month_of_year: 7
-  year: 1970
+  year: 1966
   city: Central Java
   country_iso2_code: ID
   country_description: INDONESIA
@@ -133,9 +137,9 @@ birthdates:
   logical_id: '1631'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-09-29'
-    number_title: 2017/1773 (OJ L251)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1773&from=EN
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 addresses:
 - country_iso2_code: ID
   country_description: INDONESIA

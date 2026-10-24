@@ -15,34 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jelena
-  last_name: Mizulina
-  whole_name: Jelena Mizulina
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Elena
-  middle_name: Borisovna
-  last_name: MIZULINA
-  whole_name: Elena Borisovna MIZULINA
-  function: Former Member of the Federation Council from Omsk region.
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '104369'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Елена
   middle_name: Борисовна
   last_name: ДМИТРИЕВА
@@ -85,6 +57,35 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Elena
+  middle_name: Borisovna
+  last_name: MIZULINA
+  whole_name: Elena Borisovna MIZULINA
+  function: Former Member of the Federation Council from Omsk region.
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '104369'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Jelena
+  middle_name: Borisovna
+  last_name: MIZULINA
+  whole_name: Jelena Borisovna MIZULINA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jelena
   middle_name: Borisovna
   last_name: DMITRIJEVA
@@ -100,19 +101,18 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jelena
-  middle_name: Borisovna
-  last_name: MIZULINA
-  whole_name: Jelena Borisovna MIZULINA
+  last_name: Mizulina
+  whole_name: Jelena Mizulina
   gender: F
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '151813'
+  logical_id: '164809'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 birthdates:
 - birthdate: '1954-12-09'
   circa: false

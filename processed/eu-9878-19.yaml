@@ -15,12 +15,86 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade pública por ações "Associação Científica e de Produção "Almaz"
-    designada em honra do académico A.A. Raspletin"
-  name_language: PT
+- whole_name: PJSC NPO Almaz
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151196'
+  logical_id: '150826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Public Joint Stock Company “Scientific and Production Association ‘Almaz’
+    named after Academician A.A. Raspletin"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea publică pe acțiuni „Asociația științifică  și de producție
+    «Almaz» denumită după academicianul  A.A. Raspletin”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Det offentligretlige aktieselskab »Scientific and  Production Association«
+    »Almaz« navngivet efter akademikeren »A.A.  Raspletin«
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '151268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea publică pe acțiuni NPO Almaz
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Società per azioni pubblica  "Scientific and Production  Association
+    "Almaz" named after Academician  A.A. Raspletin"
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '151105'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société publique par actions "Scientific and Production  Association
+    "Almaz" du nom de l’académicien A.A. Raspletin"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151130'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société publique par actions NPO Almaz
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -32,6 +106,29 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Sociedade pública por ações "Associação Científica e de Produção "Almaz"
+    designada em honra do académico A.A. Raspletin"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Openbare publiek-private  vennootschap op aandelen  “Scientific and
+    Production  Association “Almaz” genoemd  naar het lid van de Russische  Academie
+    van Wetenschappen  A.A. Raspletin”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -251,103 +348,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: PJSC NPO Almaz
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Public Joint Stock Company “Scientific and Production Association ‘Almaz’
-    named after Academician A.A. Raspletin"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150827'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Openbare publiek-private  vennootschap op aandelen  “Scientific and
-    Production  Association “Almaz” genoemd  naar het lid van de Russische  Academie
-    van Wetenschappen  A.A. Raspletin”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151213'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société publique par actions NPO Almaz
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea publică pe acțiuni „Asociația științifică  și de producție
-    «Almaz» denumită după academicianul  A.A. Raspletin”
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Det offentligretlige aktieselskab »Scientific and  Production Association«
-    »Almaz« navngivet efter akademikeren »A.A.  Raspletin«
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '151268'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea publică pe acțiuni NPO Almaz
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Società per azioni pubblica  "Scientific and Production  Association
-    "Almaz" named after Academician  A.A. Raspletin"
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '151105'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société publique par actions "Scientific and Production  Association
-    "Almaz" du nom de l’académicien A.A. Raspletin"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

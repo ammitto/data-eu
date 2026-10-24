@@ -85,6 +85,19 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Pavel
+  last_name: Muravejko
+  whole_name: Pavel Muravejko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Pavel
   middle_name: Nikolaevich
   last_name: MURAVEIKO
   whole_name: Pavel Nikolaevich MURAVEIKO
@@ -95,19 +108,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Pavel
-  last_name: Muravejko
-  whole_name: Pavel Muravejko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -130,10 +130,10 @@ name_aliases:
   last_name: Muravejko
   whole_name: Pavel Muravejko
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160833'
+  logical_id: '160831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Banca Standardul Rus S.A.
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: АО “Банк Русский Стандарт”
   name_language: RU
   strong: true
@@ -31,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183717'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Banca Standardul Rus S.A.
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -66,21 +66,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: regnumber
-  number: '771901001'
-  country_iso2_code: '00'
+  number: '7707056547'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '183714'
+  logical_id: '183715'
+  issue_date: '2002-10-03'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: regnumber
-  number: '7707056547'
-  country_iso2_code: RU
+  number: '771901001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '183715'
-  issue_date: '2002-10-03'
+  logical_id: '183714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

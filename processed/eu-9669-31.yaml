@@ -15,6 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Oleg
+  middle_name: Aleksandrovich
+  last_name: TERLIAKOV
+  whole_name: Oleg Aleksandrovich TERLIAKOV
+  function: deputy head of Russian Federal Service for Supervision of Communications
+    Information Technology and Mass Media (Roskomnadzor)
+  gender: M
+  title: Major
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Oleg Aleksandrovitj TERLJAKOV
   gender: M
   name_language: SV
@@ -35,23 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149666'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Oleg
-  middle_name: Aleksandrovich
-  last_name: TERLIAKOV
-  whole_name: Oleg Aleksandrovich TERLIAKOV
-  function: deputy head of Russian Federal Service for Supervision of Communications
-    Information Technology and Mass Media (Roskomnadzor)
-  gender: M
-  title: Major
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

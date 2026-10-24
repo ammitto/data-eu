@@ -15,11 +15,161 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Gefängnis Qarchak
-  name_language: DE
+- whole_name: carcere di Qarchak
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '151478'
+  logical_id: '151578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Věznice Karčak
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '151579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: väznica Qarčak
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Zatvor Qarchak
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: gevangenis van Qarchak
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: fængslet Qarchak
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '151518'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: زندان قرچک
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '151468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Shahr-e Rey Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Qarchak Women’s Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Zendân-e-Qarchak
+  strong: true
+  regulation_language: en
+  logical_id: '151471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Gharchak Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Qarchak Prison
+  function: Iranian detention facility for women in Varamin County (Teheran province).
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Qarchak-fängelset
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: φυλακή Shahr-e Rey
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: φυλακή  γυναικών Qarchak
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151528'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: φυλακή Gharchak
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -30,6 +180,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Gefängnis Qarchak
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '151478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: prison de Qarchak
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -310,176 +480,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151575'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: carcere di Qarchak
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '151578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Věznice Karčak
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '151579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: väznica Qarčak
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Zatvor Qarchak
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: gevangenis van Qarchak
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151515'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: fængslet Qarchak
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '151518'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: زندان قرچک
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '151468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Shahr-e Rey Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Qarchak Women’s Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Zendân-e-Qarchak
-  strong: true
-  regulation_language: en
-  logical_id: '151471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Gharchak Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Qarchak Prison
-  function: Iranian detention facility for women in Varamin County (Teheran province).
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Qarchak-fängelset
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: φυλακή Shahr-e Rey
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151527'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: φυλακή  γυναικών Qarchak
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151528'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: φυλακή Gharchak
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151529'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: prison de Qarchak
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

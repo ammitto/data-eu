@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Glavna uprava za unutarnje poslove grada Moskve
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '156082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Glavni direktorat za notranje zadeve mesta Moskva
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '156084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Maskvos miesto pagrindinis vidaus reikalų direktoratas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Maskavas pilsētas Galvenā iekšlietu pārvalde
   name_language: LV
   strong: true
@@ -90,26 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Hauptdirektion Innere Angelegenheiten der Stadt Moskau
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '156010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Main Directorate of Internal Affairs of the City of Moscow
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -235,11 +185,31 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Moskovan kaupungin sisäasioiden pääosasto
-  name_language: FI
+- whole_name: Main Directorate of Internal Affairs of the City of Moscow
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156080'
+  logical_id: '155598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Glavni direktorat za notranje zadeve mesta Moskva
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '156084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Maskvos miesto pagrindinis vidaus reikalų direktoratas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -250,6 +220,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156075'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Moskovan kaupungin sisäasioiden pääosasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '156080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Glavna uprava za unutarnje poslove grada Moskve
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '156082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Hauptdirektion Innere Angelegenheiten der Stadt Moskau
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '156010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

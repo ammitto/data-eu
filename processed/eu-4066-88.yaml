@@ -4,13 +4,13 @@ logical_id: '3225'
 designation_date: '2005-12-06'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2023-02-13'
-  entry_into_force_date: '2023-02-14'
-  number_title: 2023/329 (OJ L43I)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '169120'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
@@ -28,9 +28,9 @@ name_aliases:
   logical_id: '4407'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - first_name: Isnilon
   last_name: Hapilun
   whole_name: Isnilon Hapilun

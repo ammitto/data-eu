@@ -67,12 +67,13 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1958
-  region: Kidal region
-  place: Abeibara
+  city: Bouressa, Bourem Region
+  region: Bourem Region
+  place: Bouressa
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '1997'
+  logical_id: '2230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'
@@ -98,13 +99,12 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1958
-  city: Bouressa, Bourem Region
-  region: Bourem Region
-  place: Bouressa
+  region: Kidal region
+  place: Abeibara
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '2230'
+  logical_id: '1997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'

@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mohammed JABIR
+  function: Shabiha militia. Associate of Maher al‐Assad for the Shabiha militia.
+  strong: true
+  regulation_language: en
+  logical_id: '14276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohammad JABIR
+  strong: true
+  regulation_language: en
+  logical_id: '17242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Muhammad JABIR
+  strong: true
+  regulation_language: en
+  logical_id: '17243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Mohamed JABIR
   strong: true
   regulation_language: en
@@ -23,19 +51,19 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammed JABER
+- whole_name: Mohammad JABER
   strong: true
   regulation_language: en
-  logical_id: '17245'
+  logical_id: '123900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohamed JABER
+- whole_name: Mohammed JABER
   strong: true
   regulation_language: en
-  logical_id: '123898'
+  logical_id: '17245'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -52,10 +80,10 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Muhammad JABIR
+- whole_name: Mohamed JABER
   strong: true
   regulation_language: en
-  logical_id: '17243'
+  logical_id: '123898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -65,34 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '123899'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad JABER
-  strong: true
-  regulation_language: en
-  logical_id: '123900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammed JABIR
-  function: Shabiha militia. Associate of Maher al‐Assad for the Shabiha militia.
-  strong: true
-  regulation_language: en
-  logical_id: '14276'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad JABIR
-  strong: true
-  regulation_language: en
-  logical_id: '17242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

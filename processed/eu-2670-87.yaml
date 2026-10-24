@@ -15,37 +15,81 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdel Khader
+- first_name: Abd Al-Rahman Ould Muhammad Al-Husayn Ould Muhammad
+  last_name: Salim
+  whole_name: Abd Al-Rahman Ould Muhammad Al-Husayn Ould Muhammad Salim
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '14553'
+  logical_id: '14543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: El Hadj Ould Abdel Ghader
+- whole_name: Shaykh Yunis le Mauritanien
+  gender: M
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '14552'
+  logical_id: '161598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Chingheity
+- whole_name: Yunis al-Mauritani
   strong: true
   regulation_language: en
-  logical_id: '14555'
+  logical_id: '14545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abou Souleimane
+- whole_name: Younis al-Mauritani
   strong: true
   regulation_language: en
-  logical_id: '14554'
+  logical_id: '14546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Sheikh Yunis al-Mauritani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Shaykh Yunis the Mauritanian
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Salih the Mauritanian
+  strong: true
+  regulation_language: en
+  logical_id: '14549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Mohamed Salem
+  strong: true
+  regulation_language: en
+  logical_id: '14550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -60,10 +104,67 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Mohamed Salem
+- whole_name: El Hadj Ould Abdel Ghader
   strong: true
   regulation_language: en
-  logical_id: '14550'
+  logical_id: '14552'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abdel Khader
+  strong: true
+  regulation_language: en
+  logical_id: '14553'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abou Souleimane
+  strong: true
+  regulation_language: en
+  logical_id: '14554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Chingheity
+  strong: true
+  regulation_language: en
+  logical_id: '14555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abdarrahmane ould Mohamed el Houcein ould Mohamed Salem
+  strong: true
+  regulation_language: en
+  logical_id: '14544'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Salih le Mauritanien
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '161597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: عبد الرحمن ولد محمد الحسین ولد محمد سلیم
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '161563'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -151,107 +252,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: عبد الرحمن ولد محمد الحسین ولد محمد سلیم
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '161563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Salih le Mauritanien
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '161597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Shaykh Yunis le Mauritanien
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '161598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Abd Al-Rahman Ould Muhammad Al-Husayn Ould Muhammad
-  last_name: Salim
-  whole_name: Abd Al-Rahman Ould Muhammad Al-Husayn Ould Muhammad Salim
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abdarrahmane ould Mohamed el Houcein ould Mohamed Salem
-  strong: true
-  regulation_language: en
-  logical_id: '14544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Yunis al-Mauritani
-  strong: true
-  regulation_language: en
-  logical_id: '14545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Younis al-Mauritani
-  strong: true
-  regulation_language: en
-  logical_id: '14546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Sheikh Yunis al-Mauritani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Shaykh Yunis the Mauritanian
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Salih the Mauritanian
-  strong: true
-  regulation_language: en
-  logical_id: '14549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

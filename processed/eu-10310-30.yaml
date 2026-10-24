@@ -16,20 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Irina
-  middle_name: Alexandrovna
-  last_name: ČERKASOVA
-  whole_name: Irina Alexandrovna ČERKASOVA
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '155358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Irina
   middle_name: Aleksandrovna
   last_name: TJERKASOVA
   whole_name: Irina Aleksandrovna TJERKASOVA
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '154532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Irina
+  middle_name: Alexandrovna
+  last_name: ČERKASOVA
+  whole_name: Irina Alexandrovna ČERKASOVA
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '155358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

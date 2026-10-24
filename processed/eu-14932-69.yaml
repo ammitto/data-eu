@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.14932.69
+logical_id: '184985'
+designation_date: '2026-06-15'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-15'
+  entry_into_force_date: '2026-06-15'
+  number_title: 2026/1356 (OJ L202601356)
+  programme: RUSDA
+  logical_id: '225901'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Мария Владимировна ДУДКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Maria Vladimirovna DUDKO
+  gender: F
+  title: Director of public relations (PR) agency “Limitless” (Bezgranichnye)
+  strong: true
+  regulation_language: en
+  logical_id: '184989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '184987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+birthdates:
+- birthdate: '1994-11-26'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 26
+  month_of_year: 11
+  year: 1994
+  city: Stavropol
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '184986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356

@@ -1,0 +1,81 @@
+---
+eu_reference_number: EU.15022.7
+logical_id: '185792'
+designation_date: '2026-03-16'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/613 (OJ L202600613)
+  programme: UKR
+  logical_id: '222863'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Віктор Вікторович ФIЛОНОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '185795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Viktor Viktorovich FILONOV
+  function: |-
+    Soldier in the 234th Guards Air
+    Assault Regiment of the 76th Guards Air
+    Assault Division of the Airborne Forces of the
+    Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Виктор Викторович ФИЛОНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+birthdates:
+- birthdate: '1991-04-09'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 9
+  month_of_year: 4
+  year: 1991
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613

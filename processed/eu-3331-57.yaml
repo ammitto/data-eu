@@ -16,20 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vitalii
-  middle_name: Yuriyovych
-  last_name: Zakharchenko
-  whole_name: Vitalii Yuriyovych Zakharchenko
-  function: Former Minister of Internal Affairs
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '17665'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-03-05'
-    number_title: 2019/352 (OJ L64)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0352&from=EN
 - first_name: Віталій
   middle_name: Юрійович
   last_name: Захарченко
@@ -54,6 +40,20 @@ name_aliases:
     publication_date: '2015-03-05'
     number_title: 2015/357 (OJ L62)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_062_R_0001&from=EN
+- first_name: Vitalii
+  middle_name: Yuriyovych
+  last_name: Zakharchenko
+  whole_name: Vitalii Yuriyovych Zakharchenko
+  function: Former Minister of Internal Affairs
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '17665'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-03-05'
+    number_title: 2019/352 (OJ L64)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0352&from=EN
 - first_name: Виталий
   middle_name: Юрьевич
   last_name: Захарченко

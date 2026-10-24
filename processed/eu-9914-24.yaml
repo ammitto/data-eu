@@ -29,20 +29,6 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Александр
-  middle_name: Георгиевич
-  last_name: ФЕДОРИНОВ
-  whole_name: Александр Георгиевич ФЕДОРИНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '151416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - first_name: Alexander
   middle_name: Georgievich
   last_name: FEDORINOV
@@ -54,6 +40,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Александр
+  middle_name: Георгиевич
+  last_name: ФЕДОРИНОВ
+  whole_name: Александр Георгиевич ФЕДОРИНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '151416'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

@@ -15,6 +15,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: HAMIDA
+  strong: true
+  regulation_language: en
+  logical_id: '182068'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: NABAGGAKA
+  strong: true
+  regulation_language: en
+  logical_id: '182069'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
+- whole_name: NABAGGALA
+  strong: true
+  regulation_language: en
+  logical_id: '182070'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-03-30'
+    number_title: 30.03.2026 - UNLI
+    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
 - whole_name: HAMIDAH
   strong: true
   regulation_language: en
@@ -24,10 +51,11 @@ name_aliases:
     publication_date: '2026-03-30'
     number_title: 30.03.2026 - UNLI
     publication_url: https://press.un.org/en/2026/sc16325.doc.htm
-- whole_name: HAMIDA
+- whole_name: حميدة ناباجالا
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '182068'
+  logical_id: '182071'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-30'
@@ -44,34 +72,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182072'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-30'
-    number_title: 30.03.2026 - UNLI
-    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
-- whole_name: حميدة ناباجالا
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '182071'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-30'
-    number_title: 30.03.2026 - UNLI
-    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
-- whole_name: NABAGGALA
-  strong: true
-  regulation_language: en
-  logical_id: '182070'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-03-30'
-    number_title: 30.03.2026 - UNLI
-    publication_url: https://press.un.org/en/2026/sc16325.doc.htm
-- whole_name: NABAGGAKA
-  strong: true
-  regulation_language: en
-  logical_id: '182069'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-03-30'

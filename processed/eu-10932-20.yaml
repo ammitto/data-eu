@@ -15,48 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Борис
-  middle_name: Сафарович
-  last_name: ЭБЗЕЕВ
-  whole_name: Борис Сафарович ЭБЗЕЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Борис
-  last_name: Ебзеев
-  whole_name: Борис Ебзеев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Boris
-  middle_name: Safarovych
-  last_name: EBZEEV
-  whole_name: Boris Safarovych EBZEEV
-  function: Member of the Central Election Commission of the Russian Federation
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Boris
   last_name: Ebzejev
   whole_name: Boris Ebzejev
@@ -92,6 +50,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160671'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Boris
+  middle_name: Safarovych
+  last_name: EBZEEV
+  whole_name: Boris Safarovych EBZEEV
+  function: Member of the Central Election Commission of the Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Борис
+  middle_name: Сафарович
+  last_name: ЭБЗЕЕВ
+  whole_name: Борис Сафарович ЭБЗЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Борис
+  last_name: Ебзеев
+  whole_name: Борис Ебзеев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.15001.70
+logical_id: '185589'
+designation_date: '2026-07-13'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-13'
+  entry_into_force_date: '2026-07-13'
+  number_title: 2026/1708 (OJ L202601708)
+  programme: RUS
+  logical_id: '227030'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Dmitry Valerianovich GACHKO
+  function: General Director and ultimate owner of VAS Experts
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- whole_name: Дмитрий Валерьянович ГАЧКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+birthdates:
+- birthdate: '1976-08-16'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 16
+  month_of_year: 8
+  year: 1976
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '185590'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708

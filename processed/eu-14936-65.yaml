@@ -1,0 +1,67 @@
+---
+eu_reference_number: EU.14936.65
+logical_id: '185007'
+designation_date: '2026-06-15'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-15'
+  entry_into_force_date: '2026-06-15'
+  number_title: 2026/1356 (OJ L202601356)
+  programme: RUSDA
+  logical_id: '225901'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Olga Adolfovna KIRIY
+  gender: F
+  title: Russian national and a journalist and producer at RT Documentary
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185011'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Ольга Адольфовна КИРИЙ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+birthdates:
+- birthdate: '1968-07-19'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 19
+  month_of_year: 7
+  year: 1968
+  city: Tambov
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185008'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356

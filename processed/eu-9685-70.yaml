@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Владимир
+  middle_name: Евгеньевич
+  last_name: ИЛЬИЧЕВ
+  whole_name: Владимир Евгеньевич ИЛЬИЧЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149756'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Vladimir
   middle_name: Evgenievich
   last_name: ILYICHEV
@@ -25,20 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149757'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Владимир
-  middle_name: Евгеньевич
-  last_name: ИЛЬИЧЕВ
-  whole_name: Владимир Евгеньевич ИЛЬИЧЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

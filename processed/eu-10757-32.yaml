@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anastasia
-  last_name: Suprjagová
-  whole_name: Anastasia Suprjagová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Anastasija
   middle_name: Ivanovna
   last_name: SUPRIAGOVÁ
@@ -80,6 +67,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Anastasia
+  last_name: Suprjagová
+  whole_name: Anastasia Suprjagová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

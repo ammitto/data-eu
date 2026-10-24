@@ -15,101 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Forces spéciales de la police iranienne
-  name_language: FR
+- whole_name: Forza speciale antiterrorismo
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '148633'
+  logical_id: '148604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Iránske špeciálne policajné sily
-  name_language: SK
+- whole_name: Forze speciali provinciali
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '148866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Špeciálne  protiteroristické sily
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148867'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Provinčné špeciálne sily
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Špeciálne strážne sily najvyššieho  vodcu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Iránske protiteroristické  špeciálne sily
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148870'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specijalne protuterorisitčke snage
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Pokrajinske specijalne snage
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specijalne snage  za zaštitu vrhovnog vođe
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specijalne  protuterorističke snage Irana
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148889'
+  logical_id: '148605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -345,55 +265,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Provinz-Sondereinsatzkräfte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '148583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Sondereinsatzkräfte der Garde des Obersten Führers
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '148584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Sondereinsatzkräfte Irans zur  Terrorismus–bekämpfung
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '148585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Sondereinsatzkräfte der iranischen Polizei
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '148586'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Special Counter-Terrorism Force
-  strong: true
-  regulation_language: en
-  logical_id: '148457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Provincial Special Forces
   strong: true
   regulation_language: en
@@ -498,6 +369,106 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Forces spéciales de la police iranienne
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '148633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Iránske špeciálne policajné sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Špeciálne  protiteroristické sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Provinčné špeciálne sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Špeciálne strážne sily najvyššieho  vodcu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Iránske protiteroristické  špeciálne sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148870'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specijalne protuterorisitčke snage
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Pokrajinske specijalne snage
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specijalne snage  za zaštitu vrhovnog vođe
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specijalne  protuterorističke snage Irana
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Specijalne  policijske snage Irana
   name_language: HR
   strong: true
@@ -523,6 +494,55 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Provinz-Sondereinsatzkräfte
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '148583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Sondereinsatzkräfte der Garde des Obersten Führers
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '148584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Sondereinsatzkräfte Irans zur  Terrorismus–bekämpfung
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '148585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Sondereinsatzkräfte der iranischen Polizei
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '148586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Special Counter-Terrorism Force
+  strong: true
+  regulation_language: en
+  logical_id: '148457'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -783,26 +803,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Forza speciale antiterrorismo
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Forze speciali provinciali
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

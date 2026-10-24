@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Анастасия Павловна АККУРАТОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Anastasia Pavlovna AKKURATOVA
   function: |-
     Deputy Director of the Department of State Policy in the Field of Children’s Rights Protection of the Ministry of Education of the Russian Federation
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Анастасия Павловна АККУРАТОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

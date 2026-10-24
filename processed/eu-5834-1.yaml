@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade por ações "Lenpromtransproyekt"
-  name_language: PT
+- whole_name: Cuideachta chomhstoic ‘Lenpromtransproyekt’
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '152496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Akciová společnost  ‚Lenpromtransproyekt‘
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152513'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Lenpromtransproyekt”  részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152514'
+  logical_id: '152641'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -55,11 +35,61 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Cuideachta chomhstoic ‘Lenpromtransproyekt’
-  name_language: GA
+- whole_name: "„Lenpromtransproyekt”  részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '152641'
+  logical_id: '152514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: spółka  akcyjna „Lenpromtransprojekt”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Sociedade por ações "Lenpromtransproyekt"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Société par actions “Lenpromtransproyekt”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '152416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Società per azioni “Lenpromtransproyekt”
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '152415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Aktiengesellschaft „Lenpromtransproyekt“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -133,36 +163,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Société par actions “Lenpromtransproyekt”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '152416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Società per azioni “Lenpromtransproyekt”
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '152415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Aktiengesellschaft „Lenpromtransproyekt“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '152404'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Aktieselskabet  »Lenpromtransproyekt«
   name_language: DA
   strong: true
@@ -173,11 +173,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: spółka  akcyjna „Lenpromtransprojekt”
-  name_language: PL
+- whole_name: Akciová společnost  ‚Lenpromtransproyekt‘
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '152449'
+  logical_id: '152513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -203,21 +203,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Акционерно дружество  „Ленпромтранспроект“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '152386'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Aandelenvennootschap “Lenpromtransproyekt”
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '152427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Акционерно дружество  „Ленпромтранспроект“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '152386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

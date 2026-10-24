@@ -1,19 +1,32 @@
 ---
 eu_reference_number: EU.1006.79
 logical_id: '1040'
+designation_date: '2003-09-09'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2012-01-18'
-  entry_into_force_date: '2012-01-17'
-  number_title: 34/2012 (OJ L15)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1036'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Salim Y Salamuddin
+  last_name: JULKIPLI
+  whole_name: Salim Y Salamuddin JULKIPLI
+  function: A member of the Abu Sayyaf Group,
+  strong: true
+  regulation_language: en
+  logical_id: '2284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Kipli Sali
   strong: true
   regulation_language: en
@@ -27,18 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-09-13'
-    number_title: 1607/2003 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
-- first_name: Salim Y Salamuddin
-  last_name: JULKIPLI
-  whole_name: Salim Y Salamuddin JULKIPLI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '2284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-09-13'

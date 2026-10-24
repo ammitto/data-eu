@@ -6,13 +6,13 @@ remark: Photo available for inclusion in the INTERPOL-UN Security Council Specia
   Notice
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2016-03-04'
-  entry_into_force_date: '2016-03-04'
-  number_title: 2016/307 (OJ L58)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '93173'
-  publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
@@ -107,15 +107,16 @@ name_aliases:
   middle_name: Yusuf
   last_name: Al-Anabi
   whole_name: Abu Ubaydah Yusuf Al-Anabi
+  function: A leader of the Organization of Al-Qaida in the Islamic Maghreb (AQIM).
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '107700'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Abou Youcef
   name_language: EN
   strong: true

@@ -25,21 +25,10 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Khalil
-  last_name: Pareja
-  whole_name: Khalil Pareja
+- whole_name: Mighty
   strong: true
   regulation_language: en
-  logical_id: '6540'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Mohammad
-  strong: true
-  regulation_language: en
-  logical_id: '6541'
+  logical_id: '6543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -75,10 +64,21 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Mighty
+- first_name: Khalil
+  last_name: Pareja
+  whole_name: Khalil Pareja
   strong: true
   regulation_language: en
-  logical_id: '6543'
+  logical_id: '6540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Mohammad
+  strong: true
+  regulation_language: en
+  logical_id: '6541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

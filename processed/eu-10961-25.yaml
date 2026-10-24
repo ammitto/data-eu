@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: staatsbedrijf Perm Powder Plant
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '160795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Federalne przedsiębiorstwo państwowe PERM POWDER PLANT
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '160796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: entreprise fédérale d’État USINE DE POUDRE DE PERM
   name_language: FR
   strong: true
@@ -65,26 +45,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fiontar Stáit Chónaidhme PERM POWDER PLANT
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '161236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Федералното държавно предприятие Perm Powder Plant
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Federal State Enterprise PERM POWDER PLANT
   name_language: EN
   strong: true
@@ -105,6 +65,26 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: staatsbedrijf Perm Powder Plant
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '160795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Federalne przedsiębiorstwo państwowe PERM POWDER PLANT
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '160796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Permská prachárna
   name_language: CS
   strong: true
@@ -120,6 +100,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Fiontar Stáit Chónaidhme PERM POWDER PLANT
+  name_language: GL
+  strong: true
+  regulation_language: en
+  logical_id: '161236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Федералното държавно предприятие Perm Powder Plant
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161250'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

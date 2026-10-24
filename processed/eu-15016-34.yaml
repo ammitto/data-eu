@@ -1,0 +1,66 @@
+---
+eu_reference_number: EU.15016.34
+logical_id: '185755'
+designation_date: '2026-07-30'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-30'
+  entry_into_force_date: '2026-07-30'
+  number_title: 2026/1883 (OJ L202601883)
+  programme: IRN
+  logical_id: '227238'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Ali ANSARI
+  function: Businessperson
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+- whole_name: Ali Akbar ANSARI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+citizenships:
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '185757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+birthdates:
+- birthdate: '1968-12-26'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 26
+  month_of_year: 12
+  year: 1968
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '185756'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883

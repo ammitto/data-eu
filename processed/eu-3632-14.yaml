@@ -17,6 +17,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Floribert
+  middle_name: Ngabu
+  last_name: Njabu
+  whole_name: Floribert Ngabu Njabu
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '4330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-11-10'
+    number_title: 1824/2005 (OJ L294)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
+- first_name: Floribert
   last_name: Njabu
   whole_name: Floribert Njabu
   strong: true
@@ -53,19 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-11-10'
-    number_title: 1824/2005 (OJ L294)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
-- first_name: Floribert
-  middle_name: Ngabu
-  last_name: Njabu
-  whole_name: Floribert Ngabu Njabu
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '4330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-11-10'

@@ -15,21 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yury
-  middle_name: Anatolevich
-  last_name: CHIKHANCHIN
-  whole_name: Yury Anatolevich CHIKHANCHIN
-  function: Director of Rosfinmonitoring
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Юрий
   middle_name: Анатольевич
   last_name: ЧИХАНЧИН
@@ -58,14 +43,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Юри
-  last_name: Чиханчин
-  whole_name: Юри Чиханчин
+- first_name: Yury
+  middle_name: Anatolevich
+  last_name: CHIKHANCHIN
+  whole_name: Yury Anatolevich CHIKHANCHIN
+  function: Director of Rosfinmonitoring
   gender: M
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161226'
+  logical_id: '159663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -78,6 +65,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Юри
+  last_name: Чиханчин
+  whole_name: Юри Чиханчин
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161226'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -16,6 +16,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Bahmanyar Morteza Bahmanyar
+  function: Head of Finance & Budget Department of the Aerospace Industries Organisation
+    (AIO)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Morteza
   last_name: BAHMANYAR
   whole_name: Morteza BAHMANYAR
@@ -43,19 +56,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Bahmanyar Morteza Bahmanyar
-  function: Head of Finance & Budget Department of the Aerospace Industries Organisation
-    (AIO)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181762'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

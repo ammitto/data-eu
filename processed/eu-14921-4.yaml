@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Mozyrskii Neftepererabatyvayushchii Zavod
-  strong: true
-  regulation_language: en
-  logical_id: '184954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1817 (OJ L202601817)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
 - whole_name: OJSC Mozyr Oil Refinery OAO
   function: 'Associated entities: Belarus State Property Committee OJSC Naftan; State
     Production Association Belorusneft; OJSC Belarusian Oil Company (BNK) Belneftekhim;
@@ -33,6 +24,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1817 (OJ L202601817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601817
+- whole_name: Mozyrskii Neftepererabatyvayushchii Zavod
+  strong: true
+  regulation_language: en
+  logical_id: '184954'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -24,55 +24,10 @@ name_aliases:
     publication_date: '2022-06-28'
     number_title: 2022/1010 (OJ L170)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1010
-- whole_name: Etemad-e  Mobin  Consortium
+- whole_name: Etemad  Amin  Investment  Company  Mobin
   strong: true
   regulation_language: en
-  logical_id: '131121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Mobin Trust  Consortium
-  strong: true
-  regulation_language: en
-  logical_id: '131122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Etemade  Mobin  Company
-  strong: true
-  regulation_language: en
-  logical_id: '131123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Etemad  Mobin Trust  Co.
-  strong: true
-  regulation_language: en
-  logical_id: '131124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Etemad  Mobin Co.
-  strong: true
-  regulation_language: en
-  logical_id: '131125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Etemad  Amin Invest  Company  Mobin
-  strong: true
-  regulation_language: en
-  logical_id: '131126'
+  logical_id: '131128'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'
@@ -87,10 +42,55 @@ name_aliases:
     publication_date: '2021-07-30'
     number_title: 2021/1242 (OJ L272)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Etemad  Amin  Investment  Company  Mobin
+- whole_name: Etemad  Amin Invest  Company  Mobin
   strong: true
   regulation_language: en
-  logical_id: '131128'
+  logical_id: '131126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Etemad  Mobin Co.
+  strong: true
+  regulation_language: en
+  logical_id: '131125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Etemad  Mobin Trust  Co.
+  strong: true
+  regulation_language: en
+  logical_id: '131124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Etemade  Mobin  Company
+  strong: true
+  regulation_language: en
+  logical_id: '131123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Etemad-e  Mobin  Consortium
+  strong: true
+  regulation_language: en
+  logical_id: '131121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Mobin Trust  Consortium
+  strong: true
+  regulation_language: en
+  logical_id: '131122'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'

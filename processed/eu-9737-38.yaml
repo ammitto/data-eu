@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Entreprise unitaire d’État de la République populaire de Donetsk "Avtodor"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Государственное Унитарное Предприятие Донецкой Народной Республики "Автодор"
   name_language: RU
   strong: true
@@ -61,16 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Entreprise unitaire d’État de la République populaire de Donetsk "Avtodor"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -5,26 +5,39 @@ designation_date: '2012-12-05'
 remark: 'Date of designation referred to in Article 2a (4) (b): 5.12.2012.'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2012-12-12'
-  entry_into_force_date: '2012-12-11'
-  number_title: 1187/2012 (OJ L338)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1080'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: حركة التوحيد والجهاد في غرب إفريقيا
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '185504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest
+  function: Organization of Al-Qaida in the Islamic Maghreb, Al Mourabitoun and Mokhtar
+    Belmokhtar.  Active in the Sahel/Sahara region.
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '16891'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-12'
-    number_title: 1187/2012 (OJ L338)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: MUJAO
   strong: true
   regulation_language: en
@@ -35,19 +48,19 @@ name_aliases:
     number_title: 1187/2012 (OJ L338)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
 addresses:
-- country_iso2_code: ML
-  country_description: MALI
+- country_iso2_code: DZ
+  country_description: ALGERIA
   regulation_language: en
-  logical_id: '2454'
+  logical_id: '2455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-12'
     number_title: 1187/2012 (OJ L338)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
-- country_iso2_code: DZ
-  country_description: ALGERIA
+- country_iso2_code: ML
+  country_description: MALI
   regulation_language: en
-  logical_id: '2455'
+  logical_id: '2454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-12'

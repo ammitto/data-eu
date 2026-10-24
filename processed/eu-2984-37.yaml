@@ -15,6 +15,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Hassan
+  strong: true
+  regulation_language: en
+  logical_id: '17607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-11-05'
+    number_title: 1091/2013 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
+- whole_name: Hocine
+  strong: true
+  regulation_language: en
+  logical_id: '17608'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-11-05'
+    number_title: 1091/2013 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
 - first_name: Mohamed
   last_name: Lahbous
   whole_name: Mohamed Lahbous
@@ -34,24 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-11-05'
-    number_title: 1091/2013 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Hassan
-  strong: true
-  regulation_language: en
-  logical_id: '17607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-11-05'
-    number_title: 1091/2013 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Hocine
-  strong: true
-  regulation_language: en
-  logical_id: '17608'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'

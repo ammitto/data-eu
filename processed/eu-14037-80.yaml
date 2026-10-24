@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Azret Iouspovitch BEKKIEV
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '182224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Azret
   middle_name: Jusupovič
   last_name: BEKKIEV
@@ -54,17 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Azret Iouspovitch BEKKIEV
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '182224'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

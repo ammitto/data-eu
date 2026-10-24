@@ -27,17 +27,6 @@ name_aliases:
     publication_date: '2023-06-12'
     number_title: 2023/1147 (OJ L151 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
-- whole_name: Eng. Ismail
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-12'
-    number_title: 2023/1147 (OJ L151 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
 - first_name: Abdullahi Osman Mohamed
   last_name: Caddow
   whole_name: Abdullahi Osman Mohamed Caddow
@@ -66,12 +55,12 @@ name_aliases:
     publication_date: '2023-06-12'
     number_title: 2023/1147 (OJ L151 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
-- whole_name: Injineer Ismaaciil
+- whole_name: Dhagacade
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158045'
+  logical_id: '158047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'
@@ -88,12 +77,23 @@ name_aliases:
     publication_date: '2023-06-12'
     number_title: 2023/1147 (OJ L151 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
-- whole_name: Dhagacade
+- whole_name: Eng. Ismail
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158047'
+  logical_id: '158044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-12'
+    number_title: 2023/1147 (OJ L151 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
+- whole_name: Injineer Ismaaciil
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'

@@ -25,11 +25,51 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: OPEN JOINT STOCK COMPANY “195 REPAIR PLANTS RACKET-ARTILLERY ARMS”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: АО 195 РЗ РАВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150865'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “195 РЕМОНТНЫЙ ЗАВОД РАКЕТНО-АРТИЛЛЕРИЙСКОГО ВООРУЖЕНИЯ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: 195 Obrat za popravilo raketnega in artilerijskega orožja
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '151069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: 195 Raķešu un artilērijas ieroču remonta rūpnīca
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '151072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -50,46 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “195 РЕМОНТНЫЙ ЗАВОД РАКЕТНО-АРТИЛЛЕРИЙСКОГО ВООРУЖЕНИЯ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО 195 РЗ РАВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: 195 Raķešu un artilērijas ieroču remonta rūpnīca
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '151072'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: OPEN JOINT STOCK COMPANY “195 REPAIR PLANTS RACKET-ARTILLERY ARMS”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

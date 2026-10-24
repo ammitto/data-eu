@@ -1,66 +1,94 @@
 ---
 eu_reference_number: EU.2154.23
 logical_id: '5292'
+designation_date: '2008-07-03'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2012-12-04'
-  entry_into_force_date: '2012-12-03'
-  number_title: 1142/2012 (OJ L332)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1074'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: أحمد دغداغ
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '185306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Abd El Illah
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6714'
+  logical_id: '185307'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2008-07-17'
-    number_title: 678/2008 (OJ L189)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
-- whole_name: Abdellah Ahmed
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Abou Abdellah Ahmed
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '16847'
+  logical_id: '185308'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1142/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
-- first_name: Ahmed
-  last_name: Deghdegh
-  whole_name: Ahmed Deghdegh
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Abdellillah dit Abdellah Ahmed dit Said
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6713'
+  logical_id: '185309'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2008-07-17'
-    number_title: 678/2008 (OJ L189)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
-- whole_name: Said
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Said Dit Merrikh
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '16848'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1142/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
-- whole_name: Abdellillah
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- first_name: Ahmed
+  last_name: Deghdegh
+  whole_name: Ahmed Deghdegh
+  function: Belongs to the leadership and is the finance chief of the Organization
+    of Al-Qaida in the Islamic Maghreb
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '16846'
+  logical_id: '6713'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1142/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Abd El Ilah
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 citizenships:
 - country_iso2_code: DZ
   country_description: ALGERIA
@@ -88,3 +116,13 @@ birthdates:
     publication_date: '2008-07-17'
     number_title: 678/2008 (OJ L189)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
+addresses:
+- country_iso2_code: DZ
+  country_description: ALGERIA
+  regulation_language: en
+  logical_id: '185305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900

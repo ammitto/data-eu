@@ -1,76 +1,20 @@
 ---
 eu_reference_number: EU.1003.87
 logical_id: '1003'
+designation_date: '2003-01-28'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2011-06-17'
-  entry_into_force_date: '2011-06-16'
-  number_title: 577/2011 (OJ L159)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1008'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Encep Nurjaman (birth name)
-  strong: true
-  regulation_language: en
-  logical_id: '2108'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- whole_name: Isamudin Ridwan
-  strong: true
-  regulation_language: en
-  logical_id: '5798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Hambali
-  strong: true
-  regulation_language: en
-  logical_id: '2104'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- whole_name: Nurjaman
-  strong: true
-  regulation_language: en
-  logical_id: '2105'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-04'
-    number_title: 215/2003 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
-- first_name: Nurjaman
-  middle_name: Riduan
-  last_name: Isomuddin
-  whole_name: Nurjaman Riduan Isomuddin
-  strong: true
-  regulation_language: en
-  logical_id: '2106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-04'
-    number_title: 215/2003 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
-- whole_name: Isomuddin, Nurjaman Riduan
-  strong: true
-  regulation_language: en
-  logical_id: '5892'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - first_name: Nurjaman
   middle_name: Riduan
   last_name: Isamuddin
@@ -84,33 +28,100 @@ name_aliases:
     publication_date: '2003-02-04'
     number_title: 215/2003 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
+- whole_name: Hambali
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Nurjaman
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2105'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- first_name: Nurjaman
+  middle_name: Riduan
+  last_name: Isomuddin
+  whole_name: Nurjaman Riduan Isomuddin
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Encep Nurjaman (birth name)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2108'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Hambali Bin Ending
+  gender: M
   strong: true
   regulation_language: en
   logical_id: '5795'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Hambali Ending Hambali
+  gender: M
   strong: true
   regulation_language: en
   logical_id: '5796'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Isomuddin, Nurjaman Riduan
+  function: Senior leader of Jemaah Islamiyah,
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Isamudin Ridwan
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Isamuddin Riduan
+  gender: M
   strong: true
   regulation_language: en
   logical_id: '5797'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 citizenships:
 - country_iso2_code: ID
   country_description: INDONESIA
@@ -121,7 +132,30 @@ citizenships:
     publication_date: '2003-02-04'
     number_title: 215/2003 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
+- country_iso2_code: MY
+  country_description: MALAYSIA
+  regulation_language: en
+  logical_id: '185304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1966
+  city: Sukamanah
+  place: West Java
+  country_iso2_code: ID
+  country_description: INDONESIA
+  regulation_language: en
+  logical_id: '185303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - birthdate: '1964-04-04'
   circa: false
   calendar_type: GREGORIAN

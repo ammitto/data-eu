@@ -18,31 +18,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdul Manan
-  last_name: Nayazi
-  whole_name: Abdul Manan Nayazi
+- whole_name: Baryalai
   strong: true
   regulation_language: en
-  logical_id: '5968'
+  logical_id: '102048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- first_name: Abdul Manan
-  last_name: Nyazi
-  whole_name: Abdul Manan Nyazi
-  function: a) Governor of Kabul Province under the Taliban regime, b) Governor of
-    Balk Province under the Taliban regime.
-  title: Mullah
-  strong: true
-  regulation_language: en
-  logical_id: '102044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Abdul Manan
   last_name: Niazi
   whole_name: Abdul Manan Niazi
@@ -63,10 +47,26 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Baryalai
+- first_name: Abdul Manan
+  last_name: Nyazi
+  whole_name: Abdul Manan Nyazi
+  function: a) Governor of Kabul Province under the Taliban regime, b) Governor of
+    Balk Province under the Taliban regime.
+  title: Mullah
   strong: true
   regulation_language: en
-  logical_id: '102048'
+  logical_id: '102044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- first_name: Abdul Manan
+  last_name: Nayazi
+  whole_name: Abdul Manan Nayazi
+  strong: true
+  regulation_language: en
+  logical_id: '5968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -86,11 +86,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Sardar village, Kohsan District, Herat Province
+  city: Pashtoon Zarghoon district, Herat province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1809'
+  logical_id: '102042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -99,11 +99,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
-  city: Pashtoon Zarghoon district, Herat province
+  city: Sardar village, Kohsan District, Herat Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '102042'
+  logical_id: '1809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

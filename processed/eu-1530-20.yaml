@@ -14,19 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Khalid
+- whole_name: Ismail
   strong: true
   regulation_language: en
-  logical_id: '6505'
+  logical_id: '6507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Dave
+- whole_name: Manex
   strong: true
   regulation_language: en
-  logical_id: '6510'
+  logical_id: '6508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -41,6 +41,15 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Dave
+  strong: true
+  regulation_language: en
+  logical_id: '6510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - first_name: Pio
   middle_name: Abogne
   last_name: De Vera
@@ -48,6 +57,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Ismael
+  strong: true
+  regulation_language: en
+  logical_id: '6506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Khalid
+  strong: true
+  regulation_language: en
+  logical_id: '6505'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -68,33 +95,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Ismael
-  strong: true
-  regulation_language: en
-  logical_id: '6506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Ismail
-  strong: true
-  regulation_language: en
-  logical_id: '6507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Manex
-  strong: true
-  regulation_language: en
-  logical_id: '6508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

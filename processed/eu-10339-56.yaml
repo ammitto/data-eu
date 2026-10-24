@@ -46,20 +46,6 @@ name_aliases:
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Zamid
-  middle_name: Alijevitj
-  last_name: TJALAJEV
-  whole_name: Zamid Alijevitj TJALAJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '155253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Zamid
   middle_name: Alijevič
   last_name: ČALAJEV
   whole_name: Zamid Alijevič ČALAJEV
@@ -68,6 +54,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Zamid
+  middle_name: Alijevitj
+  last_name: TJALAJEV
+  whole_name: Zamid Alijevitj TJALAJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '155253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

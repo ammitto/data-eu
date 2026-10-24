@@ -40,17 +40,6 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- first_name: Saraj
-  last_name: Haqani
-  whole_name: Saraj Haqani
-  strong: true
-  regulation_language: en
-  logical_id: '103221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - first_name: Serajuddin
   last_name: Haqani
   whole_name: Serajuddin Haqani
@@ -86,6 +75,17 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- first_name: Saraj
+  last_name: Haqani
+  whole_name: Saraj Haqani
+  strong: true
+  regulation_language: en
+  logical_id: '103221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -97,20 +97,6 @@ citizenships:
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 birthdates:
-- circa: true
-  calendar_type: GREGORIAN
-  year_range_from: 1977
-  year_range_to: 1978
-  city: Neka district, Paktika province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '103214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
   year_range_from: 1977
@@ -129,11 +115,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1977
   year_range_to: 1978
-  city: Danda, Miramshah, North Waziristan
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  city: Neka district, Paktika province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '103212'
+  logical_id: '103214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -148,6 +134,20 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '103215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year_range_from: 1977
+  year_range_to: 1978
+  city: Danda, Miramshah, North Waziristan
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '103212'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

@@ -15,45 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Даря
-  last_name: Борисова
-  whole_name: Даря Борисова
-  gender: F
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Daria
-  last_name: Borisova
-  whole_name: Daria Borisova
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160881'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Darja
-  last_name: Borisova
-  whole_name: Darja Borisova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Дарья
   middle_name: Олеговна
   last_name: БОРИСОВА
@@ -84,6 +45,19 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Darja
+  last_name: Borisova
+  whole_name: Darja Borisova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Darja
   middle_name: Olegovna
   last_name: BORISOVA
   whole_name: Darja Olegovna BORISOVA
@@ -92,6 +66,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Даря
+  last_name: Борисова
+  whole_name: Даря Борисова
+  gender: F
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Daria
+  last_name: Borisova
+  whole_name: Daria Borisova
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

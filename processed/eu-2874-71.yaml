@@ -14,42 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Laskar 99
-  strong: true
-  regulation_language: en
-  logical_id: '15747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: JAT
-  strong: true
-  regulation_language: en
-  logical_id: '15741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Jamaah Ansharut Tauhid
-  strong: true
-  regulation_language: en
-  logical_id: '15745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Jem’mah Ansharut Tauhid
-  strong: true
-  regulation_language: en
-  logical_id: '15744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
 - whole_name: Jemmah Anshorut Tauhid
   strong: true
   regulation_language: en
@@ -59,10 +23,10 @@ name_aliases:
     publication_date: '2018-07-23'
     number_title: 2018/1033 (OJ L185)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.185.01.0014.01.ENG&toc=OJ:L:2018:185:TOC
-- whole_name: Jama’ah Ansharut Tauhid
+- whole_name: JAT
   strong: true
   regulation_language: en
-  logical_id: '15746'
+  logical_id: '15741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -86,19 +50,43 @@ name_aliases:
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-addresses:
-- country_iso2_code: '00'
-  country_description: UNKNOWN
+- whole_name: Jem’mah Ansharut Tauhid
+  strong: true
   regulation_language: en
-  logical_id: '2257'
-  contact_infos:
-  - key: WEB
-    value: http://ansharuttauhid.com/
+  logical_id: '15744'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Jamaah Ansharut Tauhid
+  strong: true
+  regulation_language: en
+  logical_id: '15745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Laskar 99
+  strong: true
+  regulation_language: en
+  logical_id: '15747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Jama’ah Ansharut Tauhid
+  strong: true
+  regulation_language: en
+  logical_id: '15746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+addresses:
 - country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
@@ -120,6 +108,18 @@ addresses:
   contact_infos:
   - key: PHONE
     value: 0271-2167285
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '2257'
+  contact_infos:
+  - key: WEB
+    value: http://ansharuttauhid.com/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

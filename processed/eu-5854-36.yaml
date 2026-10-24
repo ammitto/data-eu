@@ -15,6 +15,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Александр
+  middle_name: Валерьевич
+  last_name: БЫКОВ
+  whole_name: Александр Валерьевич БЫКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Аляксандр
+  middle_name: Валер’евiч
+  last_name: БЫКАЎ
+  whole_name: Аляксандр Валер’евiч БЫКАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Alexandr
+  middle_name: Valerievich
+  last_name: BYKOV
+  whole_name: Alexandr Valerievich BYKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '127906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Aljaksandr
   middle_name: Valerjevitj
   last_name: BYKAU
@@ -55,48 +97,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Александр
-  middle_name: Валерьевич
-  last_name: БЫКОВ
-  whole_name: Александр Валерьевич БЫКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Alexandr
-  middle_name: Valerievich
-  last_name: BYKOV
-  whole_name: Alexandr Valerievich BYKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '127906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Аляксандр
-  middle_name: Валер’евiч
-  last_name: БЫКАЎ
-  whole_name: Аляксандр Валер’евiч БЫКАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

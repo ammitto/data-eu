@@ -4,13 +4,13 @@ logical_id: '106540'
 designation_date: '2015-09-29'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2016-07-01'
-  entry_into_force_date: '2016-07-01'
-  number_title: 2016/1063 (OJ L177)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '95361'
-  publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1063&from=EN
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
@@ -18,15 +18,17 @@ name_aliases:
 - first_name: Peter
   last_name: Cherif
   whole_name: Peter Cherif
+  function: Member of Al-Qaida in the Arabian Peninsula (AQAP)
+  gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '106541'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 citizenships:
 - country_iso2_code: FR
   country_description: FRANCE

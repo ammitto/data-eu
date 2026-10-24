@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Zelenodolský závod A. M. Gorkého a. s.
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151337'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: AO Зеленодольский завод имени А. М. Горького
   name_language: RU
   strong: true
@@ -61,16 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Zelenodolský závod A. M. Gorkého a. s.
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

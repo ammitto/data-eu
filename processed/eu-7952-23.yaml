@@ -15,15 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юлiя
-  middle_name: Валентинiвн
-  last_name: МИХАЙЛОВА
-  whole_name: Юлiя Валентинiвн МИХАЙЛОВА
+- first_name: Yulia
+  middle_name: Valentinovna
+  last_name: MIKHAILOVA
+  whole_name: Yulia Valentinovna MIKHAILOVA
+  function: Former member of the so-called “People’s Council” of the so-called “Donetsk
+    People’s Republic” and member of the Committee on Labor, Social Policy and Veterans
+    Affairs
   gender: F
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '138507'
+  logical_id: '138509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -43,18 +46,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yulia
-  middle_name: Valentinovna
-  last_name: MIKHAILOVA
-  whole_name: Yulia Valentinovna MIKHAILOVA
-  function: Former member of the so-called “People’s Council” of the so-called “Donetsk
-    People’s Republic” and member of the Committee on Labor, Social Policy and Veterans
-    Affairs
+- first_name: Юлiя
+  middle_name: Валентинiвн
+  last_name: МИХАЙЛОВА
+  whole_name: Юлiя Валентинiвн МИХАЙЛОВА
   gender: F
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '138509'
+  logical_id: '138507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

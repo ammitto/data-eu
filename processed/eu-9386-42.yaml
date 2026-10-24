@@ -15,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Összorosz Állami Televíziós és Rádiós Műsorszolgáltató Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '158445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Visos Rusijos valstybinė  televizijos ir radijo  transliavimo bendrovė
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Celoruská televizní a rozhlasová společnost
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Sveruska državna radiotelevizija
   name_language: HR
   strong: true
@@ -25,11 +55,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Celoruská televizní a rozhlasová společnost
-  name_language: CS
+- whole_name: Vseruska državna družba za  televizijo in radiofuzijo
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '158446'
+  logical_id: '158681'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -187,36 +217,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Visos Rusijos valstybinė  televizijos ir radijo  transliavimo bendrovė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Vseruska državna družba za  televizijo in radiofuzijo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158681'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Összorosz Állami Televíziós és Rádiós Műsorszolgáltató Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '158445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: str 5th Yamskogo Polya 19-21
   city: Moscow

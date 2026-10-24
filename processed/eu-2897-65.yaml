@@ -20,12 +20,12 @@ subject_type:
 name_aliases:
 - first_name: Angga
   middle_name: Dimas
-  last_name: Prasondha
-  whole_name: Angga Dimas Prasondha
+  last_name: Persadha
+  whole_name: Angga Dimas Persadha
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '18721'
+  logical_id: '18729'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-03-21'
@@ -33,12 +33,13 @@ name_aliases:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R0480&from=EN
 - first_name: Angga
   middle_name: Dimas
-  last_name: Persadha
-  whole_name: Angga Dimas Persadha
+  last_name: Pershada
+  whole_name: Angga Dimas Pershada
+  title: Secretary-General (as at mid-2014)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '18729'
+  logical_id: '18719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-03-21'
@@ -59,13 +60,12 @@ name_aliases:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R0480&from=EN
 - first_name: Angga
   middle_name: Dimas
-  last_name: Pershada
-  whole_name: Angga Dimas Pershada
-  title: Secretary-General (as at mid-2014)
+  last_name: Prasondha
+  whole_name: Angga Dimas Prasondha
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '18719'
+  logical_id: '18721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-03-21'

@@ -15,14 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валентина
-  last_name: Зянкевич
-  whole_name: Валентина Зянкевич
+- first_name: Vaľancina
+  middle_name: Mikalajevna
+  last_name: ZIANKEVIČOVÁ
+  whole_name: Vaľancina Mikalajevna ZIANKEVIČOVÁ
   gender: F
-  name_language: BG
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157277'
+  logical_id: '157275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -41,57 +42,14 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vaľancina
-  middle_name: Mikalajevna
-  last_name: ZIANKEVIČOVÁ
-  whole_name: Vaľancina Mikalajevna ZIANKEVIČOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Valjantsina
-  middle_name: Mikalajeuna
-  last_name: ZIANKEVITJ
-  whole_name: Valjantsina Mikalajeuna ZIANKEVITJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Valentina
-  middle_name: Nikolajevna
-  last_name: ZENKEVITJ
-  whole_name: Valentina Nikolajevna ZENKEVITJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157273'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Валентина
-  middle_name: Николаевна
-  last_name: ЗЕНЬКЕВИЧ
-  whole_name: Валентина Николаевна ЗЕНЬКЕВИЧ
+  last_name: Зянкевич
+  whole_name: Валентина Зянкевич
   gender: F
-  name_language: RU
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '157270'
+  logical_id: '157277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -106,6 +64,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Valjantsina
+  middle_name: Mikalajeuna
+  last_name: ZIANKEVITJ
+  whole_name: Valjantsina Mikalajeuna ZIANKEVITJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -135,6 +107,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Валентина
+  middle_name: Николаевна
+  last_name: ЗЕНЬКЕВИЧ
+  whole_name: Валентина Николаевна ЗЕНЬКЕВИЧ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Valentina
+  middle_name: Nikolajevna
+  last_name: ZENKEVITJ
+  whole_name: Valentina Nikolajevna ZENKEVITJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157273'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

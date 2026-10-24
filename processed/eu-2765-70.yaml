@@ -16,6 +16,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Jelvesazan Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: La Sociedad Jelvesazan
   name_language: ES
   strong: true
@@ -33,16 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Jelvesazan Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169696'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

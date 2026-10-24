@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: נחלה
-  name_language: HE
-  strong: true
-  regulation_language: en
-  logical_id: '185534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: Nachala Movement
   function: The Nachala Movement (“Nachala”) has the aim of promoting Jewish settlements
     and illegal outposts in the West Bank. Through its activities, the movement plays
@@ -36,6 +26,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: נחלה
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

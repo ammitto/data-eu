@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Biuro Projektowe Ametist S.A.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151138'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Biroul de proiectare Ametist SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Проектантско бюро „Аметист“ АД
   name_language: BG
   strong: true
@@ -45,21 +25,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: AO "KB "AMETIST""
-  name_language: RU
+- whole_name: Société par actions Design Bureau Ametist
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '150014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Konštrukčný úrad Ametist a. s.
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151334'
+  logical_id: '151110'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -85,11 +55,41 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Design Bureau Ametist
-  name_language: FR
+- whole_name: AO "KB "AMETIST""
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151110'
+  logical_id: '150014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Konštrukčný úrad Ametist a. s.
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Biroul de proiectare Ametist SA
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Biuro Projektowe Ametist S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

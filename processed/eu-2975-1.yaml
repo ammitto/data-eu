@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yaser
+  last_name: AL SIBA’II
+  whole_name: Yaser AL SIBA’II
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Yasser
   last_name: al-Sibai
   whole_name: Yasser al-Sibai
@@ -53,27 +66,28 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Yaser
-  last_name: al Sibaei
-  whole_name: Yaser al Sibaei
+- first_name: Yasser
+  last_name: AL SIBA’II
+  whole_name: Yasser AL SIBA’II
+  function: Former Minister of Public Works
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124058'
+  logical_id: '16527'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Yaser
-  last_name: AL SIBA’II
-  whole_name: Yaser AL SIBA’II
+  last_name: al-Siba’i
+  whole_name: Yaser al-Siba’i
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '17343'
+  logical_id: '124059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -104,27 +118,13 @@ name_aliases:
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Yaser
-  last_name: al-Siba’i
-  whole_name: Yaser al-Siba’i
+  last_name: al Sibaei
+  whole_name: Yaser al Sibaei
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124059'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Yasser
-  last_name: AL SIBA’II
-  whole_name: Yasser AL SIBA’II
-  function: Former Minister of Public Works
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '16527'
+  logical_id: '124058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

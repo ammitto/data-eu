@@ -15,6 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Poveljstvo zračnih sil IRGC Al- Ghadir, pristojno za raketne izstrelke
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '8282'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
+- whole_name: Forțele Aeriene ale IRGG, unitatea de comandă a rachetelor Al-Ghadir
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '8283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 - whole_name: IRGC-Air Force Al-Ghadir Missile Command
   name_language: EN
   strong: true
@@ -46,11 +66,11 @@ name_aliases:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Comando missilistico dell'aeronautica dell'IRGC Al-Ghadir
-  name_language: IT
+- whole_name: Kmandant tal-Missili ta’ Al- Ghadir għall-Forza tal-Ajru tal- IRGC
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '8276'
+  logical_id: '8281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
@@ -66,11 +86,11 @@ name_aliases:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Forțele Aeriene ale IRGG, unitatea de comandă a rachetelor Al-Ghadir
-  name_language: RO
+- whole_name: Velitelství raketového vojska vzdušných sil IRGC Al-Ghadir
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '8283'
+  logical_id: '8278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
@@ -96,31 +116,11 @@ name_aliases:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Kmandant tal-Missili ta’ Al- Ghadir għall-Forza tal-Ajru tal- IRGC
-  name_language: MT
+- whole_name: Comando missilistico dell'aeronautica dell'IRGC Al-Ghadir
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '8281'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Poveljstvo zračnih sil IRGC Al- Ghadir, pristojno za raketne izstrelke
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '8282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Velitelství raketového vojska vzdušných sil IRGC Al-Ghadir
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '8278'
+  logical_id: '8276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'

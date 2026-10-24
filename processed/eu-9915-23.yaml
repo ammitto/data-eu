@@ -16,19 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ivan
-  last_name: RJABOV
-  whole_name: Ivan RJABOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151522'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Ivan
   last_name: RIABOV
   whole_name: Ivan RIABOV
   gender: M
@@ -41,14 +28,14 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Иван
-  last_name: РЯБОВ
-  whole_name: Иван РЯБОВ
+- first_name: Ivan
+  last_name: RJABOV
+  whole_name: Ivan RJABOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '151420'
+  logical_id: '151522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -63,6 +50,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Иван
+  last_name: РЯБОВ
+  whole_name: Иван РЯБОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '151420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

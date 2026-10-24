@@ -15,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: القابضة الشام دمشق
+  strong: true
+  regulation_language: en
+  logical_id: '122152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: Damascus Cham Private Joint Stock Company
   strong: true
   regulation_language: en
@@ -28,15 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: القابضة الشام دمشق
-  strong: true
-  regulation_language: en
-  logical_id: '122152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

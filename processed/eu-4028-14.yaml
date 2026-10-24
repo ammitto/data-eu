@@ -15,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Движение ‘Новороссия’ Игоря СТРЕЛКОВА
+  strong: true
+  regulation_language: en
+  logical_id: '18574'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-09-15'
+    number_title: 2017/1549 (OJ L237)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1549&from=EN
 - whole_name: Movement ‘Novorossiya’ of Igor STRELKOV
   function: Public Movement. The Movement “Novorossiya”/“New Russia” was established
     in November 2014 in Russia and is headed by Russian officer Igor Strelkov/Girkin
@@ -28,15 +37,6 @@ name_aliases:
     publication_date: '2019-09-13'
     number_title: 2019/1403 (OJ L236)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
-- whole_name: Движение ‘Новороссия’ Игоря СТРЕЛКОВА
-  strong: true
-  regulation_language: en
-  logical_id: '18574'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-09-15'
-    number_title: 2017/1549 (OJ L237)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1549&from=EN
 addresses:
 - country_iso2_code: '00'
   country_description: UNKNOWN

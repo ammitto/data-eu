@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jelena
-  last_name: Šapurova
-  whole_name: Jelena Šapurova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160862'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Олена
   middle_name: Олександрівна
   last_name: ШАПУРОВА
@@ -86,6 +73,32 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Elena
+  last_name: Šapurova
+  whole_name: Elena Šapurova
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Jelena
+  last_name: Šapurova
+  whole_name: Jelena Šapurova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Olena
   middle_name: Oleksandrivna
   last_name: SJAPUROVA
@@ -109,19 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160650'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Elena
-  last_name: Šapurova
-  whole_name: Elena Šapurova
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

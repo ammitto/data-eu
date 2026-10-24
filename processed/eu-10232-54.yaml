@@ -15,12 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: سید خلیل صفوی
+- first_name: Seyed Khalil
+  last_name: SAFAVI
+  whole_name: Seyed Khalil SAFAVI
   gender: M
-  name_language: FA
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '154123'
+  logical_id: '154183'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'
@@ -40,14 +42,12 @@ name_aliases:
     publication_date: '2023-06-26'
     number_title: 2023/1298 (OJ L160 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
-- first_name: Seyed Khalil
-  last_name: SAFAVI
-  whole_name: Seyed Khalil SAFAVI
+- whole_name: سید خلیل صفوی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '154183'
+  logical_id: '154123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'

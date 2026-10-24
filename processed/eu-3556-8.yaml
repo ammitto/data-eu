@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: сдружение „Ал-Акса“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '123161'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Sdružení Al-Aksá e.V.
   name_language: CS
   strong: true
@@ -94,3 +84,13 @@ name_aliases:
     publication_date: '2025-01-31'
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: сдружение „Ал-Акса“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '123161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505

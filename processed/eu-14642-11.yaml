@@ -25,21 +25,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Limited Liability Company “Soyuzmetallservis”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '183875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Общество с ограниченной ответственностью “Союзметаллсервис”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Limited Liability Company “Soyuzmetallservis”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

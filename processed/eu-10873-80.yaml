@@ -19,24 +19,10 @@ name_aliases:
   last_name: Chochlun
   whole_name: Andrej Chochlun
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Андрей
-  middle_name: Ростиславович
-  last_name: ХОХЛУН
-  whole_name: Андрей Ростиславович ХОХЛУН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159344'
+  logical_id: '160938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -57,14 +43,28 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Андрей
+  middle_name: Ростиславович
+  last_name: ХОХЛУН
+  whole_name: Андрей Ростиславович ХОХЛУН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
   last_name: Chochlun
   whole_name: Andrej Chochlun
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160938'
+  logical_id: '160939'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

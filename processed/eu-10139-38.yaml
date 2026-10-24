@@ -16,6 +16,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Elena
+  last_name: Lenskaja
+  whole_name: Elena Lenskaja
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Elena
   middle_name: Anatolievna
   last_name: LENSKAYA
   whole_name: Elena Anatolievna LENSKAYA
@@ -53,19 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Elena
-  last_name: Lenskaja
-  whole_name: Elena Lenskaja
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Роман Васильевич ЧУМАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180705'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
 - whole_name: Roman Vasilyevich CHUMAKOV
   function: Russian actor and singer
   gender: M
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/259 (OJ L202600259)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
-- whole_name: Роман Васильевич ЧУМАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180705'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

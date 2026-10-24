@@ -29,17 +29,6 @@ name_aliases:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Hafiz Muhammad
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - first_name: Muhammad
   last_name: Saeed
   whole_name: Muhammad Saeed
@@ -72,6 +61,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- whole_name: Hafiz Muhammad
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6991'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

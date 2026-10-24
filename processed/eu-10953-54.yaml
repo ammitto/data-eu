@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Богдан
+  last_name: Стьожка
+  whole_name: Богдан Стьожка
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Bogdan
   middle_name: Vasiljevitj
   last_name: STIOZJKA
@@ -44,6 +57,19 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Bogdan
+  last_name: Stjožka
+  whole_name: Bogdan Stjožka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Bogdan
   middle_name: Vasilyevich
   last_name: STYOZHKA
   whole_name: Bogdan Vasilyevich STYOZHKA
@@ -54,32 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Богдан
-  last_name: Стьожка
-  whole_name: Богдан Стьожка
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161246'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Bogdan
-  last_name: Stjožka
-  whole_name: Bogdan Stjožka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

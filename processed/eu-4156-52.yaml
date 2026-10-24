@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Chae-kyong
-  last_name: PAK
-  whole_name: Chae-kyong PAK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Jae-gyong
   last_name: PAK
   whole_name: Jae-gyong PAK
@@ -68,6 +55,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Chae-kyong
+  last_name: PAK
+  whole_name: Chae-kyong PAK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

@@ -25,11 +25,11 @@ name_aliases:
     publication_date: '2024-10-09'
     number_title: 2024/2672 (OJ L09102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: An Chomhairle Uachtarach um Thoghcháin
-  name_language: GA
+- whole_name: Supreme Electoral Council
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170161'
+  logical_id: '132837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'
@@ -245,21 +245,21 @@ name_aliases:
     publication_date: '2024-10-09'
     number_title: 2024/2672 (OJ L09102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
-- whole_name: Supreme Electoral Council
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
 - whole_name: CSE
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '170160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: An Chomhairle Uachtarach um Thoghcháin
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '170161'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'

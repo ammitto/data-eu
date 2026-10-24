@@ -87,19 +87,19 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '150747'
+  logical_id: '150748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '150748'
+  logical_id: '150747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -112,11 +112,11 @@ birthdates:
   day_of_month: 28
   month_of_year: 10
   year: 1938
-  city: Oral
+  city: Uralsk
   country_iso2_code: KZ
   country_description: KAZAKHSTAN
   regulation_language: en
-  logical_id: '150746'
+  logical_id: '158159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -128,11 +128,11 @@ birthdates:
   day_of_month: 28
   month_of_year: 10
   year: 1938
-  city: Uralsk
+  city: Oral
   country_iso2_code: KZ
   country_description: KAZAKHSTAN
   regulation_language: en
-  logical_id: '158159'
+  logical_id: '150746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

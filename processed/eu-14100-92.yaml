@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Michail Šmojlov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '182327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Mikhail
   middle_name: Alekseevich
   last_name: SHMOILOV
@@ -41,17 +30,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Mihail Šmoilov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '182328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Михаил
   middle_name: Алексеевич
   last_name: ШМОЙЛОВ
@@ -61,6 +39,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Michail Šmojlov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '182327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Mihail Šmoilov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '182328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

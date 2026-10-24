@@ -15,23 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anatol
-  middle_name: Piatrovich
-  last_name: LAPO
-  whole_name: Anatol Piatrovich LAPO
-  function: Forrmer Chairman of the State Border Committee of the Republic of Belarus
-    (appointed on 29 December, 2016), Chief State Border Delegate
-  gender: M
-  title: Lieutenant General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '131972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Anatolij
   middle_name: Petrovitj
   last_name: LAPPO
@@ -74,13 +57,18 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Анатолий
-  last_name: Лапо
-  whole_name: Анатолий Лапо
-  name_language: BG
+- first_name: Anatol
+  middle_name: Piatrovich
+  last_name: LAPO
+  whole_name: Anatol Piatrovich LAPO
+  function: Forrmer Chairman of the State Border Committee of the Republic of Belarus
+    (appointed on 29 December, 2016), Chief State Border Delegate
+  gender: M
+  title: Lieutenant General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164174'
+  logical_id: '131972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -102,6 +90,20 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Анатоль
   middle_name: Пятровiч
+  last_name: ЛАППО
+  whole_name: Анатоль Пятровiч ЛАППО
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '131969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Анатоль
+  middle_name: Пятровiч
   last_name: ЛАПО
   whole_name: Анатоль Пятровiч ЛАПО
   gender: M
@@ -109,6 +111,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Анатолий
+  last_name: Лапо
+  whole_name: Анатолий Лапо
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -123,20 +137,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131968'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Анатоль
-  middle_name: Пятровiч
-  last_name: ЛАППО
-  whole_name: Анатоль Пятровiч ЛАППО
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '131969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -172,21 +172,21 @@ birthdates:
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 identifications:
-- identification_type_code: passport
-  number: MP4098888
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '131967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - identification_type_code: id
   number: 3240563K033PB5
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '131966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- identification_type_code: passport
+  number: MP4098888
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '131967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

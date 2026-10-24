@@ -16,6 +16,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Yahya
+  last_name: ALAEDDINI
+  whole_name: Yahya ALAEDDINI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153002'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
+- first_name: Yahya
   last_name: ALAODDINI
   whole_name: Yahya ALAODDINI
   function: member of the board of directors of the Islamic Revolutionary Guard Corps
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
-- first_name: Yahya
-  last_name: ALAEDDINI
-  whole_name: Yahya ALAEDDINI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -84,22 +84,22 @@ birthdates:
     number_title: 2023/846 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
 identifications:
+- identification_type_code: other
+  number: '0036732958'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '153000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
 - identification_type_code: passport
   number: K47201906
   country_iso2_code: IR
   regulation_language: en
   logical_id: '153001'
   valid_to: '2023-10-19'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
-- identification_type_code: other
-  number: '0036732958'
-  country_iso2_code: IR
-  regulation_language: en
-  logical_id: '153000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

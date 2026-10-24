@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Станислав Алексеевич
+  last_name: ПОЗДНЯКОВ
+  whole_name: Станислав Алексеевич ПОЗДНЯКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Stanislav Alekseyevich
   last_name: POZDNYAKOV
   whole_name: Stanislav Alekseyevich POZDNYAKOV
@@ -26,19 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183679'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Станислав Алексеевич
-  last_name: ПОЗДНЯКОВ
-  whole_name: Станислав Алексеевич ПОЗДНЯКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

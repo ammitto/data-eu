@@ -6,13 +6,13 @@ remark: "(a) Previous address: Ungartenstraße 6, Bonn, 53229, Germany. Date of 
   referred to in Article 2a(4)(b): 25.1.2012."
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2012-02-08'
-  entry_into_force_date: '2012-02-06'
-  number_title: 97/2012 (OJ L35)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '1038'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: person
   classification_code: P
@@ -20,23 +20,42 @@ name_aliases:
 - first_name: Monir
   last_name: Chouka
   whole_name: Monir Chouka
+  function: "Associated with Islamic Movement of Uzbekistan.  Associated with Islamic
+    State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq, between October
+    2015 and August 2016.\nBrother of Yassin Chouka; (d) Arrest warrant issued by
+    the investigating judge of the German Federal Court \nof Justice on 5.10.2010."
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '15251'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Abu Adam
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '15252'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Abu Hamza
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185502'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 citizenships:
 - country_iso2_code: MA
   country_description: MOROCCO
@@ -73,24 +92,50 @@ birthdates:
     publication_date: '2012-02-08'
     number_title: 97/2012 (OJ L35)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+addresses:
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '185500'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- street: Ungartenstraße 6,
+  city: Bonn
+  country_iso2_code: DE
+  country_description: GERMANY
+  zip_code: '53229'
+  regulation_language: en
+  logical_id: '185501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 identifications:
 - identification_type_code: id
   number: '5209530116'
   country_iso2_code: DE
   regulation_language: en
   logical_id: '638'
+  valid_to: '2011-06-20'
+  issue_date: '2006-06-21'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - identification_type_code: passport
   number: '5208323009'
   country_iso2_code: DE
   regulation_language: en
   logical_id: '637'
+  valid_to: '2012-02-01'
+  issue_date: '2007-02-02'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900

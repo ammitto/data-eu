@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Благотворителна фондация „Al-Haramain & Al Masjed Al-Aqsa
-  name_language: BG
+- whole_name: Institución benéfica Al-Haramain y Al Masjed Al-Aqsa
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '7375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Al-Haramayn и Благотворителна фондация Al Masjid Al Aqsa
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Al Harammein Al Masjed Al-Aqsa Charity Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7308'
+  logical_id: '149832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -50,16 +30,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149840'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Institución benéfica Al-Haramain y Al Masjed Al-Aqsa
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '149832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -135,6 +105,26 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al-Haramayn и Благотворителна фондация Al Masjid Al Aqsa
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7376'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Благотворителна фондация „Al-Haramain & Al Masjed Al-Aqsa
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Al-Haramayn og Al Masjid Al Aqsa Charitable Foundation
   name_language: DA
   strong: true
@@ -145,6 +135,16 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Al Harammein Al Masjed Al-Aqsa Charity Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 addresses:
 - city: Zenica
   country_iso2_code: BA

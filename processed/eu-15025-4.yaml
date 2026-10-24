@@ -1,0 +1,71 @@
+---
+eu_reference_number: EU.15025.4
+logical_id: '185810'
+designation_date: '2026-03-16'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/613 (OJ L202600613)
+  programme: UKR
+  logical_id: '222863'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Денис Александрович СУВОРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Denis Aleksandrovich SUVOROV
+  function: |-
+    Lieutenant Colonel; Commander of
+    the 175th Separate Reconnaissance Battalion of
+    the 76th Guards Air Assault Division of the
+    Airborne Forces of the Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+birthdates:
+- birthdate: '1984-11-06'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 6
+  month_of_year: 11
+  year: 1984
+  region: Pskov Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613

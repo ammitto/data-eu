@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Impresa statale federale "Plant named after Ia. M.Sverdlov"
-  name_language: IT
+- whole_name: Federalinė valstybės įmonė „J. M. Sverdlovo vardo gamykla“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '154903'
+  logical_id: '155151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Empresa pública federal "fábrica denominada em honra de Ia. M. Sverdlov"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '155021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Sverdlov Plant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -30,6 +50,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '154781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Федеральное казенное предприятие “Завод имени Я.М.Свердлова”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154779'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Impresa statale federale "Plant named after Ia. M.Sverdlov"
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '154903'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -160,46 +200,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Empresa pública federal "fábrica denominada em honra de Ia. M. Sverdlov"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '155021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Federalinė valstybės įmonė „J. M. Sverdlovo vardo gamykla“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '155151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Федеральное казенное предприятие “Завод имени Я.М.Свердлова”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154779'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Sverdlov Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

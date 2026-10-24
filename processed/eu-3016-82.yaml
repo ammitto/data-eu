@@ -25,19 +25,28 @@ name_aliases:
     publication_date: '2014-07-04'
     number_title: 735/2014 (OJ L198)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
-- whole_name: Ansarul Muslimina Fi Biladis Sudan
+- whole_name: Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)
   strong: true
   regulation_language: en
-  logical_id: '17858'
+  logical_id: '17862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-07-04'
     number_title: 735/2014 (OJ L198)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
-- whole_name: Ansaru
+- whole_name: Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)
   strong: true
   regulation_language: en
-  logical_id: '17859'
+  logical_id: '17863'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-07-04'
+    number_title: 735/2014 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
+- whole_name: Vanguards for the Protection of Muslims in Black Africa
+  strong: true
+  regulation_language: en
+  logical_id: '17864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-07-04'
@@ -61,28 +70,19 @@ name_aliases:
     publication_date: '2014-07-04'
     number_title: 735/2014 (OJ L198)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
-- whole_name: Jama'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)
+- whole_name: Ansarul Muslimina Fi Biladis Sudan
   strong: true
   regulation_language: en
-  logical_id: '17862'
+  logical_id: '17858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-07-04'
     number_title: 735/2014 (OJ L198)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
-- whole_name: Jamma'atu Ansarul Muslimina fi Biladis-Sudan (JAMBS)
+- whole_name: Ansaru
   strong: true
   regulation_language: en
-  logical_id: '17863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-07-04'
-    number_title: 735/2014 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_198_R_0001&from=EN
-- whole_name: Vanguards for the Protection of Muslims in Black Africa
-  strong: true
-  regulation_language: en
-  logical_id: '17864'
+  logical_id: '17859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-07-04'

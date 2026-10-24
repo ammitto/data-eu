@@ -16,31 +16,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Industrias Metalúrgicas Yazd
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '169732'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Directorate of Yazd Ammunition and Metallurgy Industries
+- whole_name: Yazd Ammunition Industries
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '8027'
+  logical_id: '159469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: شرکت ذوب فلزات یزد
-  name_language: FA
+- whole_name: Yazd Metallurgical Ind’s Co.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159472'
+  logical_id: '159468'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -56,41 +46,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Yazd Metallurgy Industry
-  name_language: EN
+- whole_name: شرکت ذوب فلزات یزد
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '159470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Yazd Ammunition Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Yazd Metallurgy Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Yazd Ammunition Manufacturing and Metallurgy Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8026'
+  logical_id: '159472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -106,11 +66,21 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Yazd Metal Smelting Industrial Group
+- whole_name: Industrias Metalúrgicas Yazd
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '169732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Yazd Metallurgy Industry
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159466'
+  logical_id: '159470'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -126,11 +96,41 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Yazd Metallurgical Ind’s Co.
+- whole_name: Yazd Metal Smelting Industrial Group
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159468'
+  logical_id: '159466'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Directorate of Yazd Ammunition and Metallurgy Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Yazd Ammunition Manufacturing and Metallurgy Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Yazd Metallurgy Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

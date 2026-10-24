@@ -15,11 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Fatih
+- first_name: Abdullah
+  last_name: Anshori
+  whole_name: Abdullah Anshori
+  function: Senior leader of Jemaah Islamiyah
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4602'
+  logical_id: '4601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -35,14 +38,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Abdullah
-  last_name: Anshori
-  whole_name: Abdullah Anshori
-  function: Senior leader of Jemaah Islamiyah
+- whole_name: Toyib, Ibnu
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4601'
+  logical_id: '4604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -58,11 +58,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Toyib, Ibnu
+- whole_name: Abu Fatih
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4604'
+  logical_id: '4602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

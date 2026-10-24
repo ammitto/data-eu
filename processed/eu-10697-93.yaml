@@ -16,29 +16,27 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Zinaida
-  middle_name: Vasilieuna
-  last_name: BALABALAVA
-  whole_name: Zinaida Vasilieuna BALABALAVA
-  function: Judge at Navapolatsk City Court
+  middle_name: Vasiľevna
+  last_name: BALABALAVOVÁ
+  whole_name: Zinaida Vasiľevna BALABALAVOVÁ
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157311'
+  logical_id: '157304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinaida
-  middle_name: Vasilievna
-  last_name: BALABALAVA
-  whole_name: Zinaida Vasilievna BALABALAVA
+- first_name: Zinajida
+  last_name: Balabalavová
+  whole_name: Zinajida Balabalavová
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157310'
+  logical_id: '157305'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -72,28 +70,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinajida
-  last_name: Balabalavová
-  whole_name: Zinajida Balabalavová
+- first_name: Зiнаiда
+  middle_name: Васiльеўна
+  last_name: БАЛАБАЛАВА
+  whole_name: Зiнаiда Васiльеўна БАЛАБАЛАВА
   gender: F
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '157305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Zinaida
-  middle_name: Vasiľevna
-  last_name: BALABALAVOVÁ
-  whole_name: Zinaida Vasiľevna BALABALAVOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157304'
+  logical_id: '157308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -113,15 +98,30 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Зiнаiда
-  middle_name: Васiльеўна
-  last_name: БАЛАБАЛАВА
-  whole_name: Зiнаiда Васiльеўна БАЛАБАЛАВА
+- first_name: Zinaida
+  middle_name: Vasilievna
+  last_name: BALABALAVA
+  whole_name: Zinaida Vasilievna BALABALAVA
   gender: F
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157308'
+  logical_id: '157310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Zinaida
+  middle_name: Vasilieuna
+  last_name: BALABALAVA
+  whole_name: Zinaida Vasilieuna BALABALAVA
+  function: Judge at Navapolatsk City Court
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

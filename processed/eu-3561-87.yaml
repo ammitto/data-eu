@@ -15,129 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "“Τίγρης”"
-  gender: M
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '167002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
-  last_name: al-Hassan
-  whole_name: Suheil al-Hassan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: Тигъра
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '167003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "“el Tigre”"
-  gender: M
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '167000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "“O Tigre”"
-  gender: M
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '167001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "‚Tiger‘"
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "«Tigrul»"
-  gender: M
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "“Le Tigre”"
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '166994'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "’Tigern’"
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '166995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "‚Tygr‘"
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '166997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: Tiiger
-  gender: M
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '167169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: Tigar
   gender: M
   name_language: HR
@@ -149,12 +26,12 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "»Tigeren«"
+- whole_name: Tiiger
   gender: M
-  name_language: DA
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '167004'
+  logical_id: '167169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -375,6 +252,129 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Suheil
+  last_name: al-Hassan
+  whole_name: Suheil al-Hassan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "»Tigeren«"
+  gender: M
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '167004'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "“Τίγρης”"
+  gender: M
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '167002'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: Тигъра
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '167003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "“el Tigre”"
+  gender: M
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '167000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "“O Tigre”"
+  gender: M
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '167001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "‚Tiger‘"
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "«Tigrul»"
+  gender: M
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "“Le Tigre”"
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '166994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "’Tigern’"
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '166995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "‚Tygr‘"
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

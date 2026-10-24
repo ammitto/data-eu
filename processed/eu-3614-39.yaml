@@ -16,6 +16,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Lesya
+  middle_name: Mykhaylivna
+  last_name: LAPTIEVA
+  whole_name: Lesya Mykhaylivna LAPTIEVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Lesya
   middle_name: Mikhaylovna
   last_name: LAPTEVA
   whole_name: Lesya Mikhaylovna LAPTEVA
@@ -54,20 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Lesya
-  middle_name: Mykhaylivna
-  last_name: LAPTIEVA
-  whole_name: Lesya Mykhaylivna LAPTIEVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

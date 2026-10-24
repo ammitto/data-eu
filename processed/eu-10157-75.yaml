@@ -16,53 +16,29 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Igor
-  middle_name: Jurjevitj
-  last_name: TJAJKA
-  whole_name: Igor Jurjevitj TJAJKA
+  middle_name: Yuryevich
+  last_name: CHAIKA
+  whole_name: Igor Yuryevich CHAIKA
+  function: Russian businessman
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153852'
+  logical_id: '153829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Igor
-  last_name: Čajka
-  whole_name: Igor Čajka
+  middle_name: Yuryevich
+  last_name: CHAYKA
+  whole_name: Igor Yuryevich CHAYKA
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '153850'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Igor
-  last_name: Čajka
-  whole_name: Igor Čajka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Igor
-  last_name: Tschaika
-  whole_name: Igor Tschaika
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '153845'
+  logical_id: '153828'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -83,29 +59,53 @@ name_aliases:
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Igor
-  middle_name: Yuryevich
-  last_name: CHAYKA
-  whole_name: Igor Yuryevich CHAYKA
+  middle_name: Jurjevitj
+  last_name: TJAJKA
+  whole_name: Igor Jurjevitj TJAJKA
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '153828'
+  logical_id: '153852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Igor
-  middle_name: Yuryevich
-  last_name: CHAIKA
-  whole_name: Igor Yuryevich CHAIKA
-  function: Russian businessman
+  last_name: Čajka
+  whole_name: Igor Čajka
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153829'
+  logical_id: '153848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Igor
+  last_name: Čajka
+  whole_name: Igor Čajka
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153850'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Igor
+  last_name: Tschaika
+  whole_name: Igor Tschaika
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '153845'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

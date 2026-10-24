@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "“United Trading Group” “Жауапкершілігі Шектеулі Серіктестігі”"
-  name_language: KK
+- whole_name: "„LLP Jungtinė prekybos grupė“"
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '181525'
+  logical_id: '182329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -49,11 +49,11 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: "„LLP Jungtinė prekybos grupė“"
-  name_language: LT
+- whole_name: "“United Trading Group” “Жауапкершілігі Шектеулі Серіктестігі”"
+  name_language: KK
   strong: true
   regulation_language: en
-  logical_id: '182329'
+  logical_id: '181525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -76,22 +76,22 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: taxid
-  number: 60001-1229370
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '181523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: regnumber
   number: '220340023728'
   country_iso2_code: KZ
   regulation_language: en
   logical_id: '181524'
   issue_date: '2022-03-17'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: 60001-1229370
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '181523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

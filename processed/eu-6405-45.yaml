@@ -15,23 +15,45 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрей Николаевич ДАЙЛИДА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Андрэй Мікалаевіч ДАЙЛІДА
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '130289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Mikalajevitj DAJLIDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Nikolajevitj DAJLIDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Андрей Николаевич ДАЙЛИДА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -62,28 +84,6 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Andrej Nikolajevitj DAJLIDA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrej Mikalajevitj DAJLIDA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

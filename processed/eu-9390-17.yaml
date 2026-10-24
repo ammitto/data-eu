@@ -15,22 +15,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АНО "ТВ-новости"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147249'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: ANO TV-Novosti
   function: a Russian media organisation
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '147250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: АНО "ТВ-новости"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

@@ -15,17 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с ограниченной ответственностью “Коммерческие автомобили –
-    Группа ГАЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Ribotos atsakomybės  bendrovė “Commercial  Vehicles – GAZ Group”
   name_language: LT
   strong: true
@@ -47,11 +36,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Limited Liability Company  “Commercial Vehicles – GAZ  Group”
-  name_language: EN
+- whole_name: Общество с ограниченной ответственностью “Коммерческие автомобили –
+    Группа ГАЗ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150153'
+  logical_id: '150151'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -67,21 +57,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea cu răspundere limitată „Vehicule  comerciale – Grup GAZ”
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Société à responsabilité limitée  "Véhicules utilitaires – Groupe GAZ"
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '151120'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Limited Liability Company  “Commercial Vehicles – GAZ  Group”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea cu răspundere limitată „Vehicule  comerciale – Grup GAZ”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151255'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

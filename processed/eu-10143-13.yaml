@@ -15,6 +15,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dmitriy
+  middle_name: Viktorovich
+  last_name: KOMNOV
+  whole_name: Dmitriy Viktorovich KOMNOV
+  function: Head of Moscow pre-trial detention centre SIZO-5 "Vodnik”
+  gender: M
+  title: Lieutenant Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Dmitrij
   middle_name: Viktorovič
   last_name: KOMNOV
@@ -29,31 +45,14 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Дмитрий
-  middle_name: Викторович
-  last_name: КОМНОВ
-  whole_name: Дмитрий Викторович КОМНОВ
+- first_name: Dmitrij
+  last_name: Komnov
+  whole_name: Dmitrij Komnov
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153659'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Dmitriy
-  middle_name: Viktorovich
-  last_name: KOMNOV
-  whole_name: Dmitriy Viktorovich KOMNOV
-  function: Head of Moscow pre-trial detention centre SIZO-5 "Vodnik”
-  gender: M
-  title: Lieutenant Colonel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153660'
+  logical_id: '153938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -73,14 +72,15 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Dmitrij
-  last_name: Komnov
-  whole_name: Dmitrij Komnov
+- first_name: Дмитрий
+  middle_name: Викторович
+  last_name: КОМНОВ
+  whole_name: Дмитрий Викторович КОМНОВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '153938'
+  logical_id: '153659'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

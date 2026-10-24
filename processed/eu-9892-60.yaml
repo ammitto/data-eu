@@ -26,16 +26,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/428 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0275.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- first_name: Ivan
-  middle_name: Aleksandrovitch
-  last_name: MASLOV
-  whole_name: Ivan Aleksandrovitch MASLOV
-  function: Head of the Wagner Group in Mali
+- whole_name: Ivan Aleksandrovitj MASLOV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '150922'
+  logical_id: '150920'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -52,12 +48,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/428 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0275.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Ivan Aleksandrovitj MASLOV
+- first_name: Ivan
+  middle_name: Aleksandrovitch
+  last_name: MASLOV
+  whole_name: Ivan Aleksandrovitch MASLOV
+  function: Head of the Wagner Group in Mali
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150920'
+  logical_id: '150922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

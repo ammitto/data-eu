@@ -18,28 +18,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdul Qadeer Basir Abdul Baseer
-  function: Military Attaché, Taliban Embassy, Islamabad, Pakistan
-  title: "(a) General, (b) Maulavi"
+- whole_name: Abdul Qadir Basir
   strong: true
   regulation_language: en
-  logical_id: '1533'
+  logical_id: '16877'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- first_name: Abdul
-  last_name: Qadir
-  whole_name: Abdul Qadir
-  strong: true
-  regulation_language: en
-  logical_id: '5909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
 - first_name: Ahmad
   last_name: Haji
   whole_name: Ahmad Haji
@@ -52,6 +39,17 @@ name_aliases:
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - first_name: Abdul
+  last_name: Qadir
+  whole_name: Abdul Qadir
+  strong: true
+  regulation_language: en
+  logical_id: '5909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- first_name: Abdul
   middle_name: Qadir
   last_name: Haqqani
   whole_name: Abdul Qadir Haqqani
@@ -63,15 +61,17 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Abdul Qadir Basir
+- whole_name: Abdul Qadeer Basir Abdul Baseer
+  function: Military Attaché, Taliban Embassy, Islamabad, Pakistan
+  title: "(a) General, (b) Maulavi"
   strong: true
   regulation_language: en
-  logical_id: '16877'
+  logical_id: '1533'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

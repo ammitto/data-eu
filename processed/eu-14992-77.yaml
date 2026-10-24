@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: דניאלה וייס
+  gender: F
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: Daniella WEISS
   function: Daniella Weiss is the Director of the Nachala Movement (“Nachala”). Nachala
     has the aim of promoting Jewish settlements and illegal outposts in the West Bank.
@@ -28,17 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185516'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- whole_name: דניאלה וייס
-  gender: F
-  name_language: HE
-  strong: true
-  regulation_language: en
-  logical_id: '185515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

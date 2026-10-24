@@ -16,61 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abd
-  last_name: Ur-Rehman
-  whole_name: Abd Ur-Rehman
+- whole_name: Abdul Rehman Sindhi
   strong: true
   regulation_language: en
-  logical_id: '15788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Abdur Rehman Muhammad Yamin
-  strong: true
-  regulation_language: en
-  logical_id: '15796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Abdullah Sindhi
-  strong: true
-  regulation_language: en
-  logical_id: '15795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- first_name: Abdur
-  last_name: Rehman
-  whole_name: Abdur Rehman
-  strong: true
-  regulation_language: en
-  logical_id: '15786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- first_name: Abdul
-  last_name: Rehman
-  whole_name: Abdul Rehman
-  strong: true
-  regulation_language: en
-  logical_id: '15787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Abdurahman Sindhi
-  strong: true
-  regulation_language: en
-  logical_id: '15794'
+  logical_id: '15790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -82,24 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Abdul Rehman Sindhi
-  strong: true
-  regulation_language: en
-  logical_id: '15790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- whole_name: Abdul Rehman al-Sindhi
-  strong: true
-  regulation_language: en
-  logical_id: '15791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -118,6 +49,75 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Abdurahman Sindhi
+  strong: true
+  regulation_language: en
+  logical_id: '15794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Abdullah Sindhi
+  strong: true
+  regulation_language: en
+  logical_id: '15795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Abdur Rehman Muhammad Yamin
+  strong: true
+  regulation_language: en
+  logical_id: '15796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- whole_name: Abdul Rehman al-Sindhi
+  strong: true
+  regulation_language: en
+  logical_id: '15791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- first_name: Abd
+  last_name: Ur-Rehman
+  whole_name: Abd Ur-Rehman
+  strong: true
+  regulation_language: en
+  logical_id: '15788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- first_name: Abdul
+  last_name: Rehman
+  whole_name: Abdul Rehman
+  strong: true
+  regulation_language: en
+  logical_id: '15787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- first_name: Abdur
+  last_name: Rehman
+  whole_name: Abdur Rehman
+  strong: true
+  regulation_language: en
+  logical_id: '15786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

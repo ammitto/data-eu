@@ -15,12 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Валерий Алексаандрович ФАДЕЕВ
+- whole_name: Valerij Aleksandrovitj FADEJEV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '150700'
+  logical_id: '151156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -42,12 +42,12 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Valerij Aleksandrovitj FADEJEV
+- whole_name: Валерий Алексаандрович ФАДЕЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151156'
+  logical_id: '150700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

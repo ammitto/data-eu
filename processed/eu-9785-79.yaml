@@ -45,21 +45,21 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Al-Solag
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - whole_name: Al-Sarraj Mining Company Ltd
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '159007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Al-Solag
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'
@@ -96,16 +96,6 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: Sullaj Mining Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 - whole_name: Al-Solag Mining Company
   name_language: EN
   strong: true
@@ -116,19 +106,10 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: Al-Sullaj
+- whole_name: Sullag
   strong: true
   regulation_language: en
-  logical_id: '171662'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-03'
-    number_title: 2024/2999 (OJ L03122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: Al-Solage
-  strong: true
-  regulation_language: en
-  logical_id: '171661'
+  logical_id: '171659'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-03'
@@ -143,10 +124,29 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: Sullag
+- whole_name: Al-Solage
   strong: true
   regulation_language: en
-  logical_id: '171659'
+  logical_id: '171661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- whole_name: Al-Sullaj
+  strong: true
+  regulation_language: en
+  logical_id: '171662'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-03'
+    number_title: 2024/2999 (OJ L03122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- whole_name: Sullaj Mining Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-03'

@@ -15,19 +15,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: CHANGGWANG CREDIT BANK
+- whole_name: KOREA CHANGGWANG CREDIT BANK
   strong: true
   regulation_language: en
-  logical_id: '7147'
+  logical_id: '7148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-05-13'
     number_title: 389/2009 (OJ L118)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:118:0078:0079:EN:PDF
-- whole_name: KOREA CHANGGWANG CREDIT BANK
+- whole_name: CHANGGWANG CREDIT BANK
   strong: true
   regulation_language: en
-  logical_id: '7148'
+  logical_id: '7147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-05-13'

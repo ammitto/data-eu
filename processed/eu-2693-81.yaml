@@ -16,13 +16,39 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Khalil
-  last_name: Zghraybe
-  whole_name: Khalil Zghraybe
+  last_name: ZGHRAYBIH
+  whole_name: Khalil ZGHRAYBIH
+  function: 14th Division
+  gender: M
+  title: Brigadier
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: خليل زغريبه
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124608'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Khaleel
+  last_name: ZGHRAYBIH
+  whole_name: Khaleel ZGHRAYBIH
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '17281'
+  logical_id: '17278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -36,6 +62,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17280'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalil
+  last_name: Zghraybe
+  whole_name: Khalil Zghraybe
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17281'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalil
+  last_name: Zghrayba
+  whole_name: Khalil Zghrayba
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17282'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -533,58 +585,6 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: خليل زغريبه
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124608'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- first_name: Khalil
-  last_name: Zghrayba
-  whole_name: Khalil Zghrayba
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalil
-  last_name: ZGHRAYBIH
-  whole_name: Khalil ZGHRAYBIH
-  function: 14th Division
-  gender: M
-  title: Brigadier
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khaleel
-  last_name: ZGHRAYBIH
-  whole_name: Khaleel ZGHRAYBIH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17278'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 birthdates:
 - birthdate: '1955-02-04'
   circa: false

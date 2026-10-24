@@ -15,12 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexandr Švecov
+- first_name: Aleksander Nikolaevich
+  last_name: SHVETSOV
+  whole_name: Aleksander Nikolaevich SHVETSOV
+  function: General director and majority owner of LLC SISTEMA PG
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184709'
+  logical_id: '183149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -50,15 +53,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Aleksander Nikolaevich
-  last_name: SHVETSOV
-  whole_name: Aleksander Nikolaevich SHVETSOV
-  function: General director and majority owner of LLC SISTEMA PG
+- whole_name: Alexandr Švecov
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '183149'
+  logical_id: '184709'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

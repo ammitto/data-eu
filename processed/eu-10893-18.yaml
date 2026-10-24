@@ -15,43 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aliaksandr
-  middle_name: Aliaksandrovich
-  last_name: RAKHMANOV
-  whole_name: Aliaksandr Aliaksandrovich RAKHMANOV
+- first_name: Aljaksandr
+  middle_name: Aljaksandravitj
+  last_name: RACHMANAU
+  whole_name: Aljaksandr Aljaksandravitj RACHMANAU
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159542'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Александр
-  middle_name: Александрович
-  last_name: РАХМАНОВ
-  whole_name: Александр Александрович РАХМАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159541'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Аляксандр
-  middle_name: Аляксандравіч
-  last_name: РАХМАНАЎ
-  whole_name: Аляксандр Аляксандравіч РАХМАНАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '159540'
+  logical_id: '160624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,15 +43,56 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aljaksandr
-  middle_name: Aljaksandravitj
-  last_name: RACHMANAU
-  whole_name: Aljaksandr Aljaksandravitj RACHMANAU
+- first_name: Аляксандр
+  middle_name: Аляксандравіч
+  last_name: РАХМАНАЎ
+  whole_name: Аляксандр Аляксандравіч РАХМАНАЎ
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '160624'
+  logical_id: '159540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Александр
+  middle_name: Александрович
+  last_name: РАХМАНОВ
+  whole_name: Александр Александрович РАХМАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aliaksandr
+  middle_name: Aliaksandrovich
+  last_name: RAKHMANOV
+  whole_name: Aliaksandr Aliaksandrovich RAKHMANOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159542'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alexandr
+  last_name: Rachmanov
+  whole_name: Alexandr Rachmanov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -95,19 +108,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alexandr
-  last_name: Rachmanov
-  whole_name: Alexandr Rachmanov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

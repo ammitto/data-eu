@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: UCP Investment Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: United Capital Partners Investment Group
   function: United Capital Partners Investment Group is a large Russian financial
     investment group, with investments in oil and gas production and processing.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: UCP Investment Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

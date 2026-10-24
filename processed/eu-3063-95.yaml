@@ -16,6 +16,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Hazwan
+  last_name: Al Wazz
+  whole_name: Hazwan Al Wazz
+  gender: M
+  title: Dr.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hazwan
   last_name: AL WEZ
   whole_name: Hazwan AL WEZ
   function: Former Minister of Education, appointed in July 2016.
@@ -25,20 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hazwan
-  last_name: Al Wazz
-  whole_name: Hazwan Al Wazz
-  gender: M
-  title: Dr.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

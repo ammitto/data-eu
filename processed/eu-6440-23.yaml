@@ -34,17 +34,6 @@ name_aliases:
     number_title: 2021/998 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 addresses:
-- street: No  72/74 Shawe Dagon  Pagoda Road,  Dagon Township
-  city: Yangon
-  country_iso2_code: MM
-  country_description: MYANMAR
-  regulation_language: en
-  logical_id: '130436'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 - street: Gyogone Forest  Compound, Bayint  Naung Road, Insein  Township
   city: Yangin
   country_iso2_code: MM
@@ -56,6 +45,17 @@ addresses:
     value: http://www.mte.com.mm/index.php/en
   - key: PHONE
     value: '01-3528789 '
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
+- street: No  72/74 Shawe Dagon  Pagoda Road,  Dagon Township
+  city: Yangon
+  country_iso2_code: MM
+  country_description: MYANMAR
+  regulation_language: en
+  logical_id: '130436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

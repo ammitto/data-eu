@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Акционерное общество “Научно-Производственное Объединение Автоматики
+    имени академика Н.А. Семихатова”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Joint Stock Company “Scientific and production association of automation
     named by academician N.A. Semikhatov”
   function: JSC «Scientific and production association of automation named by academician
@@ -38,17 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Акционерное общество “Научно-Производственное Объединение Автоматики
-    имени академика Н.А. Семихатова”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182586'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

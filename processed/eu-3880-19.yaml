@@ -17,32 +17,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Naser
-  last_name: MAALEKI
-  whole_name: Naser MAALEKI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158959'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Nasser
-  last_name: MALEKI
-  whole_name: Nasser MALEKI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Naser
   last_name: MALEKI
   whole_name: Naser MALEKI
   function: Head of Shahid Hemmat Industrial Group (SHIG), which is designated under
@@ -57,6 +31,32 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Nasser
+  last_name: MALEKI
+  whole_name: Nasser MALEKI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Naser
+  last_name: MAALEKI
+  whole_name: Naser MAALEKI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158959'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: ناصرملکی
   gender: M
   name_language: FA

@@ -15,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC GARNIZON
+  strong: true
+  regulation_language: en
+  logical_id: '140573'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: АО Гарнизон
   name_language: RU
   strong: true
@@ -25,27 +34,7 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: JSC GARNIZON
-  strong: true
-  regulation_language: en
-  logical_id: '140573'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 addresses:
-- street: Sadovnicheskaya 53
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '140570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - street: Kosmodamianskaya Naberezhnaya 24; building 1
   city: Moscow
   country_iso2_code: RU
@@ -60,6 +49,17 @@ addresses:
     value: "+7 (499) 790-92-12"
   - key: EMAIL
     value: info@ao-garnizon.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- street: Sadovnicheskaya 53
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '140570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

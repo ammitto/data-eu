@@ -1,47 +1,39 @@
 ---
 eu_reference_number: EU.1094.61
 logical_id: '2940'
+designation_date: '2005-06-01'
 regulations:
 - regulation_type: amendment
-  organisation_type: commission
-  publication_date: '2009-11-18'
-  entry_into_force_date: '2009-11-16'
-  number_title: 1102/2009 (OJ L303)
+  organisation_type: council
+  publication_date: '2026-08-26'
+  entry_into_force_date: '2026-08-27'
+  number_title: 2026/1965 (OJ L202601965)
   programme: TAQA
-  logical_id: '934'
-  publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+  logical_id: '226453'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic Jihad Group
+- whole_name: Jama’at al-Jihad
   strong: true
   regulation_language: en
-  logical_id: '4081'
+  logical_id: '4082'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-06-04'
     number_title: 853/2005 (OJ L141)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Zveza islamskega džihada
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '6187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
 - whole_name: Libyan Society
+  name_language: EN
   strong: true
   regulation_language: en
   logical_id: '4083'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Kazakh Jama’at
   strong: true
   regulation_language: en
@@ -423,12 +415,28 @@ name_aliases:
     publication_date: '2008-03-04'
     number_title: 198/2008 (OJ L59)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Jama’at al-Jihad
+- whole_name: Zveza islamskega džihada
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '4082'
+  logical_id: '6187'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Islamic Jihad Group
+  function: Founded and led by Najmiddin Kamolitdinovich Jalolov (reportedly deceased)
+    and Suhayl Fatilloevich Buranov (reportedly deceased). Its activities are funded
+    and coordinated by Al-Qaida.  Associated with the Islamic Movement of Uzbekistan
+    and Emarat Kavkaz. Active in the Afghanistan/Pakistan border area, Central Asia,
+    South Asia region and some European States.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900

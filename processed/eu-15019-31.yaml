@@ -1,0 +1,71 @@
+---
+eu_reference_number: EU.15019.31
+logical_id: '185773'
+designation_date: '2026-03-16'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/613 (OJ L202600613)
+  programme: UKR
+  logical_id: '222863'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Андрей Викторович КОНДРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Andrey Viktorovich KONDROV
+  function: |-
+    Colonel; Commander of the 5th
+    Separate Tank Brigade of the 36th Combined
+    Arms Army
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+birthdates:
+- birthdate: '1976-08-12'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 12
+  month_of_year: 8
+  year: 1976
+  city: Dalnerechensk
+  region: Primorsky Krai
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613

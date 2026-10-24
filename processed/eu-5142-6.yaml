@@ -15,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ammi Salim
-  strong: true
-  regulation_language: en
-  logical_id: '120839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-20'
-    number_title: 2019/1353 (OJ L217)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
 - whole_name: Ag Mossa
   strong: true
   regulation_language: en
@@ -37,6 +28,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '120838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-20'
+    number_title: 2019/1353 (OJ L217)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
+- whole_name: Ammi Salim
+  strong: true
+  regulation_language: en
+  logical_id: '120839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
@@ -68,21 +68,6 @@ birthdates:
     publication_date: '2019-08-27'
     number_title: 2019/1375 (OJ L223)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1375&from=EN
-- birthdate: '1956-10-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 10
-  year: 1956
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '120866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-27'
-    number_title: 2019/1375 (OJ L223)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1375&from=EN
 - birthdate: '1958-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -93,6 +78,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '120868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-27'
+    number_title: 2019/1375 (OJ L223)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1375&from=EN
+- birthdate: '1956-10-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 10
+  year: 1956
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '120866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-27'

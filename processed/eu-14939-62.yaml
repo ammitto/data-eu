@@ -1,0 +1,68 @@
+---
+eu_reference_number: EU.14939.62
+logical_id: '185024'
+designation_date: '2026-06-15'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-15'
+  entry_into_force_date: '2026-06-15'
+  number_title: 2026/1356 (OJ L202601356)
+  programme: RUSDA
+  logical_id: '225901'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Анатолий Александрович КУЗИЧЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Anatoly Aleksandrovich KUZICHEV
+  function: Radio and television host, columnist and producer, host of the programme
+    “Vremya Pokazhet” on channel “One”, an All-Russia People’s Front TV programme
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+birthdates:
+- birthdate: '1969-05-15'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 15
+  month_of_year: 5
+  year: 1969
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356

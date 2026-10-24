@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: TSA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Iran Centrifuge Technology Company
   function: Iran Centrifuge Technology Company manufactures uranium enrichment centrifuge
     parts
@@ -22,16 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: TSA
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -77,11 +77,11 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: La Sociedad de Tecnología Centrífuga de Irán
-  name_language: ES
+- whole_name: Iráni Centrifuga-technológiai Vállalat
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '169636'
+  logical_id: '169634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -97,28 +97,17 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Iráni Centrifuga-technológiai Vállalat
-  name_language: HU
+- whole_name: La Sociedad de Tecnología Centrífuga de Irán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '169634'
+  logical_id: '169636'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
-- street: 156 Golestan Street
-  city: Saradr-e Jangal, Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-05-24'
-    number_title: 503/2011 (OJ L136)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
 - street: Yousef Abad District, No. 1, 37th Street,
   city: Tehran
   country_iso2_code: IR
@@ -142,3 +131,14 @@ addresses:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- street: 156 Golestan Street
+  city: Saradr-e Jangal, Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '1872'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-05-24'
+    number_title: 503/2011 (OJ L136)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF

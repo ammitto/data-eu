@@ -1,0 +1,75 @@
+---
+eu_reference_number: EU.14942.38
+logical_id: '185039'
+designation_date: '2026-06-15'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-06-15'
+  entry_into_force_date: '2026-06-15'
+  number_title: 2026/1356 (OJ L202601356)
+  programme: RUSDA
+  logical_id: '225901'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Presidential Foundation for Cultural Initiatives/ PFKI
+  function: The Presidential Foundation for Cultural Initiatives is a foundation created
+    by decree of Russian President Vladimir Putin. It provides grants for various
+    projects, including for projects supporting the Russian war of aggression against
+    Ukraine.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Президентский Фонд Культурных Инициатив / ПФКИ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+addresses:
+- street: Sredniy Ovchinnikovsky 8
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185040'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+identifications:
+- identification_type_code: taxid
+  number: '9704068763'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185041'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- identification_type_code: regnumber
+  number: '1217700257170'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185042'
+  issue_date: '2021-06-01'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356

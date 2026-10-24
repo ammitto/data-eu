@@ -15,6 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sergei
+  middle_name: Olegovich
+  last_name: GORBUNOV
+  whole_name: Sergei Olegovich GORBUNOV
+  function: Deputy Head of the Executive Committee of the All-Russia People’s Front
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149662'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Sergej Olegovitj GORBUNOV
   gender: M
   name_language: SV
@@ -35,21 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149661'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Sergei
-  middle_name: Olegovich
-  last_name: GORBUNOV
-  whole_name: Sergei Olegovich GORBUNOV
-  function: Deputy Head of the Executive Committee of the All-Russia People’s Front
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

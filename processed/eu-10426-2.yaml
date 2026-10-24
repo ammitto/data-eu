@@ -25,21 +25,21 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Department of Information Technologies of the City of Moscow
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Roinn Teicneolaíochtaí Faisnéise Chathair Mhoscó
   name_language: GA
   strong: true
   regulation_language: en
   logical_id: '156098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Department of Information Technologies of the City of Moscow
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdolhossein
-  last_name: KHOSROPANAH
-  whole_name: Abdolhossein KHOSROPANAH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
 - first_name: Abdul  Hossein
   last_name: KHOSROW PANAH
   whole_name: Abdul  Hossein KHOSROW PANAH
@@ -61,6 +48,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151878'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- first_name: Abdolhossein
+  last_name: KHOSROPANAH
+  whole_name: Abdolhossein KHOSROPANAH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-20'

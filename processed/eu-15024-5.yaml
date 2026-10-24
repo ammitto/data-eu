@@ -1,0 +1,69 @@
+---
+eu_reference_number: EU.15024.5
+logical_id: '185805'
+designation_date: '2026-03-16'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-03-16'
+  entry_into_force_date: '2026-03-16'
+  number_title: 2026/613 (OJ L202600613)
+  programme: UKR
+  logical_id: '222863'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Вадим Иванович ПАНКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Vadim Ivanovych PANKOV
+  function: |-
+    Commander of the 45th Separate
+    Guards Special Purpose Brigade (Spetsnaz)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+birthdates:
+- birthdate: '1968-01-02'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 2
+  month_of_year: 1
+  year: 1968
+  city: Gomel
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '185806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613

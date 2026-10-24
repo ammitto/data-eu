@@ -28,16 +28,16 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: صنایع شیمیایی پارچین
-  name_language: FA
+- whole_name: Parcsini Vegyipari Vállalat
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '158906'
+  logical_id: '169661'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: PCF Chemical Industries Group
   name_language: EN
   strong: true
@@ -158,6 +158,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: صنایع شیمیایی پارچین
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Tionscail  Ceimiceán Parchin
   name_language: GA
   strong: true
@@ -168,44 +178,7 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Parcsini Vegyipari Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169661'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
-- street: 2nd Floor, Sanam  Bldg., Nobonyad Sq.
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158919'
-  contact_infos:
-  - key: WEB
-    value: http://icig.ir/
-  - key: PHONE
-    value: "+98 21 2258929; +98 21 35243153; +98 21 3130626"
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Parchin Forked Rd.,  35th km. Khavaran Rd., Pakdasht
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158920'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Nobonyad Square
   city: Tehran
   country_iso2_code: IR
@@ -253,6 +226,33 @@ addresses:
   regulation_language: en
   logical_id: '158924'
   po_box: 16765/358
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Parchin Forked Rd.,  35th km. Khavaran Rd., Pakdasht
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: 2nd Floor, Sanam  Bldg., Nobonyad Sq.
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158919'
+  contact_infos:
+  - key: WEB
+    value: http://icig.ir/
+  - key: PHONE
+    value: "+98 21 2258929; +98 21 35243153; +98 21 3130626"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

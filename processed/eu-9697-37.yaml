@@ -15,33 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Pavlo
-  middle_name: Igorovych
-  last_name: FILIPCHUK
-  whole_name: Pavlo Igorovych FILIPCHUK
-  function: |-
-    The Russian-
-    appointed Head of the city
-    of Kakhovka
+- first_name: Павло
+  middle_name: Ігорович
+  last_name: ФІЛІПЧУК
+  whole_name: Павло Ігорович ФІЛІПЧУК
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '149839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Pavlo
-  middle_name: Igorevich
-  last_name: FILIPCHUK
-  whole_name: Pavlo Igorevich FILIPCHUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149838'
+  logical_id: '149836'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -61,15 +43,26 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Павло
-  middle_name: Ігорович
-  last_name: ФІЛІПЧУК
-  whole_name: Павло Ігорович ФІЛІПЧУК
+- first_name: Pavlo
+  middle_name: Igorevich
+  last_name: FILIPCHUK
+  whole_name: Pavlo Igorevich FILIPCHUK
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149836'
+  logical_id: '149838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Pavlo Ihorovytj FILIPTJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -86,12 +79,19 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Pavlo Ihorovytj FILIPTJUK
+- first_name: Pavlo
+  middle_name: Igorovych
+  last_name: FILIPCHUK
+  whole_name: Pavlo Igorovych FILIPCHUK
+  function: |-
+    The Russian-
+    appointed Head of the city
+    of Kakhovka
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151046'
+  logical_id: '149839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -126,18 +126,6 @@ birthdates:
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 addresses:
-- street: 25 Zolina Street
-  city: Kakhovka
-  region: Kherson region
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '149848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - street: 128 K. Libknekhta Street
   city: Kherson
   region: Kherson Region
@@ -145,6 +133,18 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '149849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- street: 25 Zolina Street
+  city: Kakhovka
+  region: Kherson region
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '149848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

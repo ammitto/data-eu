@@ -16,13 +16,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ebrahim
-  last_name: KOCHZAI
-  whole_name: Ebrahim KOCHZAI
+  last_name: KOCHZAEI
+  whole_name: Ebrahim KOCHZAEI
+  function: Head of Iran’s Law Enforcement Forces (LEF) in the city of Chabahar in
+    Sistan and Baluchestan province until 3 DEcember 2022.
   gender: M
+  title: Colonel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '145732'
+  logical_id: '145733'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'
@@ -53,16 +56,13 @@ name_aliases:
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Ebrahim
-  last_name: KOCHZAEI
-  whole_name: Ebrahim KOCHZAEI
-  function: Head of Iran’s Law Enforcement Forces (LEF) in the city of Chabahar in
-    Sistan and Baluchestan province until 3 DEcember 2022.
+  last_name: KOCHZAI
+  whole_name: Ebrahim KOCHZAI
   gender: M
-  title: Colonel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '145733'
+  logical_id: '145732'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

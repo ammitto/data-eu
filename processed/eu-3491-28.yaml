@@ -19,16 +19,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abou Zoubair
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-04-21'
-    number_title: 2015/617 (OJ L102)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 - first_name: Ali
   middle_name: Ben Taher Ben Faleh
   last_name: Ouni Harzi
@@ -37,6 +27,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-04-21'
+    number_title: 2015/617 (OJ L102)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
+- whole_name: Abou Zoubair
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'
@@ -79,10 +79,10 @@ addresses:
     publication_date: '2016-09-20'
     number_title: 2016/1683 (OJ L254)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: LY
+  country_description: LIBYA
   regulation_language: en
-  logical_id: '109548'
+  logical_id: '109546'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-20'
@@ -99,27 +99,16 @@ addresses:
     publication_date: '2015-04-21'
     number_title: 2015/617 (OJ L102)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
-- country_iso2_code: LY
-  country_description: LIBYA
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '109546'
+  logical_id: '109548'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-20'
     number_title: 2016/1683 (OJ L254)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 identifications:
-- identification_type_code: id
-  number: '08705184'
-  country_iso2_code: TN
-  regulation_language: en
-  logical_id: '921'
-  issue_date: '2015-02-24'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-04-21'
-    number_title: 2015/617 (OJ L102)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 - identification_type_code: passport
   number: W342058
   country_iso2_code: TN
@@ -127,6 +116,17 @@ identifications:
   logical_id: '920'
   valid_to: '2016-03-13'
   issue_date: '2011-03-14'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-04-21'
+    number_title: 2015/617 (OJ L102)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
+- identification_type_code: id
+  number: '08705184'
+  country_iso2_code: TN
+  regulation_language: en
+  logical_id: '921'
+  issue_date: '2015-02-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'

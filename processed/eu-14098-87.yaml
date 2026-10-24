@@ -29,6 +29,17 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Anna Zaloginová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '182325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Anna
   middle_name: Nikolaevna
   last_name: ZALOGINA
@@ -39,17 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Anna Zaloginová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '182325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

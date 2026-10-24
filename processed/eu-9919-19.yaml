@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ramiľ
-  middle_name: Rachmatullovič
-  last_name: IBATULLIN
-  whole_name: Ramiľ Rachmatullovič IBATULLIN
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - first_name: Рамиль
   middle_name: Рахматуллович
   last_name: Ибатуллин
@@ -55,6 +41,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Ramiľ
+  middle_name: Rachmatullovič
+  last_name: IBATULLIN
+  whole_name: Ramiľ Rachmatullovič IBATULLIN
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

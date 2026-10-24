@@ -29,20 +29,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Aleksey
-  middle_name: Vladimirovich
-  last_name: DENISENKO
-  whole_name: Aleksey Vladimirovich DENISENKO
-  function: member of the Chelyabinsk regional Legislative Assembly, member of the
-    Presidium of the Regional Political Council, Chairman of the Legislative Assembly
-    Committee on Construction Policy and Housing and Communal Services and Head of
-    inter-municipal co-ordination council of the Chelyabinsk Region. Furthermore,
-    he is member of the Kremlin-aligned ruling party United Russia.
+- first_name: Alexej
+  last_name: Děnisenko
+  whole_name: Alexej Děnisenko
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '141694'
+  logical_id: '164820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -59,14 +53,20 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Alexej
-  last_name: Děnisenko
-  whole_name: Alexej Děnisenko
+- first_name: Aleksey
+  middle_name: Vladimirovich
+  last_name: DENISENKO
+  whole_name: Aleksey Vladimirovich DENISENKO
+  function: member of the Chelyabinsk regional Legislative Assembly, member of the
+    Presidium of the Regional Political Council, Chairman of the Legislative Assembly
+    Committee on Construction Policy and Housing and Communal Services and Head of
+    inter-municipal co-ordination council of the Chelyabinsk Region. Furthermore,
+    he is member of the Kremlin-aligned ruling party United Russia.
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164820'
+  logical_id: '141694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

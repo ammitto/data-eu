@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Katonai Hírszerzési Igazgatóság [szíria]
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '14385'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direttorat tal-informazzjoni militari [Sirja]
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '14386'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Directoraat militaire inlichtingen [Syrië]
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '14387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Dyrekcja wywiadu wojskowego [Syria]
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '14388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Direcção de Informações Militares [Síria]
   name_language: PT
   strong: true
@@ -64,11 +24,11 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direcția informațiilor militare [Siria]
-  name_language: RO
+- whole_name: Dyrekcja wywiadu wojskowego [Syria]
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '14390'
+  logical_id: '14388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -228,6 +188,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14384'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Katonai Hírszerzési Igazgatóság [szíria]
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '14385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direttorat tal-informazzjoni militari [Sirja]
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '14386'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Directoraat militaire inlichtingen [Syrië]
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '14387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direcția informațiilor militare [Siria]
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '14390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

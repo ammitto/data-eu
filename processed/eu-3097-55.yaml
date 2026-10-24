@@ -19,6 +19,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ibrahim Ali Muhammad Abu Bakr
+  strong: true
+  regulation_language: en
+  logical_id: '4912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-08-09'
+    number_title: 803/2008 (OJ L214)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:214:0052:0055:EN:PDF
 - whole_name: Abdul Rahman
   strong: true
   regulation_language: en
@@ -114,15 +123,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-08-09'
-    number_title: 803/2008 (OJ L214)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:214:0052:0055:EN:PDF
-- whole_name: Ibrahim Ali Muhammad Abu Bakr
-  strong: true
-  regulation_language: en
-  logical_id: '4912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-08-09'

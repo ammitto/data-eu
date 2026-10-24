@@ -15,21 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: علی شیرازی
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '181993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/648 (OJ L202600648)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
 - whole_name: Hojjatoleslam Ali SHIRAZI
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '181994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: علی شیرازی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '181993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

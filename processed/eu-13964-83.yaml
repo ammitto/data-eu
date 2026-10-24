@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: احمدعلی فیض اللهی
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180521'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Ahmad Ali FAIZULLAHI
   function: Commander of the Islamic Revolutionary Guard Corps (IRGC) Saberin Takavar
     Special Forces Brigade
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: احمدعلی فیض اللهی
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180521'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -52,11 +52,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1966
+  year: 1967
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '180519'
+  logical_id: '180518'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -64,11 +64,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - circa: false
   calendar_type: GREGORIAN
-  year: 1967
+  year: 1966
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '180518'
+  logical_id: '180519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

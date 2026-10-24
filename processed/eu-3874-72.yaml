@@ -16,21 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad
-  last_name: ESLAMI
-  whole_name: Mohammad ESLAMI
-  function: Head of Defence Industries Training and Research Institute.
-  gender: M
-  title: Dr
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Mohammad Islami
   gender: M
   name_language: EN
@@ -53,17 +38,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: محمد اسلامی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Mohammed Islami
   gender: M
   name_language: EN
@@ -75,6 +49,32 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Mohammad
+  last_name: ESLAMI
+  whole_name: Mohammad ESLAMI
+  function: Head of Defence Industries Training and Research Institute.
+  gender: M
+  title: Dr
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: محمد اسلامی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

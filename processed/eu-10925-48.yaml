@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Людмила
+  middle_name: Леонидовна
+  last_name: МАРКИНА
+  whole_name: Людмила Леонидовна МАРКИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Lyudmila
   middle_name: Leonidovna
   last_name: MARKINA
@@ -30,15 +44,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Людмила
-  middle_name: Леонидовна
-  last_name: МАРКИНА
-  whole_name: Людмила Леонидовна МАРКИНА
+- first_name: Ljudmila
+  last_name: Markina
+  whole_name: Ljudmila Markina
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159771'
+  logical_id: '160888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -66,19 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ljudmila
-  last_name: Markina
-  whole_name: Ljudmila Markina
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

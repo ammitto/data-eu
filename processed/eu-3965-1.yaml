@@ -16,26 +16,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: شرکت صنایع هفتم تیر
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159360'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: 7th of Tir Industries of Esfahan
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: 7th of Tir
   name_language: EN
   strong: true
@@ -46,26 +26,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: 7th of Tir Industrial Complex
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: 7th of Tir Complex
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Haftom-e Tir
   name_language: EN
   strong: true
@@ -96,24 +56,64 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-addresses:
-- street: Mobarakeh Road Km 45
-  city: Isfahan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- whole_name: 7th of Tir Industrial Complex
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '159354'
+  logical_id: '159358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: 7th of Tir Industries of Esfahan
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: 7th of Tir Complex
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: شرکت صنایع هفتم تیر
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+addresses:
 - city: Isfahan
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159353'
   po_box: 81465/478
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Mobarakeh Road Km 45
+  city: Isfahan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

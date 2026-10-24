@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federal News Agency LLC
-  name_language: EN
+- whole_name: Federalinė naujienų agentūra
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '152078'
+  logical_id: '152483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-13'
@@ -53,11 +53,11 @@ name_aliases:
     publication_date: '2023-04-13'
     number_title: 2023/755 (OJ L100 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0755
-- whole_name: Federalinė naujienų agentūra
-  name_language: LT
+- whole_name: Federal News Agency LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152483'
+  logical_id: '152078'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-13'

@@ -15,19 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Gazpromneft Marine Bunker Limited
-  function: LLC Gazpromneft Marine Bunker Limited is a Russian shipping company based
-    in the Russian Federation. It manages tankers that transport crude oil or petroleum
-    products, originating in Russia or exported from Russia.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181112'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Gazpromneft Marine Bunker Limited
   name_language: EN
   strong: true
@@ -48,6 +35,19 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: LLC Gazpromneft Marine Bunker Limited
+  function: LLC Gazpromneft Marine Bunker Limited is a Russian shipping company based
+    in the Russian Federation. It manages tankers that transport crude oil or petroleum
+    products, originating in Russia or exported from Russia.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 addresses:
 - street: Block R, 80 Bolshoi prospect, Vasilyevski island
   city: St. Petersburg
@@ -62,17 +62,6 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: regnumber
-  number: '1077847626042'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '181109'
-  issue_date: '2007-10-09'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: imo
   number: '5402692'
   country_iso2_code: '00'
@@ -88,6 +77,17 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '181107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: regnumber
+  number: '1077847626042'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '181109'
+  issue_date: '2007-10-09'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

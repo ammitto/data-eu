@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abulghasem
+  last_name: VALAGOHAR
+  whole_name: Abulghasem VALAGOHAR
+  function: Member of the Board of Paravar Pars Company
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '150763'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Abolghasem
   last_name: VALAGOHAR
   whole_name: Abolghasem VALAGOHAR
@@ -36,19 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Abulghasem
-  last_name: VALAGOHAR
-  whole_name: Abulghasem VALAGOHAR
-  function: Member of the Board of Paravar Pars Company
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '150763'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

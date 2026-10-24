@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: 74455 katonai azonosító FPN-számon
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '165493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
     (GU/GRU) Különleges Technológiai Főközpontja (GTsST)
   name_language: HU
@@ -57,23 +67,11 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Centrul principal pentru tehnologii speciale (GTsST) al Direcției principale
-    a Statului-Major al forțelor armate ruse (GU/GRU)
-  name_language: RO
+- whole_name: unità 74455
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '165503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Hlavní středisko pro speciální technologie (GTsST) hlavního ředitelství
-    generálního štábu ozbrojených sil Ruské federace (GU/GRU)
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165512'
+  logical_id: '165476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -96,16 +94,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: 74455 katonai azonosító FPN-számon
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '165493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -154,11 +142,21 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: unità 74455
-  name_language: IT
+- whole_name: field post number 74455
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165476'
+  logical_id: '165460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: systémovým identifikačním číslem 74455
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -175,21 +173,23 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: systémovým identifikačním číslem 74455
-  name_language: CS
+- whole_name: Centrul principal pentru tehnologii speciale (GTsST) al Direcției principale
+    a Statului-Major al forțelor armate ruse (GU/GRU)
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '165513'
+  logical_id: '165503'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: field post number 74455
-  name_language: EN
+- whole_name: Hlavní středisko pro speciální technologie (GTsST) hlavního ředitelství
+    generálního štábu ozbrojených sil Ruské federace (GU/GRU)
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165460'
+  logical_id: '165512'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

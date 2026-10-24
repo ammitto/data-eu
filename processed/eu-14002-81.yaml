@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Мария Эдуардовна СИТТЕЛЬ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/259 (OJ L202600259)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
 - whole_name: Maria Eduardovna SITTEL
   function: Russian television presenter, propaganda journalist, and editor; host
     of the news program “Vesti” on the “Rossiya” TV channel since 2001; chairperson
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/259 (OJ L202600259)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600259
-- whole_name: Мария Эдуардовна СИТТЕЛЬ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

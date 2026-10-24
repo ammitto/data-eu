@@ -1,0 +1,76 @@
+---
+eu_reference_number: EU.15014.36
+logical_id: '185737'
+designation_date: '2026-07-13'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-13'
+  entry_into_force_date: '2026-07-13'
+  number_title: 2026/1708 (OJ L202601708)
+  programme: RUS
+  logical_id: '227030'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Communication Platform LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- whole_name: Акционерное Общество Инвестиционная Компания Коммуникационная Платформа
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+addresses:
+- street: PR-KT LENINGRADSKII D. 39, STR. 79
+  city: MOSCOW
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '125167'
+  regulation_language: en
+  logical_id: '185738'
+  contact_infos:
+  - key: WEB
+    value: www.complatform.ru
+  - key: EMAIL
+    value: mail@complatform.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+identifications:
+- identification_type_code: other
+  number: '9714058267'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- identification_type_code: taxid
+  number: '9714058267'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708

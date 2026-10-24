@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aljaksandr
-  last_name: Tarakanaŭ
-  whole_name: Aljaksandr Tarakanaŭ
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Аляксандр
   middle_name: Мікалаевіч
   last_name: ТАРАКАНАЎ
@@ -85,6 +72,33 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aljaksandr
+  last_name: Tarakanaŭ
+  whole_name: Aljaksandr Tarakanaŭ
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aľaxandr
+  middle_name: Mikalajevič
+  last_name: TARAKANAV
+  whole_name: Aľaxandr Mikalajevič TARAKANAV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Aleksandr
   middle_name: Nikolajevitj
   last_name: TARAKANOV
@@ -108,20 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156920'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aľaxandr
-  middle_name: Mikalajevič
-  last_name: TARAKANAV
-  whole_name: Aľaxandr Mikalajevič TARAKANAV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

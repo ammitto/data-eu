@@ -19,64 +19,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Khaled
-  last_name: Qaddour
-  whole_name: Khaled Qaddour
+- whole_name: Khalid QADDUR
+  function: Businessman
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '140724'
+  logical_id: '18474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Khaled
-  last_name: Qadour
-  whole_name: Khaled Qadour
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140725'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Khaled
-  last_name: Kaddour
-  whole_name: Khaled Kaddour
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: خالد قدور
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Khaled
-  last_name: Qaddur
-  whole_name: Khaled Qaddur
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-28'
-    number_title: 2016/840 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0840&from=EN
 - first_name: Khalid
   last_name: Kaddour
   whole_name: Khalid Kaddour
@@ -113,14 +66,61 @@ name_aliases:
     publication_date: '2016-05-28'
     number_title: 2016/840 (OJ L141)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0840&from=EN
-- whole_name: Khalid QADDUR
-  function: Businessman
+- whole_name: خالد قدور
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '18474'
+  logical_id: '140879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Khaled
+  last_name: Qaddour
+  whole_name: Khaled Qaddour
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140724'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Khaled
+  last_name: Qadour
+  whole_name: Khaled Qadour
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140725'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Khaled
+  last_name: Kaddour
+  whole_name: Khaled Kaddour
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Khaled
+  last_name: Qaddur
+  whole_name: Khaled Qaddur
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-05-28'
+    number_title: 2016/840 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0840&from=EN

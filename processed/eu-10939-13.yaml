@@ -16,6 +16,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Galina
+  middle_name: Anatoljevna
+  last_name: KATIUSJTJENKO
+  whole_name: Galina Anatoljevna KATIUSJTJENKO
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Galina
   last_name: Kaťušenko
   whole_name: Galina Kaťušenko
   gender: F
@@ -23,21 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Galina
-  middle_name: Anatolyevna
-  last_name: KATYUSHENKO
-  whole_name: Galina Anatolyevna KATYUSHENKO
-  function: Chair of the Election Committee of the Zaporizhzhia Region
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,33 +70,34 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Galina
-  middle_name: Anatoljevna
-  last_name: KATIUSJTJENKO
-  whole_name: Galina Anatoljevna KATIUSJTJENKO
+  middle_name: Anatolyevna
+  last_name: KATYUSHENKO
+  whole_name: Galina Anatolyevna KATYUSHENKO
+  function: Chair of the Election Committee of the Zaporizhzhia Region
   gender: F
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160678'
+  logical_id: '159843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 citizenships:
-- country_iso2_code: BY
-  country_description: BELARUS
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '159841'
+  logical_id: '159840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: BY
+  country_description: BELARUS
   regulation_language: en
-  logical_id: '159840'
+  logical_id: '159841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Julia
-  last_name: Belechova
-  whole_name: Julia Belechova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Юлия
   middle_name: Александровна
   last_name: БЕЛЕХОВА
@@ -72,6 +59,19 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Julia
+  last_name: Belechova
+  whole_name: Julia Belechova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

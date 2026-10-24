@@ -15,15 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Светлана
-  middle_name: Владимировна
-  last_name: ДМИТРОВА
-  whole_name: Светлана Владимировна ДМИТРОВА
+- first_name: Svetlana
+  middle_name: Vladimirovna
+  last_name: DMITROVA
+  whole_name: Svetlana Vladimirovna DMITROVA
+  function: Head of the Department of Education of the Administration of Simferopol
+    District
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181148'
+  logical_id: '181150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -43,17 +45,15 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Svetlana
-  middle_name: Vladimirovna
-  last_name: DMITROVA
-  whole_name: Svetlana Vladimirovna DMITROVA
-  function: Head of the Department of Education of the Administration of Simferopol
-    District
+- first_name: Светлана
+  middle_name: Владимировна
+  last_name: ДМИТРОВА
+  whole_name: Светлана Владимировна ДМИТРОВА
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '181150'
+  logical_id: '181148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

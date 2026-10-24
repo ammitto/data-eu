@@ -14,6 +14,96 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Prison de Zahedan
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '157771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Zahedanin vankila
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '157938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Fængslet i Zahedan
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '157844'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Więzienie w Zahedanie
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '157856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: închisoarea Zahedan
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '157871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Zahedan börtön
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '157878'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Gefängnis Zahedan
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '157787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: prigione di Zahedan
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '157800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: prisión de Zahedan
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '157805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Penitenciária de Zahedan
   name_language: PT
   strong: true
@@ -95,96 +185,6 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Prison de Zahedan
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '157771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Zahedangevangenis
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '157839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Fængslet i Zahedan
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '157844'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Więzienie w Zahedanie
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '157856'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: închisoarea Zahedan
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '157871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Zahedan börtön
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '157878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Gefängnis Zahedan
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '157787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: prigione di Zahedan
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '157800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: prisión de Zahedan
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '157805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Zāhedāni vangla
   name_language: ET
   strong: true
@@ -235,11 +235,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Zahedanin vankila
-  name_language: FI
+- whole_name: Zahedangevangenis
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '157938'
+  logical_id: '157839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'

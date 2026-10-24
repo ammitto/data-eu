@@ -16,15 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abd Al-Khaliq Al-Houthi
-  strong: true
-  regulation_language: en
-  logical_id: '111733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-04-04'
-    number_title: 2017/628 (OJ L90)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0628&from=EN
 - whole_name: Abd al-Khaliq al-Huthi
   function: Huthi military commander
   gender: M
@@ -54,6 +45,15 @@ name_aliases:
     publication_date: '2014-12-18'
     number_title: 1352/2014 (OJ L365)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_365_R_0007&from=EN
+- whole_name: Abd Al-Khaliq Al-Houthi
+  strong: true
+  regulation_language: en
+  logical_id: '111733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-04-04'
+    number_title: 2017/628 (OJ L90)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0628&from=EN
 - whole_name: Abu-Yunus
   strong: true
   regulation_language: en
