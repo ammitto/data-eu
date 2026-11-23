@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Общество с Ограниченной Ответственностью Научно-производственная Фирма
+    “Ротор”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ООО НПФ РОТОР
   name_language: RU
   strong: true
@@ -41,17 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183517'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Общество с Ограниченной Ответственностью Научно-производственная Фирма
-    “Ротор”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183514'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

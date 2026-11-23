@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 陈诚
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '181884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - whole_name: CHEN Cheng
   gender: M
   name_language: EN
@@ -26,23 +37,11 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: lengmo
+- whole_name: l3n6m0
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: 陈诚
-  gender: M
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '181884'
+  logical_id: '181881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -59,11 +58,12 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: l3n6m0
+- whole_name: lengmo
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181881'
+  logical_id: '181882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

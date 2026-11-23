@@ -15,97 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Foundation for National Values protection
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150287'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: FZNC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: FPNV
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Organization for the Protection of National Values
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Foundation for the Protection of National Values
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Fund for the Defence of National Values
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: FDNV
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Foundation for the Defence of National Values
-  function: operates as the public relations arm of the Wagner Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Rahvuslike väärtuste säilitamise fond
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '150950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - whole_name: Stiftung für die Verteidigung der nationalen Werte
   name_language: DE
   strong: true
@@ -536,6 +445,97 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Foundation for National Values protection
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: FZNC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: FPNV
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Organization for the Protection of National Values
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Foundation for the Protection of National Values
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150291'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Fund for the Defence of National Values
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: FDNV
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: Foundation for the Defence of National Values
+  function: operates as the public relations arm of the Wagner Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Rahvuslike väärtuste säilitamise fond
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '150950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 addresses:
 - street: 64 Zemlyanoy Val str., building 2, office 201
   city: Moscow

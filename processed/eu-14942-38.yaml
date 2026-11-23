@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Президентский Фонд Культурных Инициатив / ПФКИ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
 - whole_name: Presidential Foundation for Cultural Initiatives/ PFKI
   function: The Presidential Foundation for Cultural Initiatives is a foundation created
     by decree of Russian President Vladimir Putin. It provides grants for various
@@ -24,16 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-15'
-    number_title: 2026/1356 (OJ L202601356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
-- whole_name: Президентский Фонд Культурных Инициатив / ПФКИ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-15'

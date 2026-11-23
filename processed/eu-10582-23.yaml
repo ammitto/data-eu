@@ -15,6 +15,47 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Svetlana
+  middle_name: Aleksandrovna
+  last_name: BONDARENKO
+  whole_name: Svetlana Aleksandrovna BONDARENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Светлана
+  middle_name: Александровна
+  last_name: БОНДАРЕНКО
+  whole_name: Светлана Александровна БОНДАРЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Svjatlana
+  last_name: Bandarenková
+  whole_name: Svjatlana Bandarenková
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Sviatlana
   middle_name: Aliaksandrauna
   last_name: BANDARENKA
@@ -31,20 +72,6 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Светлана
-  middle_name: Александровна
-  last_name: БОНДАРЕНКО
-  whole_name: Светлана Александровна БОНДАРЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156367'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Svjatlana
   middle_name: Aljaksandrauna
   last_name: BANDARENKA
@@ -54,33 +81,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Svetlana
-  middle_name: Aleksandrovna
-  last_name: BONDARENKO
-  whole_name: Svetlana Aleksandrovna BONDARENKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156368'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Svjatlana
-  last_name: Bandarenková
-  whole_name: Svjatlana Bandarenková
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

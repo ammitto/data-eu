@@ -15,6 +15,96 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: GHU – Κεντρική Υπηρεσία Οικονομικών του Προεδρικού Γραφείου
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '127770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – Office central économique de l’administration présidentielle
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '127771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – glavni odjel za gospodarstvo predsjedničke administracije
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '127772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – prezidento administracijos Vyriausioji ūkio valdyba
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '127773'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – Prezidenta administrācijas galvenais ekonomikas departaments
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '127774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – Az elnöki igazgatás gazdasági főosztálya
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '127775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU - Id-Dipartiment Ekonomiku Ewlieni tal-Amministrazzjoni Presidenzjali
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '127776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – Dipartimento economico principale dell'amministrazione presidenziale
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '127777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU – Główny Urząd Gospodarczy administracji prezydenta
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '127778'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: GHU – Departamento Económico Principal da Administração Presidencial
   name_language: PT
   strong: true
@@ -148,96 +238,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Κεντρική Υπηρεσία Οικονομικών του Προεδρικού Γραφείου
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '127770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Office central économique de l’administration présidentielle
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '127771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – glavni odjel za gospodarstvo predsjedničke administracije
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '127772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – prezidento administracijos Vyriausioji ūkio valdyba
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '127773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Prezidenta administrācijas galvenais ekonomikas departaments
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '127774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Az elnöki igazgatás gazdasági főosztálya
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '127775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU - Id-Dipartiment Ekonomiku Ewlieni tal-Amministrazzjoni Presidenzjali
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '127776'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Dipartimento economico principale dell'amministrazione presidenziale
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '127777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU – Główny Urząd Gospodarczy administracji prezydenta
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '127778'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

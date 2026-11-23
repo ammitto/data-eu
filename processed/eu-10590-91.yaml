@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Роман
-  middle_name: Иванович
-  last_name: БИЗЮК
-  whole_name: Роман Иванович БИЗЮК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Раман
   middle_name: Іванавіч
   last_name: БІЗЮК
@@ -70,20 +56,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Roman
-  middle_name: Ivanovich
-  last_name: BIZYUK
-  whole_name: Roman Ivanovich BIZYUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Raman
   middle_name: Ivanavitj
   last_name: BIZIUK
@@ -93,6 +65,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Роман
+  middle_name: Иванович
+  last_name: БИЗЮК
+  whole_name: Роман Иванович БИЗЮК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Roman
+  middle_name: Ivanovitj
+  last_name: BIZIUK
+  whole_name: Roman Ivanovitj BIZIUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156902'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -114,14 +114,14 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Roman
-  middle_name: Ivanovitj
-  last_name: BIZIUK
-  whole_name: Roman Ivanovitj BIZIUK
+  middle_name: Ivanovich
+  last_name: BIZYUK
+  whole_name: Roman Ivanovich BIZYUK
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156902'
+  logical_id: '156428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

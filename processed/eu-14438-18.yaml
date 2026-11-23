@@ -16,13 +16,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Федеральное государственное казённое общеобразовательное учреждение
-    “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской
-    Федерации”
-  name_language: RU
+- whole_name: NVMU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182879'
+  logical_id: '182880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -38,11 +36,11 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: NVMU
-  name_language: EN
+- whole_name: НВМУ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '182880'
+  logical_id: '182877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -69,11 +67,13 @@ name_aliases:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: НВМУ
+- whole_name: Федеральное государственное казённое общеобразовательное учреждение
+    “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской
+    Федерации”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '182877'
+  logical_id: '182879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

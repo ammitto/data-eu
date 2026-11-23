@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Beijing Integrity Technology Company Limited
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: Integrity Technology Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - whole_name: Yongxin Zhicheng Technology Group Company Limited
   name_language: EN
   strong: true
@@ -50,6 +30,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: Beijing Integrity Technology Company Limited
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: Integrity Technology Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

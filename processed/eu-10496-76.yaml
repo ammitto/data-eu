@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nina
+  middle_name: Viktorovna
+  last_name: DOROCHOVA
+  whole_name: Nina Viktorovna DOROCHOVA
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Нина
   middle_name: Викторовна
   last_name: ДОРОХОВА
@@ -40,20 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Nina
-  middle_name: Viktorovna
-  last_name: DOROCHOVA
-  whole_name: Nina Viktorovna DOROCHOVA
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156640'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

@@ -86,19 +86,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Alexandr
-  last_name: Vinokurov
-  whole_name: Alexandr Vinokurov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Александр
   middle_name: Семьонович
   last_name: Винокуров
@@ -113,6 +100,19 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Alexandr
+  last_name: Vinokurov
+  whole_name: Alexandr Vinokurov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

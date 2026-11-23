@@ -15,6 +15,28 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: PJSC Oil and Gas Company “Slavneft”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181011'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Public Joint Stock Company Oil and Gas Company “Slavneft”
+  function: PJSC Slavneft is a Russian company active in the energy sector. PJSC Slavneft
+    engages in oil and gas extraction and refining.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: ПАО Нефтегазовая компания «Славнефть»
   name_language: RU
   strong: true
@@ -45,16 +67,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: PJSC Oil and Gas Company “Slavneft”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: PJSC NGK Slavneft
   name_language: EN
   strong: true
@@ -80,18 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Public Joint Stock Company Oil and Gas Company “Slavneft”
-  function: PJSC Slavneft is a Russian company active in the energy sector. PJSC Slavneft
-    engages in oil and gas extraction and refining.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

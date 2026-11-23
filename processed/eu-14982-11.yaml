@@ -1,0 +1,122 @@
+---
+eu_reference_number: EU.14982.11
+logical_id: '185410'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC “TsDiYUP “Mir”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО «Центр детских и юношеских программ «Мир»
+  strong: true
+  regulation_language: en
+  logical_id: '185414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО «ЦДиЮП «Мир»
+  strong: true
+  regulation_language: en
+  logical_id: '185413'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: "“Mir” Centre for Administrative and Legal Affairs"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: LLC “Centre for Children and Youth Programmes ‘Mir’”
+  function: |-
+    LLC “Centre for Children and Youth Programs “Mir” is an organization that operates children’s recreation, educational, and youth development programs through facilities including its subdivision – the year-round Children’s Sanatorium Health Camp “Mir.”
+    LLC “Centre for Children and Youth Programs “Mir,” through its subdivision, participates in the reception, accommodation, and organized programming of children from occupied Ukrainian territories for extended recreational and educational stays.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- street: Dzerzhinsky St., 119
+  city: Taganrog
+  region: Rostov Region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '347905'
+  regulation_language: en
+  logical_id: '185411'
+  contact_infos:
+  - key: WEB
+    value: https://center-mir.ru/
+  - key: PHONE
+    value: 8-800-300-65-54
+  - key: EMAIL
+    value: prodaj@center-mir.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+identifications:
+- identification_type_code: regnumber
+  number: '1086154007532'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185412'
+  issue_date: '2008-11-25'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '615401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185905'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '6154557850'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

@@ -15,15 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Николаевич
-  last_name: ЖУРАВЛЕВ
-  whole_name: Евгений Николаевич ЖУРАВЛЕВ
+- first_name: Evgeny
+  middle_name: Nikolaevich
+  last_name: ZHURAVLEV
+  whole_name: Evgeny Nikolaevich ZHURAVLEV
+  function: Russian military leader - Commander of the Guards 4th (Kantemirovskaya)
+    Tank Division of the Tank Army of the Western Military District
   gender: M
-  name_language: RU
+  title: Major General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149898'
+  logical_id: '149899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -40,18 +43,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Evgeny
-  middle_name: Nikolaevich
-  last_name: ZHURAVLEV
-  whole_name: Evgeny Nikolaevich ZHURAVLEV
-  function: Russian military leader - Commander of the Guards 4th (Kantemirovskaya)
-    Tank Division of the Tank Army of the Western Military District
+- first_name: Евгений
+  middle_name: Николаевич
+  last_name: ЖУРАВЛЕВ
+  whole_name: Евгений Николаевич ЖУРАВЛЕВ
   gender: M
-  title: Major General
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '149899'
+  logical_id: '149898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

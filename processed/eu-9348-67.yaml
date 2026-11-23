@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gleb
-  middle_name: Sergeyevich
-  last_name: NIKITIN
-  whole_name: Gleb Sergeyevich NIKITIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '147030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Глеб
   middle_name: Сергеевич
   last_name: НИКИТИН
@@ -51,6 +38,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Gleb
+  middle_name: Sergeyevich
+  last_name: NIKITIN
+  whole_name: Gleb Sergeyevich NIKITIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '147030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

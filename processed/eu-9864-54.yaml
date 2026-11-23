@@ -112,11 +112,11 @@ birthdates:
   day_of_month: 28
   month_of_year: 10
   year: 1938
-  city: Uralsk
+  city: Oral
   country_iso2_code: KZ
   country_description: KAZAKHSTAN
   regulation_language: en
-  logical_id: '158159'
+  logical_id: '150746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -128,11 +128,11 @@ birthdates:
   day_of_month: 28
   month_of_year: 10
   year: 1938
-  city: Oral
+  city: Uralsk
   country_iso2_code: KZ
   country_description: KAZAKHSTAN
   regulation_language: en
-  logical_id: '150746'
+  logical_id: '158159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

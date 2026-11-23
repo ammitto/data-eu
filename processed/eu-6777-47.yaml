@@ -15,23 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valery
-  middle_name: Nikolaevich
-  last_name: ZAKHAROV
-  whole_name: Valery Nikolaevich ZAKHAROV
-  function: |-
-    former security counsellor to the President of the Central African Republic (CAR),
-    former member of the Federal Security Service of the Russian Federation (FSB)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Валерий
   middle_name: Николаевич
   last_name: ЗАХАРОВ
@@ -41,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Valeriy
+  middle_name: Nikolaevich
+  last_name: ZAKHAROV
+  whole_name: Valeriy Nikolaevich ZAKHAROV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132561'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'
@@ -86,15 +83,18 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Valeriy
+- first_name: Valery
   middle_name: Nikolaevich
   last_name: ZAKHAROV
-  whole_name: Valeriy Nikolaevich ZAKHAROV
+  whole_name: Valery Nikolaevich ZAKHAROV
+  function: |-
+    former security counsellor to the President of the Central African Republic (CAR),
+    former member of the Federal Security Service of the Russian Federation (FSB)
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132561'
+  logical_id: '132562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'

@@ -62,10 +62,10 @@ name_aliases:
   last_name: Mazepin
   whole_name: Dmitrij Mazepin
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158483'
+  logical_id: '158362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -75,10 +75,10 @@ name_aliases:
   last_name: Mazepin
   whole_name: Dmitrij Mazepin
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '158362'
+  logical_id: '158483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

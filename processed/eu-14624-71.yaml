@@ -66,21 +66,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: regnumber
-  number: '6027006032'
-  country_iso2_code: RU
+  number: '770301001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '183737'
-  issue_date: '2002-08-06'
+  logical_id: '183736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: regnumber
-  number: '770301001'
-  country_iso2_code: '00'
+  number: '6027006032'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '183736'
+  logical_id: '183737'
+  issue_date: '2002-08-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

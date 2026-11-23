@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Cuarta División Acorazada del Ejército sirio
-  name_language: ES
+- whole_name: Quarta divisione corazzata dell’esercito siriano
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '153040'
+  logical_id: '153033'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -30,6 +30,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Cuarta División Acorazada del Ejército sirio
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '153040'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Ceturtā bruņotā divīzija Sīrijas armijas
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -127,11 +147,31 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Ceturtā bruņotā divīzija Sīrijas armijas
-  name_language: LV
+- whole_name: Vierte Panzerdivision der syrischen Armee
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '153103'
+  logical_id: '153029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Quarta Divisão Blindada do Exército Sírio
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '153043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Czwarta dywizja opancerzona armii syryjskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '153045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -147,21 +187,51 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Vierte Panzerdivision der syrischen Armee
-  name_language: DE
+- whole_name: Ir-Raba’ Diviżjoni Armata tal-armata Sirjana
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '153029'
+  logical_id: '153116'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Quarta divisione corazzata dell’esercito siriano
-  name_language: IT
+- whole_name: Štvrtá obrnená divízia sýrskej armády
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '153033'
+  logical_id: '153085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Četvrta oklopna divizija sirijske vojske
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '153089'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Četrta oklepna divizija sirske vojske
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '153093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Четвърта бронирана дивизия на сирийската армия
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '153097'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -182,76 +252,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153101'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Четвърта бронирана дивизия на сирийската армия
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '153097'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Četrta oklepna divizija sirske vojske
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '153093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Četvrta oklopna divizija sirijske vojske
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '153089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Štvrtá obrnená divízia sýrskej armády
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Ir-Raba’ Diviżjoni Armata tal-armata Sirjana
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '153116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Czwarta dywizja opancerzona armii syryjskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '153045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Quarta Divisão Blindada do Exército Sírio
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '153043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

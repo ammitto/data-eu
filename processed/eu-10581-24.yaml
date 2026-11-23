@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Васильевич
+  last_name: МАСЛЮКОВ
+  whole_name: Сергей Васильевич МАСЛЮКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Siarhej
   middle_name: Vasiljevitj
   last_name: MASLJUKOU
@@ -68,20 +82,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Сергей
-  middle_name: Васильевич
-  last_name: МАСЛЮКОВ
-  whole_name: Сергей Васильевич МАСЛЮКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156361'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

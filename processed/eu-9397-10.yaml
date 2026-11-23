@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Specialiųjų operacijų  pajėgos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Forțele pentru operații speciale
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Specialoperationsstyrkerne
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Специалните оперативни сили
   name_language: BG
   strong: true
@@ -55,11 +25,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Különleges műveleti  erők
-  name_language: HU
+- whole_name: Specialoperationsstyrkerne
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '147851'
+  logical_id: '148008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -123,11 +93,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: specialstyrkorna
-  name_language: SV
+- whole_name: Különleges műveleti  erők
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147999'
+  logical_id: '147851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -218,6 +188,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Forțele pentru operații speciale
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Specialiųjų operacijų  pajėgos
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: specialstyrkorna
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '147999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

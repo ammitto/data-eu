@@ -38,18 +38,6 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Proezd 1-I  Veshnyakovskii, Building 1, Structure 8
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '109456'
-  regulation_language: en
-  logical_id: '183075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - street: 3rd  Krutitsky per., 11, room 7N
   city: Moscow
   country_iso2_code: RU
@@ -68,23 +56,35 @@ addresses:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: Proezd 1-I  Veshnyakovskii, Building 1, Structure 8
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '109456'
+  regulation_language: en
+  logical_id: '183075'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
+- identification_type_code: regnumber
+  number: '772301001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '183077'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
   number: '9721194461'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183078'
   issue_date: '2023-01-10'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: regnumber
-  number: '772301001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '183077'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

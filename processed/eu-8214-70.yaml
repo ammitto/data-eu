@@ -15,10 +15,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AQ-S
+- whole_name: Sham Al-Ribat
   strong: true
   regulation_language: en
-  logical_id: '140003'
+  logical_id: '140005'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'
@@ -33,10 +33,10 @@ name_aliases:
     publication_date: '2022-05-30'
     number_title: 2022/836 (OJ L147I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Sham Al-Ribat
+- whole_name: AQ-S
   strong: true
   regulation_language: en
-  logical_id: '140005'
+  logical_id: '140003'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'

@@ -16,14 +16,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Alexandr
-  middle_name: Gennadievič
-  last_name: STARUNSKIJ
-  whole_name: Alexandr Gennadievič STARUNSKIJ
+  last_name: Starunskij
+  whole_name: Alexandr Starunskij
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156638'
+  logical_id: '156627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -60,6 +59,20 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Alexandr
+  middle_name: Gennadievič
+  last_name: STARUNSKIJ
+  whole_name: Alexandr Gennadievič STARUNSKIJ
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Aleksandr
   middle_name: Gennadjevitj
   last_name: STARUNSKIJ
@@ -69,19 +82,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Alexandr
-  last_name: Starunskij
-  whole_name: Alexandr Starunskij
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Hoge Raad voor Cyberspace
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '157837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Aukščiausioji kibernetinės erdvės taryba
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '157942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Consiliul suprem privind spațiul cibernetic
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '157869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Legfelsőbb Kibertér-tanács
   name_language: HU
   strong: true
@@ -54,11 +24,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Conseil suprême du cyberespace
-  name_language: FR
+- whole_name: Consiliul suprem privind spațiul cibernetic
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '157768'
+  logical_id: '157869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -195,11 +165,41 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Aukščiausioji kibernetinės erdvės taryba
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '157942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Hoge Raad voor Cyberspace
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '157837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Det øverste råd for cyberspace
   name_language: DA
   strong: true
   regulation_language: en
   logical_id: '157842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Conseil suprême du cyberespace
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '157768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'

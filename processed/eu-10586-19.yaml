@@ -42,20 +42,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Татьяна
-  middle_name: Александровна
-  last_name: ГРАКУН
-  whole_name: Татьяна Александровна ГРАКУН
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Tatstsiana
   middle_name: Aljaksandrauna
   last_name: HRAKUN
@@ -65,48 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatiana
-  middle_name: Aleksandrovna
-  last_name: GRAKUN
-  whole_name: Tatiana Aleksandrovna GRAKUN
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tacciana
-  middle_name: Aľaxandravna
-  last_name: HRAKUNOVÁ
-  whole_name: Tacciana Aľaxandravna HRAKUNOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156966'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatyana
-  middle_name: Alexandrovna
-  last_name: GRAKUN
-  whole_name: Tatyana Alexandrovna GRAKUN
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -129,6 +73,34 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Татьяна
+  middle_name: Александровна
+  last_name: ГРАКУН
+  whole_name: Татьяна Александровна ГРАКУН
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tacciana
+  middle_name: Aľaxandravna
+  last_name: HRAKUNOVÁ
+  whole_name: Tacciana Aľaxandravna HRAKUNOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Татяна
   last_name: Гракун
   whole_name: Татяна Гракун
@@ -137,6 +109,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tatyana
+  middle_name: Alexandrovna
+  last_name: GRAKUN
+  whole_name: Tatyana Alexandrovna GRAKUN
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tatiana
+  middle_name: Aleksandrovna
+  last_name: GRAKUN
+  whole_name: Tatiana Aleksandrovna GRAKUN
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

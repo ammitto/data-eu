@@ -15,23 +15,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество  с ограниченной  ответственностью  "Эссет Электро"
-  title: Limited Liability Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - whole_name: LLC "NPP  "ABS Electro"
   title: Limited Liability  Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '184388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
+- whole_name: Общество  с ограниченной  ответственностью  "Эссет Электро"
+  title: Limited Liability Company
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184387'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'
@@ -84,21 +84,21 @@ addresses:
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 identifications:
-- identification_type_code: regnumber
-  number: '1127746315762'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '184386'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - identification_type_code: taxid
   number: '7710911530'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '184385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
+- identification_type_code: regnumber
+  number: '1127746315762'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'

@@ -28,19 +28,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
-- first_name: Hamid Reza
-  last_name: Sharifi-Tehrani
-  whole_name: Hamid Reza Sharifi-Tehrani
-  gender: M
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '156002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1496 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Hamidreza
   last_name: Sharifi-Tehrani
   whole_name: Hamidreza Sharifi-Tehrani
@@ -49,6 +36,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1496 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
+- first_name: Hamid Reza
+  last_name: Sharifi-Tehrani
+  whole_name: Hamid Reza Sharifi-Tehrani
+  gender: M
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '156002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

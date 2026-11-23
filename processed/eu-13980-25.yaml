@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohsen FATHI ZADEH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: Mohsen FATHIZADEH
   function: Head of the Protection and Intelligence Organization of the Law Enforcement
     Forces (LEF)
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: Mohsen FATHI ZADEH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

@@ -16,6 +16,30 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Samer Kamal
+  last_name: AL-ASSAD
+  whole_name: Samer Kamal AL-ASSAD
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: "‘Samir’"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Samer Kamal
   last_name: AL-ASAD
   whole_name: Samer Kamal AL-ASAD
   gender: M
@@ -34,30 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: "‘Samir’"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Samer Kamal
-  last_name: AL-ASSAD
-  whole_name: Samer Kamal AL-ASSAD
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

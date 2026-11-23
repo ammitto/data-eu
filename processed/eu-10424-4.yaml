@@ -112,21 +112,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexander
-  middle_name: Alexandrovich
-  last_name: SAMOFAL
-  whole_name: Alexander Alexandrovich SAMOFAL
-  function: Agent of the Federal Security Service of the Russian Federation (FSB)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Aleksandr
   middle_name: Aleksandrovitj
   last_name: SAMOFAL
@@ -164,6 +149,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Alexander
+  middle_name: Alexandrovich
+  last_name: SAMOFAL
+  whole_name: Alexander Alexandrovich SAMOFAL
+  function: Agent of the Federal Security Service of the Russian Federation (FSB)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

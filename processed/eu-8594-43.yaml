@@ -19,6 +19,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sklad The Alexander Gorchakov Public Diplomacy Fund
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '158674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Fondul pentru Diplomație Publică Alexander Gorchakov
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '142777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Fond Alexandera Gorčakova pro veřejnou diplomacii
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Aleksandr Gortjakov-fonden för samhällsdiplomati
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158649'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Fundo  de Diplomacia Pública  Alexander Gorchakov
   name_language: PT
   strong: true
@@ -119,16 +159,6 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Sklad The Alexander Gorchakov Public Diplomacy Fund
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Fondu  Alexander Gorchakov Public Diplomacy Fund
   name_language: LV
   strong: true
@@ -139,26 +169,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Fond Alexandera Gorčakova pro veřejnou diplomacii
-  name_language: CS
+- whole_name: Fond verejnej diplomacie Alexandra Gorčakova
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '158431'
+  logical_id: '142776'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Aleksandr Gortjakov-fonden för samhällsdiplomati
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Aleksandro Gorčiakovo visuomeninės diplomatijos fondas
   name_language: LT
   strong: true
@@ -191,26 +211,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Fond verejnej diplomacie Alexandra Gorčakova
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '142776'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Fondul pentru Diplomație Publică Alexander Gorchakov
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '142777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 addresses:
 - street: 10/1 Yakovoapostolsky pereulok
   city: Moscow

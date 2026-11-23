@@ -15,32 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vyacheslav
-  middle_name: Alekseevich
-  last_name: BOCHAROV
-  whole_name: Vyacheslav Alekseevich BOCHAROV
-  function: |-
-    First Deputy President of the Public Chamber of the Russian Federation;
-    Member of the working group special military operation
+- first_name: Вячеслав
+  middle_name: Алексеевич
+  last_name: БОЧАРОВ
+  whole_name: Вячеслав Алексеевич БОЧАРОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '154206'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Vjatjeslav
-  middle_name: Aleksejevitj
-  last_name: BOTJAROV
-  whole_name: Vjatjeslav Aleksejevitj BOTJAROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '155201'
+  logical_id: '154205'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -60,15 +43,32 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Вячеслав
-  middle_name: Алексеевич
-  last_name: БОЧАРОВ
-  whole_name: Вячеслав Алексеевич БОЧАРОВ
+- first_name: Vjatjeslav
+  middle_name: Aleksejevitj
+  last_name: BOTJAROV
+  whole_name: Vjatjeslav Aleksejevitj BOTJAROV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '154205'
+  logical_id: '155201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Vyacheslav
+  middle_name: Alekseevich
+  last_name: BOCHAROV
+  whole_name: Vyacheslav Alekseevich BOCHAROV
+  function: |-
+    First Deputy President of the Public Chamber of the Russian Federation;
+    Member of the working group special military operation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154206'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

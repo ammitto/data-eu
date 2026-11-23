@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО “Электроавтоматика
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: JSC  Electroavtomatika
   function: JSC Elektroavtomatika is the prime contractor for government contracts
     on military products with the Russian Ministry of Defense.
@@ -22,16 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО “Электроавтоматика
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184740'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -25,21 +25,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ОБОРОНТЕСТ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Открытое Акционерное Общество
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ОБОРОНТЕСТ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,21 +74,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '7717686763'
+  number: '1107746923008'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183485'
-  issue_date: '2020-11-12'
+  logical_id: '183486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '1107746923008'
+  number: '7717686763'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183486'
+  logical_id: '183485'
+  issue_date: '2020-11-12'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -1,0 +1,102 @@
+---
+eu_reference_number: EU.14958.1
+logical_id: '185227'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Ирина Викторовна КРАВЧЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Iryna Viktorovna KRAVCHENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Ірина Вікторівна КРАВЧЕНКО
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '185230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Iryna Viktorivna KRAVCHENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Irina Viktorivna KRAVCHENKO
+  function: Commissioner for Children’s Rights in the Russian-occupied Kherson region
+    of Ukraine (occupation administration)
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+citizenships:
+- country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '185229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+birthdates:
+- birthdate: '1979-05-18'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 18
+  month_of_year: 5
+  year: 1979
+  region: Kherson Oblast
+  place: Rakivka
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '185228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

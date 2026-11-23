@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: حمید حسینی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '184931'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-08'
-    number_title: 2026/1225 (OJ L202601225)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
 - whole_name: Hamid HOSSEINI
   function: Spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’
     Union.
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-08'
+    number_title: 2026/1225 (OJ L202601225)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601225
+- whole_name: حمید حسینی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '184931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-08'

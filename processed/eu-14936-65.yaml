@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ольга Адольфовна КИРИЙ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
 - whole_name: Olga Adolfovna KIRIY
   gender: F
   title: Russian national and a journalist and producer at RT Documentary
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-15'
-    number_title: 2026/1356 (OJ L202601356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
-- whole_name: Ольга Адольфовна КИРИЙ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-15'

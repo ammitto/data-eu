@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Артем Игоревич ГОРОДИЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/613 (OJ L202600613)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
 - whole_name: Artem Igorevich GORODILOV
   function: |-
     Colonel; Commander of the 83rd
@@ -39,6 +28,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
+- whole_name: Артем Игоревич ГОРОДИЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185783'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

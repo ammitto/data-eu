@@ -15,15 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Илья
-  middle_name: Эдуардович
-  last_name: ТОРОСОВ
-  whole_name: Илья Эдуардович ТОРОСОВ
+- whole_name: Ilja Eduardovitj TOROSOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149761'
+  logical_id: '151034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -44,12 +41,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Ilja Eduardovitj TOROSOV
+- first_name: Илья
+  middle_name: Эдуардович
+  last_name: ТОРОСОВ
+  whole_name: Илья Эдуардович ТОРОСОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151034'
+  logical_id: '149761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

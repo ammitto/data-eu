@@ -15,12 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergueï Viktorovich LAVROV
+- whole_name: Sergey Viktorovich LAVROV
+  function: Minister of Foreign Affairs of the Russian Federation
   gender: M
-  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '136018'
+  logical_id: '135916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -37,22 +37,22 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Сергей Викторович ЛАВРОВ
+- whole_name: Sergueï Viktorovich LAVROV
   gender: M
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '135915'
+  logical_id: '136018'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Sergey Viktorovich LAVROV
-  function: Minister of Foreign Affairs of the Russian Federation
+- whole_name: Сергей Викторович ЛАВРОВ
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '135916'
+  logical_id: '135915'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

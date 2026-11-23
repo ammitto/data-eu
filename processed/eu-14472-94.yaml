@@ -25,11 +25,13 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: PJSC AKB Primorye
+- whole_name: Public Joint Stock  Company Commercial  Bank Primorye
+  function: Public Joint Stock Company Commercial Bank Primorye is a leading financial
+    institution in the Russian Far East
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183019'
+  logical_id: '183021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -45,13 +47,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Public Joint Stock  Company Commercial  Bank Primorye
-  function: Public Joint Stock Company Commercial Bank Primorye is a leading financial
-    institution in the Russian Far East
+- whole_name: PJSC AKB Primorye
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183021'
+  logical_id: '183019'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

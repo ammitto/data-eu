@@ -29,16 +29,6 @@ name_aliases:
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- whole_name: Regavim Movement
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: רגבים
   name_language: HE
   strong: true
@@ -49,46 +39,22 @@ name_aliases:
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-addresses:
-- city: Bersheeba
-  country_iso2_code: IL
-  country_description: ISRAEL
+- whole_name: Regavim Movement
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '185537'
+  logical_id: '185547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- city: Efrat
+addresses:
+- city: Ariel
   country_iso2_code: PS
   country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
-  logical_id: '185538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- city: Rehovot
-  country_iso2_code: IL
-  country_description: ISRAEL
-  regulation_language: en
-  logical_id: '185545'
-  po_box: 44439, Jerusalem, Israel, 914430
-  contact_infos:
-  - key: WEB
-    value: https://www.regavim.org/
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- city: Mo’din
-  country_iso2_code: IL
-  country_description: ISRAEL
-  regulation_language: en
-  logical_id: '185544'
+  logical_id: '185540'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
@@ -124,11 +90,15 @@ addresses:
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- city: Ariel
-  country_iso2_code: PS
-  country_description: PALESTINIAN TERRITORY, Occupied
+- city: Rehovot
+  country_iso2_code: IL
+  country_description: ISRAEL
   regulation_language: en
-  logical_id: '185540'
+  logical_id: '185545'
+  po_box: 44439, Jerusalem, Israel, 914430
+  contact_infos:
+  - key: WEB
+    value: https://www.regavim.org/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'
@@ -139,6 +109,36 @@ addresses:
   country_description: ISRAEL
   regulation_language: en
   logical_id: '185539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- city: Efrat
+  country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
+  regulation_language: en
+  logical_id: '185538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- city: Bersheeba
+  country_iso2_code: IL
+  country_description: ISRAEL
+  regulation_language: en
+  logical_id: '185537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- city: Mo’din
+  country_iso2_code: IL
+  country_description: ISRAEL
+  regulation_language: en
+  logical_id: '185544'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

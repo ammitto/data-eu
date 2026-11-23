@@ -15,23 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergei Liskovitš
+- first_name: Sergey Dmitrievich
+  last_name: LISKOVICH
+  whole_name: Sergey Dmitrievich LISKOVICH
+  function: General Director and majority owner of LLC LAGGAR PRO
   gender: M
-  name_language: FI
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Sergej Liskovič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '184695'
+  logical_id: '183124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -50,15 +42,23 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Sergey Dmitrievich
-  last_name: LISKOVICH
-  whole_name: Sergey Dmitrievich LISKOVICH
-  function: General Director and majority owner of LLC LAGGAR PRO
+- whole_name: Sergei Liskovitš
   gender: M
-  name_language: EN
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '183124'
+  logical_id: '184694'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Sergej Liskovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '184695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

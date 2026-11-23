@@ -15,38 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: niebedąca bankiem instytucja finansowa „Mobile Card” Limited
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '184772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Non-Banking financial company “Mobile card” Limited
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184037'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: LLC “Mobile Card”
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184038'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: ООО НКО “Мобильная карта”
   title: Limited Liability Company
   name_language: RU
@@ -68,19 +36,39 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-addresses:
-- street: 2nd Sovetskaya Street, 27/2, Liter A
-  city: Saint Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '191024'
+- whole_name: niebedąca bankiem instytucja finansowa „Mobile Card” Limited
+  name_language: PL
+  strong: true
   regulation_language: en
-  logical_id: '184032'
+  logical_id: '184772'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: LLC “Mobile Card”
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184038'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Non-Banking financial company “Mobile card” Limited
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184037'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+addresses:
 - street: Room 23N, Floor 8, House 64, Letter B, Malookhtinsky Prospekt
   city: Saint Petersburg
   country_iso2_code: RU
@@ -91,6 +79,18 @@ addresses:
   contact_infos:
   - key: WEB
     value: " https://www.mcplat.ru/"
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: 2nd Sovetskaya Street, 27/2, Liter A
+  city: Saint Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '191024'
+  regulation_language: en
+  logical_id: '184032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

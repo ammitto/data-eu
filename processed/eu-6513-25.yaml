@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bremino-groep LLC
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '130942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Bremino Gruppe LLC
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '130941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Bremino-groep LLC
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '130942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -44,6 +44,15 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Bremino Group LLC
+  strong: true
+  regulation_language: en
+  logical_id: '130944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Grupo Bremino LLC
   name_language: PT
   strong: true
@@ -64,16 +73,22 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Bremino Group LLC
-  strong: true
+addresses:
+- country_iso2_code: BY
+  country_description: BELARUS
   regulation_language: en
-  logical_id: '130944'
+  logical_id: '130938'
+  place: Bolbasovo village, Zavodskaya 1k, Orsha Region/Oblast
+  contact_infos:
+  - key: WEB
+    value: http://www.bremino.by
+  - key: EMAIL
+    value: office@bremino.by; marketing@bremino.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-addresses:
 - street: Niamiha 40
   city: Minsk
   country_iso2_code: BY
@@ -86,21 +101,6 @@ addresses:
     value: http://www.bremino.by
   - key: EMAIL
     value: 'office@bremino.by; marketing@bremino.by '
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '130938'
-  place: Bolbasovo village, Zavodskaya 1k, Orsha Region/Oblast
-  contact_infos:
-  - key: WEB
-    value: http://www.bremino.by
-  - key: EMAIL
-    value: office@bremino.by; marketing@bremino.by
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

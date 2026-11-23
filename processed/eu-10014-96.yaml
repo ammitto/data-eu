@@ -15,66 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ASwJ
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Ahlu Sunna wa Jamaah
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Mozambique Wilaya of the Islamic State
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Al-Shabaab in Mozambique
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152732'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Al-Shabaab
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Ansar Al-Sunna
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
 - whole_name: ISIL-M
   name_language: EN
   strong: true
@@ -100,6 +40,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Wilaja Mozambik Państwa Islamskiego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Asz-Szabab w Mozambiku
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Asz-Szabab
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Państwo Islamskie – Mozambik
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Państwo Islamskie w Iraku i Syrii – Mozambik
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: ISIS–Mozambik
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -180,66 +180,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Wilaja Mozambik Państwa Islamskiego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Asz-Szabab w Mozambiku
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Asz-Szabab
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Państwo Islamskie – Mozambik
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Państwo Islamskie w Iraku i Syrii – Mozambik
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: ISIS–Mozambik
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -430,6 +370,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152728'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: ASwJ
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Ahlu Sunna wa Jamaah
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Mozambique Wilaya of the Islamic State
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Al-Shabaab in Mozambique
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Al-Shabaab
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Ansar Al-Sunna
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

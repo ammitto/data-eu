@@ -15,23 +15,33 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: centro estatal de investigação e produção espacial designado em honra
-    de M.V. Khrunichev
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '151192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Państwowe Centrum Badań i Produkcji w dziedzinie Przestrzeni Kosmicznej
     imienia M.V.  Khrunicheva, Sp. z o.o.
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '151148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions "Centre  M.V. Khrounitchev de recherche et de production
+    spatiales d’État"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Centro Espacial Khrunichev
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151193'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -181,22 +191,23 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Centro Espacial Khrunichev
+- whole_name: centro estatal de investigação e produção espacial designado em honra
+    de M.V. Khrunichev
   name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '151193'
+  logical_id: '151192'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions "Centre  M.V. Khrounitchev de recherche et de production
-    spatiales d’État"
-  name_language: FR
+- whole_name: Centrul de stat pentru cercetare și producție în domeniul spațial numit
+    în onoarea lui M.V. Khrunichev” SA
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '151122'
+  logical_id: '151259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -217,17 +228,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Centrul de stat pentru cercetare și producție în domeniul spațial numit
-    în onoarea lui M.V. Khrunichev” SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

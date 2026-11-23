@@ -28,17 +28,6 @@ name_aliases:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Duqm  Special Economic  Zone, Duqm,
-  city: Oman
-  country_iso2_code: OM
-  country_description: OMAN
-  regulation_language: en
-  logical_id: '184432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - street: 'C/O:  Dreamer Ship management  LLC-FZ 6th  Floor, Meydan  Grandstand, Al  Meydan
     Road,  Nad Al Sheba,'
   city: Dubai
@@ -46,6 +35,17 @@ addresses:
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '184431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: Duqm  Special Economic  Zone, Duqm,
+  city: Oman
+  country_iso2_code: OM
+  country_description: OMAN
+  regulation_language: en
+  logical_id: '184432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

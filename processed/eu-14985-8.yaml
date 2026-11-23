@@ -1,0 +1,131 @@
+---
+eu_reference_number: EU.14985.8
+logical_id: '185436'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC Sanatorium “Vita”
+  function: LLC Sanatorium “Vita” (Camp “Vita”) is a children’s recreation resort.
+    It hosts 21-day summer sessions for children aged 6–15, combining recreation,
+    education, leadership development.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Children’s Sanatorium “Vita”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: "“Vita” Children’s Resort"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185444'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО “Санаторий “Вита"
+  strong: true
+  regulation_language: en
+  logical_id: '185443'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Детский санаторий "Вита"
+  strong: true
+  regulation_language: en
+  logical_id: '185442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Детский Курорт “Вита”
+  strong: true
+  regulation_language: en
+  logical_id: '185441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- street: Divny passage, 19C1
+  city: Anapa
+  region: Krasnodar Territory
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '353456'
+  regulation_language: en
+  logical_id: '185437'
+  contact_infos:
+  - key: WEB
+    value: https://vita-anapa.ru/; https://vitakurort.ru/
+  - key: PHONE
+    value: "+7 (86133) 97-888"
+  - key: EMAIL
+    value: vita-anapa@mail.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+identifications:
+- identification_type_code: regnumber
+  number: '1052300019540'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185440'
+  issue_date: '2005-09-19'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '230101001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '2301054275'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

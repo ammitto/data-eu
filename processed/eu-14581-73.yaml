@@ -15,14 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Михаил Владимирович
-  last_name: ДЕГТЯРЁВ
-  whole_name: Михаил Владимирович ДЕГТЯРЁВ
+- first_name: Mikhail Vladimirovich
+  last_name: DEGTYAREV
+  whole_name: Mikhail Vladimirovich DEGTYAREV
   gender: M
-  name_language: RU
+  title: Minister of Sport of Russia; President of the Russian Olympic Committee
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183575'
+  logical_id: '183577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -41,15 +42,14 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Mikhail Vladimirovich
-  last_name: DEGTYAREV
-  whole_name: Mikhail Vladimirovich DEGTYAREV
+- first_name: Михаил Владимирович
+  last_name: ДЕГТЯРЁВ
+  whole_name: Михаил Владимирович ДЕГТЯРЁВ
   gender: M
-  title: Minister of Sport of Russia; President of the Russian Olympic Committee
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183577'
+  logical_id: '183575'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

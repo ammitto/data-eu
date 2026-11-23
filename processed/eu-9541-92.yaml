@@ -15,60 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Hazrat Abufazl
-    -joukot  Lorestanissa
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Hazrat Abufazl
-    v provincii Lorestán
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '148816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: regionalna  enota Islamske revolucionarne garde  Hazrat Abufazl) v provinci
-    Lorestan
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148920'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamiska revolutionsgardets regionala  Hazrat Abufazl-styrkor i Lorestan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148828'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpul provincial «Hazrat Abufazl» al  Corpului Gardienilor Revoluției
-    Iraniene (IRGC) din Lorestan
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '148742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Регионален корпус Hazrat Abufazl на  Корпуса на гвардейците на ислямската  революция
     (IRGC) в Lorestan
   name_language: BG
@@ -80,12 +26,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's)  regionale korps Hazrat Abufazl
-    i Lorestan
-  name_language: DA
+- whole_name: Corpul provincial «Hazrat Abufazl» al  Corpului Gardienilor Revoluției
+    Iraniene (IRGC) din Lorestan
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '148772'
+  logical_id: '148742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -244,6 +190,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Hazrat Abufazl
+    -joukot  Lorestanissa
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Cór réigiúnach Hazrat Abufazl an Islamic  Revolutionary Guard Corps
     (IRGC) in  Lorestan
   name_language: GA
@@ -271,6 +228,49 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148545'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's)  regionale korps Hazrat Abufazl
+    i Lorestan
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Hazrat Abufazl
+    v provincii Lorestán
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '148816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: regionalna  enota Islamske revolucionarne garde  Hazrat Abufazl) v provinci
+    Lorestan
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamiska revolutionsgardets regionala  Hazrat Abufazl-styrkor i Lorestan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148828'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

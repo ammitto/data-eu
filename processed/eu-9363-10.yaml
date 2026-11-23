@@ -15,21 +15,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: CONSTRUCȚII DE  MAȘINI VOLGOGRAD  «VGTZ»
-  name_language: RO
+- whole_name: ВОЛГОГРАДСКАЯ МАШИНОСТРОИТЕЛЬНАЯ КОМПАНИЯ "ВГТЗ"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147867'
+  logical_id: '147104'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: VOLGOGRADO MAŠINŲ GAMYBOS BENDROVĖ „VGTZ“
-  name_language: LT
+- whole_name: VOLGOGRAD MACHINE-BUILDING COMPANY "VGTZ"
   strong: true
   regulation_language: en
-  logical_id: '147956'
+  logical_id: '147106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -45,6 +44,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: EMPRESA  DE MAQUINARIA DE VOLGOGRADO "VGTZ"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: "»VGTZ« VOLGOGRÁDI GÉPGYÁRTÓ VÁLLALAT"
   name_language: HU
   strong: true
@@ -55,30 +64,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: VOLGOGRAD MACHINE-BUILDING COMPANY "VGTZ"
+- whole_name: VOLGOGRADO MAŠINŲ GAMYBOS BENDROVĖ „VGTZ“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147106'
+  logical_id: '147956'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ВОЛГОГРАДСКАЯ МАШИНОСТРОИТЕЛЬНАЯ КОМПАНИЯ "ВГТЗ"
-  name_language: RU
+- whole_name: CONSTRUCȚII DE  MAȘINI VOLGOGRAD  «VGTZ»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147104'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: EMPRESA  DE MAQUINARIA DE VOLGOGRADO "VGTZ"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147799'
+  logical_id: '147867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

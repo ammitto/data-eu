@@ -15,11 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Uralmash NGO Holding S.R.L.
-  name_language: RO
+- whole_name: Uralmash NGO Holding LLC
+  title: Limited liability company; Holding company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184828'
+  logical_id: '183550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -35,22 +36,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Uralmash Oil and Gas Equipment Holding LLC
-  name_language: EN
+- whole_name: Uralmash NGO Holding S.R.L.
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '183549'
+  logical_id: '184828'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Uralmash NGO Holding LLC
-  title: Limited liability company; Holding company
+- whole_name: Uralmash Oil and Gas Equipment Holding LLC
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '183550'
+  logical_id: '183549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

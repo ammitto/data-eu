@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Jihad Research and Self-Sufficiency του Στρατού των Φρουρών της Ισλαμικής
+    Επανάστασης
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
 - whole_name: Organización para la Jihad de Investigación y Autosuficiencia del Cuerpo
     de la Guardia Revolucionaria Islámica
   name_language: ES
@@ -54,38 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147569'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Organizacja Dżihadu na rzecz Badań i Samowystarczalności Korpusu Strażników
-    Rewolucji Islamskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Research  and Self-Sufficiency Jihad Organization inom Islamiska  revolutionsgardet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '147571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Organizația pentru cercetare și autosuficiență pentru Jihad din cadrul  Corpului
-    Gardienilor Revoluției  Iraniene
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -156,10 +135,11 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2430 (OJ L318-I )
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: IRGC SSJO
+- whole_name: Research  and Self-Sufficiency Jihad Organization inom Islamiska  revolutionsgardet
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '147584'
+  logical_id: '147571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -185,12 +165,12 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2430 (OJ L318-I )
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Jihad Research and Self-Sufficiency του Στρατού των Φρουρών της Ισλαμικής
-    Επανάστασης
-  name_language: EL
+- whole_name: Organisation du djihad pour la recherche et l’autosuffisance du Corps
+    des gardiens de la révolution islamique
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147565'
+  logical_id: '147564'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -207,12 +187,32 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2430 (OJ L318-I )
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
-- whole_name: Organisation du djihad pour la recherche et l’autosuffisance du Corps
-    des gardiens de la révolution islamique
-  name_language: FR
+- whole_name: IRGC SSJO
   strong: true
   regulation_language: en
-  logical_id: '147564'
+  logical_id: '147584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Organizacja Dżihadu na rzecz Badań i Samowystarczalności Korpusu Strażników
+    Rewolucji Islamskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147570'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
+- whole_name: Organizația pentru cercetare și autosuficiență pentru Jihad din cadrul  Corpului
+    Gardienilor Revoluției  Iraniene
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

@@ -15,6 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО "ШВАБЕ"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Акционерное общество "ШВАБЕ"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: JSC “Shvabe”
   name_language: EN
   strong: true
@@ -60,26 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО "ШВАБЕ"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Акционерное общество "ШВАБЕ"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

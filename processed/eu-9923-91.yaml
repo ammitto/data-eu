@@ -15,46 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: carcere di Qarchak
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '151578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Věznice Karčak
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '151579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: väznica Qarčak
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Zatvor Qarchak
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: gevangenis van Qarchak
   name_language: NL
   strong: true
@@ -480,6 +440,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151575'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: carcere di Qarchak
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '151578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Věznice Karčak
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '151579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: väznica Qarčak
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Zatvor Qarchak
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

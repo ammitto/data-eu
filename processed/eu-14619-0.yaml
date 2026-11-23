@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Роман Герадотович
+  last_name: ДЕМУРЧИЕВ
+  whole_name: Роман Герадотович ДЕМУРЧИЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Geradotovich
   last_name: DEMURCHIEV
   whole_name: Geradotovich DEMURCHIEV
@@ -25,19 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183705'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Роман Герадотович
-  last_name: ДЕМУРЧИЕВ
-  whole_name: Роман Герадотович ДЕМУРЧИЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183704'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

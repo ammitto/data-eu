@@ -15,11 +15,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ryazan Oil Refinery
+- whole_name: RNPK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181045'
+  logical_id: '181047'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: JSC Ryazan Oil Refinery
+  function: JSC Ryazan Oil Refinery is a Russian entity operating an oil refinery
+    in the city of Ryazan.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -35,11 +47,11 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: RNPK
+- whole_name: Ryazan Oil Refinery
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181047'
+  logical_id: '181045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -50,18 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: JSC Ryazan Oil Refinery
-  function: JSC Ryazan Oil Refinery is a Russian entity operating an oil refinery
-    in the city of Ryazan.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

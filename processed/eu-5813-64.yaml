@@ -15,51 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Светлана
-  middle_name: Петровна
-  last_name: КАЦУБО
-  whole_name: Светлана Петровна КАЦУБО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Святлана
-  middle_name: Пятроўна
-  last_name: КАЦУБА
-  whole_name: Святлана Пятроўна КАЦУБА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sviatlana
-  middle_name: Piatrouna
-  last_name: KATSUBA
-  whole_name: Sviatlana Piatrouna KATSUBA
-  function: |-
-    Chair of Social Humanities and Legal Disciplines at Gomel/Homyel State Technical University.,
-    former Member of the Central Electoral Commission (CEC)
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Svetlana
   middle_name: Petrovna
   last_name: KATSUBO
@@ -83,6 +38,51 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sviatlana
+  middle_name: Piatrouna
+  last_name: KATSUBA
+  whole_name: Sviatlana Piatrouna KATSUBA
+  function: |-
+    Chair of Social Humanities and Legal Disciplines at Gomel/Homyel State Technical University.,
+    former Member of the Central Electoral Commission (CEC)
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Святлана
+  middle_name: Пятроўна
+  last_name: КАЦУБА
+  whole_name: Святлана Пятроўна КАЦУБА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Светлана
+  middle_name: Петровна
+  last_name: КАЦУБО
+  whole_name: Светлана Петровна КАЦУБО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125546'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

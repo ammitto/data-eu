@@ -45,76 +45,6 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Qaedat al-Jihad auf dem indischen Subkontinent
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '133778'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al-Qa’ida auf dem indischen Subkontinent
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '133779'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al-Qaeda auf dem indischen Subkontinent
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '133780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: al-Káida na indickém subkontinentu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '133781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al-Qaeda i bhfo-ilchríoch na hIndia (AQIS)
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '133782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al-Qaida en guerre sainte dans le sous-continent indien
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '133783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: India poolsaare Al Qaeda
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '133784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Qaedat al-Jihad i bhfo-ilchríoch na hIndia
   name_language: GA
   strong: true
@@ -135,11 +65,11 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al Kaida na Indijski podcelini (AQIS)
-  name_language: SL
+- whole_name: Qaedat al-Jihad na Indijskom potkontinentu
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '133807'
+  logical_id: '133787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -205,11 +135,11 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Al-Qa’ida fis-Subkontinent Indjan
-  name_language: MT
+- whole_name: India poolsaare Al Qaeda
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '133794'
+  logical_id: '133784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -335,6 +265,76 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Al Kaida na Indijski podcelini (AQIS)
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '133807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Qaedat al-Jihad auf dem indischen Subkontinent
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '133778'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Al-Qa’ida auf dem indischen Subkontinent
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '133779'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Al-Qaeda auf dem indischen Subkontinent
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '133780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: al-Káida na indickém subkontinentu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '133781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Al-Qaeda i bhfo-ilchríoch na hIndia (AQIS)
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '133782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Al-Qaida en guerre sainte dans le sous-continent indien
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '133783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Qaedat al-Jihad del Subcontinente Indio
   name_language: ES
   strong: true
@@ -372,11 +372,11 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Qaedat al-Jihad na Indijskom potkontinentu
-  name_language: HR
+- whole_name: Al-Qa’ida fis-Subkontinent Indjan
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '133787'
+  logical_id: '133794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

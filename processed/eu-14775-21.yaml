@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: A7 Agent Limited Liability Company  a.k.a. A7 AGENT  LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Общество с ограниченной ответственностью  А7-Агент
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '184424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: A7 Agent Limited Liability Company  a.k.a. A7 AGENT  LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

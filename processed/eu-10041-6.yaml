@@ -15,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Εταιρεία Neptunus LLC
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '153069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Neptunus SRL
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '153062'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: societatea Neptune SRL
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '153061'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - whole_name: Neptunus LLC
   name_language: EN
   strong: true
@@ -115,11 +145,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Société Neptunus LLC
-  name_language: FR
+- whole_name: Společnost Neptunus LLC
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153037'
+  logical_id: '153083'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -135,41 +165,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Společnost Neptunus LLC
-  name_language: CS
+- whole_name: Société Neptunus LLC
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '153083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: societatea Neptune SRL
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '153061'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Neptunus SRL
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '153062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Εταιρεία Neptunus LLC
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '153069'
+  logical_id: '153037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
