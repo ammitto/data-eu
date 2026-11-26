@@ -15,37 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрей
-  middle_name: Андреевич
-  last_name: ЗАДАЧИН
-  whole_name: Андрей Андреевич ЗАДАЧИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '153609'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Andrei
-  middle_name: Andreevich
-  last_name: ZADACHIN
-  whole_name: Andrei Andreevich ZADACHIN
-  function: Investigator of the Major Investigative Unit at the Investigative Committee
-    of the Russian Federation
-  gender: M
-  title: Major
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Andrej
   middle_name: Andrejevitj
   last_name: ZADATJIN
@@ -55,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Андрей
+  middle_name: Андреевич
+  last_name: ЗАДАЧИН
+  whole_name: Андрей Андреевич ЗАДАЧИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '153609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -73,6 +56,23 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- first_name: Andrei
+  middle_name: Andreevich
+  last_name: ZADACHIN
+  whole_name: Andrei Andreevich ZADACHIN
+  function: Investigator of the Major Investigative Unit at the Investigative Committee
+    of the Russian Federation
+  gender: M
+  title: Major
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153610'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Andrej
   middle_name: Andrejevič
   last_name: ZADAČIN
@@ -115,16 +115,6 @@ birthdates:
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
 identifications:
-- identification_type_code: fiscalcode
-  number: '771577190559'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '153608'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - identification_type_code: other
   number: YBLWST14JJ39
   country_iso2_code: '00'
@@ -135,3 +125,13 @@ identifications:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- identification_type_code: fiscalcode
+  number: '771577190559'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '153608'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098

@@ -1,0 +1,111 @@
+---
+eu_reference_number: EU.14956.3
+logical_id: '185210'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Александр Михайлович КАЛЯГИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185217'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Aleksandr Mikhailovich KALYAGIN
+  function: Minister of Education and Science of Zaporizhzhia Oblast
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+birthdates:
+- birthdate: '1972-04-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 4
+  year: 1972
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185211'
+  contact_infos:
+  - key: EMAIL
+    value: am.kalyagin@mon.zo.gov.ru kalyaginam_mgudt@bk.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+identifications:
+- identification_type_code: other
+  number: '00151523478'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: taxid
+  number: '501200303128'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185216'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: passport
+  number: 64 03 948143
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185215'
+  issue_date: '2002-11-14'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

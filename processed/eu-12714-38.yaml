@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Voskresensky Aggregátumgyár« Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ “ВОСКРЕСЕНСКИЙ ГОСУДАРСТВЕННЫЙ КАЗЕННЫЙ
     АГРЕГАТНЫЙ ЗАВОД”
   name_language: RU
@@ -36,11 +26,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ФКП “Воскресенский Государственный Казенный Агрегатный Завод”
-  name_language: RU
+- whole_name: Fabrica de agregare Voskresensky
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '172673'
+  logical_id: '173337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -132,21 +122,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo ‚Voskresensky Aggregation Factory’
-  name_language: HR
+- whole_name: ФКП “Воскресенский Государственный Казенный Агрегатный Завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Akcinė bendrovė „Voskresensky Aggregation Factory“,
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '173461'
+  logical_id: '172673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -162,11 +142,41 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Fabrica de agregare Voskresensky
-  name_language: RO
+- whole_name: Voskresensky Aggregátumgyár« Részvénytársaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173337'
+  logical_id: '173424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Voskresensky  Aggregátumgyár« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Dioničko društvo ‚Voskresensky Aggregation Factory’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Akcinė bendrovė „Voskresensky Aggregation Factory“,
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '173461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -192,16 +202,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Voskresensky  Aggregátumgyár« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
 - street: Tsiolkovsky st., 6
   city: Voskresensk urban district, Beloozersky town,
@@ -219,6 +219,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
 - identification_type_code: other
+  number: '5005073080'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
   number: '80688660'
   country_iso2_code: RU
   regulation_language: en
@@ -234,16 +244,6 @@ identifications:
   regulation_language: en
   logical_id: '172671'
   issue_date: '2023-01-31'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: other
-  number: '5005073080'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

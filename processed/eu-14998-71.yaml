@@ -35,16 +35,6 @@ name_aliases:
     publication_date: '2026-05-28'
     number_title: 2026/1177 (OJ L202601177)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
-- whole_name: השומר יו״ש
-  name_language: HE
-  strong: true
-  regulation_language: en
-  logical_id: '185552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-28'
-    number_title: 2026/1177 (OJ L202601177)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
 - whole_name: Guardians of Yehuda and the Shomron
   name_language: EN
   strong: true
@@ -70,6 +60,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185553'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-28'
+    number_title: 2026/1177 (OJ L202601177)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601177
+- whole_name: השומר יו״ש
+  name_language: HE
+  strong: true
+  regulation_language: en
+  logical_id: '185552'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-28'

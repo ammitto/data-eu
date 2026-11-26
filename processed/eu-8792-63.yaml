@@ -16,20 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
-  middle_name: Grigorjevitj
-  last_name: KULISJOV
-  whole_name: Vladimir Grigorjevitj KULISJOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Vladimir
   middle_name: Grigorevich
   last_name: KULISHOV
   whole_name: Vladimir Grigorevich KULISHOV
@@ -50,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Vladimir
+  middle_name: Grigorjevitj
+  last_name: KULISJOV
+  whole_name: Vladimir Grigorjevitj KULISJOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144655'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

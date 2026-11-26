@@ -19,15 +19,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad
-  strong: true
-  regulation_language: en
-  logical_id: '17795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-05-29'
-    number_title: 583/2014 (OJ L160)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
 - whole_name: Jama'atu Ahlis Sunna Lidda'Awati Wal-Jihad
   strong: true
   regulation_language: en
@@ -37,10 +28,10 @@ name_aliases:
     publication_date: '2014-05-29'
     number_title: 583/2014 (OJ L160)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
-- whole_name: Western Education is a Sin
+- whole_name: Jama'atu Ahlus-Sunnah Lidda'Awati Wal Jihad
   strong: true
   regulation_language: en
-  logical_id: '17798'
+  logical_id: '17795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-05-29'
@@ -59,6 +50,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-05-29'
+    number_title: 583/2014 (OJ L160)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:160:FULL&from=EN
+- whole_name: Western Education is a Sin
+  strong: true
+  regulation_language: en
+  logical_id: '17798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-05-29'

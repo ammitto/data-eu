@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Melkhiorovich
-  last_name: KRESS
-  whole_name: Viktor Melkhiorovich KRESS
-  function: member of the Federation Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Виктор
   middle_name: Мельхиорович
   last_name: КРЕСС
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Viktor
+  middle_name: Melkhiorovich
+  last_name: KRESS
+  whole_name: Viktor Melkhiorovich KRESS
+  function: member of the Federation Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -60,11 +60,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 11
   year: 1948
-  place: Antropovo
+  place: Vlasovo-Dvorino
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '146434'
+  logical_id: '146433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -76,11 +76,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 11
   year: 1948
-  place: Vlasovo-Dvorino
+  place: Antropovo
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '146433'
+  logical_id: '146434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

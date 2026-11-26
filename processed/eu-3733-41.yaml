@@ -30,6 +30,15 @@ name_aliases:
     publication_date: '2017-03-08'
     number_title: 2017/396 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0396&from=EN
+- whole_name: Mpano
+  strong: true
+  regulation_language: en
+  logical_id: '5115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-02-28'
+    number_title: 201/2007 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:059:0073:0074:EN:PDF
 - first_name: Doulas
   middle_name: Iruta
   last_name: Mpamo
@@ -42,15 +51,6 @@ name_aliases:
     publication_date: '2017-03-08'
     number_title: 2017/396 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0396&from=EN
-- whole_name: Mpano
-  strong: true
-  regulation_language: en
-  logical_id: '5115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-02-28'
-    number_title: 201/2007 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:059:0073:0074:EN:PDF
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)
@@ -62,22 +62,6 @@ citizenships:
     number_title: 1824/2005 (OJ L294)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
 birthdates:
-- birthdate: '1965-12-29'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 29
-  month_of_year: 12
-  year: 1965
-  city: Goma
-  country_iso2_code: CD
-  country_description: CONGO, Democratic Republic of (was Zaire)
-  regulation_language: en
-  logical_id: '854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-02-28'
-    number_title: 201/2007 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:059:0073:0074:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   city: Uvira
@@ -106,6 +90,22 @@ birthdates:
     publication_date: '2009-03-21'
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
+- birthdate: '1965-12-29'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 29
+  month_of_year: 12
+  year: 1965
+  city: Goma
+  country_iso2_code: CD
+  country_description: CONGO, Democratic Republic of (was Zaire)
+  regulation_language: en
+  logical_id: '854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-02-28'
+    number_title: 201/2007 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:059:0073:0074:EN:PDF
 addresses:
 - city: Gisenyi
   country_iso2_code: RW

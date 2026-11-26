@@ -16,12 +16,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ikrima
+- first_name: Abdikadir Mohamed
+  last_name: Abdikadir
+  whole_name: Abdikadir Mohamed Abdikadir
+  function: Senior Al-Shabaab leader
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167478'
+  logical_id: '167483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -35,6 +38,29 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- last_name: Abdukadir
+  whole_name: Abdukadir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Ikrima
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -60,32 +86,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- last_name: Abdukadir
-  whole_name: Abdukadir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- first_name: Abdikadir Mohamed
-  last_name: Abdikadir
-  whole_name: Abdikadir Mohamed Abdikadir
-  function: Senior Al-Shabaab leader
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'

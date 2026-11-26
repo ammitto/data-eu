@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ОOO "АЭРОМАКС"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: LLC "AEROMAKS"
   function: LLC “AEROMAKS” develops software for drones to perform various aviation
     operation including aerial photography, collection, processing, and preparation
@@ -34,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ОOO "АЭРОМАКС"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181497'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

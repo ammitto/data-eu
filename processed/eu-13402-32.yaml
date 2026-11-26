@@ -55,11 +55,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Ploshchad”
-  name_language: EN
+- whole_name: Акционерное Общество  “Площадь”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177344'
+  logical_id: '177345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -78,11 +78,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество  “Площадь”
-  name_language: RU
+- whole_name: JSC “Ploshchad”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177345'
+  logical_id: '177344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -106,22 +106,22 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
+- identification_type_code: taxid
+  number: '9723203841'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177338'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1237700463032'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177339'
   issue_date: '2023-07-10'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- identification_type_code: taxid
-  number: '9723203841'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177338'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

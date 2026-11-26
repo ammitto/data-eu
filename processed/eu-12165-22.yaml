@@ -15,14 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dzmitryj
-  last_name: Žuk
-  whole_name: Dzmitryj Žuk
+- whole_name: Dmitrii Aleksandrovich ZHUK
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169528'
+  logical_id: '169229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -53,12 +51,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Dmitrii Aleksandrovich ZHUK
+- whole_name: Дзмітрый Аляксандравіч ЖУК
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169229'
+  logical_id: '169228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -75,12 +73,14 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Дзмітрый Аляксандравіч ЖУК
+- first_name: Dzmitryj
+  last_name: Žuk
+  whole_name: Dzmitryj Žuk
   gender: M
-  name_language: BE
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '169228'
+  logical_id: '169528'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

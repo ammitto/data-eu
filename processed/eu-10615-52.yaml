@@ -18,16 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Marabou
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '156564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - whole_name: Mwarabu
   gender: M
   strong: true
@@ -51,50 +41,16 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Ahmed Mahmoud
-  last_name: HASSAN
-  whole_name: Ahmed Mahmoud HASSAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165404'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Abu WAQAS
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: SAINT JOYAGE
+- whole_name: Murabu
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '165402'
+  logical_id: '156565'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: LEBLANC
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '165401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - whole_name: Abuwakas
   gender: M
   strong: true
@@ -166,16 +122,60 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Murabu
+- whole_name: Marabou
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '156565'
+  logical_id: '156564'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
     number_title: 2023/1564 (OJ L190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+- first_name: Ahmed Mahmoud
+  last_name: HASSAN
+  whole_name: Ahmed Mahmoud HASSAN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: Abu WAQAS
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: SAINT JOYAGE
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '165402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: LEBLANC
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '165401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 citizenships:
 - country_iso2_code: TZ
   country_description: TANZANIA, UNITED REPUBLIC OF
@@ -226,22 +226,22 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 identifications:
 - identification_type_code: passport
-  number: AB850901
+  number: AB187304
   country_iso2_code: TZ
   regulation_language: en
-  logical_id: '165409'
-  valid_to: '2026-12-11'
+  logical_id: '165408'
+  valid_to: '2016-11-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - identification_type_code: passport
-  number: AB187304
+  number: AB850901
   country_iso2_code: TZ
   regulation_language: en
-  logical_id: '165408'
-  valid_to: '2016-11-28'
+  logical_id: '165409'
+  valid_to: '2026-12-11'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

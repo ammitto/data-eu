@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Polyus - Nyilvánosan Működő  Részvénytársaság
-  name_language: HU
+- whole_name: Публичное акционерное  общество   ПОЛЮС
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179510'
+  logical_id: '179371'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -56,11 +56,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Societatea publică pe  acțiuni - Polyus
-  name_language: RO
+- whole_name: Polyus - Nyilvánosan Működő  Részvénytársaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '179509'
+  logical_id: '179510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -76,11 +76,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Публичное акционерное  общество   ПОЛЮС
-  name_language: RU
+- whole_name: Societatea publică pe  acțiuni - Polyus
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '179371'
+  logical_id: '179509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -110,22 +110,22 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: taxid
-  number: '7703389295'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179369'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: regnumber
   number: '1068400002990'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179370'
   issue_date: '2006-03-17'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: taxid
+  number: '7703389295'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179369'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

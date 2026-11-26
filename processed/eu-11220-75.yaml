@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergei
-  middle_name: Valentinovich
-  last_name: PETROV
-  whole_name: Sergei Valentinovich PETROV
-  function: CEO and owner of PSV Technologies LLC
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Сергей Валентинович ПЕТРОВ
   gender: M
   name_language: RU
@@ -48,6 +34,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Sergei
+  middle_name: Valentinovich
+  last_name: PETROV
+  whole_name: Sergei Valentinovich PETROV
+  function: CEO and owner of PSV Technologies LLC
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

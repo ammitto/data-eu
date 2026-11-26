@@ -47,12 +47,36 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima STC Promtekhaero
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Научно-технически център за промишлени технологии и аеронавигационни
     системи
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '163870'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC STC Promtekhaero
+  function: JSC STC Promtekhaero (a.k.a. Scientific and Technical Center for Industrial
+    Technologies and Air Navigation Systems) is a Russian military-industrial state
+    enterprise that develops radio transmission and navigation equipment deployed
+    by the Russian armed forces.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -79,16 +103,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima STC Promtekhaero
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '164124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: NTC Promtehaero
   name_language: EN
   strong: true
@@ -105,20 +119,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC STC Promtekhaero
-  function: JSC STC Promtekhaero (a.k.a. Scientific and Technical Center for Industrial
-    Technologies and Air Navigation Systems) is a Russian military-industrial state
-    enterprise that develops radio transmission and navigation equipment deployed
-    by the Russian armed forces.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

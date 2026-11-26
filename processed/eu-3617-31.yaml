@@ -87,11 +87,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1957
   year_range_to: 1959
-  place: Mayan, Unity State
+  place: Mayom County Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '111319'
+  logical_id: '111320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -101,11 +101,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1957
   year_range_to: 1959
-  place: Mayom County Unity State
+  place: Mayan, Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '111320'
+  logical_id: '111319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

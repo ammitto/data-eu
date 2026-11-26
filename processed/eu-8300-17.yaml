@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Gruppo di società JSC KRONSHTADT TEKHNOLOGII
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '152418'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Vennootschap op aandelen KRONSHTADT TEKHNOLOGII (concern)
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '152432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -55,6 +35,16 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Gruppo di società JSC KRONSHTADT TEKHNOLOGII
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '152418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: JSC KRONSHTADT TEKHNOLOGII Group of Companies
   name_language: EN
   strong: true
@@ -65,26 +55,17 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-addresses:
-- street: Maly prospekt Vasilievsky island, 54/4
-  city: St. Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '199178'
+- whole_name: Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII
+  name_language: EL
+  strong: true
   regulation_language: en
-  logical_id: '140456'
-  contact_infos:
-  - key: WEB
-    value: https://kronshtadt.ru
-  - key: PHONE
-    value: "+7 (812) 449‑90‑90 "
-  - key: EMAIL
-    value: uav@kronshtadt.ru; office@kronshtadt.ru
+  logical_id: '152433'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+addresses:
 - street: Andropov Ave., 18, bldg. 9, Descartes Business Center
   city: Moscow
   country_iso2_code: RU
@@ -104,3 +85,22 @@ addresses:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- street: Maly prospekt Vasilievsky island, 54/4
+  city: St. Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '199178'
+  regulation_language: en
+  logical_id: '140456'
+  contact_infos:
+  - key: WEB
+    value: https://kronshtadt.ru
+  - key: PHONE
+    value: "+7 (812) 449‑90‑90 "
+  - key: EMAIL
+    value: uav@kronshtadt.ru; office@kronshtadt.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN

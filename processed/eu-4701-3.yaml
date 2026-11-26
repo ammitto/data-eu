@@ -15,13 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abu
-  middle_name: Walid
-  last_name: al Indunisi
-  whole_name: Abu Walid al Indunisi
+- first_name: Muh
+  last_name: Saifudin
+  whole_name: Muh Saifudin
   strong: true
   regulation_language: en
-  logical_id: '117941'
+  logical_id: '117937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- first_name: Ustadz
+  last_name: Faiz
+  whole_name: Ustadz Faiz
+  strong: true
+  regulation_language: en
+  logical_id: '117933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
@@ -49,6 +59,30 @@ name_aliases:
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- first_name: Abu
+  middle_name: Walid
+  last_name: al Indunisi
+  whole_name: Abu Walid al Indunisi
+  strong: true
+  regulation_language: en
+  logical_id: '117941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
+- first_name: Mohammed
+  middle_name: Yusip
+  last_name: Karim
+  whole_name: Mohammed Yusip Karim
+  strong: true
+  regulation_language: en
+  logical_id: '117942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-27'
+    number_title: 2018/1204 (OJ L217I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
 - first_name: Mohammad
   middle_name: Yusef Karim
   last_name: Faiz
@@ -56,17 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Muh
-  last_name: Saifudin
-  whole_name: Muh Saifudin
-  strong: true
-  regulation_language: en
-  logical_id: '117937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
@@ -101,34 +124,12 @@ name_aliases:
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Ustadz
-  last_name: Faiz
-  whole_name: Ustadz Faiz
+- first_name: Fauz
+  last_name: Faturohman
+  whole_name: Fauz Faturohman
   strong: true
   regulation_language: en
-  logical_id: '117933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Saifudin
-  last_name: Faiz
-  whole_name: Saifudin Faiz
-  strong: true
-  regulation_language: en
-  logical_id: '117932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-27'
-    number_title: 2018/1204 (OJ L217I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Kholid
-  last_name: Faiz
-  whole_name: Kholid Faiz
-  strong: true
-  regulation_language: en
-  logical_id: '117931'
+  logical_id: '117929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
@@ -145,24 +146,23 @@ name_aliases:
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Fauz
-  last_name: Faturohman
-  whole_name: Fauz Faturohman
+- first_name: Kholid
+  last_name: Faiz
+  whole_name: Kholid Faiz
   strong: true
   regulation_language: en
-  logical_id: '117929'
+  logical_id: '117931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'
     number_title: 2018/1204 (OJ L217I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1204&from=EN
-- first_name: Mohammed
-  middle_name: Yusip
-  last_name: Karim
-  whole_name: Mohammed Yusip Karim
+- first_name: Saifudin
+  last_name: Faiz
+  whole_name: Saifudin Faiz
   strong: true
   regulation_language: en
-  logical_id: '117942'
+  logical_id: '117932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-27'

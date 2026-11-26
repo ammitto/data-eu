@@ -15,15 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Рамиль
-  middle_name: Рахматуллович
-  last_name: Ибатуллин
-  whole_name: Рамиль Рахматуллович Ибатуллин
+- first_name: Ramil
+  middle_name: Rachmatullovitj
+  last_name: IBATULLIN
+  whole_name: Ramil Rachmatullovitj IBATULLIN
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '151452'
+  logical_id: '151524'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -60,15 +60,15 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Ramil
-  middle_name: Rachmatullovitj
-  last_name: IBATULLIN
-  whole_name: Ramil Rachmatullovitj IBATULLIN
+- first_name: Рамиль
+  middle_name: Рахматуллович
+  last_name: Ибатуллин
+  whole_name: Рамиль Рахматуллович Ибатуллин
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151524'
+  logical_id: '151452'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

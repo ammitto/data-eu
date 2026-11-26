@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Андрей
+  middle_name: Алексеевич
+  last_name: РЫБАКОВ
+  whole_name: Андрей Алексеевич РЫБАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Andrei
   middle_name: Aliakseevich
   last_name: RYBAKOU
@@ -27,20 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Andrei
-  middle_name: Alekseevich
-  last_name: RYBAKOV
-  whole_name: Andrei Alekseevich RYBAKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -73,20 +73,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Андрей
-  middle_name: Алексеевич
-  last_name: РЫБАКОВ
-  whole_name: Андрей Алексеевич РЫБАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Andrej
   last_name: Rybakou
   whole_name: Andrej Rybakou
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Andrei
+  middle_name: Alekseevich
+  last_name: RYBAKOV
+  whole_name: Andrei Alekseevich RYBAKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -117,11 +117,11 @@ birthdates:
   day_of_month: 11
   month_of_year: 7
   year: 1976
-  city: Mohiliow
+  city: Mogilev
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
-  logical_id: '170978'
+  logical_id: '170979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -133,11 +133,11 @@ birthdates:
   day_of_month: 11
   month_of_year: 7
   year: 1976
-  city: Mogilev
+  city: Mohiliow
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
-  logical_id: '170979'
+  logical_id: '170978'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

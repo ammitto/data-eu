@@ -1,0 +1,101 @@
+---
+eu_reference_number: EU.17626.33
+logical_id: '215407'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-07-30'
+  entry_into_force_date: '2026-07-30'
+  number_title: 2026/1883 (OJ L202601883)
+  programme: IRN
+  logical_id: '227238'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Uralmashplant JSC
+  function: Uralmashplant JSC is a leading manufacturer of equipment for the mining,
+    metallurgy, construction, and energy industries. The mining and metallurgy sectors
+    provide a substantial source of revenue to the Government of the Russian Federation.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '215414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+- whole_name: УЗТМ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '215410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+- whole_name: ПАО Уралмашзавод
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '215411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+- whole_name: UZTM
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '215412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+- whole_name: Uralmashzavod JSC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '215413'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+addresses:
+- street: Pervoy pyatiletki sq
+  city: Ekaterinburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '620012'
+  regulation_language: en
+  logical_id: '215408'
+  contact_infos:
+  - key: WEB
+    value: www.uralmash.ru; www.uralmash-kartex.ru
+  - key: PHONE
+    value: "+7 (343) 336-65-81; +7 (343) 336-68-40; +7 (343) 336-68-38; +7 (343) 336-63-58;
+      +7 (343) 327-12-77"
+  - key: EMAIL
+    value: mail@uralmash.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
+identifications:
+- identification_type_code: taxid
+  number: '6663005798'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '215409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-30'
+    number_title: 2026/1883 (OJ L202601883)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883

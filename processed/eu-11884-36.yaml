@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Grupul Zawaya pentru dezvoltare și investiții Co Ltd
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
 - whole_name: Grupul Zawaya pentru dezvoltare și investiții
   name_language: RO
   strong: true
@@ -35,11 +25,11 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1838 (OJ L28062023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Grupul Zawaya pentru dezvoltare și investiții Co
-  name_language: RO
+- whole_name: Zawaya Fejlesztési és Befektetési Csoport
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167782'
+  logical_id: '167777'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'
@@ -55,6 +45,56 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1838 (OJ L28062023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Grupul Zawaya pentru dezvoltare și investiții Co
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Zawaya Fejlesztési és  Befektetési Csoport Co
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Zawaya Group for Development and Investment
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Zawaya Group for Development and Investment Co
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Zawaya Fejlesztési és Befektetési Csoport Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
 - whole_name: Zawaya-csoport Co
   name_language: HU
   strong: true
@@ -65,11 +105,11 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1838 (OJ L28062023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Fejlesztési és Befektetési Csoport
-  name_language: HU
+- whole_name: Zawaya Group Co
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167777'
+  logical_id: '167705'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'
@@ -87,16 +127,6 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1838 (OJ L28062023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Fejlesztési és Befektetési Csoport Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
 - whole_name: Zawaya Fejlesztési és Befektetési Csoport Rt.
   name_language: HU
   strong: true
@@ -107,51 +137,21 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1838 (OJ L28062023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
+- whole_name: Grupul Zawaya pentru dezvoltare și investiții Co Ltd
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1838 (OJ L28062023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
 - whole_name: Zawaya Group for Development and Investment Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '167702'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Group for Development and Investment Co
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167703'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Group for Development and Investment
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167704'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Group Co
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167705'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1838 (OJ L28062023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401838
-- whole_name: Zawaya Fejlesztési és  Befektetési Csoport Co
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'

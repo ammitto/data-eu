@@ -15,6 +15,27 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Unia Donbaskich Ochotników
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Union of Donbas Volunteers
+  function: paramilitary organization that is actively fighting in the war of aggression
+    against Ukraine
+  strong: true
+  regulation_language: en
+  logical_id: '147388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: zveza donbaških prostovoljcev
   name_language: SL
   strong: true
@@ -35,32 +56,31 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Donbassi vabatahtlike liit
-  name_language: ET
+- whole_name: Съюзът на доброволците на Донбас
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '148108'
+  logical_id: '148029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Union of Donbas Volunteers
-  function: paramilitary organization that is actively fighting in the war of aggression
-    against Ukraine
+- whole_name: Unija dragovoljaca Donbasa
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '147388'
+  logical_id: '148047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: СОЮЗ ДОБРОВОЛЬЦЕВ ДОНБАССА
-  name_language: RU
+- whole_name: Donbassin vapaaehtoisten liitto
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '147387'
+  logical_id: '148048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -86,21 +106,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Freiwilligenunion des Donezkbeckens
-  name_language: DE
+- whole_name: Unión de Voluntarios de Dombás
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147673'
+  logical_id: '147790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: União dos Voluntários do Donbass
-  name_language: PT
+- whole_name: Freiwilligenunion des Donezkbeckens
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '147822'
+  logical_id: '147673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -116,11 +136,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Unión de Voluntarios de Dombás
-  name_language: ES
+- whole_name: União dos Voluntários do Donbass
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '147790'
+  logical_id: '147822'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -136,11 +156,31 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Donyec-medencei Önkéntesek Szövetsége
-  name_language: HU
+- whole_name: Uniunea Voluntarilor din Donbas
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147857'
+  logical_id: '147899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: СОЮЗ ДОБРОВОЛЬЦЕВ ДОНБАССА
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Donbassi vabatahtlike liit
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '148108'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -156,51 +196,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Unia Donbaskich Ochotników
-  name_language: PL
+- whole_name: Donyec-medencei Önkéntesek Szövetsége
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Uniunea Voluntarilor din Donbas
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147899'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Donbassin vapaaehtoisten liitto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Съюзът на доброволците на Донбас
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Unija dragovoljaca Donbasa
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148047'
+  logical_id: '147857'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

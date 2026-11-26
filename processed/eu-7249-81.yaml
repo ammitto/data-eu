@@ -15,15 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алексей
-  middle_name: Борисович
-  last_name: ГОВЫРИН
-  whole_name: Алексей Борисович ГОВЫРИН
+- first_name: Aleksej
+  middle_name: Borisovitj
+  last_name: GOVYRIN
+  whole_name: Aleksej Borisovitj GOVYRIN
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134734'
+  logical_id: '143912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Aleksej
-  middle_name: Borisovitj
-  last_name: GOVYRIN
-  whole_name: Aleksej Borisovitj GOVYRIN
+- first_name: Алексей
+  middle_name: Борисович
+  last_name: ГОВЫРИН
+  whole_name: Алексей Борисович ГОВЫРИН
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143912'
+  logical_id: '134734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

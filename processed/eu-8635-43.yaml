@@ -61,19 +61,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Aleksey
-  last_name: Kuzmenkov
-  whole_name: Aleksey Kuzmenkov
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Alexej
   last_name: Kuzmenkov
   whole_name: Alexej Kuzmenkov
@@ -108,6 +95,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Aleksey
+  last_name: Kuzmenkov
+  whole_name: Aleksey Kuzmenkov
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

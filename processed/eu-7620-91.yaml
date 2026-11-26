@@ -15,35 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дмитрий
-  middle_name: Аркадьевич
-  last_name: МАЗЕПИН
-  whole_name: Дмитрий Аркадьевич МАЗЕПИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Dmitry
-  middle_name: Arkadievich
-  last_name: MAZEPIN
-  whole_name: Dmitry Arkadievich MAZEPIN
-  function: Former CEO of JSC UCC Uralchem
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Dmitrij
   middle_name: Arkadjevitj
   last_name: MAZEPIN
@@ -84,6 +55,35 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Dmitry
+  middle_name: Arkadievich
+  last_name: MAZEPIN
+  whole_name: Dmitry Arkadievich MAZEPIN
+  function: Former CEO of JSC UCC Uralchem
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Дмитрий
+  middle_name: Аркадьевич
+  last_name: МАЗЕПИН
+  whole_name: Дмитрий Аркадьевич МАЗЕПИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

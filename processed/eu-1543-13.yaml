@@ -17,23 +17,24 @@ subject_type:
 name_aliases:
 - first_name: Muhammad
   middle_name: Yunis
-  last_name: Al-Ahmed
-  whole_name: Muhammad Yunis Al-Ahmed
+  last_name: Ahmed
+  whole_name: Muhammad Yunis Ahmed
   strong: true
   regulation_language: en
-  logical_id: '4160'
+  logical_id: '4161'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
     number_title: 1087/2005 (OJ L177)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
 - first_name: Muhammad
-  middle_name: Yunis Ahmed
-  last_name: Al-Moali
-  whole_name: Muhammad Yunis Ahmed Al-Moali
+  middle_name: Yunis
+  last_name: Ahmad
+  whole_name: Muhammad Yunis Ahmad
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '4163'
+  logical_id: '4159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
@@ -53,24 +54,23 @@ name_aliases:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
 - first_name: Muhammad
   middle_name: Yunis
-  last_name: Ahmed
-  whole_name: Muhammad Yunis Ahmed
+  last_name: Al-Ahmed
+  whole_name: Muhammad Yunis Al-Ahmed
   strong: true
   regulation_language: en
-  logical_id: '4161'
+  logical_id: '4160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
     number_title: 1087/2005 (OJ L177)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
 - first_name: Muhammad
-  middle_name: Yunis
-  last_name: Ahmad
-  whole_name: Muhammad Yunis Ahmad
-  gender: M
+  middle_name: Yunis Ahmed
+  last_name: Al-Moali
+  whole_name: Muhammad Yunis Ahmed Al-Moali
   strong: true
   regulation_language: en
-  logical_id: '4159'
+  logical_id: '4163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'

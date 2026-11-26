@@ -16,14 +16,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mochtar
-  last_name: Akhwan
-  whole_name: Mochtar Akhwan
+- first_name: Mochammad
+  last_name: Achwan
+  whole_name: Mochammad Achwan
+  function: Acting emir of Jemmah Anshorut Tauhid (JAT). Associated with Abu Bakar
+    Ba’asyir, Abdul Rahim Ba’aysir and Jemaah Islamiyah.
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '15752'
+  logical_id: '15748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-26'
@@ -37,21 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- first_name: Mochammad
-  last_name: Achwan
-  whole_name: Mochammad Achwan
-  function: Acting emir of Jemmah Anshorut Tauhid (JAT). Associated with Abu Bakar
-    Ba’asyir, Abdul Rahim Ba’aysir and Jemaah Islamiyah.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-26'
@@ -78,6 +65,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- first_name: Mochtar
+  last_name: Akhwan
+  whole_name: Mochtar Akhwan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-26'
@@ -154,6 +154,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 identifications:
 - identification_type_code: id
+  number: '3573010405480001'
+  country_iso2_code: ID
+  regulation_language: en
+  logical_id: '756'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- identification_type_code: id
   number: '353010405480001'
   country_iso2_code: ID
   regulation_language: en
@@ -173,13 +183,3 @@ identifications:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- identification_type_code: id
-  number: '3573010405480001'
-  country_iso2_code: ID
-  regulation_language: en
-  logical_id: '756'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC

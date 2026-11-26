@@ -26,17 +26,6 @@ name_aliases:
     publication_date: '2024-07-15'
     number_title: 2024/1960 (OJ L15072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Moše Šarvit
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '168314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
 - whole_name: Moshe SHARVIT
   function: An Israeli settler in the West Bank/Jordan Valley
   gender: M
@@ -44,6 +33,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Moše Šarvit
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '168314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

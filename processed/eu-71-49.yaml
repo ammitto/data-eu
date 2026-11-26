@@ -15,21 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Taha Mouhi-al-Din Marouf
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '413'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Taha Muhyi-al-Din Ma'ruf
   function: Vice President, Revolutionary Command Council
   strong: true
   regulation_language: en
   logical_id: '122'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Taha Mouhi-al-Din Marouf
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '413'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

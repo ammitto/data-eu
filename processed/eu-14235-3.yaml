@@ -15,28 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: shutd0wn
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: shutdown
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - whole_name: 吴海波
   gender: M
   name_language: ZH
@@ -54,6 +32,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: shutd0wn
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: shutdown
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

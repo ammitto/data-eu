@@ -15,21 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Uladzimir
-  middle_name: Aliaksandravich
-  last_name: DAVYDAU
-  whole_name: Uladzimir Aliaksandravich DAVYDAU
-  function: Judge of the Supreme Court of Belarus
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vladimir
   middle_name: Alexandrovich
   last_name: DAVYDOV
@@ -39,20 +24,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Владимир
-  middle_name: Александрович
-  last_name: ДАВЫДОВ
-  whole_name: Владимир Александрович ДАВЫДОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -72,40 +43,58 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Uladsimir
-  last_name: Davydau
-  whole_name: Uladsimir Davydau
+- first_name: Vladimir
+  middle_name: Aleksandrovitj
+  last_name: DAVYDOV
+  whole_name: Vladimir Aleksandrovitj DAVYDOV
   gender: M
-  name_language: DE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Владимир
-  last_name: Давидов
-  whole_name: Владимир Давидов
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '157390'
+  logical_id: '157386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Uladzimir
-  last_name: Davydaŭ
-  whole_name: Uladzimir Davydaŭ
+  middle_name: Aliaksandravich
+  last_name: DAVYDAU
+  whole_name: Uladzimir Aliaksandravich DAVYDAU
+  function: Judge of the Supreme Court of Belarus
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157389'
+  logical_id: '157395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Владимир
+  middle_name: Александрович
+  last_name: ДАВЫДОВ
+  whole_name: Владимир Александрович ДАВЫДОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Uladzimir
+  middle_name: Aljaksandravitj
+  last_name: DAVYDAU
+  whole_name: Uladzimir Aljaksandravitj DAVYDAU
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157387'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -126,28 +115,39 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Uladzimir
-  middle_name: Aljaksandravitj
-  last_name: DAVYDAU
-  whole_name: Uladzimir Aljaksandravitj DAVYDAU
+  last_name: Davydaŭ
+  whole_name: Uladzimir Davydaŭ
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157387'
+  logical_id: '157389'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vladimir
-  middle_name: Aleksandrovitj
-  last_name: DAVYDOV
-  whole_name: Vladimir Aleksandrovitj DAVYDOV
+- first_name: Владимир
+  last_name: Давидов
+  whole_name: Владимир Давидов
   gender: M
-  name_language: SV
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '157386'
+  logical_id: '157390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Uladsimir
+  last_name: Davydau
+  whole_name: Uladsimir Davydau
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '157391'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

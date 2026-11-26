@@ -37,6 +37,39 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Акционерное общество 'Государственное машиностроительное конструкторское
+    бюро "РАДУГА" имени А.Я. Березняка'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150178'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: JSC State Machine Building Design Bureau “Raduga”
+  function: a Russian developer and manufacturer of missiles
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions Bureau d’études d’État pour la construction mécanique
+    "Raduga"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Staats machinebouw- en ontwerpbureau “Raduga”
   name_language: NL
   strong: true
@@ -63,39 +96,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: JSC State Machine Building Design Bureau “Raduga”
-  function: a Russian developer and manufacturer of missiles
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150179'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Акционерное общество 'Государственное машиностроительное конструкторское
-    бюро "РАДУГА" имени А.Я. Березняка'
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150178'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Bureau d’études d’État pour la construction mécanique
-    "Raduga"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

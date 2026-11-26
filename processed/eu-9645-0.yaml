@@ -15,11 +15,92 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Irano  Islamo Respublikos teisėsaugos pajėgų (LEF) kooperatyvinis  fondas
-  name_language: LT
+- whole_name: Kooperationsstiftung der  Iranischen  Strafverfolgungskräfte
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '150407'
+  logical_id: '150378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Zaklada za  suradnju NAJA
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '150403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: بنیاد تعاون فراجا
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: NAJA Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: LEF Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Law Enforcement Forces of the Islamic Republic of Iran Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: بنیاد تعاون ناجا
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: فرماندهی انتظامی جمهورى اسلامی ایران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Zaklada za suradnju snaga za  izvršavanje zakonodavstva  Islamske Republike
+    Irana (LEF)
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '150404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -30,6 +111,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Irano  Islamo Respublikos teisėsaugos pajėgų (LEF) kooperatyvinis  fondas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '150407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Družstevná nadácia síl  presadzovania práva Iránskej  islamskej republiky
+    (LEF)
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '150409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -81,87 +183,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: فرماندهی انتظامی جمهورى اسلامی ایران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: NAJA Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: LEF Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Law Enforcement Forces of the Islamic Republic of Iran Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Družstevná nadácia síl  presadzovania práva Iránskej  islamskej republiky
-    (LEF)
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '150409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: بنیاد تعاون ناجا
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: بنیاد تعاون فراجا
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Kooperationsstiftung der  Iranischen  Strafverfolgungskräfte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '150378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -317,27 +338,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Zaklada za  suradnju NAJA
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '150403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Zaklada za suradnju snaga za  izvršavanje zakonodavstva  Islamske Republike
-    Irana (LEF)
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '150404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

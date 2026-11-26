@@ -15,6 +15,60 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ОАО “Гродно Азот”
+  strong: true
+  regulation_language: en
+  logical_id: '132153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: ААТ “Гродна Азот”
+  strong: true
+  regulation_language: en
+  logical_id: '132154'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Open Joint Stock Company “Grodno Azot”
+  strong: true
+  regulation_language: en
+  logical_id: '132155'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Филиал «Завод Химволокно» ОАО «Гродно Азот»
+  strong: true
+  regulation_language: en
+  logical_id: '132450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Філіял "Завод Хімвалакно" ААТ "Гродна Азот"
+  strong: true
+  regulation_language: en
+  logical_id: '132451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: "«Khimvolokno Plant» JSC «Grodno Azot»"
+  strong: true
+  regulation_language: en
+  logical_id: '132452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Ανοικτή συμμετοχική εταιρεία “Grodno Azot»
   name_language: EL
   strong: true
@@ -204,61 +258,21 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: ОАО “Гродно Азот”
-  strong: true
-  regulation_language: en
-  logical_id: '132153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: ААТ “Гродна Азот”
-  strong: true
-  regulation_language: en
-  logical_id: '132154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Open Joint Stock Company “Grodno Azot”
-  strong: true
-  regulation_language: en
-  logical_id: '132155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Филиал «Завод Химволокно» ОАО «Гродно Азот»
-  strong: true
-  regulation_language: en
-  logical_id: '132450'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Філіял "Завод Хімвалакно" ААТ "Гродна Азот"
-  strong: true
-  regulation_language: en
-  logical_id: '132451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: "«Khimvolokno Plant» JSC «Grodno Azot»"
-  strong: true
-  regulation_language: en
-  logical_id: '132452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 addresses:
+- street: 100 Kosmonavtov Ave.
+  city: Grodno/Hrodna
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '132151'
+  contact_infos:
+  - key: WEB
+    value: https://azot.by/en/
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - street: 4 Slavinskogo, St.
   city: Grodno/Hrodna
   country_iso2_code: BY
@@ -273,20 +287,6 @@ addresses:
     value: "+375 (152) 39-19-00; +375 (152) 39-19-44"
   - key: EMAIL
     value: office@grodno-khim.by; market@grodno-khim.by; ppm@grodno-khim.by; tnp@grodno-khim.by
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- street: 100 Kosmonavtov Ave.
-  city: Grodno/Hrodna
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '132151'
-  contact_infos:
-  - key: WEB
-    value: https://azot.by/en/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

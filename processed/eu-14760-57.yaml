@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Joint Stock  Company “ABS  ZEIM Automation”
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - whole_name: общество "АБС  ЗЭИМ  Автоматизация"
   title: Joint Stock  Company
   name_language: RU
@@ -37,17 +48,6 @@ name_aliases:
     publication_date: '2026-07-17'
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
-- whole_name: Joint Stock  Company “ABS  ZEIM Automation”
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 addresses:
 - street: I.Yakovleva ave., 1
   city: Cheboksary
@@ -63,21 +63,21 @@ addresses:
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 identifications:
-- identification_type_code: taxid
-  number: '2128006240'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - identification_type_code: regnumber
   number: '1022101130314'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '184360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
+- identification_type_code: taxid
+  number: '2128006240'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184359'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'

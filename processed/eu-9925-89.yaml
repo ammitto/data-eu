@@ -27,6 +27,16 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Bureau du chef des affaires militaires et de sécurité
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: Bureau van het hoofd van de militaire veiligheid
   name_language: NL
   strong: true
@@ -37,21 +47,11 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Кабинет на началника  по въпросите на  военната сигурност
-  name_language: BG
+- whole_name: Amt des Chefs des militärischen Sicherheitsdienstes
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '151514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Úrad veliteľa pre záležitosti vojenskej bezpečnosti
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151548'
+  logical_id: '151480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -107,16 +107,6 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Amt des Chefs des militärischen Sicherheitsdienstes
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '151480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: Karinių ir saugumo reikalų vadovo biuras
   name_language: LT
   strong: true
@@ -167,6 +157,26 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Úrad veliteľa pre záležitosti vojenskej bezpečnosti
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Кабинет на началника  по въпросите на  военната сигурност
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '151514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: Oficiul șefului securității militare
   name_language: RO
   strong: true
@@ -187,31 +197,21 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Γραφείο του Αρχηγού  Θεμάτων Στρατιωτικής  Ασφαλείας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151532'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Bureau du chef des affaires militaires et de sécurité
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: OCMSA
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '151489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Γραφείο του Αρχηγού  Θεμάτων Στρατιωτικής  Ασφαλείας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

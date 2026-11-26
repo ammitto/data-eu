@@ -15,11 +15,40 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: siły powietrzne IRGC
-  name_language: PL
+- whole_name: Islamic Revolutionary Guard Corps - Aerospace Force
   strong: true
   regulation_language: en
-  logical_id: '145957'
+  logical_id: '145440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Forza Ajruspazjali tal-Korp tal-Gwardjani  tar-Rivoluzzjoni Iżlamika
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '145948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: força aeroespacial do Corpo de Guardas da Revolução Islâmica
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Forțele Aerospațiale ale  Corpului Gardienilor Revoluției Islamice
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '145955'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -31,6 +60,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145956'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: siły powietrzne IRGC
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '145957'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Siły powietrzne i kosmiczne  Korpusu  Strażników Rewolucji Islamskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '145958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -194,15 +243,6 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Islamic Revolutionary Guard Corps - Aerospace Force
-  strong: true
-  regulation_language: en
-  logical_id: '145440'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Luft- und  Weltraumstreitkräfte des Korps der  Iranischen Revolutionsgarde
   name_language: DE
   strong: true
@@ -263,51 +303,11 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Forza Ajruspazjali tal-Korp tal-Gwardjani  tar-Rivoluzzjoni Iżlamika
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '145948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Fuerza  Aeroespacial del  Cuerpo de la Guardia Revolucionaria Islámica
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '145951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: força aeroespacial do Corpo de Guardas da Revolução Islâmica
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Forțele Aerospațiale ale  Corpului Gardienilor Revoluției Islamice
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '145955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Siły powietrzne i kosmiczne  Korpusu  Strażników Rewolucji Islamskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '145958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

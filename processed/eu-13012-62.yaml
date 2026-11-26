@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ООО Торговый Дом Лобаев Армс
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Sociedade de intermediação “Lobaev Arms”
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '175220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Лобаев Армс
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -58,26 +78,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ООО Торговый Дом Лобаев Армс
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Лобаев Армс
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Lenin street, Zd. 61, Str. 1, Office 1
   city: Tarusa, Tarus district
@@ -94,16 +94,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '401801001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174785'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1164027059382'
   country_iso2_code: RU
@@ -120,6 +110,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '401801001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

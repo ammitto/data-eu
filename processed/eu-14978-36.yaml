@@ -1,0 +1,93 @@
+---
+eu_reference_number: EU.14978.36
+logical_id: '185360'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Свiтлана Эдиславiвна БЕСПАЛОВА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '185364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Svetlana Edislavovna BESPALOVA
+  function: Deputy Minister of Education, Science and Youth of the Republic of Crimea
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Светлана Эдиславовна БЕСПАЛОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185365'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+citizenships:
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+birthdates:
+- birthdate: '1969-04-15'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 15
+  month_of_year: 4
+  year: 1969
+  city: Simferopol District
+  region: Crimean region
+  place: Simferopol District
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- street: 3 Sovnarkomovsky Lane
+  city: Simferopol
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '295000'
+  regulation_language: en
+  logical_id: '185361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

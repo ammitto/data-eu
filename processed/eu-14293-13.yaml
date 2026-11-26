@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Haywire Kitten
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/589 (OJ L202600589)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
 - whole_name: Aria Sepehr Ayandehsazan
   name_language: EN
   strong: true
@@ -35,11 +25,11 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: Holy Souls
+- whole_name: Emennet Pasargad
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182112'
+  logical_id: '182114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'
@@ -55,11 +45,21 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/589 (OJ L202600589)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
-- whole_name: Emennet Pasargad
+- whole_name: Holy Souls
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182114'
+  logical_id: '182112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/589 (OJ L202600589)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600589
+- whole_name: Haywire Kitten
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182110'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

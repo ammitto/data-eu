@@ -1,0 +1,79 @@
+---
+eu_reference_number: EU.14975.39
+logical_id: '185338'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- whole_name: Максим Николаевич ШВЕЦ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Maksim Nikolayevich SHVETS
+  function: Minister of Sports and Tourism of the so-called Donetsk People's Republic
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+citizenships:
+- country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '185340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+birthdates:
+- birthdate: '1993-09-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 9
+  year: 1993
+  city: Boikivske
+  region: Donetsk region
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '185339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+identifications:
+- identification_type_code: taxid
+  number: '614016408726'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

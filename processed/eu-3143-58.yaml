@@ -18,11 +18,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Hanifa
+- whole_name: Shamil Magomedovich Aliev
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106591'
+  logical_id: '106592'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -41,11 +41,11 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Shamil Magomedovich Aliev
+- whole_name: Abu Hanifa
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106592'
+  logical_id: '106591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -99,23 +99,23 @@ addresses:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 identifications:
 - identification_type_code: passport
-  number: '514448632'
+  number: '1200075689'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106590'
-  issue_date: '2010-09-08'
-  issued_by: RUSSIAN CONSULTATE IN EGYPT
+  logical_id: '106589'
+  issue_date: '2000-12-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - identification_type_code: passport
-  number: '1200075689'
+  number: '514448632'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106589'
-  issue_date: '2000-12-15'
+  logical_id: '106590'
+  issue_date: '2010-09-08'
+  issued_by: RUSSIAN CONSULTATE IN EGYPT
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

@@ -19,10 +19,10 @@ name_aliases:
   last_name: Sikorski
   whole_name: Arcjom Sikorski
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164165'
+  logical_id: '164186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -41,6 +41,46 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Арцём
+  middle_name: Iгаравiч
+  last_name: СIКОРСКI
+  whole_name: Арцём Iгаравiч СIКОРСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Artsijom
+  last_name: Sikorski
+  whole_name: Artsijom Sikorski
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Artem
+  middle_name: Igorevich
+  last_name: SIKORSKIY
+  whole_name: Artem Igorevich SIKORSKIY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Artsiom
   middle_name: Iharavitj
   last_name: SIKORSKI
@@ -50,6 +90,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Arcjom
+  last_name: Sikorski
+  whole_name: Arcjom Sikorski
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Артьом
+  last_name: Сикорский
+  whole_name: Артьом Сикорский
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164173'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -85,34 +151,6 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Artem
-  middle_name: Igorevich
-  last_name: SIKORSKIY
-  whole_name: Artem Igorevich SIKORSKIY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Арцём
-  middle_name: Iгаравiч
-  last_name: СIКОРСКI
-  whole_name: Арцём Iгаравiч СIКОРСКI
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Артем
   middle_name: Игоревич
   last_name: СИКОРСКИЙ
@@ -122,44 +160,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Arcjom
-  last_name: Sikorski
-  whole_name: Arcjom Sikorski
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Artsijom
-  last_name: Sikorski
-  whole_name: Artsijom Sikorski
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Артьом
-  last_name: Сикорский
-  whole_name: Артьом Сикорский
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164173'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

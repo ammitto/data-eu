@@ -15,29 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  middle_name: Ivanovitš
-  last_name: Piliptšik
-  whole_name: Vladimir Ivanovitš Piliptšik
+- first_name: Владимир
+  middle_name: Иванович
+  last_name: ПИЛИПЧИК
+  whole_name: Владимир Иванович ПИЛИПЧИК
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Vladimir
-  middle_name: Ivanovič
-  last_name: Pilipčik
-  whole_name: Vladimir Ivanovič Pilipčik
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164603'
+  logical_id: '164270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -58,15 +44,29 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Владимир
-  middle_name: Иванович
-  last_name: ПИЛИПЧИК
-  whole_name: Владимир Иванович ПИЛИПЧИК
+- first_name: Vladimir
+  middle_name: Ivanovič
+  last_name: Pilipčik
+  whole_name: Vladimir Ivanovič Pilipčik
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164270'
+  logical_id: '164603'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Vladimir
+  middle_name: Ivanovitš
+  last_name: Piliptšik
+  whole_name: Vladimir Ivanovitš Piliptšik
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

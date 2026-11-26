@@ -15,23 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Valentína Kamyninová
+- first_name: Valentina
+  middle_name: Frantsevna
+  last_name: KAMYNINA
+  whole_name: Valentina Frantsevna KAMYNINA
+  function: Judge of the Kyiv District Court of Simferopol
   gender: F
-  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Валентина Францевна КАМЫНИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162352'
+  logical_id: '162354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -48,34 +40,42 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Valentina
-  middle_name: Frantsevna
-  last_name: KAMYNINA
-  whole_name: Valentina Frantsevna KAMYNINA
-  function: Judge of the Kyiv District Court of Simferopol
+- whole_name: Валентина Францевна КАМЫНИНА
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '162354'
+  logical_id: '162352'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Valentína Kamyninová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 citizenships:
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '162349'
+  logical_id: '162350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '162350'
+  logical_id: '162349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

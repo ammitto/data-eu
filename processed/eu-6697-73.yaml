@@ -26,12 +26,22 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Александр  Борисович  ДАВИДЮК
+- whole_name: Aleksandr Borisovitj DAVIDJUK
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '131997'
+  logical_id: '132344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Aleksandr  Borisovich  DAVIDIUK
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '131999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -48,11 +58,12 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Aleksandr  Borisovich  DAVIDIUK
+- whole_name: Александр  Борисович  ДАВИДЮК
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '131999'
+  logical_id: '131997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -68,17 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Aleksandr Borisovitj DAVIDJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

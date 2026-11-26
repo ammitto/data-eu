@@ -20,20 +20,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gaston
-  last_name: Iyamuremye
-  whole_name: Gaston Iyamuremye
-  function: a) FDLR Interim President, b) FDLR-FOCA 1st Vice-President; c) FDLR-FOCA
-    Major General
-  title: Brigadier General
-  strong: true
-  regulation_language: en
-  logical_id: '8390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - whole_name: Rumuli
   strong: true
   regulation_language: en
@@ -73,6 +59,20 @@ name_aliases:
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- first_name: Gaston
+  last_name: Iyamuremye
+  whole_name: Gaston Iyamuremye
+  function: a) FDLR Interim President, b) FDLR-FOCA 1st Vice-President; c) FDLR-FOCA
+    Major General
+  title: Brigadier General
+  strong: true
+  regulation_language: en
+  logical_id: '8390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 citizenships:
 - country_iso2_code: RW
   country_description: RWANDA
@@ -87,11 +87,11 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1948
-  city: Musanze District (Northern Province)
+  city: Ruhengeri
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '1312'
+  logical_id: '1313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'
@@ -100,11 +100,11 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1948
-  city: Ruhengeri
+  city: Musanze District (Northern Province)
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '1313'
+  logical_id: '1312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'

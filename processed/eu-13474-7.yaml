@@ -15,6 +15,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: banque  Al-Khaleej
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '177933'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
+- whole_name: Al Rowad Bank For  Development & Investment
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177936'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
+- whole_name: بنك الخليج
+  name_language: SU
+  strong: true
+  regulation_language: en
+  logical_id: '177934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
+- whole_name: Al-Khaleej Bank
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
 - whole_name: Alkhaleej Bank Co Ltd
   function: 'Type of entity: Financial institution.'
   name_language: EN
@@ -31,46 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177937'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
-- whole_name: Al-Khaleej Bank
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177935'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
-- whole_name: بنك الخليج
-  name_language: SU
-  strong: true
-  regulation_language: en
-  logical_id: '177934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
-- whole_name: banque  Al-Khaleej
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
-- whole_name: Al Rowad Bank For  Development & Investment
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'

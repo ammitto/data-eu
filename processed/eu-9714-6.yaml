@@ -15,6 +15,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexey
+  middle_name: Vyacheslavovich
+  last_name: AVDEEV
+  whole_name: Alexey Vyacheslavovich AVDEEV
+  function: |-
+    Russian military leader; Commander of the 3rd
+    Vislenskaya Red Banner
+    Order of Suvorov and
+    Kutuzov Motor Rifle
+    Division
+  gender: M
+  title: Major General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Aleksej Vjatjeslavovitj AVDEJEV
   gender: M
   name_language: SV
@@ -35,27 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149893'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Alexey
-  middle_name: Vyacheslavovich
-  last_name: AVDEEV
-  whole_name: Alexey Vyacheslavovich AVDEEV
-  function: |-
-    Russian military leader; Commander of the 3rd
-    Vislenskaya Red Banner
-    Order of Suvorov and
-    Kutuzov Motor Rifle
-    Division
-  gender: M
-  title: Major General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

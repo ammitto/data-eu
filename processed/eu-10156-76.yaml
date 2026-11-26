@@ -16,6 +16,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Marina
+  last_name: Tauberová
+  whole_name: Marina Tauberová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Marina
   last_name: TAUBER
   whole_name: Marina TAUBER
   function: Deputy leader of the ȘOR Party and a Member of the Parliament of the Republic
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Marina
-  last_name: Tauberová
-  whole_name: Marina Tauberová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

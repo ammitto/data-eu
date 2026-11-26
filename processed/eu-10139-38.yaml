@@ -28,16 +28,15 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Elena
-  middle_name: Anatolievna
-  last_name: LENSKAYA
-  whole_name: Elena Anatolievna LENSKAYA
-  function: Judge of the Basmaniy District Court of Moscow
+- first_name: Jelena
+  middle_name: Anatoljevna
+  last_name: LENSKAJA
+  whole_name: Jelena Anatoljevna LENSKAJA
   gender: F
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '153639'
+  logical_id: '153927'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -59,6 +58,21 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Elena
   middle_name: Anatolievna
+  last_name: LENSKAYA
+  whole_name: Elena Anatolievna LENSKAYA
+  function: Judge of the Basmaniy District Court of Moscow
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Elena
+  middle_name: Anatolievna
   last_name: LENSKAJOVÁ
   whole_name: Elena Anatolievna LENSKAJOVÁ
   gender: F
@@ -66,20 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Jelena
-  middle_name: Anatoljevna
-  last_name: LENSKAJA
-  whole_name: Jelena Anatoljevna LENSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '153927'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: LLC “RN-Tuapse Oil Refinery”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Общество с ограниченной ответственностью “РН-Туапсинский Нефтеперерабатывающий
     Завод”
   name_language: RU
@@ -38,16 +48,6 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: LLC “RN-Tuapse Oil Refinery”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 addresses:
 - street: Sochi street, 1,
   city: Tuapse city
@@ -63,22 +63,22 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: taxid
-  number: '2365004375'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '180907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: regnumber
   number: '1052313098683'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '180908'
   issue_date: '2005-11-16'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- identification_type_code: taxid
+  number: '2365004375'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '180907'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

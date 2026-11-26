@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: توربو شافت م.م.ح
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '181315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Black Metal FZE
   name_language: EN
   strong: true
@@ -35,11 +25,11 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: بالك ميتال م م ح
+- whole_name: توربو شافت م.م.ح
   name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '181313'
+  logical_id: '181315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -54,6 +44,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181316'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: بالك ميتال م م ح
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '181313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -81,22 +81,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
 - identification_type_code: regnumber
-  number: AEC0006867
+  number: '11967354'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181312'
-  issued_by: Cedar Rose
+  logical_id: '181309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: regnumber
-  number: C1843799
+  number: AEC0006867
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181311'
-  issued_by: Acuris Unique ID
+  logical_id: '181312'
+  issued_by: Cedar Rose
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -113,10 +112,11 @@ identifications:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: regnumber
-  number: '11967354'
+  number: C1843799
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181309'
+  logical_id: '181311'
+  issued_by: Acuris Unique ID
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

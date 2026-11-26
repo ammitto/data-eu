@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Novoszibirszki Mesterséges-szál Gyár Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: NZIV Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima Novosibirsk Plant of Artificial Fiber
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '164112'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: АО НЗИВ
   name_language: RU
   strong: true
@@ -55,21 +25,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: акционерно дружество „Новосибирски завод за изкуствени влакна“
-  name_language: BG
+- whole_name: Novoszibirszki Mesterséges-szál Gyár Részvénytársaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '163839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC NZIV
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163745'
+  logical_id: '163838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -93,6 +53,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163405'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: NZIV Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC NZIV
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima Novosibirsk Plant of Artificial Fiber
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: акционерно дружество „Новосибирски завод за изкуствени влакна“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '163839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -15,21 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade pública  por ações - Energiya
-  name_language: PT
+- whole_name: Липецкая Энергия
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179836'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Energiya - Nyilvánosan Működő  Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179837'
+  logical_id: '179839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -98,21 +88,31 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Липецкая Энергия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Энергия
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '179838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Energiya - Nyilvánosan Működő  Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Sociedade pública  por ações - Energiya
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '179836'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -131,21 +131,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '1024800789408'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '179835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '4821000142'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: other
+  number: '1024800789408'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '179835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

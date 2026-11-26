@@ -15,112 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Consiglio di amministrazione dello Stato
-  name_language: IT
+- whole_name: Državno upravno vijeće
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '145570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Statsforvaltningsrådet
-  strong: true
-  regulation_language: en
-  logical_id: '145571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Statsförvaltningsrådet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145572'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Staatsbestuursraad
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '145569'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Staatsverwaltungsrat
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '145568'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Consiliul  administrativ al  statului (CAS)
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '145567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Consejo  Administrativo  Estatal
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '145566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Conselho de  Administração  do Estado (CAE)
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Kunsill Amministrattiv tal-Istat
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '145564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Κρατικό  Συμβούλιο  Διοίκησης (ΚΣΔ)
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '145562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: State Administration Council (SAC)
-  function: Public entity established on 2 February 2021 following the military coup
-    in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and
-    judicial powers of the State
-  strong: true
-  regulation_language: en
-  logical_id: '145527'
+  logical_id: '145582'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -136,11 +35,13 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Državno upravno vijeće
-  name_language: HR
+- whole_name: State Administration Council (SAC)
+  function: Public entity established on 2 February 2021 following the military coup
+    in Myanmar/Burma on 1 February 2021 to exercise the legislative, executive and
+    judicial powers of the State
   strong: true
   regulation_language: en
-  logical_id: '145582'
+  logical_id: '145527'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -236,11 +137,110 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Statsförvaltningsrådet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145572'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Statsforvaltningsrådet
+  strong: true
+  regulation_language: en
+  logical_id: '145571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Consiglio di amministrazione dello Stato
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '145570'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Staatsbestuursraad
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '145569'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Consiliul  administrativ al  statului (CAS)
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '145567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Consejo  Administrativo  Estatal
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '145566'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Conselho de  Administração  do Estado (CAE)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Kunsill Amministrattiv tal-Istat
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '145564'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - whole_name: Conseil d’administration de l’État
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '145563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Κρατικό  Συμβούλιο  Διοίκησης (ΚΣΔ)
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '145562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Staatsverwaltungsrat
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '145568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

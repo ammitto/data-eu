@@ -15,125 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Az Oroszországi Föderáció elnöki adminisztrációjának „»Massandra« Mezőgazdasági
-    Termelőszövetkezet” szövetségi költségvetési vállalata
-  name_language: HU
+- whole_name: Акционерно дружество „Производствено-аграрно обединение „Масандра“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '128527'
+  logical_id: '131405'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: 'korábbi elnevezése: „State Unitary Enterprise of the Republic of Crimea””Production-Agrarian
-    Union »Massandra«” (a Krími Köztársaság „»Massandra« Mezőgazdasági Termelőszövetkezet”
-    szövetségi állami vállalata'
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '128528'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: "„»Massandra« Mezőgazdasági Termelőszövetkezet” részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '128529'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Kumpannija b’ishma konġunti “Unjoni Agrarja tal-Produzzjoni “Massandra””
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '128533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Federal State Budgetary Enterprise “Production-Agrarian Union “Massandra””
-    van het kabinet van de president van de Russische Federatie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '128534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: voorheen bekend als State Unitary Enterprise van de “Republiek Krim”“Production-Agrarian
-    Union “Massandra””
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '128535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Koncern państwowy „Krajowe Stowarzyszenie Producentów »Massandra«”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: federalne państwowe przedsiębiorstwo budżetowe „Krajowe Stowarzyszenie
-    Produkcyjno-Rolne »Massandra«” administracji prezydenta Federacji Rosyjskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: dawniej znane jako State Unitary Enterprise of the „Republic of Crimea”„Production-Agrarian
-    Union »Massandra«” (jednolite przedsiębiorstwo państwowe Republiki Krymu „Stowarzyszenie
-    Produkcyjno-Rolne »Massandra«”)
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Spółka akcyjna „Production-Agrarian Union »Massandra«” („Stowarzyszenie
-    Produkcyjno-Rolne »Massandra«”)
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Empresa estatal “Associação Nacional de produtores ‘Massandra’”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '128540'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: Empresa Orçamental do Estado Federal (Federal State Budgetary Enterprise)
     “União de Produção Agrária ‘Massandra’” da administração do presidente da Federação
     da Rússia
@@ -335,48 +226,91 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Entità statali “Assoċjazzjoni Nazzjonali ta’ produtturi “Massandra””
-  name_language: MT
+- whole_name: Κρατικών συμφερόντων “Εθνική Ένωση Παραγωγών ‘Massandra’”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '128530'
+  logical_id: '128499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Intrapriża Baġitarja tal-Istat Federali “Unjoni Agrarja tal-Produzzjoni
-    “Massandra”" tal-Amministrazzjoni tal-President tal-Federazzjoni Russa
-  name_language: MT
+- whole_name: Ομοσπονδιακή κρατική επιχείρηση “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
+    του Γραφείου του Προέδρου της Ρωσικής Ομοσπονδίας
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '128531'
+  logical_id: '128500'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: qabel kienet magħrufa bħala Intrapriża Unitarja Statali tar-“Repubblika
-    tal-Krimea”“Unjoni Agrarja tal-Produzzjoni “Massandra””
-  name_language: MT
+- whole_name: παλαιότερα γνωστή ως κρατική ενιαία επιχείρηση της “Δημοκρατίας της
+    Κριμαίας” με την επωνυμία “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '128532'
+  logical_id: '128501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Акционерно дружество „Производствено-аграрно обединение „Масандра“
-  name_language: BG
+- whole_name: Ανώνυμη Εταιρεία “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '131405'
+  logical_id: '128502'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Entreprise publique “Association nationale de producteurs de ‘Massandra’”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Entreprise budgétaire de l’État fédéral “Production-Agrarian Union ‘Massandra’”
+    de l’administration du président de la Fédération de Russie
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: anciennement connue sous le nom d’Entreprise unitaire d’État de la “République
+    de Crimée”“Union de production agraire de ‘Massandra’”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Société anonyme “Production-Agrarian Union ‘Massandra’” (“Union de production
+    agraire de ‘Massandra’”)
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Federal State Budgetary Enterprise ‘Production-Agrarian Union “Massandra”’
     of the Administration of the President of the Russian Federation
   name_language: EN
@@ -685,91 +619,6 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Κρατικών συμφερόντων “Εθνική Ένωση Παραγωγών ‘Massandra’”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Ομοσπονδιακή κρατική επιχείρηση “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
-    του Γραφείου του Προέδρου της Ρωσικής Ομοσπονδίας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128500'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: παλαιότερα γνωστή ως κρατική ενιαία επιχείρηση της “Δημοκρατίας της
-    Κριμαίας” με την επωνυμία “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Ανώνυμη Εταιρεία “Παραγωγική-Αγροτική Ένωση ‘Massandra’”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128502'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Entreprise publique “Association nationale de producteurs de ‘Massandra’”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Entreprise budgétaire de l’État fédéral “Production-Agrarian Union ‘Massandra’”
-    de l’administration du président de la Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: anciennement connue sous le nom d’Entreprise unitaire d’État de la “République
-    de Crimée”“Union de production agraire de ‘Massandra’”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Société anonyme “Production-Agrarian Union ‘Massandra’” (“Union de production
-    agraire de ‘Massandra’”)
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Gnóthas Stáit ‘National Association of producers ‘Massandra’
   name_language: GA
   strong: true
@@ -975,6 +824,157 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Az Oroszországi Föderáció elnöki adminisztrációjának „»Massandra« Mezőgazdasági
+    Termelőszövetkezet” szövetségi költségvetési vállalata
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '128527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: 'korábbi elnevezése: „State Unitary Enterprise of the Republic of Crimea””Production-Agrarian
+    Union »Massandra«” (a Krími Köztársaság „»Massandra« Mezőgazdasági Termelőszövetkezet”
+    szövetségi állami vállalata'
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '128528'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: "„»Massandra« Mezőgazdasági Termelőszövetkezet” részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '128529'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Entità statali “Assoċjazzjoni Nazzjonali ta’ produtturi “Massandra””
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Intrapriża Baġitarja tal-Istat Federali “Unjoni Agrarja tal-Produzzjoni
+    “Massandra”" tal-Amministrazzjoni tal-President tal-Federazzjoni Russa
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: qabel kienet magħrufa bħala Intrapriża Unitarja Statali tar-“Repubblika
+    tal-Krimea”“Unjoni Agrarja tal-Produzzjoni “Massandra””
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Kumpannija b’ishma konġunti “Unjoni Agrarja tal-Produzzjoni “Massandra””
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Federal State Budgetary Enterprise “Production-Agrarian Union “Massandra””
+    van het kabinet van de president van de Russische Federatie
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '128534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: voorheen bekend als State Unitary Enterprise van de “Republiek Krim”“Production-Agrarian
+    Union “Massandra””
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '128535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Koncern państwowy „Krajowe Stowarzyszenie Producentów »Massandra«”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: federalne państwowe przedsiębiorstwo budżetowe „Krajowe Stowarzyszenie
+    Produkcyjno-Rolne »Massandra«” administracji prezydenta Federacji Rosyjskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: dawniej znane jako State Unitary Enterprise of the „Republic of Crimea”„Production-Agrarian
+    Union »Massandra«” (jednolite przedsiębiorstwo państwowe Republiki Krymu „Stowarzyszenie
+    Produkcyjno-Rolne »Massandra«”)
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Spółka akcyjna „Production-Agrarian Union »Massandra«” („Stowarzyszenie
+    Produkcyjno-Rolne »Massandra«”)
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Empresa estatal “Associação Nacional de produtores ‘Massandra’”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '128540'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

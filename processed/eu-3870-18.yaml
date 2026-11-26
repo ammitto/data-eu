@@ -19,74 +19,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Organismo de Inversiones de Libia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '141468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Liibüa Investeerimisamet
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '141469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libijsko Tijelo za Ulaganja
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '141470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libijskie Przedsiębiorstwo Inwestycji Zagranicznych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '141471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libijski Urząd ds. Inwestycji
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '141472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libyan Investment Authority
-  strong: true
-  regulation_language: en
-  logical_id: '9117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-03-11'
-    number_title: 233/2011 (OJ L64)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:064:0013:0014:EN:PDF
-- whole_name: Libyan Foreign Investment Company (LFIC)
-  strong: true
-  regulation_language: en
-  logical_id: '9119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 - whole_name: Libyjská investiční agentura
   name_language: CS
   strong: true
@@ -162,6 +94,74 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '9168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Libijski Urząd ds. Inwestycji
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '141472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Organismo de Inversiones de Libia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '141468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Liibüa Investeerimisamet
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '141469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Libijsko Tijelo za Ulaganja
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '141470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Libijskie Przedsiębiorstwo Inwestycji Zagranicznych
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '141471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Libyan Investment Authority
+  strong: true
+  regulation_language: en
+  logical_id: '9117'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-03-11'
+    number_title: 233/2011 (OJ L64)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:064:0013:0014:EN:PDF
+- whole_name: Libyan Foreign Investment Company (LFIC)
+  strong: true
+  regulation_language: en
+  logical_id: '9119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'

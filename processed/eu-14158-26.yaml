@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “Archangel Center”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Limited Liability Company “Archangel Center”
   function: The Archangel Center is a Russian military training organisation that
     provides a wide range of tactical and combat preparation programs for military
@@ -61,11 +51,11 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: ООО “Архангел-Центр”
-  name_language: RU
+- whole_name: LLC “Archangel Center”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181572'
+  logical_id: '181576'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -76,6 +66,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181573'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО “Архангел-Центр”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181572'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

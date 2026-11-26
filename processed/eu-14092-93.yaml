@@ -15,12 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anastasija Taršinovová
+- first_name: Anastasiya
+  middle_name: Aleksandrovna
+  last_name: TARSHINOVA
+  whole_name: Anastasiya Aleksandrovna TARSHINOVA
+  function: General director of LIBBS LLC
   gender: F
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '182306'
+  logical_id: '181115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -37,16 +41,12 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Anastasiya
-  middle_name: Aleksandrovna
-  last_name: TARSHINOVA
-  whole_name: Anastasiya Aleksandrovna TARSHINOVA
-  function: General director of LIBBS LLC
+- whole_name: Anastasija Taršinovová
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '181115'
+  logical_id: '182306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -29,16 +29,6 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- whole_name: Анатолий  Владимирович  ЧЕПИГА
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - first_name: Ruslan
   last_name: BOSHIROV
   whole_name: Ruslan BOSHIROV
@@ -51,39 +41,17 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- whole_name: Анатолий  Владимирович  ЧЕПИГА
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 birthdates:
-- birthdate: '1979-04-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 4
-  year: 1979
-  place: Dushanbe
-  country_iso2_code: TJ
-  country_description: TAJIKISTAN
-  regulation_language: en
-  logical_id: '119246'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- birthdate: '1979-04-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 4
-  year: 1979
-  place: Nikolaevka,  Amur  Oblast
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '119247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - birthdate: '1978-04-12'
   circa: false
   calendar_type: GREGORIAN
@@ -100,6 +68,22 @@ birthdates:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- birthdate: '1979-04-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 4
+  year: 1979
+  place: Dushanbe
+  country_iso2_code: TJ
+  country_description: TAJIKISTAN
+  regulation_language: en
+  logical_id: '119246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - birthdate: '1978-04-12'
   circa: false
   calendar_type: GREGORIAN
@@ -111,6 +95,22 @@ birthdates:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '119244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- birthdate: '1979-04-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 4
+  year: 1979
+  place: Nikolaevka,  Amur  Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '119247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

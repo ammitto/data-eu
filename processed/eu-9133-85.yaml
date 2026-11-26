@@ -86,6 +86,16 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: Abou SHAUKAN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '165359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - whole_name: DEFENDER
   gender: M
   name_language: EN
@@ -97,11 +107,12 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Abou SHAUKAN
+- whole_name: PUNISHER
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165359'
+  logical_id: '165356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -112,17 +123,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: PUNISHER
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -141,12 +141,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1988
+  year: 1991
   city: Kampala
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '159153'
+  logical_id: '146091'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -167,6 +167,19 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - circa: false
   calendar_type: GREGORIAN
+  year: 1987
+  city: Kampala
+  country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '165382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- circa: false
+  calendar_type: GREGORIAN
   year: 1993
   city: Kampala
   country_iso2_code: UG
@@ -180,25 +193,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - circa: false
   calendar_type: GREGORIAN
-  year: 1991
+  year: 1988
   city: Kampala
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '146091'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1987
-  city: Kampala
-  country_iso2_code: UG
-  country_description: UGANDA
-  regulation_language: en
-  logical_id: '165382'
+  logical_id: '159153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

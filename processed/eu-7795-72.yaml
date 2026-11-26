@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алексей
-  middle_name: Викторович
-  last_name: КУЗЬМИЧЁВ
-  whole_name: Алексей Викторович КУЗЬМИЧЁВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137841'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Alexey
   middle_name: Viktorovich
   last_name: KUZMICHEV
@@ -47,33 +33,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Alexej
-  last_name: Kuzmičev
-  whole_name: Alexej Kuzmičev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Alexey
-  middle_name: Viktorovich
-  last_name: KUZMICHOV
-  whole_name: Alexey Viktorovich KUZMICHOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Алексей
   last_name: Кузмичев
   whole_name: Алексей Кузмичев
@@ -100,6 +59,47 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Алексей
+  middle_name: Викторович
+  last_name: КУЗЬМИЧЁВ
+  whole_name: Алексей Викторович КУЗЬМИЧЁВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Alexey
+  middle_name: Viktorovich
+  last_name: KUZMICHOV
+  whole_name: Alexey Viktorovich KUZMICHOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Alexej
+  last_name: Kuzmičev
+  whole_name: Alexej Kuzmičev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

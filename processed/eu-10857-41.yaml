@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohammad Shahab
+  last_name: KHANIAN
+  whole_name: Mohammad Shahab KHANIAN
+  function: Deputy Chief Executive Officer (CEO) of Shakad Sanat Asmari
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - whole_name: محمد شهاب خانیان
   gender: M
   name_language: FA
@@ -34,20 +48,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- first_name: Mohammad Shahab
-  last_name: KHANIAN
-  whole_name: Mohammad Shahab KHANIAN
-  function: Deputy Chief Executive Officer (CEO) of Shakad Sanat Asmari
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

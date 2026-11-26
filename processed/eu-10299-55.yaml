@@ -29,6 +29,34 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Александра
+  middle_name: Владимировна
+  last_name: КОШАРНИЦКАЯ
+  whole_name: Александра Владимировна КОШАРНИЦКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Александра
+  middle_name: Владимировна
+  last_name: КОСТЕРИНА
+  whole_name: Александра Владимировна КОСТЕРИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Aleksandra
   middle_name: Vladimirovna
   last_name: KOSHARNITSKAYA
@@ -58,18 +86,6 @@ name_aliases:
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Aleksandra
-  last_name: KOŠARNICKAJA
-  whole_name: Aleksandra KOŠARNICKAJA
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '155325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Aleksandra
   middle_name: Vladimirovna
   last_name: KOSTERINA
   whole_name: Aleksandra Vladimirovna KOSTERINA
@@ -85,29 +101,13 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Александра
-  middle_name: Владимировна
-  last_name: КОШАРНИЦКАЯ
-  whole_name: Александра Владимировна КОШАРНИЦКАЯ
-  gender: F
-  name_language: RU
+- first_name: Aleksandra
+  last_name: KOŠARNICKAJA
+  whole_name: Aleksandra KOŠARNICKAJA
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '154467'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Александра
-  middle_name: Владимировна
-  last_name: КОСТЕРИНА
-  whole_name: Александра Владимировна КОСТЕРИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154468'
+  logical_id: '155325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

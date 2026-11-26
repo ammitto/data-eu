@@ -15,15 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolaj
-  middle_name: Aleksandrovitj
+- first_name: Nikolay
+  middle_name: Aleksandrovich
   last_name: PANKOV
-  whole_name: Nikolaj Aleksandrovitj PANKOV
+  whole_name: Nikolay Aleksandrovich PANKOV
+  function: Deputy Minister of Defense, general of the Russian army reserve, state
+    secretary of the Russian Federation
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144652'
+  logical_id: '144444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -43,16 +44,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Nikolay
-  middle_name: Aleksandrovich
+- first_name: Nikolaj
+  middle_name: Aleksandrovitj
   last_name: PANKOV
-  whole_name: Nikolay Aleksandrovich PANKOV
-  function: Deputy Minister of Defense, general of the Russian army reserve, state
-    secretary of the Russian Federation
+  whole_name: Nikolaj Aleksandrovitj PANKOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144444'
+  logical_id: '144652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

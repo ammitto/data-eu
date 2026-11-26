@@ -35,6 +35,16 @@ name_aliases:
     publication_date: '2022-05-30'
     number_title: 2022/836 (OJ L147I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
+- whole_name: Sami Al-Oraidi
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '139996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-30'
+    number_title: 2022/836 (OJ L147I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
 - whole_name: Sami Al-Oride
   gender: M
   strong: true
@@ -45,21 +55,21 @@ name_aliases:
     publication_date: '2022-05-30'
     number_title: 2022/836 (OJ L147I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Sami AL-ARIDI
+- whole_name: Abu Mohammad Al-Shami
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '140001'
+  logical_id: '140000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'
     number_title: 2022/836 (OJ L147I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Sami Al-Oraidi
+- whole_name: Sami AL-ARIDI
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '139996'
+  logical_id: '140001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'
@@ -80,16 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-30'
-    number_title: 2022/836 (OJ L147I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.147.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A147I%3ATOC
-- whole_name: Abu Mohammad Al-Shami
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-30'

@@ -15,72 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: "»Belvneshpromservice« állami tulajdonú külkereskedelmi központosított
-    vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Państwowe Przedsiębiorstwo Handlu Zagranicznego Belvneshpromservice
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '177169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: empresa pública unitária para o comércio externo “Belvneshpromservice”
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '177168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '177167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Staatseigenes Einheitsunternehmen für Außenhandel Belvneshpromservice
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '177165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -111,6 +50,67 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: "»Belvneshpromservice« állami tulajdonú külkereskedelmi központosított
+    vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Państwowe Przedsiębiorstwo Handlu Zagranicznego Belvneshpromservice
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '177167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Staatseigenes Einheitsunternehmen für Außenhandel Belvneshpromservice
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '177165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

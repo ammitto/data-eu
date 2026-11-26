@@ -26,63 +26,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Organizația necomercială autonomă «Directorate of the Exhibition of
-    Achievements „Russia”»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Direcția pentru expunerea realizărilor „Rusia”
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173339'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Samodzielna organizacja niekomercyjna „Dyrekcja ds. Eksponowania Osiągnięć
-    »Rosja«”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Autonomous Non-commercial Organization “Directorate of the Exhibition
-    of Achievements “Russia”’
-  function: Autonomous Non-Commercial Organization “Directorate of the Exhibition
-    of Achievements ‘Russia’” organised the international exhibition and forum “Russia”
-    and now manages the National Center “Russia”.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Автономная Некоммерческая Организация “Дирекция Выставки Достижений
-    ‘Россия’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: National Center “Russia”
   name_language: EN
   strong: true
@@ -102,21 +45,26 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Национальньш центр “Россия”
+- whole_name: Автономная Некоммерческая Организация “Дирекция Выставки Достижений
+    ‘Россия’”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173285'
+  logical_id: '173288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Αυτόνομη μη εμπορική οργάνωση “Directorate of the Exhibition of Achievements
-    ‘Russia’”
-  name_language: EL
+- whole_name: Autonomous Non-commercial Organization “Directorate of the Exhibition
+    of Achievements “Russia”’
+  function: Autonomous Non-Commercial Organization “Directorate of the Exhibition
+    of Achievements ‘Russia’” organised the international exhibition and forum “Russia”
+    and now manages the National Center “Russia”.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173470'
+  logical_id: '173289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -154,6 +102,58 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Samodzielna organizacja niekomercyjna „Dyrekcja ds. Eksponowania Osiągnięć
+    »Rosja«”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '173355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Direcția pentru expunerea realizărilor „Rusia”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Αυτόνομη μη εμπορική οργάνωση “Directorate of the Exhibition of Achievements
+    ‘Russia’”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '173470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Национальньш центр “Россия”
+  strong: true
+  regulation_language: en
+  logical_id: '173285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Organizația necomercială autonomă «Directorate of the Exhibition of
+    Achievements „Russia”»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
 - street: Krasnopresnenskaya embankment 14
   city: Moscow
@@ -167,22 +167,22 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '9703137862'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '173283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1237700185645'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173284'
   issue_date: '2023-03-09'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '9703137862'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '173283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

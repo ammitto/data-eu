@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Yangzhou Yangjie Electronic Co., Ltd
-  name_language: EN
+- whole_name: 扬州扬杰电子科技股份有限公司
+  name_language: ZH
   strong: true
   regulation_language: en
-  logical_id: '181423'
+  logical_id: '181421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -30,16 +30,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: 扬州扬杰电子科技股份有限公司
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '181421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -59,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Yangzhou Yangjie Electronic Co., Ltd
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -90,10 +90,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
 - identification_type_code: other
-  number: '160823'
+  number: '913210007908906337'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181298'
+  logical_id: '181297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -121,10 +121,10 @@ identifications:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - identification_type_code: other
-  number: '913210007908906337'
+  number: '160823'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '181297'
+  logical_id: '181298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

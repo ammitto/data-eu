@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Михаил  Эдуардович  ОСЕЕВСКИЙ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '136696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-09'
-    number_title: 2022/396 (OJ L80)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
 - whole_name: Mikhail Eduardovich  OSEEVSKY
   function: |-
     President of PJSC Rostelecom
@@ -44,6 +34,16 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
+- whole_name: Mihail Eduardovič OSEEVSKI
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '137346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-09'
+    number_title: 2022/396 (OJ L80)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
 - whole_name: Michail Eduardovitj  OSEJEVSKIJ
   name_language: SV
   strong: true
@@ -54,11 +54,11 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Mihail Eduardovič OSEEVSKI
-  name_language: SL
+- whole_name: Михаил  Эдуардович  ОСЕЕВСКИЙ
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '137346'
+  logical_id: '136696'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'

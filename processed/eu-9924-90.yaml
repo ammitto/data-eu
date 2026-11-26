@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Syriens republikanergarde
-  name_language: DA
+- whole_name: Συριακή Δημοκρατική  Φρουρά
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '151519'
+  logical_id: '151531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Sirska republiška garda
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '151556'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Sirijska republikanska garda
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151552'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -30,6 +50,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Syyrian tasavaltalaiskaarti
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '159031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Sirijos Respublikos gvardija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '151562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Det syriska republikanska gardet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Syriens republikanergarde
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '151519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- whole_name: Syrische Republikeinse Garde
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151516'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -117,16 +187,6 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Syyrian tasavaltalaiskaarti
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '159031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - whole_name: Syrská republikánská garda
   name_language: CS
   strong: true
@@ -157,16 +217,6 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Süüria vabariiklik kaardivägi
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '151571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - whole_name: Sīrijas Republikas gvarde
   name_language: LV
   strong: true
@@ -177,61 +227,11 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Sirijos Respublikos gvardija
-  name_language: LT
+- whole_name: Süüria vabariiklik kaardivägi
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '151562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Sirska republiška garda
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '151556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Sirijska republikanska garda
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Det syriska republikanska gardet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151526'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Συριακή Δημοκρατική  Φρουρά
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- whole_name: Syrische Republikeinse Garde
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151516'
+  logical_id: '151571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

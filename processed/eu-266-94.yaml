@@ -15,6 +15,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Jamiat Ayat-Ur-Rhas Al Islamia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Jamiat Ihya Ul Turath Al Islamia
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Ahya Ul Turas
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Comité de Apoio ao Afeganistão
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '1721'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - whole_name: Αφγανική Επιτροπή Στήριξης
   name_language: EL
   strong: true
@@ -66,46 +106,6 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Jamiat Ayat-Ur-Rhas Al Islamia
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Jamiat Ihya Ul Turath Al Islamia
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Ahya Ul Turas
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '896'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Comité de Apoio ao Afeganistão
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '1721'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 addresses:
 - street: 'office locations: Headquarters — G. T. Road (probably Grand Trunk Road),
     near Pushtoon Garhi Pabbi'

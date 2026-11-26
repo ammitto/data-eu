@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Halina Bondalová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '174220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Галина БОНДАЛ
   gender: F
   name_language: RU
@@ -37,12 +26,13 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Галіна БОНДАЛ
+- whole_name: Halina BONDAL
+  function: Judge at Vitebsk Regional Court
   gender: F
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174222'
+  logical_id: '174224'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -59,13 +49,23 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Halina BONDAL
-  function: Judge at Vitebsk Regional Court
+- whole_name: Галіна БОНДАЛ
   gender: F
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174224'
+  logical_id: '174222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Halina Bondalová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '174220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

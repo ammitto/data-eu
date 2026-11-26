@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Integral« Részvénytársaság – »Integral« Holdingkezelő Vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173371'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: JSC “Integral”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '172864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Integral« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -62,6 +42,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Integral« Részvénytársaság – »Integral« Holdingkezelő Vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173371'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Integral« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

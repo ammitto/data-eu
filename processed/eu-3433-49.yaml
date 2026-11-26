@@ -15,60 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ali al-Hamoud al-Shawakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: "'Ali Musa"
-  last_name: al-Shawagh
-  whole_name: "'Ali Musa al-Shawagh"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Muhammad 'Ali al-Shawakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Ibrahim
-  last_name: al-Shawwakh
-  whole_name: Ibrahim al-Shawwakh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Abu Luqman
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - first_name: Ali
   middle_name: Musa
   last_name: Al-Shawakh
@@ -157,6 +103,60 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Abu Luqman
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Muhammad 'Ali al-Shawakh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Ibrahim
+  last_name: al-Shawwakh
+  whole_name: Ibrahim al-Shawwakh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Ali al-Hamoud al-Shawakh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: "'Ali Musa"
+  last_name: al-Shawagh
+  whole_name: "'Ali Musa al-Shawagh"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

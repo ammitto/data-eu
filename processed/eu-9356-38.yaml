@@ -15,12 +15,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
-    Masowego Przekazu
-  name_language: PL
+- whole_name: Роскомнадзор
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147729'
+  logical_id: '147072'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Федеральная служба по надзору в сфере связи, информационных технологий
+    и массовых коммуникаций
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -43,27 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Роскомнадзор
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147072'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Федеральная служба по надзору в сфере связи, информационных технологий
-    и массовых коммуникаций
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -123,6 +112,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
+    Masowego Przekazu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Servicio Federal de Supervisión de las Comunicaciones, las Tecnologías
     de la Información y los Medios de Comunicación de Rusia
   name_language: ES
@@ -210,21 +210,21 @@ addresses:
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 identifications:
-- identification_type_code: regnumber
-  number: '1087746736296'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '169882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - identification_type_code: fiscalcode
   number: '7705846236'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '169881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- identification_type_code: regnumber
+  number: '1087746736296'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '169882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

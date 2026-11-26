@@ -16,12 +16,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: حبيب بن احمد اللوبيري
+- whole_name: Al-Habib ben Ahmad ben al-Tayib al-Lubiri
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161367'
+  logical_id: '15138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -41,12 +41,12 @@ name_aliases:
     publication_date: '2024-01-15'
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Al-Habib ben Ahmad ben al-Tayib al-Lubiri
+- whole_name: حبيب بن احمد اللوبيري
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '15138'
+  logical_id: '161367'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -81,15 +81,6 @@ birthdates:
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 addresses:
-- country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - street: Salam Marnaq, Ben Arous district, Sidi Mesoud
   city: Tunis
   country_iso2_code: TN
@@ -97,6 +88,15 @@ addresses:
   regulation_language: en
   logical_id: '2194'
   place: Sidi Mesoud
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

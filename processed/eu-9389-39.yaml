@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Strategiczna Fundacja Kultury
-  name_language: PL
+- whole_name: Strategický kulturní fond
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158244'
+  logical_id: '158448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Fondation de la culture stratégique
-  name_language: FR
+- whole_name: Strategiczna Fundacja Kultury
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '158216'
+  logical_id: '158244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -135,6 +135,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Fondation de la culture stratégique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158216'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Фонд стратегической культуры
   name_language: RU
   strong: true
@@ -145,16 +155,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strategický kulturní fond
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158448'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: Bolshaya Polyanka str., 50/1 STR.1
   city: Moscow
@@ -174,22 +174,22 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
+- identification_type_code: other
+  number: '7706569306'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '147243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: regnumber
   number: '1057746290469'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147244'
   issue_date: '2005-02-21'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- identification_type_code: other
-  number: '7706569306'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '147243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

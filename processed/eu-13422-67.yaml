@@ -15,37 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Wa Mikanò
-  strong: true
-  regulation_language: en
-  logical_id: '177535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Mikano
   strong: true
   regulation_language: en
   logical_id: '177536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: King Micanor
-  strong: true
-  regulation_language: en
-  logical_id: '177534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Alfred Mones
-  strong: true
-  regulation_language: en
-  logical_id: '177533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -60,10 +33,37 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1433 (OJ L202501433)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Alfred Mones
+  strong: true
+  regulation_language: en
+  logical_id: '177533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Wa Mikanò
+  strong: true
+  regulation_language: en
+  logical_id: '177535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Monel Felix
   strong: true
   regulation_language: en
   logical_id: '177538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: King Micanor
+  strong: true
+  regulation_language: en
+  logical_id: '177534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

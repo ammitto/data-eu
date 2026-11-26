@@ -33,31 +33,21 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Общество с ограниченной ответственностью Страховая компания “Согласие”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: LLC Soglasie Insurance Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: ООО СК “СОГЛАСИЕ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182338'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Soglasie Insurance
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182339'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -73,11 +63,21 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: Общество с ограниченной ответственностью Страховая компания “Согласие”
+- whole_name: Soglasie Insurance
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ООО СК “СОГЛАСИЕ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '182362'
+  logical_id: '182338'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

@@ -63,12 +63,11 @@ addresses:
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 identifications:
-- identification_type_code: regnumber
-  number: '1026303178428'
+- identification_type_code: taxid
+  number: '6335007320'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '181492'
-  issue_date: '2002-11-26'
+  logical_id: '181490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -84,11 +83,12 @@ identifications:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- identification_type_code: taxid
-  number: '6335007320'
+- identification_type_code: regnumber
+  number: '1026303178428'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '181490'
+  logical_id: '181492'
+  issue_date: '2002-11-26'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

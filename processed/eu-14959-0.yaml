@@ -1,0 +1,51 @@
+---
+eu_reference_number: EU.14959.0
+logical_id: '185233'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: Songdowon International Children’s Camp
+  function: The Songdowon International Children’s Camp is a state-operated institution
+    directly created, maintained, and controlled by the DPRK authorities.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: 송도원국제소년단야영소
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '185235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- region: Kangwon Province
+  country_iso2_code: KP
+  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+  regulation_language: en
+  logical_id: '185234'
+  place: Songdowon District
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

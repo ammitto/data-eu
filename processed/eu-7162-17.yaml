@@ -15,11 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Jekaterina Petrovna STENJAKINA
-  name_language: SV
+- first_name: Ekaterina
+  middle_name: Petrovna
+  last_name: STENYAKINA
+  whole_name: Ekaterina Petrovna STENYAKINA
+  function: Member of the State Duma
+  gender: F
   strong: true
   regulation_language: en
-  logical_id: '143971'
+  logical_id: '134387'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +43,11 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Ekaterina
-  middle_name: Petrovna
-  last_name: STENYAKINA
-  whole_name: Ekaterina Petrovna STENYAKINA
-  function: Member of the State Duma
-  gender: F
+- whole_name: Jekaterina Petrovna STENJAKINA
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134387'
+  logical_id: '143971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

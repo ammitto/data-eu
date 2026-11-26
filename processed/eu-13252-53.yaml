@@ -40,19 +40,19 @@ name_aliases:
     number_title: 2025/1278 (OJ L26062025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1278&qid=1751352470824
 citizenships:
-- country_iso2_code: CH
-  country_description: SWITZERLAND
+- country_iso2_code: CM
+  country_description: CAMEROON
   regulation_language: en
-  logical_id: '176446'
+  logical_id: '176445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'
     number_title: 2025/1278 (OJ L26062025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1278&qid=1751352470824
-- country_iso2_code: CM
-  country_description: CAMEROON
+- country_iso2_code: CH
+  country_description: SWITZERLAND
   regulation_language: en
-  logical_id: '176445'
+  logical_id: '176446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'

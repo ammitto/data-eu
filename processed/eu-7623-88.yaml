@@ -15,15 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Галина
-  middle_name: Евгеньевна
-  last_name: ПУМПЯНСКАЯ
-  whole_name: Галина Евгеньевна ПУМПЯНСКАЯ
+- first_name: Galina
+  middle_name: Evgenjevna
+  last_name: PUMPJANSKA
+  whole_name: Galina Evgenjevna PUMPJANSKA
   gender: F
-  name_language: RU
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '136575'
+  logical_id: '137342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -43,20 +43,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Galina
-  middle_name: Evgenjevna
-  last_name: PUMPJANSKA
-  whole_name: Galina Evgenjevna PUMPJANSKA
-  gender: F
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '137342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Galina
   middle_name: Jevgenjevna
   last_name: PUMPJANSKAJA
@@ -97,6 +83,20 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Галина
+  middle_name: Евгеньевна
+  last_name: ПУМПЯНСКАЯ
+  whole_name: Галина Евгеньевна ПУМПЯНСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136575'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Galina
   last_name: Pumpianská
   whole_name: Galina Pumpianská

@@ -15,55 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministry of Interior [Syria]
-  strong: true
-  regulation_language: en
-  logical_id: '16232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Министерство на вътрешните работи
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '16251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministerstvo vnitra
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '16258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Indenrigsministeriet
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '16261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Innenministerium
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '16264'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
 - whole_name: Siseministeerium
   name_language: ET
   strong: true
@@ -229,6 +180,55 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministry of Interior [Syria]
+  strong: true
+  regulation_language: en
+  logical_id: '16232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Министерство на вътрешните работи
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '16251'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministerstvo vnitra
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '16258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Indenrigsministeriet
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '16261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Innenministerium
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '16264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'

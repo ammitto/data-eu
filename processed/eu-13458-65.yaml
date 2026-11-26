@@ -30,23 +30,23 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Юрій Iлларіонович ЛАСТОЧКIН
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '177769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Юрий Илларионович ЛАСТОЧКИН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '177770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Юрій Iлларіонович ЛАСТОЧКIН
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '177769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

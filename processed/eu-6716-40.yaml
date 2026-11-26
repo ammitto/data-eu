@@ -15,6 +15,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ανοικτή συμμετοχική εταιρεία “HOTEL PLANETA»
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '132430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: OJSC »HOTEL PLANETA«
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '132438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Odprta delniška družba ‚HOTEL PLANETA‘
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '132440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Societatea deschisă pe acțiuni «HOTEL PLANETA»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '132441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: ААТ «ГАСЦІНІЦА ПЛАНЕТА»
   strong: true
   regulation_language: en
@@ -28,16 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Societatea deschisă pe acțiuni «HOTEL PLANETA»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '132441'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -62,11 +92,11 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ανοικτή συμμετοχική εταιρεία “HOTEL PLANETA»
-  name_language: EL
+- whole_name: Openbare vennootschap op aandelen “HOTEL PLANETA”
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '132430'
+  logical_id: '132439'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -137,36 +167,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: OJSC »HOTEL PLANETA«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '132438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Openbare vennootschap op aandelen “HOTEL PLANETA”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '132439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Odprta delniška družba ‚HOTEL PLANETA‘
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '132440'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

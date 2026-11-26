@@ -15,29 +15,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aljaksandr
-  middle_name: Aljaksandravitj
-  last_name: RACHMANAU
-  whole_name: Aljaksandr Aljaksandravitj RACHMANAU
+- first_name: Aleksandr
+  last_name: Rachmanov
+  whole_name: Aleksandr Rachmanov
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160624'
+  logical_id: '160825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleksandr
-  middle_name: Aleksandrovitj
-  last_name: RACHMANOV
-  whole_name: Aleksandr Aleksandrovitj RACHMANOV
+- first_name: Aljaxandr
+  last_name: Rachmanaŭ
+  whole_name: Aljaxandr Rachmanaŭ
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160625'
+  logical_id: '160826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alexandr
+  last_name: Rachmanov
+  whole_name: Alexandr Rachmanov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,28 +82,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aliaksandr
-  middle_name: Aliaksandrovich
-  last_name: RAKHMANOV
-  whole_name: Aliaksandr Aliaksandrovich RAKHMANOV
+- first_name: Aleksandr
+  middle_name: Aleksandrovitj
+  last_name: RACHMANOV
+  whole_name: Aleksandr Aleksandrovitj RACHMANOV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159542'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alexandr
-  last_name: Rachmanov
-  whole_name: Alexandr Rachmanov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160827'
+  logical_id: '160625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -113,27 +111,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aljaxandr
-  last_name: Rachmanaŭ
-  whole_name: Aljaxandr Rachmanaŭ
+- first_name: Aliaksandr
+  middle_name: Aliaksandrovich
+  last_name: RAKHMANOV
+  whole_name: Aliaksandr Aliaksandrovich RAKHMANOV
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160826'
+  logical_id: '159542'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleksandr
-  last_name: Rachmanov
-  whole_name: Aleksandr Rachmanov
+- first_name: Aljaksandr
+  middle_name: Aljaksandravitj
+  last_name: RACHMANAU
+  whole_name: Aljaksandr Aljaksandravitj RACHMANAU
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160825'
+  logical_id: '160624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

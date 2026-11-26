@@ -157,16 +157,16 @@ name_aliases:
     publication_date: '2005-06-04'
     number_title: 853/2005 (OJ L141)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Gruppo Jihad islamica
-  name_language: IT
+- whole_name: Líbyjská organizácia
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '4098'
+  logical_id: '6184'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
 - whole_name: Società libica
   name_language: IT
   strong: true
@@ -385,46 +385,6 @@ name_aliases:
     publication_date: '2008-03-04'
     number_title: 198/2008 (OJ L59)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Líbyjská organizácia
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Skupina islamského džihádu Uzbekistanu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Únia islamského džihádu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Zveza islamskega džihada
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '6187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
 - whole_name: Islamic Jihad Group
   function: Founded and led by Najmiddin Kamolitdinovich Jalolov (reportedly deceased)
     and Suhayl Fatilloevich Buranov (reportedly deceased). Its activities are funded
@@ -440,3 +400,43 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Zveza islamskega džihada
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '6187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Únia islamského džihádu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Skupina islamského džihádu Uzbekistanu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Gruppo Jihad islamica
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '4098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-06-04'
+    number_title: 853/2005 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF

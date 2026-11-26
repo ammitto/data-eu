@@ -87,17 +87,6 @@ name_aliases:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '162017'
-  po_box: P.O. Box 19575-657
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: No 216 (Former 319) Bahonar Avenue (Niavaran)
   city: Tehran
   country_iso2_code: IR
@@ -111,6 +100,17 @@ addresses:
     value: "+98 21 22833960; +98 22833960"
   - key: FAX
     value: "+98 2122 833970"
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '162017'
+  po_box: P.O. Box 19575-657
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

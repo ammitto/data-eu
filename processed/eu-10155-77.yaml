@@ -79,21 +79,21 @@ identifications:
     publication_date: '2024-04-29'
     number_title: 2024/1243 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401243
-- identification_type_code: passport
-  number: AB0664715
-  country_iso2_code: MD
-  regulation_language: en
-  logical_id: '165243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-29'
-    number_title: 2024/1243 (OJ L29042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401243
 - identification_type_code: other
   number: '2000033042660'
   country_iso2_code: MD
   regulation_language: en
   logical_id: '153818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-29'
+    number_title: 2024/1243 (OJ L29042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401243
+- identification_type_code: passport
+  number: AB0664715
+  country_iso2_code: MD
+  regulation_language: en
+  logical_id: '165243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-29'

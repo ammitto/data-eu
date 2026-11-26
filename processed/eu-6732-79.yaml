@@ -75,15 +75,6 @@ birthdates:
     number_title: 2021/2108 (OJ L429)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.429.01.0097.01.ENG&toc=OJ%3AL%3A2021%3A429%3ATOC
 addresses:
-- country_iso2_code: US
-  country_description: UNITED STATES
-  regulation_language: en
-  logical_id: '132283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-01'
-    number_title: 2021/2108 (OJ L429)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.429.01.0097.01.ENG&toc=OJ%3AL%3A2021%3A429%3ATOC
 - street: "#12 Rio Claro Mayaro Road"
   city: Rio Claro
   country_iso2_code: TT
@@ -109,6 +100,15 @@ addresses:
 - country_iso2_code: US
   country_description: UNITED STATES
   regulation_language: en
+  logical_id: '132283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-01'
+    number_title: 2021/2108 (OJ L429)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.429.01.0097.01.ENG&toc=OJ%3AL%3A2021%3A429%3ATOC
+- country_iso2_code: US
+  country_description: UNITED STATES
+  regulation_language: en
   logical_id: '132280'
   regulation_summaries:
   - regulation_type: amendment
@@ -117,23 +117,23 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.429.01.0097.01.ENG&toc=OJ%3AL%3A2021%3A429%3ATOC
 identifications:
 - identification_type_code: passport
-  number: TB162181
-  country_iso2_code: TT
+  number: '420985453'
+  country_iso2_code: US
   regulation_language: en
-  logical_id: '132288'
-  valid_to: '2020-01-26'
-  issue_date: '2015-01-27'
+  logical_id: '132287'
+  valid_to: '2017-02-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-01'
     number_title: 2021/2108 (OJ L429)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.429.01.0097.01.ENG&toc=OJ%3AL%3A2021%3A429%3ATOC
 - identification_type_code: passport
-  number: '420985453'
-  country_iso2_code: US
+  number: TB162181
+  country_iso2_code: TT
   regulation_language: en
-  logical_id: '132287'
-  valid_to: '2017-02-06'
+  logical_id: '132288'
+  valid_to: '2020-01-26'
+  issue_date: '2015-01-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-01'

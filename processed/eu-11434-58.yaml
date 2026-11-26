@@ -44,34 +44,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Dmitri
-  middle_name: Jevgenjevitš
-  last_name: Samoilov
-  whole_name: Dmitri Jevgenjevitš Samoilov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Дмитрий
-  middle_name: Евгениевич
-  last_name: Самойлов
-  whole_name: Дмитрий Евгениевич Самойлов
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Dmitrij
   middle_name: Jevgeňjevič
   last_name: Samojlov
@@ -86,6 +58,20 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Dmitri
+  middle_name: Jevgenjevitš
+  last_name: Samoilov
+  whole_name: Dmitri Jevgenjevitš Samoilov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Dmitrij
   middle_name: Jevgenievič
   last_name: Samojlov
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164694'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Дмитрий
+  middle_name: Евгениевич
+  last_name: Самойлов
+  whole_name: Дмитрий Евгениевич Самойлов
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164578'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

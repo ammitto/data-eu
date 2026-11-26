@@ -15,15 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Денис
-  middle_name: Владимирович
-  last_name: КОРОВИН
-  whole_name: Денис Владимирович КОРОВИН
+- first_name: Denis
+  middle_name: Vladimirovič
+  last_name: KOROVIN
+  whole_name: Denis Vladimirovič KOROVIN
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157606'
+  logical_id: '157672'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2023-09-08'
     number_title: 2023/1715 (OJ L221 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Denis
-  middle_name: Vladimirovič
-  last_name: KOROVIN
-  whole_name: Denis Vladimirovič KOROVIN
+- first_name: Денис
+  middle_name: Владимирович
+  last_name: КОРОВИН
+  whole_name: Денис Владимирович КОРОВИН
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '157672'
+  logical_id: '157606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

@@ -15,20 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “Molot-Oruzhie”
+- whole_name: "»Molot-Oruzhie« Korlátolt Felelősségű Társaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Oбщество с ограниченной ответственностью “Молот-Оружие”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175413'
+  logical_id: '175409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -48,21 +39,29 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Molot-Oruzhie« Kft."
-  name_language: HU
+- whole_name: Oбщество с ограниченной ответственностью “Молот-Оружие”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175408'
+  logical_id: '175413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Molot-Oruzhie« Korlátolt Felelősségű Társaság"
-  name_language: HU
+- whole_name: LLC “Molot-Oruzhie”
   strong: true
   regulation_language: en
-  logical_id: '175409'
+  logical_id: '175412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: OOO “Молот-Оружие”
+  strong: true
+  regulation_language: en
+  logical_id: '175411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -77,10 +76,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OOO “Молот-Оружие”
+- whole_name: "»Molot-Oruzhie« Kft."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175411'
+  logical_id: '175408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -1,0 +1,100 @@
+---
+eu_reference_number: EU.14964.71
+logical_id: '185281'
+designation_date: '2026-09-28'
+regulations:
+- regulation_type: amendment
+  organisation_type: council
+  publication_date: '2026-09-28'
+  entry_into_force_date: '2026-09-28'
+  number_title: 2026/2184 (OJ L202602184)
+  programme: UKR
+  logical_id: '226338'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: LLC “Art-Quest”
+  function: LLC "Art-Quest" is a children’s camp in occupied Crimea, Ukraine. It is
+    officially registered as an organization responsible for children’s recreation
+    and health improvement.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Children’s camp “Art-Quest”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО “АРТ-КВЕСТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+addresses:
+- street: Morskaya street, 11
+  city: Saki city
+  country_iso2_code: UA
+  country_description: UKRAINE
+  zip_code: '296500'
+  regulation_language: en
+  logical_id: '185282'
+  contact_infos:
+  - key: WEB
+    value: https://art-quest.org/
+  - key: PHONE
+    value: "+7 (495) 725-47-97"
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+identifications:
+- identification_type_code: taxid
+  number: '9107036165'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '185284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '910701001'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '185283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: regnumber
+  number: '1159102033969'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '185285'
+  issue_date: '2011-03-16'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184

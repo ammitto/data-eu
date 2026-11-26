@@ -15,10 +15,14 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: OOO “Московская Оружейная Компания”
+- whole_name: Limited Liability Company “Moscow Arms Company”
+  function: LLC “Moscow Arms Company” (brand name “BespokeGun”) designs and manufactures
+    weapons, notably sniper rifles of the Raptor Tactical and Specter series, for
+    the Armed Forces of the Russian Federation.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175187'
+  logical_id: '175190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -43,6 +47,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Moszkvai Fegyvergyártó Vállalat« Kft."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: BespokeGun
   strong: true
   regulation_language: en
@@ -52,24 +66,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Limited Liability Company “Moscow Arms Company”
-  function: LLC “Moscow Arms Company” (brand name “BespokeGun”) designs and manufactures
-    weapons, notably sniper rifles of the Raptor Tactical and Specter series, for
-    the Armed Forces of the Russian Federation.
-  name_language: EN
+- whole_name: OOO “Московская Оружейная Компания”
   strong: true
   regulation_language: en
-  logical_id: '175190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Moszkvai Fegyvergyártó Vállalat« Kft."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175304'
+  logical_id: '175187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -101,22 +101,22 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: fiscalcode
+  number: '5012086643'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1145012005335'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175185'
   issue_date: '2014-10-22'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '5012086643'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

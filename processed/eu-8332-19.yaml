@@ -25,6 +25,16 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Денис Александрович МИКУШЕВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Dzianis Aljaksandravitj MIKUSJEU
   name_language: SV
   strong: true
@@ -35,21 +45,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Denis Aleksandrovitj MIKUSJEV
-  name_language: SV
+- whole_name: Дзяніс Аляксандравіч МІКУШЭЎ
+  gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '141060'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Денис Александрович МИКУШЕВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140636'
+  logical_id: '140637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -68,22 +69,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Дзяніс Аляксандравіч МІКУШЭЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '140637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Denis Alexandrovich MIKUSHEV
   gender: M
   strong: true
   regulation_language: en
   logical_id: '140638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Denis Aleksandrovitj MIKUSJEV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: stiftelsen för fäderneslandets försvarare
-  name_language: SV
+- whole_name: Fonden »Defenders of the Fatherland«
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '160754'
+  logical_id: '161263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fundación “Defensores de la patria”
-  name_language: ES
+- whole_name: Fondation “Défenseurs de la Patrie”
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160753'
+  logical_id: '160597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -45,11 +45,74 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fonden »Defenders of the Fatherland«
-  name_language: DA
+- whole_name: fundação “Defenders of the Fatherland”
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '161263'
+  logical_id: '160752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Fundación “Defensores de la patria”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: stiftelsen för fäderneslandets försvarare
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160754'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ФОНД “ЗАЩИТНИКИ ОТЕЧЕСТВА”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160207'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: State Fund For Support Of Participants Of The Special Military Operation
+    “Defenders of the Fatherland”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Defenders of the Fatherland Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160209'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Foundation “Defenders of the Fatherland”
+  function: Russian Foundation founded in April 2023 to aid Russian veterans of the
+    war of aggression in Ukraine
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -116,6 +179,37 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Государственный фонд поддержки участников специальной военной операции
+    “защитники отечества”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Stiftung „Verteidiger des Vaterlandes“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '160596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: fondazione "Defenders of the Fatherland"
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '160595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Fundacja »Defenders of the Fatherland«
   name_language: PL
   strong: true
@@ -152,100 +246,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: fundação “Defenders of the Fatherland”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '160752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fondation “Défenseurs de la Patrie”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Stiftung „Verteidiger des Vaterlandes“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '160596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: fondazione "Defenders of the Fatherland"
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '160595'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Foundation “Defenders of the Fatherland”
-  function: Russian Foundation founded in April 2023 to aid Russian veterans of the
-    war of aggression in Ukraine
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Defenders of the Fatherland Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: State Fund For Support Of Participants Of The Special Military Operation
-    “Defenders of the Fatherland”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160208'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ФОНД “ЗАЩИТНИКИ ОТЕЧЕСТВА”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Государственный фонд поддержки участников специальной военной операции
-    “защитники отечества”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

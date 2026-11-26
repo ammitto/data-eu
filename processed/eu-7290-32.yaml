@@ -16,14 +16,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Igor
-  middle_name: Jurjevitj
-  last_name: KASTIUKEVITJ
-  whole_name: Igor Jurjevitj KASTIUKEVITJ
+  middle_name: Yurevich
+  last_name: KASTYUKEVICH
+  whole_name: Igor Yurevich KASTYUKEVICH
+  function: Secretary of the Kherson regional branch of the United Russia party. Former.Member
+    of the State Duma
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143948'
+  logical_id: '134899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -44,15 +45,14 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Igor
-  middle_name: Yurevich
-  last_name: KASTYUKEVICH
-  whole_name: Igor Yurevich KASTYUKEVICH
-  function: Secretary of the Kherson regional branch of the United Russia party. Former.Member
-    of the State Duma
+  middle_name: Jurjevitj
+  last_name: KASTIUKEVITJ
+  whole_name: Igor Jurjevitj KASTIUKEVITJ
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134899'
+  logical_id: '143948'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

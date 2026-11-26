@@ -25,21 +25,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Banca Orientului  Îndepărtat
-  name_language: RO
+- whole_name: Banka Dálného východu
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '147859'
+  logical_id: '147922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: TÁVOL-KELETI BANK
-  name_language: HU
+- whole_name: Banca Orientului  Îndepărtat
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147824'
+  logical_id: '147859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -55,11 +55,20 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Banka Dálného východu
-  name_language: CS
+- whole_name: TÁVOL-KELETI BANK
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147922'
+  logical_id: '147824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: АО «ДАЛЬНЕВОСТОЧНЫЙ БАНК»
+  strong: true
+  regulation_language: en
+  logical_id: '147067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -78,15 +87,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: АО «ДАЛЬНЕВОСТОЧНЫЙ БАНК»
-  strong: true
-  regulation_language: en
-  logical_id: '147067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

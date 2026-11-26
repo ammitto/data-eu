@@ -15,6 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Valentina
+  middle_name: Vasilyevna
+  last_name: LAVRIK
+  whole_name: Valentina Vasilyevna LAVRIK
+  function: So-called “Minister of Education, Science and Youth of the Republic of
+    Crimea”
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '162598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Valentina Lavriková
   gender: F
   name_language: SK
@@ -43,21 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Valentina
-  middle_name: Vasilyevna
-  last_name: LAVRIK
-  whole_name: Valentina Vasilyevna LAVRIK
-  function: So-called “Minister of Education, Science and Youth of the Republic of
-    Crimea”
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '162598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

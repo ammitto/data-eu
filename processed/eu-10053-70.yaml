@@ -16,6 +16,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Yahya
+  last_name: ALA’ODDINI
+  whole_name: Yahya ALA’ODDINI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
+- first_name: Yahya
   last_name: ALAEDDINI
   whole_name: Yahya ALAEDDINI
   gender: M
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153004'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
-- first_name: Yahya
-  last_name: ALA’ODDINI
-  whole_name: Yahya ALA’ODDINI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153003'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -15,11 +15,62 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: бригадите „Ал-Кудс“
-  name_language: BG
+- whole_name: Sarāyā al-Quds
+  function: the armed wing of the Palestinian Islamic Jihad (PIJ) terrorist organisation
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165029'
+  logical_id: '164984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Brigade Al-Quds
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '165045'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: al-Quds-brigaderna
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '165050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Al-Quds-prikaatit
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Al-Qudsi brigaadid
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '165056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Brigadas Al-Quds
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '165012'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'
@@ -35,43 +86,22 @@ name_aliases:
     publication_date: '2024-04-12'
     number_title: 2024/1073 (OJ L120420224)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Ταξιαρχίες Al-Quds
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '165019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Al-Quds Brigades
+- whole_name: سرايا القدس
   function: the armed wing of the Palestinian Islamic Jihad (PIJ) terrorist organisation
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '164985'
+  logical_id: '164986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'
     number_title: 2024/1073 (OJ L120420224)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Sarāyā al-Quds
-  function: the armed wing of the Palestinian Islamic Jihad (PIJ) terrorist organisation
-  name_language: EN
+- whole_name: Al-Quds-Brigaden
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '164984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: al-Quds Brigádok
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '165030'
+  logical_id: '165007'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'
@@ -107,72 +137,22 @@ name_aliases:
     publication_date: '2024-04-12'
     number_title: 2024/1073 (OJ L120420224)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Brigády Al-Quds
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Brigade Al-Quds
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '165045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Al-Quds-prikaatit
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: al-Quds-brigaderna
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '165050'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Al-Qudsi brigaadid
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '165056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Brigades al-Qods
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '165002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: سرايا القدس
+- whole_name: Al-Quds Brigades
   function: the armed wing of the Palestinian Islamic Jihad (PIJ) terrorist organisation
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164986'
+  logical_id: '164985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: al-Quds Brigádok
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '165030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'
@@ -188,21 +168,11 @@ name_aliases:
     publication_date: '2024-04-12'
     number_title: 2024/1073 (OJ L120420224)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Al-Quds-Brigaden
-  name_language: DE
+- whole_name: бригадите „Ал-Кудс“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '165007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-12'
-    number_title: 2024/1073 (OJ L120420224)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
-- whole_name: Brigadas Al-Quds
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165012'
+  logical_id: '165029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'
@@ -213,6 +183,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Ταξιαρχίες Al-Quds
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '165019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Brigády Al-Quds
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-12'
+    number_title: 2024/1073 (OJ L120420224)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202401073
+- whole_name: Brigades al-Qods
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '165002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-12'

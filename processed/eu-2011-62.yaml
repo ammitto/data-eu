@@ -15,33 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Fuad Mohamed Kalaf
-  strong: true
-  regulation_language: en
-  logical_id: '7850'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- whole_name: Fuad Mohammed Khalif
-  strong: true
-  regulation_language: en
-  logical_id: '7851'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- whole_name: Fuad Khalaf
-  strong: true
-  regulation_language: en
-  logical_id: '7852'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 - whole_name: Fuad Shongale
   strong: true
   regulation_language: en
@@ -69,10 +42,10 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- whole_name: Fuad Mohammed Kalaf
+- whole_name: Fuad Songale
   strong: true
   regulation_language: en
-  logical_id: '7849'
+  logical_id: '7856'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -91,15 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7858'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- whole_name: Fuad Songale
-  strong: true
-  regulation_language: en
-  logical_id: '7856'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -127,6 +91,42 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7848'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- whole_name: Fuad Mohammed Kalaf
+  strong: true
+  regulation_language: en
+  logical_id: '7849'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- whole_name: Fuad Mohamed Kalaf
+  strong: true
+  regulation_language: en
+  logical_id: '7850'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- whole_name: Fuad Mohammed Khalif
+  strong: true
+  regulation_language: en
+  logical_id: '7851'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- whole_name: Fuad Khalaf
+  strong: true
+  regulation_language: en
+  logical_id: '7852'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'

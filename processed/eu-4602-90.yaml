@@ -27,21 +27,21 @@ name_aliases:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- whole_name: Myrna Ajilul Mabanza
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '117456'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - whole_name: Myrna Adijul Mabanza
   gender: F
   strong: true
   regulation_language: en
   logical_id: '117457'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- whole_name: Myrna Ajilul Mabanza
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117456'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -115,11 +115,11 @@ addresses:
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 identifications:
-- identification_type_code: other
-  number: '200801087'
+- identification_type_code: electionid
+  number: 73320881AG1191MAM20000
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '117454'
+  logical_id: '117455'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -135,11 +135,11 @@ identifications:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- identification_type_code: electionid
-  number: 73320881AG1191MAM20000
+- identification_type_code: other
+  number: '200801087'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '117455'
+  logical_id: '117454'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

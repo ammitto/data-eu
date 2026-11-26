@@ -15,6 +15,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ahmed
+  last_name: Deghdegh
+  whole_name: Ahmed Deghdegh
+  function: Belongs to the leadership and is the finance chief of the Organization
+    of Al-Qaida in the Islamic Maghreb
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6713'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Abd El Ilah
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Said Dit Merrikh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '16848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: أحمد دغداغ
   name_language: AR
   strong: true
@@ -35,16 +69,6 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Abou Abdellah Ahmed
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Abdellillah dit Abdellah Ahmed dit Said
   name_language: EN
   strong: true
@@ -55,35 +79,11 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Said Dit Merrikh
+- whole_name: Abou Abdellah Ahmed
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '16848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- first_name: Ahmed
-  last_name: Deghdegh
-  whole_name: Ahmed Deghdegh
-  function: Belongs to the leadership and is the finance chief of the Organization
-    of Al-Qaida in the Islamic Maghreb
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6713'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Abd El Ilah
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6714'
+  logical_id: '185308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-26'

@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Иван Васильевич ВЕШКИН
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-13'
-    number_title: 2026/1708 (OJ L202601708)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
 - whole_name: Ivan Vasilyevich VESHKIN
   function: Deputy Head of Penal Colony No 10
   gender: M
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- whole_name: Иван Васильевич ВЕШКИН
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-13'

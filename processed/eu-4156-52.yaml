@@ -60,6 +60,17 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: 박재경
+  gender: M
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '141967'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Chae-kyong
   last_name: PAK
   whole_name: Chae-kyong PAK
@@ -68,17 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: 박재경
-  gender: M
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '141967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Dinamikus Elektronikus Frekvenciatechnika i Korlátolt Felelősségű Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '170253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2697 (OJL14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
 - whole_name: Dynamic Electronic Frequency Engineering Limited Liability Company
   name_language: EN
   strong: true
@@ -35,11 +45,12 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2697 (OJL14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
-- whole_name: Dinamikus Elektronikus Frekvenciatechnika i Korlátolt Felelősségű Társaság
-  name_language: HU
+- whole_name: Basamad Electronic Pouya Engineering Co.
+  function: an Iranian procurement firm
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170253'
+  logical_id: '170107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
@@ -50,17 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2697 (OJL14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
-- whole_name: Basamad Electronic Pouya Engineering Co.
-  function: an Iranian procurement firm
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юрий
-  middle_name: Василиевич
-  last_name: Ситников
-  whole_name: Юрий Василиевич Ситников
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Jurij
   middle_name: Vasiljevič
   last_name: Sitnikov
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Юрий
+  middle_name: Василиевич
+  last_name: Ситников
+  whole_name: Юрий Василиевич Ситников
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: VOMZ Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Vologda Optical and Mechanical Plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160071'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: JSC VOMZ
   name_language: EN
   strong: true
@@ -55,31 +35,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. “Usine d’optique et de mécanique de Vologda”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. VOMZ
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Vologdský opticko-mechanický závod, a. s.
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '160984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: VOMZ Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -95,21 +65,51 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima “Planta Óptico-Mecánica de Vologda”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО ВОМЗ
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '160068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “Vologda Optical and Mechanical Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S.A. VOMZ
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S.A. “Usine d’optique et de mécanique de Vologda”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad anónima “Planta Óptico-Mecánica de Vologda”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -129,6 +129,16 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
+- identification_type_code: fiscalcode
+  number: '3525023010'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '160066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: other
   number: '07500548'
   country_iso2_code: RU
@@ -145,16 +155,6 @@ identifications:
   regulation_language: en
   logical_id: '160067'
   issue_date: '2002-10-17'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: fiscalcode
-  number: '3525023010'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '160066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

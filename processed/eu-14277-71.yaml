@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: شرکت پژوهش و توسعه ناجی
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '182053'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/648 (OJ L202600648)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
 - whole_name: Naji Research and Development Company (NRDC)
   function: |-
     Naji Research and Development Company (NRDC) is an Iranian IT-services and consultancy company that is responsible for developing the Nazer mobile application for Iran’s Law Enforcement Forces.
@@ -35,6 +25,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: شرکت پژوهش و توسعه ناجی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '182053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

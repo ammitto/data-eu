@@ -163,18 +163,6 @@ addresses:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Ashrafi Esfahani to the north – above Hakim Bridge – before Chirag Bagh
-    Faiz – East Ayatollah
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158630'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Sadouq Street – No 5 (Mr Engineer Azad – Iran Concrete Association)
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -192,6 +180,18 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158631'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Ashrafi Esfahani to the north – above Hakim Bridge – before Chirag Bagh
+    Faiz – East Ayatollah
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

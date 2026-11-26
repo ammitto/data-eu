@@ -17,20 +17,6 @@ subject_type:
 name_aliases:
 - first_name: Alik
   middle_name: Yuryevich
-  last_name: HUCHBAROV
-  whole_name: Alik Yuryevich HUCHBAROV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- first_name: Alik
-  middle_name: Yuryevich
   last_name: KHUCHBAROV
   whole_name: Alik Yuryevich KHUCHBAROV
   function: GRU operative
@@ -45,13 +31,14 @@ name_aliases:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Alik
-  last_name: HUTŠBAROV
-  whole_name: Alik HUTŠBAROV
+  middle_name: Yuryevich
+  last_name: HUCHBAROV
+  whole_name: Alik Yuryevich HUCHBAROV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175634'
+  logical_id: '175635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -63,6 +50,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- first_name: Alik
+  last_name: HUTŠBAROV
+  whole_name: Alik HUTŠBAROV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

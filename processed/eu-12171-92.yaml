@@ -15,30 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ihar
-  last_name: Švedau
-  whole_name: Ihar Švedau
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Игорь Александрович ШВЕДОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Iгар Аляксандравіч ШВЕДАЎ
   gender: M
   name_language: BE
@@ -73,6 +49,19 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Ihar
+  last_name: Švedau
+  whole_name: Ihar Švedau
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Igor
   last_name: Švedov
   whole_name: Igor Švedov
@@ -81,6 +70,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Игорь Александрович ШВЕДОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -15,16 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vasily
-  middle_name: Alexandrovich
-  last_name: VYDRIN
-  whole_name: Vasily Alexandrovich VYDRIN
-  function: Deputy head of IK-3 penal colony (Russia)
+- first_name: Vasilij
+  middle_name: Alexandrovič
+  last_name: Vydrin
+  whole_name: Vasilij Alexandrovič Vydrin
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164266'
+  logical_id: '164677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -39,6 +38,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Vasily
+  middle_name: Alexandrovich
+  last_name: VYDRIN
+  whole_name: Vasily Alexandrovich VYDRIN
+  function: Deputy head of IK-3 penal colony (Russia)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164266'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -81,20 +95,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Vasilij
-  middle_name: Alexandrovič
-  last_name: Vydrin
-  whole_name: Vasilij Alexandrovič Vydrin
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

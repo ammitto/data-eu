@@ -15,12 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Sokol  Essets”
-  title: Joint Stock  Company
-  name_language: EN
+- whole_name: Акционерное  общество "Сокол  Эссет"
+  title: Joint Stock Company
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184397'
+  logical_id: '184396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'
@@ -48,12 +48,12 @@ name_aliases:
     publication_date: '2026-07-17'
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
-- whole_name: Акционерное  общество "Сокол  Эссет"
-  title: Joint Stock Company
-  name_language: RU
+- whole_name: JSC “Sokol  Essets”
+  title: Joint Stock  Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184396'
+  logical_id: '184397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'

@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Васили
+  last_name: Герасимов
+  whole_name: Васили Герасимов
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Васілій
   middle_name: Мікалаевіч
   last_name: ГЕРАСІМАЎ
@@ -74,19 +86,6 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Vasilij
-  last_name: Gerasimov
-  whole_name: Vasilij Gerasimov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
   last_name: Herasimaŭ
   whole_name: Vasilij Herasimaŭ
   gender: M
@@ -94,6 +93,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vasilij
+  last_name: Gerasimov
+  whole_name: Vasilij Gerasimov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -122,18 +134,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Васили
-  last_name: Герасимов
-  whole_name: Васили Герасимов
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161223'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

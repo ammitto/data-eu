@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sami
+  middle_name: Ben Khamis Ben Saleh
+  last_name: Elsseid
+  whole_name: Sami Ben Khamis Ben Saleh Elsseid
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '1950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-01-18'
+    number_title: 76/2006 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 - whole_name: Omar El Mouhajer
   strong: true
   regulation_language: en
@@ -32,19 +45,6 @@ name_aliases:
     publication_date: '2003-05-20'
     number_title: 866/2003 (OJ L124)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- first_name: Sami
-  middle_name: Ben Khamis Ben Saleh
-  last_name: Elsseid
-  whole_name: Sami Ben Khamis Ben Saleh Elsseid
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-01-18'
-    number_title: 76/2006 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 citizenships:
 - country_iso2_code: TN
   country_description: TUNISIA
@@ -85,16 +85,6 @@ addresses:
     number_title: 2015/64 (OJ L11)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
 identifications:
-- identification_type_code: id
-  number: '00319547'
-  country_iso2_code: TN
-  regulation_language: en
-  logical_id: '71'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-06-28'
-    number_title: 732/2007 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:166:0013:0015:EN:PDF
 - identification_type_code: passport
   number: K929139
   country_iso2_code: TN
@@ -105,3 +95,13 @@ identifications:
     publication_date: '2008-01-19'
     number_title: 46/2008 (OJ L16)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:016:0011:0016:EN:PDF
+- identification_type_code: id
+  number: '00319547'
+  country_iso2_code: TN
+  regulation_language: en
+  logical_id: '71'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-06-28'
+    number_title: 732/2007 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:166:0013:0015:EN:PDF

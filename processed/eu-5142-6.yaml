@@ -15,10 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ag Mossa
+- whole_name: Ammi Salim
   strong: true
   regulation_language: en
-  logical_id: '120837'
+  logical_id: '120839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
@@ -33,10 +33,10 @@ name_aliases:
     publication_date: '2019-08-20'
     number_title: 2019/1353 (OJ L217)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
-- whole_name: Ammi Salim
+- whole_name: Ag Mossa
   strong: true
   regulation_language: en
-  logical_id: '120839'
+  logical_id: '120837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'

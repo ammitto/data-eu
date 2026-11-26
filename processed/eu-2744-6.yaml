@@ -14,6 +14,66 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Serviço de Informações da Força Aérea [Síria]
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '14408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Urząd wywiadu sił powietrznych [Syria]
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '14407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Spravodajská služba vojenského letectva [Sýria]
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '14410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Obveščevalna služba zračnih sil [Sirija]
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '14411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: ilmavoimien tiedustelupalvelu [Syyria]
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '14412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Flygvapnets underrättelsetjänst [Syrien]
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '14413'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Air Force Intelligence Agency [Syria]
   strong: true
   regulation_language: en
@@ -163,71 +223,11 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Urząd wywiadu sił powietrznych [Syria]
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '14407'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Serviço de Informações da Força Aérea [Síria]
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '14408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Serviciul de informații al Forțelor Armate Aeriene [Siria]
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '14409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Spravodajská služba vojenského letectva [Sýria]
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '14410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Obveščevalna služba zračnih sil [Sirija]
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '14411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: ilmavoimien tiedustelupalvelu [Syyria]
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '14412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Flygvapnets underrättelsetjänst [Syrien]
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '14413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

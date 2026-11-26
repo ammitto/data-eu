@@ -15,64 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Viktar Arkadzievich SHAUTSOU
-  function: Businessman, investor
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Viktor
-  last_name: Švecov
-  whole_name: Viktor Švecov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Viktor Arkadievich SHEVTSOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Вiктар Аркадзьевiч ШАЎЦОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Виктор Аркадьевич ШВЕЦОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Victor
   middle_name: Arkadievich
   last_name: CHEVTSOV
@@ -94,6 +36,64 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Viktor
+  last_name: Švecov
+  whole_name: Viktor Švecov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169553'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Viktar Arkadzievich SHAUTSOU
+  function: Businessman, investor
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Виктор Аркадьевич ШВЕЦОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Вiктар Аркадзьевiч ШАЎЦОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Viktor Arkadievich SHEVTSOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

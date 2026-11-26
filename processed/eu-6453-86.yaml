@@ -15,23 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrej Mikalajevitj HURTSEVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Андрей  Николаевич  ГУРЦЕВИЧ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '130498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Mikalajevitj HURTSEVITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -48,12 +48,13 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrej Nikolajevitj GURTSEVITJ
+- whole_name: Andrei Mikalaevich  GURTSEVICH
+  function: "Chief of the Main Staff, \nFirst Deputy Commander \nof the Air Force"
   gender: M
-  name_language: SV
+  title: Major General
   strong: true
   regulation_language: en
-  logical_id: '130800'
+  logical_id: '130501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -69,13 +70,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrei Mikalaevich  GURTSEVICH
-  function: "Chief of the Main Staff, \nFirst Deputy Commander \nof the Air Force"
+- whole_name: Andrej Nikolajevitj GURTSEVITJ
   gender: M
-  title: Major General
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130501'
+  logical_id: '130800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

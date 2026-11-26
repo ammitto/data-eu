@@ -14,47 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tunisian Combatant Group
+- whole_name: Тунизийска бойна група
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '2051'
+  logical_id: '7464'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Grupo Combatiente Tunecino
-  name_language: ES
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Tunezyjska Grupa Bojowa
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '2053'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Groupe Combattant Tunisien
-  strong: true
-  regulation_language: en
-  logical_id: '2353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Groupe Islamiste Combattant Tunisien
-  strong: true
-  regulation_language: en
-  logical_id: '3561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-12-17'
-    number_title: 2145/2004 (OJ L370)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
-- whole_name: GICT
-  strong: true
-  regulation_language: en
-  logical_id: '3562'
+  logical_id: '3600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-12-17'
@@ -70,26 +44,52 @@ name_aliases:
     publication_date: '2004-12-17'
     number_title: 2145/2004 (OJ L370)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
-- whole_name: Tunezyjska Grupa Bojowa
-  name_language: PL
+- whole_name: GICT
   strong: true
   regulation_language: en
-  logical_id: '3600'
+  logical_id: '3562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-12-17'
     number_title: 2145/2004 (OJ L370)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
-- whole_name: Тунизийска бойна група
-  name_language: BG
+- whole_name: Groupe Islamiste Combattant Tunisien
   strong: true
   regulation_language: en
-  logical_id: '7464'
+  logical_id: '3561'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+    publication_date: '2004-12-17'
+    number_title: 2145/2004 (OJ L370)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
+- whole_name: Grupo Combatiente Tunecino
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2053'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
+- whole_name: Tunisian Combatant Group
+  strong: true
+  regulation_language: en
+  logical_id: '2051'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
+- whole_name: Groupe Combattant Tunisien
+  strong: true
+  regulation_language: en
+  logical_id: '2353'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
 addresses:
 - country_iso2_code: TN
   country_description: TUNISIA

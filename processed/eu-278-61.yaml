@@ -47,13 +47,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Sergej
-  last_name: Čemezov
-  whole_name: Sergej Čemezov
+  middle_name: Viktorovitj
+  last_name: TJEMEZOV
+  whole_name: Sergej Viktorovitj TJEMEZOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158454'
+  logical_id: '158580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -67,6 +68,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergej
+  last_name: Čemezov
+  whole_name: Sergej Čemezov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -93,20 +107,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergej
-  middle_name: Viktorovitj
-  last_name: TJEMEZOV
-  whole_name: Sergej Viktorovitj TJEMEZOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -28,50 +28,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Mubarak
-  middle_name: Mishkhis Sanad
-  last_name: Al-Bathali
-  whole_name: Mubarak Mishkhis Sanad Al-Bathali
+- whole_name: Abu Abdulrahman
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6143'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Mubarak
-  middle_name: Mishkhas Sanad
-  last_name: Al-Bathali
-  whole_name: Mubarak Mishkhas Sanad Al-Bathali
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Mubarak
-  middle_name: Mishkhis Sanad
-  last_name: Al-Badhali
-  whole_name: Mubarak Mishkhis Sanad Al-Badhali
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: مبارك مشخص سند مبارك البذالي
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '149562'
+  logical_id: '7732'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -113,11 +74,50 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Abdulrahman
+- first_name: Mubarak
+  middle_name: Mishkhis Sanad
+  last_name: Al-Badhali
+  whole_name: Mubarak Mishkhis Sanad Al-Badhali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7732'
+  logical_id: '6144'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Mubarak
+  middle_name: Mishkhis Sanad
+  last_name: Al-Bathali
+  whole_name: Mubarak Mishkhis Sanad Al-Bathali
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: مبارك مشخص سند مبارك البذالي
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Mubarak
+  middle_name: Mishkhas Sanad
+  last_name: Al-Bathali
+  whole_name: Mubarak Mishkhas Sanad Al-Bathali
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

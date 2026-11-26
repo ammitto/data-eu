@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: اشرف محمد يوسف عثمان عبد السلام
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '129107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - first_name: Ashraf
   middle_name: Muhammad Yusuf
   last_name: "'Uthman 'Abd Al-Salam"
@@ -58,16 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: اشرف محمد يوسف عثمان عبد السلام
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '129107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

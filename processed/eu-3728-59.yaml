@@ -16,55 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "'Abd Al-Rahman Bin 'Umayr Al-Nu'Aymi"
+- whole_name: "'Abdallah Muhammad al-Nu'aymi"
   strong: true
   regulation_language: en
-  logical_id: '18210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abd al-Rahman bin 'Amir al-Na'imi
-  strong: true
-  regulation_language: en
-  logical_id: '18211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abdulrahman Omair al Neaimi
-  strong: true
-  regulation_language: en
-  logical_id: '18220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: A. Rahman Omair J Alnaimi
-  strong: true
-  regulation_language: en
-  logical_id: '18219'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abdelrahman Imer al Jaber al Naimeh
-  strong: true
-  regulation_language: en
-  logical_id: '18218'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: A. Rahman al-Naimi
-  strong: true
-  regulation_language: en
-  logical_id: '18217'
+  logical_id: '18215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -79,19 +34,10 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: "'Abdallah Muhammad al-Nu'aymi"
+- whole_name: "'Abd al-Rahman bin 'Amir al-Nu'aymi"
   strong: true
   regulation_language: en
-  logical_id: '18215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: "'Abd al-Rahman al-Nu'aimi"
-  strong: true
-  regulation_language: en
-  logical_id: '18212'
+  logical_id: '18214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -106,10 +52,64 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: "'Abd al-Rahman bin 'Amir al-Nu'aymi"
+- whole_name: "'Abd al-Rahman al-Nu'aimi"
   strong: true
   regulation_language: en
-  logical_id: '18214'
+  logical_id: '18212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abd al-Rahman bin 'Amir al-Na'imi
+  strong: true
+  regulation_language: en
+  logical_id: '18211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: "'Abd Al-Rahman Bin 'Umayr Al-Nu'Aymi"
+  strong: true
+  regulation_language: en
+  logical_id: '18210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abdulrahman Omair al Neaimi
+  strong: true
+  regulation_language: en
+  logical_id: '18220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: A. Rahman al-Naimi
+  strong: true
+  regulation_language: en
+  logical_id: '18217'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abdelrahman Imer al Jaber al Naimeh
+  strong: true
+  regulation_language: en
+  logical_id: '18218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: A. Rahman Omair J Alnaimi
+  strong: true
+  regulation_language: en
+  logical_id: '18219'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -152,22 +152,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 identifications:
 - identification_type_code: id
-  number: '25463401784'
+  number: '25463400086'
   country_iso2_code: QA
   regulation_language: en
-  logical_id: '886'
-  valid_to: '2019-12-06'
+  logical_id: '129090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- identification_type_code: passport
-  number: '00868774'
+- identification_type_code: id
+  number: '25463401784'
   country_iso2_code: QA
   regulation_language: en
-  logical_id: '885'
-  valid_to: '2014-04-27'
+  logical_id: '886'
+  valid_to: '2019-12-06'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -184,11 +183,12 @@ identifications:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- identification_type_code: id
-  number: '25463400086'
+- identification_type_code: passport
+  number: '00868774'
   country_iso2_code: QA
   regulation_language: en
-  logical_id: '129090'
+  logical_id: '885'
+  valid_to: '2014-04-27'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

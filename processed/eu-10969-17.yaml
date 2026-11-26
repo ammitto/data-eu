@@ -15,43 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Severozápadní regionální středisko koncernu VKO „Almaz-Antěj“ – Obuchovský
-    závod, a. s.
-  name_language: CS
+- whole_name: JSC “North Western Regional Center of Almaz  Antey Concern Obukhovsky
+    Plant”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„GOZ Obukhov Gyártelep”  Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Obukhov Gyártelep” Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Almaz-Antey Konszern Észak-nyugati Regionális Központja – Obukhov Gyártelep
-    Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160970'
+  logical_id: '160029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -78,32 +47,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “Обуховский Завод”
-  name_language: RU
+- whole_name: "„Obukhov Gyártelep” Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “GOZ Obukhov plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160026'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “North Western Regional Center of Almaz  Antey Concern Obukhovsky
-    Plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160029'
+  logical_id: '160969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -125,6 +73,58 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “GOZ Obukhov plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “Обуховский Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„GOZ Obukhov Gyártelep”  Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Severozápadní regionální středisko koncernu VKO „Almaz-Antěj“ – Obuchovský
+    závod, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Almaz-Antey Konszern Észak-nyugati Regionális Központja – Obukhov Gyártelep
+    Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -156,21 +156,21 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: other
-  number: '781101001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '160022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: fiscalcode
   number: '7811144648'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: other
+  number: '781101001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '160022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

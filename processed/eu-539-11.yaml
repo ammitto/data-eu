@@ -19,6 +19,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Shahidwror
+  strong: true
+  regulation_language: en
+  logical_id: '16054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Allahdad
+  strong: true
+  regulation_language: en
+  logical_id: '111141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Allah Dad Matin
   function: "(a) Minister of Urban Development under the Taliban regime, (b) President
     of Central Bank (Da Afghanistan Bank) under the Taliban regime, (c) Head of Ariana
@@ -41,24 +59,6 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Shahidwror
-  strong: true
-  regulation_language: en
-  logical_id: '16054'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Allahdad
-  strong: true
-  regulation_language: en
-  logical_id: '111141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -72,12 +72,12 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1960
+  year: 1953
   city: Kadani village, Spin Boldak district, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1825'
+  logical_id: '979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'
@@ -85,12 +85,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1953
+  year: 1960
   city: Kadani village, Spin Boldak district, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '979'
+  logical_id: '1825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'

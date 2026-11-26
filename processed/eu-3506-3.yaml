@@ -17,6 +17,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
+  middle_name: Michajlovitj
+  last_name: DZJABAROV
+  whole_name: Vladimir Michajlovitj DZJABAROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
   middle_name: Michailovich
   last_name: DZHABAROV
   whole_name: Vladimir Michailovich DZHABAROV
@@ -27,20 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  middle_name: Michajlovitj
-  last_name: DZJABAROV
-  whole_name: Vladimir Michajlovitj DZJABAROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

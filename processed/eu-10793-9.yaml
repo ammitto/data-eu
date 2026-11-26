@@ -16,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Engineer Ismail
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-12'
-    number_title: 2023/1147 (OJ L151 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
 - first_name: Abdullahi Osman Mohamed
   last_name: Caddow
   whole_name: Abdullahi Osman Mohamed Caddow
@@ -66,12 +55,12 @@ name_aliases:
     publication_date: '2023-06-12'
     number_title: 2023/1147 (OJ L151 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
-- whole_name: Faracade
+- whole_name: Engineer Ismail
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158046'
+  logical_id: '158043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'
@@ -94,6 +83,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158045'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-12'
+    number_title: 2023/1147 (OJ L151 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
+- whole_name: Faracade
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'

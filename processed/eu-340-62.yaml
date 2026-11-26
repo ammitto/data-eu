@@ -18,6 +18,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ahmad Jan Akhundzada Shukoor Akhundzada
+  function: Governor of Zabol and Uruzgan Provinces under the Taliban regime.
+  title: "(a) Maulavi, (b) Mullah"
+  strong: true
+  regulation_language: en
+  logical_id: '111132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Ahmad Jan
   last_name: Akhunzada
   whole_name: Ahmad Jan Akhunzada
@@ -38,17 +49,6 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Ahmad Jan Akhundzada Shukoor Akhundzada
-  function: Governor of Zabol and Uruzgan Provinces under the Taliban regime.
-  title: "(a) Maulavi, (b) Mullah"
-  strong: true
-  regulation_language: en
-  logical_id: '111132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -64,11 +64,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1966
   year_range_to: 1967
-  city: Zurmat District, Paktia Province
+  city: Lablan village, Dehrawood District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1822'
+  logical_id: '977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -78,11 +78,11 @@ birthdates:
   calendar_type: GREGORIAN
   year_range_from: 1966
   year_range_to: 1967
-  city: Lablan village, Dehrawood District, Uruzgan Province
+  city: Zurmat District, Paktia Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '977'
+  logical_id: '1822'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

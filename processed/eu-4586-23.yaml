@@ -18,24 +18,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Al Ammu
+- whole_name: Al Dabbashi
   strong: true
   regulation_language: en
-  logical_id: '117258'
+  logical_id: '118340'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: Al-Dabachi
-  strong: true
-  regulation_language: en
-  logical_id: '117259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 - whole_name: AHMAD OUMAR IMHAMAD AL-FITOURI
   function: Commander of the Anas al-Dabbashi militia, Leader of a transnational trafficking
     network
@@ -47,15 +38,24 @@ name_aliases:
     publication_date: '2018-09-25'
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- whole_name: Al Dabbashi
+- whole_name: Al-Dabachi
   strong: true
   regulation_language: en
-  logical_id: '118340'
+  logical_id: '117259'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- whole_name: Al Ammu
+  strong: true
+  regulation_language: en
+  logical_id: '117258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - whole_name: Al-Ahwal
   strong: true
   regulation_language: en
@@ -102,16 +102,6 @@ birthdates:
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 addresses:
-- city: Garabulli
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '117253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - city: Dbabsha-Sabratah
   country_iso2_code: LY
   country_description: LIBYA
@@ -127,6 +117,16 @@ addresses:
   country_description: LIBYA
   regulation_language: en
   logical_id: '117252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- city: Garabulli
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '117253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'

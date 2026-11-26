@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Zakariya
+  strong: true
+  regulation_language: en
+  logical_id: '102267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-01-16'
+    number_title: 2015/64 (OJ L11)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
 - first_name: Adel
   middle_name: Ben Al-Azhar Ben Youssef
   last_name: Ben Soltane
@@ -34,15 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-01-16'
-    number_title: 2015/64 (OJ L11)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
-- whole_name: Zakariya
-  strong: true
-  regulation_language: en
-  logical_id: '102267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-01-16'

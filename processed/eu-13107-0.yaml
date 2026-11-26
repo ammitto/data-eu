@@ -105,22 +105,22 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '2204056679'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1112204004769'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175477'
   issue_date: '2011-11-01'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '2204056679'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

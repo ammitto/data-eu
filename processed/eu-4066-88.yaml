@@ -16,6 +16,18 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Isnilon
+  last_name: Hapilun
+  whole_name: Isnilon Hapilun
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Isnilon
   middle_name: Totoni
   last_name: Hapilon
   whole_name: Isnilon Totoni Hapilon
@@ -31,13 +43,13 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- first_name: Isnilon
+- first_name: Isnilun
   last_name: Hapilun
-  whole_name: Isnilon Hapilun
+  whole_name: Isnilun Hapilun
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4408'
+  logical_id: '4409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -73,18 +85,6 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Isnilun
-  last_name: Hapilun
-  whole_name: Isnilun Hapilun
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 citizenships:
 - country_iso2_code: PH
   country_description: PHILIPPINES
@@ -96,22 +96,6 @@ citizenships:
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
 birthdates:
-- birthdate: '1967-03-10'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 10
-  month_of_year: 3
-  year: 1967
-  city: Bulanza, Lantawan, Basilan
-  country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '720'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-12-10'
-    number_title: 2018/2005 (OJ L324)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
 - birthdate: '1966-03-18'
   circa: false
   calendar_type: GREGORIAN
@@ -128,22 +112,38 @@ birthdates:
     publication_date: '2005-12-10'
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
-addresses:
-- city: Lanao del Sur
+- birthdate: '1967-03-10'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 10
+  month_of_year: 3
+  year: 1967
+  city: Bulanza, Lantawan, Basilan
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
-  logical_id: '114564'
+  logical_id: '720'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-10-10'
-    number_title: 2017/1834 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1834&from=EN
+    publication_date: '2005-12-10'
+    number_title: 2018/2005 (OJ L324)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
+addresses:
 - city: Basilan
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '114565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-10-10'
+    number_title: 2017/1834 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1834&from=EN
+- city: Lanao del Sur
+  country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '114564'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-10-10'

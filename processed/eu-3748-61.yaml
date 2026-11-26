@@ -19,19 +19,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Haji Pazullah Noorzai
+- whole_name: Faizullah Noorzai Akhtar Mohammed Mira Khan
   strong: true
   regulation_language: en
-  logical_id: '16021'
+  logical_id: '14733'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Faizullah Noorzai Akhtar Mohammed Mira Khan
+- whole_name: Haji Pazullah Noorzai
   strong: true
   regulation_language: en
-  logical_id: '14733'
+  logical_id: '16021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -64,19 +64,10 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Hajji Faizullah Khan Noorzai
+- whole_name: Haji Fiazullah
   strong: true
   regulation_language: en
-  logical_id: '14719'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Haji Faizuulah Khan Norezai
-  strong: true
-  regulation_language: en
-  logical_id: '14720'
+  logical_id: '14722'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -91,10 +82,19 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Haji Fiazullah
+- whole_name: Haji Faizuulah Khan Norezai
   strong: true
   regulation_language: en
-  logical_id: '14722'
+  logical_id: '14720'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Hajji Faizullah Khan Noorzai
+  strong: true
+  regulation_language: en
+  logical_id: '14719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -125,13 +125,14 @@ citizenships:
     number_title: 1049/2011 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
 birthdates:
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  city: Kadanay, Spin Boldak District Kandahar Province
+  year_range_from: 1968
+  year_range_to: 1970
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111232'
+  logical_id: '1668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -139,11 +140,23 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  city: Chaman, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  year: 1961
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111231'
+  logical_id: '1667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1966
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '111234'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -163,31 +176,6 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1961
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year_range_from: 1968
-  year_range_to: 1970
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
-  calendar_type: GREGORIAN
   city: Lowy Kariz, Spin Boldak District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -200,27 +188,29 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1966
+  city: Chaman, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '111231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  city: Kadanay, Spin Boldak District Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111234'
+  logical_id: '111232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 addresses:
-- city: Kalay Rangin, Spin Boldak District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - street: Boghra Road
   city: Miralzei Village, Chaman, Baluchistan Province
   country_iso2_code: PK
@@ -232,3 +222,13 @@ addresses:
     publication_date: '2011-10-21'
     number_title: 1049/2011 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
+- city: Kalay Rangin, Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2291'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF

@@ -34,14 +34,13 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Michail
-  middle_name: Jevgenjevitj
-  last_name: MIZINTSEV
-  whole_name: Michail Jevgenjevitj MIZINTSEV
+  last_name: Mizincev
+  whole_name: Michail Mizincev
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '141184'
+  logical_id: '152198'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -75,13 +74,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Michail
-  last_name: Mizincev
-  whole_name: Michail Mizincev
+  middle_name: Jevgenjevitj
+  last_name: MIZINTSEV
+  whole_name: Michail Jevgenjevitj MIZINTSEV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152198'
+  logical_id: '141184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

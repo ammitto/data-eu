@@ -62,24 +62,27 @@ birthdates:
   day_of_month: 14
   month_of_year: 3
   year: 1942
-  city: Mosul
+  city: Baghdad
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '73'
+  logical_id: '74'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- circa: true
+- birthdate: '1942-03-14'
+  circa: false
   calendar_type: GREGORIAN
-  year: 1957
-  city: Baghdad
+  day_of_month: 14
+  month_of_year: 3
+  year: 1942
+  city: Mosul
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '72'
+  logical_id: '73'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -98,17 +101,14 @@ birthdates:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- birthdate: '1942-03-14'
-  circa: false
+- circa: true
   calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 3
-  year: 1942
+  year: 1957
   city: Baghdad
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '74'
+  logical_id: '72'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

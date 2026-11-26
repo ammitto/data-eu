@@ -15,16 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Palestinian Islamic Jihad
-  name_language: EN
+- whole_name: Jiohád Ioslamach na Palaistíne
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '357'
+  logical_id: '123318'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Palestinski islamski džihad
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '123317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: JIP
   name_language: RO
   strong: true
@@ -35,6 +45,26 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/329 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
+- whole_name: Palestinian Islamic Jihad
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: PIJ
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Jihad islamique palestinien
   name_language: FR
   strong: true
@@ -245,41 +275,11 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Palestinski islamski džihad
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '123317'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Jiohád Ioslamach na Palaistíne
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '123318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Palestijnse Islamitische Jihad
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '156159'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: PIJ
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-21'

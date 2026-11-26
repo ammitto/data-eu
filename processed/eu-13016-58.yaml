@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Atlas Mining LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Petropavlovsk PLC
   function: Petropavlovsk PLC is a Russian gold mining company operating in the Russian
     gold sector, which provides substantial revenue to the Government of the Russian
@@ -44,16 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Atlas Mining LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Роберт
-  middle_name: Ришатович
-  last_name: ГАЛИМОB
-  whole_name: Роберт Ришатович ГАЛИМОB
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Robert
   middle_name: Rishatovich
   last_name: GALIMOV
@@ -39,6 +25,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Роберт
+  middle_name: Ришатович
+  last_name: ГАЛИМОB
+  whole_name: Роберт Ришатович ГАЛИМОB
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

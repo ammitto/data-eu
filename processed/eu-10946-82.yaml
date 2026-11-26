@@ -29,20 +29,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Yulia
-  middle_name: Aleksandrovna
-  last_name: KLYMENKO-VERZHAK
-  whole_name: Yulia Aleksandrovna KLYMENKO-VERZHAK
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Юлия
   middle_name: Александровна
   last_name: КЛИМЕНКО
@@ -52,6 +38,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Yulia
+  middle_name: Aleksandrovna
+  last_name: KLYMENKO
+  whole_name: Yulia Aleksandrovna KLYMENKO
+  function: "Leader of “Yug Molodoy” movement; \nChairperson of the regional wing
+    of the “Young Guard” of President Putin’s “United Russia” party"
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -72,15 +74,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Yulia
   middle_name: Aleksandrovna
-  last_name: KLYMENKO
-  whole_name: Yulia Aleksandrovna KLYMENKO
-  function: "Leader of “Yug Molodoy” movement; \nChairperson of the regional wing
-    of the “Young Guard” of President Putin’s “United Russia” party"
+  last_name: KLYMENKO-VERZHAK
+  whole_name: Yulia Aleksandrovna KLYMENKO-VERZHAK
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159880'
+  logical_id: '159878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

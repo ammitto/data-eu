@@ -15,81 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Belneftekhim – A belarusz olaj- és vegyipari állami konszern
-  name_language: HU
+- whole_name: Belneftekhim - Belarusian State Concern for Oil and Chemistry
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156828'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - Bjeloruski državni koncern za naftu i kemiju
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '156829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim- Belarus statliga koncern för olja och kemi
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim — den belarusiske statslige koncern for olie og kemi
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '156831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim –  Valko-Venäjän öljy- ja kemianalan valtionkonserni
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '156837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim – Concernul Belarus de Stat pentru Petrochimie
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - L-Entità Statali tal-Belarussja għaż-Żejt u l-Kimika
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '156850'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - Gnóthas Stáit na Bealarúise  maidir le hOla agus Ceimic
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '156851'
+  logical_id: '156787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -115,26 +45,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belnaftachim - Běloruský státní ropný a chemický koncern
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156827'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - Bieloruský štátny naftový a chemický koncern
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - whole_name: Belneftekhim – Baltarusijos naftos ir chemijos valstybinis koncernas
   name_language: LT
   strong: true
@@ -145,31 +55,11 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - Belarusian State Concern for Oil and Chemistry
-  name_language: EN
+- whole_name: Belneftekhim — Belarussisch Staatsconcern voor olie en chemie
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '156787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - empresa estatal bielorrussa para o petróleo e a química
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '156812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim - empresa petrolera y química estatal bielorrusa
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '156813'
+  logical_id: '156820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -235,6 +125,26 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim - empresa estatal bielorrussa para o petróleo e a química
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '156812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim - empresa petrolera y química estatal bielorrusa
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '156813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - whole_name: Белнефтехим - Беларуският държавен нефтен и химичен концерн
   name_language: BG
   strong: true
@@ -245,11 +155,11 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Belneftekhim — Belarussisch Staatsconcern voor olie en chemie
-  name_language: NL
+- whole_name: Belneftekhim - Gnóthas Stáit na Bealarúise  maidir le hOla agus Ceimic
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '156820'
+  logical_id: '156851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -270,6 +180,96 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim - L-Entità Statali tal-Belarussja għaż-Żejt u l-Kimika
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '156850'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim - Bieloruský štátny naftový a chemický koncern
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belnaftachim - Běloruský státní ropný a chemický koncern
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim – A belarusz olaj- és vegyipari állami konszern
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '156828'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim - Bjeloruski državni koncern za naftu i kemiju
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '156829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim- Belarus statliga koncern för olja och kemi
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim — den belarusiske statslige koncern for olie og kemi
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '156831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim –  Valko-Venäjän öljy- ja kemianalan valtionkonserni
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '156837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Belneftekhim – Concernul Belarus de Stat pentru Petrochimie
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -15,38 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: TSA
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Iran Centrifuge Technology Company
-  function: Iran Centrifuge Technology Company manufactures uranium enrichment centrifuge
-    parts
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: TESA
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8146'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Irano centrifugų technologijos bendrovė
   name_language: LT
   strong: true
@@ -102,6 +70,38 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169636'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: TESA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8146'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: TSA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Iran Centrifuge Technology Company
+  function: Iran Centrifuge Technology Company manufactures uranium enrichment centrifuge
+    parts
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8144'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

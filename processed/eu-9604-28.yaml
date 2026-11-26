@@ -15,6 +15,66 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Direção de Contratação Pública na área da Defesa de Mianmar
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '150324'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmańska Dyrekcja ds. Zamówień w dziedzinie Obronności
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '150325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Myanmar Directorate of Defense Procurement
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Дирекция за обществени поръчки в областта на отбраната на Мианмар
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '150328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Myanmarské ředitelství pro zadávání veřejných zakázek v oblasti obrany
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '150331'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmarské riaditeľstvo pre obstarávanie v oblasti obrany
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '150334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Διεύθυνση Αμυντικών Προμηθειών της Μιανμάρ
   name_language: EL
   strong: true
@@ -85,16 +145,6 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmar Directorate of Defense Procurement
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Direktion  Verteidigungsgüterbeschaffung von Myanmar/Birma
   name_language: DE
   strong: true
@@ -140,56 +190,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direção de Contratação Pública na área da Defesa de Mianmar
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150324'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmańska Dyrekcja ds. Zamówień w dziedzinie Obronności
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '150325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Дирекция за обществени поръчки в областта на отбраната на Мианмар
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '150328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmarské ředitelství pro zadávání veřejných zakázek v oblasti obrany
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '150331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmarské riaditeľstvo pre obstarávanie v oblasti obrany
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '150334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

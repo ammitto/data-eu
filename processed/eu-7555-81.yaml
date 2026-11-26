@@ -16,19 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  last_name: Vojnov
-  whole_name: Oleg Vojnov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Oleg
   middle_name: Leonidovitj
   last_name: VOINOV
   whole_name: Oleg Leonidovitj VOINOV
@@ -37,24 +24,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Oleg
-  middle_name: Leonidovich
-  last_name: VOINOV
-  whole_name: Oleg Leonidovich VOINOV
-  function: "Director of National Historical Archives of Belarus.\nFormer Head of
-    the International Military Cooperation Department of the Belarusian Ministry of
-    Defence and Assistant to the Minister of \nDefence for International Military
-    Cooperation."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -83,6 +52,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
+  last_name: Vojnov
+  whole_name: Oleg Vojnov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
+  middle_name: Leonidovich
+  last_name: VOINOV
+  whole_name: Oleg Leonidovich VOINOV
+  function: "Director of National Historical Archives of Belarus.\nFormer Head of
+    the International Military Cooperation Department of the Belarusian Ministry of
+    Defence and Assistant to the Minister of \nDefence for International Military
+    Cooperation."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

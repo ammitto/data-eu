@@ -15,55 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock Company "Soedinitel"
-  function: Joint Stock Company Soedinitel is an enterprise engaged in the development
-    and manufacture of connectors, as well as special-purpose cable assemblies designed
-    to operate in aggressive and corrosive environments, and which can be subjected
-    to high pressures and important temperature changes.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество "Соединитель”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: JSC “Soedinitel”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '174808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO "Соединитель”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерно дружество „Соединител“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '175226'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -89,6 +45,50 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Joint Stock Company "Soedinitel"
+  function: Joint Stock Company Soedinitel is an enterprise engaged in the development
+    and manufacture of connectors, as well as special-purpose cable assemblies designed
+    to operate in aggressive and corrosive environments, and which can be subjected
+    to high pressures and important temperature changes.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: AO "Соединитель”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерно дружество „Соединител“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '175226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерное общество "Соединитель”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Turgoyak highway, 11/5
   city: Miass district, Miass
@@ -104,6 +104,17 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: regnumber
+  number: '1027400875149'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174806'
+  issue_date: '1993-03-24'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7415015198'
   country_iso2_code: RU
@@ -119,17 +130,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1027400875149'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174806'
-  issue_date: '1993-03-24'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

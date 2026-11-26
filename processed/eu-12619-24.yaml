@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Rt."
+- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171962'
+  logical_id: '171963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -35,31 +35,11 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Részvénytársaság"
+- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Rt."
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171963'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Aerosila JSC SPE
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: NPP Aerosila PAO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171789'
+  logical_id: '171962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -84,6 +64,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Aerosila JSC SPE
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: NPP Aerosila PAO
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

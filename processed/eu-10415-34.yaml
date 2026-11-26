@@ -15,6 +15,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Дмитрий
+  middle_name: Юрьевич
+  last_name: НОЖКИН
+  whole_name: Дмитрий Юрьевич НОЖКИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155545'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Dmitry
+  middle_name: Yurievich
+  last_name: NOZHKIN
+  whole_name: Dmitry Yurievich NOZHKIN
+  function: Head of IK-6 prison in Melekhovo, Vladimir region
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Dmitrij
   middle_name: Jurievič
   last_name: NOŽKIN
@@ -38,35 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156051'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitry
-  middle_name: Yurievich
-  last_name: NOZHKIN
-  whole_name: Dmitry Yurievich NOZHKIN
-  function: Head of IK-6 prison in Melekhovo, Vladimir region
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Дмитрий
-  middle_name: Юрьевич
-  last_name: НОЖКИН
-  whole_name: Дмитрий Юрьевич НОЖКИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

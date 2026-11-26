@@ -15,39 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohamed  Haji Omar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167502'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- whole_name: Mohamed Omar Ma’alin
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- whole_name: Mohamed Omar Haji
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - whole_name: Ma’d Umurow
   gender: M
   name_language: EN
@@ -68,6 +35,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Mohamed Omar Haji
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Mohamed Omar Ma’alin
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Mohamed  Haji Omar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167502'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
