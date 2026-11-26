@@ -40,17 +40,6 @@ name_aliases:
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-- first_name: Paul
-  last_name: Malong
-  whole_name: Paul Malong
-  strong: true
-  regulation_language: en
-  logical_id: '117874'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-13'
-    number_title: 2018/1115 (OJ L204)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
 - first_name: Bol
   last_name: Malong
   whole_name: Bol Malong
@@ -62,16 +51,18 @@ name_aliases:
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-citizenships:
-- country_iso2_code: SS
-  country_description: SOUTH SUDAN
+- first_name: Paul
+  last_name: Malong
+  whole_name: Paul Malong
+  strong: true
   regulation_language: en
-  logical_id: '117878'
+  logical_id: '117874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+citizenships:
 - country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
@@ -81,23 +72,16 @@ citizenships:
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-birthdates:
-- birthdate: '1962-01-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1962
-  place: Kotido
-  country_iso2_code: UG
-  country_description: UGANDA
+- country_iso2_code: SS
+  country_description: SOUTH SUDAN
   regulation_language: en
-  logical_id: '120613'
+  logical_id: '117878'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2019-07-17'
-    number_title: 2019/1208 (OJ L 191)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
+    publication_date: '2018-08-13'
+    number_title: 2018/1115 (OJ L204)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1962
@@ -106,21 +90,6 @@ birthdates:
   country_description: SOUTH SUDAN
   regulation_language: en
   logical_id: '117872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-13'
-    number_title: 2018/1115 (OJ L204)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-- birthdate: '1960-12-04'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 4
-  month_of_year: 12
-  year: 1960
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '117871'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'
@@ -141,22 +110,63 @@ birthdates:
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+- birthdate: '1960-12-04'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 4
+  month_of_year: 12
+  year: 1960
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '117871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-13'
+    number_title: 2018/1115 (OJ L204)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+- birthdate: '1962-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1962
+  place: Kotido
+  country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '120613'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-07-17'
+    number_title: 2019/1208 (OJ L 191)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
 identifications:
 - identification_type_code: passport
-  number: S00004370
-  country_iso2_code: SS
+  number: DA025963
+  country_iso2_code: UG
   regulation_language: en
-  logical_id: '117883'
+  logical_id: '120614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-07-17'
+    number_title: 2019/1208 (OJ L 191)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
+- identification_type_code: passport
+  number: B002606
+  country_iso2_code: SD
+  regulation_language: en
+  logical_id: '117879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
 - identification_type_code: passport
-  number: D00001369
+  number: S00004370
   country_iso2_code: SS
   regulation_language: en
-  logical_id: '117882'
+  logical_id: '117883'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'
@@ -173,20 +183,10 @@ identifications:
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
 - identification_type_code: passport
-  number: DA025963
-  country_iso2_code: UG
+  number: D00001369
+  country_iso2_code: SS
   regulation_language: en
-  logical_id: '120614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-07-17'
-    number_title: 2019/1208 (OJ L 191)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
-- identification_type_code: passport
-  number: B002606
-  country_iso2_code: SD
-  regulation_language: en
-  logical_id: '117879'
+  logical_id: '117882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'

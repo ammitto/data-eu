@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AO “NPP ‘Polet’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC Research And Production Enterprise “Polet”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»’Polet’ Kutató- és Termelővállalat Részvénytársaság«"
   name_language: HU
   strong: true
@@ -45,11 +25,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Polet Kutató- és Termelővállalat Rt.«"
-  name_language: HU
+- whole_name: AO “NPP ‘Polet’”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175370'
+  logical_id: '175358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -83,6 +63,26 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC Research And Production Enterprise “Polet”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Polet Kutató- és Termelővállalat Rt.«"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175370'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: pl Komsomolskaya d 1
   city: Nizhny Novgorod
@@ -106,22 +106,22 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '5258100129'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1115258007688'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175356'
   issue_date: '2011-12-29'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '5258100129'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175355'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

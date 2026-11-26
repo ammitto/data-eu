@@ -18,18 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Torek Agha
-  gender: M
-  title: Haji
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-11-17'
-    number_title: 2015/2043 (OJ L 300, p. 1)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R2043
 - whole_name: Sayed Mohammed Hashan
   gender: M
   name_language: EN
@@ -63,6 +51,18 @@ name_aliases:
     publication_date: '2015-11-17'
     number_title: 2015/2043 (OJ L 300, p. 1)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R2043
+- whole_name: Torek Agha
+  gender: M
+  title: Haji
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-11-17'
+    number_title: 2015/2043 (OJ L 300, p. 1)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R2043
 - whole_name: Toriq Agha Sayed
   gender: M
   name_language: EN
@@ -78,11 +78,11 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1962
-  region: Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  region: Pishin, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '111249'
+  logical_id: '107017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'
@@ -116,12 +116,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1962
+  year: 1960
   region: Pishin, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '107017'
+  logical_id: '119446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'
@@ -129,12 +129,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1960
-  region: Pishin, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  year: 1962
+  region: Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '119446'
+  logical_id: '111249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'

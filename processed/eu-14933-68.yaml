@@ -15,34 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александра ЙОСТ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-15'
-    number_title: 2026/1356 (OJ L202601356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
-- whole_name: Саша ЙОСТ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-15'
-    number_title: 2026/1356 (OJ L202601356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
 - whole_name: Sasha JOST
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '184994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Александра ЙОСТ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-15'
@@ -55,6 +44,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Саша ЙОСТ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-15'

@@ -15,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: "»41. Központi Üzem« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Vasúti Berendezéseket Gyártó 41. Központi Üzem« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерно дружество „41-ви централен завод за железопътно оборудване“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '175234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: JSC "41 Central Plant"
   name_language: EN
   strong: true
@@ -68,41 +98,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерно дружество „41-ви централен завод за железопътно оборудване“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '175234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Fábrica Central de Equipamento Ferroviário 41
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '175231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»41. Központi Üzem« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Vasúti Berendezéseket Gyártó 41. Központi Üzem« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -127,11 +127,11 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '5027150193'
+- identification_type_code: other
+  number: '502701001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '174901'
+  logical_id: '174900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -148,11 +148,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '502701001'
+- identification_type_code: fiscalcode
+  number: '5027150193'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '174900'
+  logical_id: '174901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

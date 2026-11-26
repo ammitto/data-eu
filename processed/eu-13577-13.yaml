@@ -37,13 +37,12 @@ name_aliases:
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 addresses:
-- street: Bozorgmehr Street, Block 271,
+- street: No. 271, 4th Floor, Mirdamad Blvd, Northeast of Mirdamad Bridge,
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '178434'
-  po_box: 14155-6569
+  logical_id: '178432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -60,12 +59,13 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: No. 271, 4th Floor, Mirdamad Blvd, Northeast of Mirdamad Bridge,
+- street: Bozorgmehr Street, Block 271,
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '178432'
+  logical_id: '178434'
+  po_box: 14155-6569
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

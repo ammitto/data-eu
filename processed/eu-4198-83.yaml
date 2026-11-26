@@ -18,11 +18,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Chongchongang Shipping Company
-  name_language: EN
+- whole_name: Chongchongang Shipping Co LTD
   strong: true
   regulation_language: en
-  logical_id: '107841'
+  logical_id: '143174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -38,10 +37,11 @@ name_aliases:
     publication_date: '2016-03-05'
     number_title: 2016/315 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
-- whole_name: Chongchongang Shipping Co LTD
+- whole_name: Chongchongang Shipping Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143174'
+  logical_id: '107841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

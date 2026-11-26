@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: وسيم عمر المسالمة
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Waseem Omar
   last_name: AL-MASALMA
   whole_name: Waseem Omar AL-MASALMA
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: وسيم عمر المسالمة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Вячеслав Николаевич ПИСКЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-02-23'
-    number_title: 2026/431 (OJ L202600431)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600431&qid=1772117723153
 - whole_name: Vyacheslav Nikolaevich PISKLOV
   function: Vyacheslav Pisklov is the head of Penal Colony 9 UFSIN in Altai Krai.
     Maria Ponomarenko is a prisoner who is being held in that facility. On 15 February
@@ -46,6 +35,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-02-23'
+    number_title: 2026/431 (OJ L202600431)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600431&qid=1772117723153
+- whole_name: Вячеслав Николаевич ПИСКЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181729'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-02-23'

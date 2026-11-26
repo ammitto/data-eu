@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federal State Budgetary Institution “OK “Snegiri”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181659'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: FSBI “OK “Snegiri”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- whole_name: ФГБУ "ОК "Снегири"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Federal State Budgetary Institution “OK “Snegiri” of the Office of the
     President of the Russian Federation
   function: Federal State Budgetary Institution “OK “Snegiri” is a Russian entity
@@ -64,12 +34,42 @@ name_aliases:
     publication_date: '2026-04-23'
     number_title: 2026/509 (OJ L202600509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: FSBI “OK “Snegiri”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: Federal State Budgetary Institution “OK “Snegiri”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181659'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Федеральное Государственное Бюджетное Учреждение "Оздоровительный Комплекс
     "Снегири" Управления Делами Президента Российской Федерации
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '181660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- whole_name: ФГБУ "ОК "Снегири"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181657'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

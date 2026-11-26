@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Communication Platform LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-13'
-    number_title: 2026/1708 (OJ L202601708)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
 - whole_name: Акционерное Общество Инвестиционная Компания Коммуникационная Платформа
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '185741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- whole_name: Communication Platform LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-13'

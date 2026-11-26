@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Kommunikációs és Irányítási Rendszerek Kutatóintézete« Részvénytársaság"
-  name_language: HU
+- whole_name: Instituto de Investigação de Comunicações e Sistemas de Controlo
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '175251'
+  logical_id: '175249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -35,11 +35,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Instituto de Investigação de Comunicações e Sistemas de Controlo
-  name_language: PT
+- whole_name: "»Kommunikációs és Irányítási Rendszerek Kutatóintézete« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175249'
+  logical_id: '175251'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “НИИССУ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -86,16 +96,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “НИИССУ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

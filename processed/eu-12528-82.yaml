@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Unidade 29155 da GRU
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '172067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
 - whole_name: GRU Unit 29155
   function: GRU Unit 29155 is a covert unit within the Russian military intelligence
     agency (GRU)
@@ -47,21 +37,21 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3188 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- whole_name: Отдел 29155 на ГРУ
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '172079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
 - whole_name: GRU-enhed 29155
   name_language: DA
   strong: true
   regulation_language: en
   logical_id: '172078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- whole_name: Отдел 29155 на ГРУ
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '172079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -157,6 +147,36 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3188 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- whole_name: Jednostka GRU nr 29155
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '172068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- whole_name: Unidade 29155 da GRU
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '172067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- whole_name: Unitatea 29155 a GRU
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '172066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
 - whole_name: GRU-enhet 29155
   name_language: SV
   strong: true
@@ -192,26 +212,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172065'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- whole_name: Unitatea 29155 a GRU
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '172066'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- whole_name: Jednostka GRU nr 29155
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '172068'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

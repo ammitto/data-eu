@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Елена Васильевна РОМАНОВСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182721'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Elena Vasilievna ROMANOVSKAYA
   function: Deputy Chairman of the Council of Ministers of the Republic of Crimea
     – Minister of Labor and Social Protection of the Republic of Crimea, and a member
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Елена Васильевна РОМАНОВСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

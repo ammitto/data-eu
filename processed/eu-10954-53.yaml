@@ -16,13 +16,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Sergej
-  last_name: Burakov
-  whole_name: Sergej Burakov
+  middle_name: Dmitrijevitj
+  last_name: BURAKOV
+  whole_name: Sergej Dmitrijevitj BURAKOV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160933'
+  logical_id: '160693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -60,14 +61,13 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Sergej
-  middle_name: Dmitrijevitj
-  last_name: BURAKOV
-  whole_name: Sergej Dmitrijevitj BURAKOV
+  last_name: Burakov
+  whole_name: Sergej Burakov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160693'
+  logical_id: '160933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

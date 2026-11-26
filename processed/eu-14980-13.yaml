@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ДОЛ «Солнечный берег»
-  strong: true
-  regulation_language: en
-  logical_id: '185393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: State Budgetary General Educational Institution of the Republic of Dagestan
-    "Republican Center of Education "Sunny Beach"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Children's camp "Sunny Beach"
   function: "Children’s Camp “Sunny Beach” is a state educational and recreational
     camp for children aged 7–15, combining recreation, schooling and cultural activities.
@@ -52,11 +32,22 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Государственное бюджетное общеобразовательное учреждение Республики
-    Дагестан "Республиканский центр образования "Солнечный берег"
+- whole_name: State Budgetary General Educational Institution of the Republic of Dagestan
+    "Republican Center of Education "Sunny Beach"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185392'
+  logical_id: '185395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Children's Center "Sunny Beach"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185394'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -71,20 +62,29 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Детский центр «Солнечный берег»
+- whole_name: Государственное бюджетное общеобразовательное учреждение Республики
+    Дагестан "Республиканский центр образования "Солнечный берег"
   strong: true
   regulation_language: en
-  logical_id: '185390'
+  logical_id: '185392'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Children's Center "Sunny Beach"
-  name_language: EN
+- whole_name: ДОЛ «Солнечный берег»
   strong: true
   regulation_language: en
-  logical_id: '185394'
+  logical_id: '185393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Детский центр «Солнечный берег»
+  strong: true
+  regulation_language: en
+  logical_id: '185390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

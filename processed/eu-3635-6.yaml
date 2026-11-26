@@ -57,19 +57,19 @@ name_aliases:
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 citizenships:
-- country_iso2_code: PS
-  country_description: PALESTINIAN TERRITORY, Occupied
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '111170'
+  logical_id: '111171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
-  logical_id: '111171'
+  logical_id: '111170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

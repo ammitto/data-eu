@@ -153,11 +153,11 @@ name_aliases:
     number_title: 386/2014 (OJ L111)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0386&from=EN
 addresses:
-- city: Tongan-dong, Central District, Pyongyang
+- city: Mangyongdae District, Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
-  logical_id: '2179'
+  logical_id: '2181'
   contact_infos:
   - key: PHONE
     value: 8502- 18111; 8502-18111-8642; and 850 2 18111- 3818642
@@ -183,11 +183,11 @@ addresses:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- city: Mangyongdae District, Pyongyang
+- city: Tongan-dong, Central District, Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
-  logical_id: '2181'
+  logical_id: '2179'
   contact_infos:
   - key: PHONE
     value: 8502- 18111; 8502-18111-8642; and 850 2 18111- 3818642

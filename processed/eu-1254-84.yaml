@@ -14,11 +14,70 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Haramain Foundation (Unión de la Comoras)
-  name_language: ES
+- whole_name: Al-Haramain Foundation (União das Ilhas Comores)
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '3404'
+  logical_id: '3411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Unie der Comoren)
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '3410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Komorerna)
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '3412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Fondation Al-Haramain (Union des Comores)
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '3427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Union of the Comoros)
+  strong: true
+  regulation_language: en
+  logical_id: '3399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Unionen Comorerne)
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '3401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Union der Komoren)
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '3402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-10-02'
@@ -29,6 +88,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '3403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Unión de la Comoras)
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '3404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-10-02'
+    number_title: 1728/2004 (OJ L306)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
+- whole_name: Al-Haramain Foundation (Komorien liitto)
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '3405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-10-02'
@@ -69,85 +148,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '3409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Unie der Comoren)
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '3410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (União das Ilhas Comores)
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '3411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Komorerna)
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '3412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Fondation Al-Haramain (Union des Comores)
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '3427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Komorien liitto)
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '3405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Union of the Comoros)
-  strong: true
-  regulation_language: en
-  logical_id: '3399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Unionen Comorerne)
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '3401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-10-02'
-    number_title: 1728/2004 (OJ L306)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:306:0013:0014:EN:PDF
-- whole_name: Al-Haramain Foundation (Union der Komoren)
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '3402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-10-02'

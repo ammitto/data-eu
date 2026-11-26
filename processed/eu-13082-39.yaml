@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Finko« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО “Финко”
   name_language: RU
   strong: true
@@ -50,6 +40,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Finko« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175297'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: St. 10 Years of October, 24, flat 62
   city: Izhevsk
@@ -65,22 +65,22 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '1831144571'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1101831006144'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175171'
   issue_date: '2010-12-10'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '1831144571'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

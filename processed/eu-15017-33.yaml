@@ -42,11 +42,11 @@ addresses:
     number_title: 2026/1883 (OJ L202601883)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
 identifications:
-- identification_type_code: regnumber
-  number: '99134'
+- identification_type_code: other
+  number: '411111477788'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185764'
+  logical_id: '185762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-30'
@@ -62,11 +62,11 @@ identifications:
     publication_date: '2026-07-30'
     number_title: 2026/1883 (OJ L202601883)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601883
-- identification_type_code: other
-  number: '411111477788'
+- identification_type_code: regnumber
+  number: '99134'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185762'
+  logical_id: '185764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-30'

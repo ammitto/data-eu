@@ -26,23 +26,21 @@ name_aliases:
     publication_date: '2005-12-10'
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
-- first_name: Radulan
-  last_name: Sahirun
-  whole_name: Radulan Sahirun
+- whole_name: Commander Putol
   strong: true
   regulation_language: en
-  logical_id: '4425'
+  logical_id: '4427'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-12-10'
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
 - first_name: Radulan
-  last_name: Sahiron
-  whole_name: Radulan Sahiron
+  last_name: Sahirun
+  whole_name: Radulan Sahirun
   strong: true
   regulation_language: en
-  logical_id: '4423'
+  logical_id: '4425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-12-10'
@@ -59,10 +57,12 @@ name_aliases:
     publication_date: '2005-12-10'
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
-- whole_name: Commander Putol
+- first_name: Radulan
+  last_name: Sahiron
+  whole_name: Radulan Sahiron
   strong: true
   regulation_language: en
-  logical_id: '4427'
+  logical_id: '4423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-12-10'

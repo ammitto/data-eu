@@ -18,15 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Atiqullah
-  strong: true
-  regulation_language: en
-  logical_id: '6052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Atiqullah Wali Mohammad
   function: "(a) Director of Foreign Relations, Kandahar Province under the Taliban
     regime, (b) Director of Public Works, Kandahar Province under the Taliban regime,
@@ -36,6 +27,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Atiqullah
+  strong: true
+  regulation_language: en
+  logical_id: '6052'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

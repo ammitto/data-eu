@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Syronics – Syrian Arab Co. for Electronic Industries
-  strong: true
-  regulation_language: en
-  logical_id: '15029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-12-02'
-    number_title: 1244/2011 (OJ L319)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:319:0008:0010:EN:PDF
 - whole_name: Syronics – sirska arabska družba za elektronsko industrijo
   name_language: SL
   strong: true
@@ -34,6 +25,15 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- whole_name: Syronics – Syrian Arab Co. for Electronic Industries
+  strong: true
+  regulation_language: en
+  logical_id: '15029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-12-02'
+    number_title: 1244/2011 (OJ L319)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:319:0008:0010:EN:PDF
 addresses:
 - street: Kaboon Street
   city: Damascus

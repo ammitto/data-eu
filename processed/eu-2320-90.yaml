@@ -32,13 +32,12 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- first_name: Khalil
-  middle_name: Al-Rahman
+- first_name: Khaleel
   last_name: Haqqani
-  whole_name: Khalil Al-Rahman Haqqani
+  whole_name: Khaleel Haqqani
   strong: true
   regulation_language: en
-  logical_id: '8611'
+  logical_id: '8961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'
@@ -56,12 +55,13 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- first_name: Khaleel
+- first_name: Khalil
+  middle_name: Al-Rahman
   last_name: Haqqani
-  whole_name: Khaleel Haqqani
+  whole_name: Khalil Al-Rahman Haqqani
   strong: true
   regulation_language: en
-  logical_id: '8961'
+  logical_id: '8611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'
@@ -131,16 +131,6 @@ addresses:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- city: Sarana Zadran Village, Paktia Province,
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '111355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - street: Near Dergey Manday Madrasa
   city: Dergey Manday Village, near Miram Shah, North Waziristan Agency (NWA), Federally
     Administered Tribal Areas (FATA)
@@ -153,3 +143,13 @@ addresses:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
+- city: Sarana Zadran Village, Paktia Province,
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '111355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

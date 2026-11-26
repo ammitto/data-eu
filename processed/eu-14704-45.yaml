@@ -15,17 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АO УКБ Белгородсоцбанк
-  title: Joint Stock Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184080'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Акционерное Общество Универсальный Коммерческий Банк Социального Развития
     И Реконструкции “Белгородсоцбанк”
   title: Joint Stock Company
@@ -38,12 +27,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Banca Comercială Universală pentru Dezvoltare Socială și Reconstrucție
-    Belgorodsocbank S.A.
-  name_language: RO
+- whole_name: АO УКБ Белгородсоцбанк
+  title: Joint Stock Company
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184779'
+  logical_id: '184080'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -56,6 +45,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Banca Comercială Universală pentru Dezvoltare Socială și Reconstrucție
+    Belgorodsocbank S.A.
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

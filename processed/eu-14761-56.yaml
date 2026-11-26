@@ -15,17 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC  "Scientific and  Production  Enterprise "ABS  Electro"
-  title: Limited Liability  Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184372'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - whole_name: Limited Liability  Company “Asset  Automation”
   title: Limited Liability Company
   name_language: EN
@@ -37,12 +26,12 @@ name_aliases:
     publication_date: '2026-07-17'
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
-- whole_name: LLC “Asset  Automation”
-  title: 'Type of entity:  Limited Liability'
+- whole_name: "“ABS Electro  Group”"
+  title: Limited Liability  Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184373'
+  logical_id: '184370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'
@@ -59,12 +48,23 @@ name_aliases:
     publication_date: '2026-07-17'
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
-- whole_name: "“ABS Electro  Group”"
+- whole_name: LLC  "Scientific and  Production  Enterprise "ABS  Electro"
   title: Limited Liability  Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184370'
+  logical_id: '184372'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
+- whole_name: LLC “Asset  Automation”
+  title: 'Type of entity:  Limited Liability'
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184373'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'
@@ -108,21 +108,21 @@ addresses:
     number_title: 2026/1779 (OJ L202601779)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 identifications:
-- identification_type_code: taxid
-  number: '2130102938'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '184367'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-17'
-    number_title: 2026/1779 (OJ L202601779)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
 - identification_type_code: regnumber
   number: '1122130005502'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '184368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-17'
+    number_title: 2026/1779 (OJ L202601779)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601779&qid=1785514544714
+- identification_type_code: taxid
+  number: '2130102938'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '184367'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-17'

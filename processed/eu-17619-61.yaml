@@ -1,6 +1,6 @@
 ---
-eu_reference_number: EU.14793.58
-logical_id: '184479'
+eu_reference_number: EU.17619.61
+logical_id: '215350'
 designation_date: '2026-07-23'
 regulations:
 - regulation_type: amendment
@@ -15,70 +15,73 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock  Company Pergam  Engineering
-  function: Joint Stock Company Pergam Engineering is a Russian company that trades
-    machines, devices, apparatuses, and equipment for general industrial and specialized
-    purposes.
-  name_language: EN
+- whole_name: АО Углеметбанк
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184485'
+  logical_id: '215354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Акционерное  общество Пергам  Инжиниринг
-  name_language: RU
+- whole_name: JSC Uglemetbank
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184484'
+  logical_id: '215355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Coalmetbank
+  function: JSC Coalmetbank is a regional commercial bank headquartered in the Chelyabinsk
+    region of the Russian Federation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '215356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Olminskogo  prospect, 3 A,  Office 830
-  city: Moscow
+- street: 17B Molodogvardeytsev Street
+  city: Chelyabinsk
+  region: Chelyabinsk Oblast
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
-  zip_code: 127254,
+  zip_code: '454138'
   regulation_language: en
-  logical_id: '184481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- street: Ogorodny Prospekt,  Building 5,  Structure 4, Floor  3, Room 305
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '127254'
-  regulation_language: en
-  logical_id: '184480'
+  logical_id: '215351'
+  contact_infos:
+  - key: WEB
+    value: https://www.coalmetbank.ru/
+  - key: PHONE
+    value: "+7 (351) 220-53-82"
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: other
-  number: '1027700285612'
-  country_iso2_code: RU
+- identification_type_code: taxid
+  number: '744801001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '184483'
+  logical_id: '215352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: taxid
-  number: '7713226814'
-  country_iso2_code: RU
+  number: '4214005204'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '184482'
+  logical_id: '215353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

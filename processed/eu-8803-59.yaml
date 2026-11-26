@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Korporacja Irkut S.A.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '144685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: Корпорация «ИРКУТ»
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '144525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Korporacja Irkut S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '144685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

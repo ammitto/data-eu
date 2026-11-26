@@ -16,6 +16,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Anatolij
+  last_name: Sotnikov
+  whole_name: Anatolij Sotnikov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Anatolij
   last_name: Sotnikau
   whole_name: Anatolij Sotnikau
   gender: M
@@ -68,19 +81,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Anatolij
-  last_name: Sotnikov
-  whole_name: Anatolij Sotnikov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

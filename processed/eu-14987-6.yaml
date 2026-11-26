@@ -15,20 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО ДОЦ "Котлостроитель"
-  strong: true
-  regulation_language: en
-  logical_id: '185461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Boiler Builder
+- whole_name: LLC Children’s Center “Kotlostroitel”
+  function: LLC Children’s Center “Kotlostroitel” is a children's camp, operating
+    summer sessions. It provides sports, educational, and cultural activities for
+    children.
+  title: Limited Liability Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185462'
+  logical_id: '185464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -44,15 +39,20 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: LLC Children’s Center “Kotlostroitel”
-  function: LLC Children’s Center “Kotlostroitel” is a children's camp, operating
-    summer sessions. It provides sports, educational, and cultural activities for
-    children.
-  title: Limited Liability Company
+- whole_name: Boiler Builder
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185464'
+  logical_id: '185462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО ДОЦ "Котлостроитель"
+  strong: true
+  regulation_language: en
+  logical_id: '185461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -81,10 +81,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
 - identification_type_code: other
-  number: '612301001'
+  number: '6123015216'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185458'
+  logical_id: '185459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -102,10 +102,10 @@ identifications:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
-  number: '6123015216'
+  number: '612301001'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185459'
+  logical_id: '185458'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

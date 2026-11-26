@@ -17,13 +17,13 @@ subject_type:
 name_aliases:
 - first_name: Владимир
   middle_name: Петрович
-  last_name: ЕВТУШЕНКО
-  whole_name: Владимир Петрович ЕВТУШЕНКО
+  last_name: ЕВТУШЕНКОВ
+  whole_name: Владимир Петрович ЕВТУШЕНКОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173167'
+  logical_id: '173169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -45,13 +45,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Владимир
   middle_name: Петрович
-  last_name: ЕВТУШЕНКОВ
-  whole_name: Владимир Петрович ЕВТУШЕНКОВ
+  last_name: ЕВТУШЕНКО
+  whole_name: Владимир Петрович ЕВТУШЕНКО
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173169'
+  logical_id: '173167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

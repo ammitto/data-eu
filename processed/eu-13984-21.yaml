@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Commission to Determine the Instances of Criminal Content
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: کارگروه تعیین مصادیق محتوای مجرمانه
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '180625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: Working Group for Determining Instances of Criminal Content
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180626'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/267 (OJ L202600267)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
 - whole_name: CDICC
   name_language: EN
   strong: true
@@ -55,11 +25,21 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: The Filtering Committee
+- whole_name: Commission to Determine the Instances of Criminal Content
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180621'
+  logical_id: '180623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: WGDICC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'
@@ -75,11 +55,31 @@ name_aliases:
     publication_date: '2026-01-29'
     number_title: 2026/267 (OJ L202600267)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
-- whole_name: WGDICC
+- whole_name: Working Group for Determining Instances of Criminal Content
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180624'
+  logical_id: '180626'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: The Filtering Committee
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/267 (OJ L202600267)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600267
+- whole_name: کارگروه تعیین مصادیق محتوای مجرمانه
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '180625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

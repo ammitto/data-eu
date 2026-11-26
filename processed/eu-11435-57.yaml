@@ -45,34 +45,6 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Ilnar
-  middle_name: Irfanovitš
-  last_name: Basyrov
-  whole_name: Ilnar Irfanovitš Basyrov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164654'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Илнар
-  middle_name: Ирфанович
-  last_name: Басиров
-  whole_name: Илнар Ирфанович Басиров
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Ilnar
   middle_name: Irfanovič
   last_name: Basyrov
   whole_name: Ilnar Irfanovič Basyrov
@@ -81,6 +53,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Ilnar
+  middle_name: Irfanovitš
+  last_name: Basyrov
+  whole_name: Ilnar Irfanovitš Basyrov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164654'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Илнар
+  middle_name: Ирфанович
+  last_name: Басиров
+  whole_name: Илнар Ирфанович Басиров
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164579'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akcinė bendrovė Zelenograd Nanotechnology Center
-  name_language: LT
+- whole_name: АО “ЗНТЦ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173455'
+  logical_id: '172714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -59,16 +59,6 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo ‚Zelenograd Nanotechnology Center’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Centrul de nanotehnologie Zelenograd SA
   name_language: RO
   strong: true
@@ -79,11 +69,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “ЗНТЦ”
-  name_language: RU
+- whole_name: Dioničko društvo ‚Zelenograd Nanotechnology Center’
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '172714'
+  logical_id: '173454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Akcinė bendrovė Zelenograd Nanotechnology Center
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '173455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -122,22 +122,22 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '7735570680'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1107746582052'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172713'
   issue_date: '2010-07-22'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '7735570680'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

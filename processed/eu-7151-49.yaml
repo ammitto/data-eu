@@ -15,6 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Римма
+  middle_name: Амировна
+  last_name: УТЯШЕВА
+  whole_name: Римма Амировна УТЯШЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '134342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Rimma
   middle_name: Amirovna
   last_name: UTYASHEVA
@@ -34,20 +48,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Римма
-  middle_name: Амировна
-  last_name: УТЯШЕВА
-  whole_name: Римма Амировна УТЯШЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '134342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

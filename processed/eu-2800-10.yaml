@@ -15,76 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdul Samad Sial
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Samad Sial
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Qari Mushtaq
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '16355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Tariq
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '16356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Hussain
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '16357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Ustad Talha
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '16354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abdul Samad
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: مطیع الرحمن علی محمد
   name_language: AR
   strong: true
@@ -101,6 +31,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Hussain
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '16357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -151,6 +91,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abdul Samad
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Samad Sial
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abdul Samad Sial
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Ustad Talha
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '16354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Qari Mushtaq
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '16355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Tariq
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '16356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

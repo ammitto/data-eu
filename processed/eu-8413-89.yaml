@@ -25,13 +25,43 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Salem ould
-  last_name: BREIHMATT
-  whole_name: Salem ould BREIHMATT
+- first_name: Hamza
+  last_name: NITRIK
+  whole_name: Hamza NITRIK
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141420'
+  logical_id: '141415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Hamza al-Mauritani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Hamza al-Shinqiti
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Hamza al-Shanqiti
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141418'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -49,43 +79,13 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Hamza al-Shanqiti
+- first_name: Salem ould
+  last_name: BREIHMATT
+  whole_name: Salem ould BREIHMATT
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141418'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Hamza al-Shinqiti
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Hamza al-Mauritani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Hamza
-  last_name: NITRIK
-  whole_name: Hamza NITRIK
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141415'
+  logical_id: '141420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

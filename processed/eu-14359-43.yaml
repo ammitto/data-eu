@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Hung Phat Maritime Trading
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2588 (OJ L202502588)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
 - whole_name: HPMT
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2588 (OJ L202502588)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502588
+- whole_name: Hung Phat Maritime Trading
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

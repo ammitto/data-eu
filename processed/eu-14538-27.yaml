@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Банк Аверс
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183377'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: JSC Bank Avers
   function: JSC Bank Avers is a strategically important large regional bank headquartered
     in Kazan, Republic of Tatarstan, Russian Federation.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО Банк Аверс
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -55,22 +55,22 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: other
-  number: '1655500084'
+- identification_type_code: regnumber
+  number: '165501001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183376'
+  logical_id: '183375'
   issue_date: '1990-09-25'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: regnumber
-  number: '165501001'
+- identification_type_code: other
+  number: '1655500084'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183375'
+  logical_id: '183376'
   issue_date: '1990-09-25'
   regulation_summaries:
   - regulation_type: amendment

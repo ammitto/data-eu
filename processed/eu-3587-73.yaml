@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Аслан
+  last_name: Авгазарович Бютукаев
+  whole_name: Аслан Авгазарович Бютукаев
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-09'
+    number_title: 2016/1347 (OJ L 214)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
 - whole_name: Абубакар
   name_language: EN
   strong: true
@@ -25,11 +37,13 @@ name_aliases:
     publication_date: '2016-08-09'
     number_title: 2016/1347 (OJ L 214)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
-- whole_name: Abubakar
+- first_name: Aslan
+  last_name: Avgazarovich Byutukaev
+  whole_name: Aslan Avgazarovich Byutukaev
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109249'
+  logical_id: '109253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-09'
@@ -59,25 +73,11 @@ name_aliases:
     publication_date: '2016-08-09'
     number_title: 2016/1347 (OJ L 214)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
-- first_name: Аслан
-  last_name: Авгазарович Бютукаев
-  whole_name: Аслан Авгазарович Бютукаев
+- whole_name: Abubakar
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-09'
-    number_title: 2016/1347 (OJ L 214)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
-- first_name: Aslan
-  last_name: Avgazarovich Byutukaev
-  whole_name: Aslan Avgazarovich Byutukaev
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109253'
+  logical_id: '109249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-09'

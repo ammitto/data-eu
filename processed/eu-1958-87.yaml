@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iszfaháni Optikai Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169647'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Isfahan Optics
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '8153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Iszfaháni Optikai Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169647'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Haramain (brainse na hÍsiltíre)
-  name_language: GA
+- whole_name: Al-Haramain (den nederländska avdelningen)
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149854'
+  logical_id: '149856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Stichting Al Haramain Humanitarian Aid
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '3285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Al-Haramain (The Netherlands branch)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '3284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -105,16 +125,6 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Al-Haramain (den nederländska avdelningen)
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '149856'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Al-Haramain (branche Pays-Bas)
   name_language: FR
   strong: true
@@ -125,11 +135,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Al-Haramain (The Netherlands branch)
-  name_language: EN
+- whole_name: Al-Haramain (brainse na hÍsiltíre)
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '3284'
+  logical_id: '149854'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -140,26 +150,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Al-Haramain (sezione Paesi Bassi)
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '149852'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Stichting Al Haramain Humanitarian Aid
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '3285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -240,6 +230,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149851'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Al-Haramain (sezione Paesi Bassi)
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '149852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

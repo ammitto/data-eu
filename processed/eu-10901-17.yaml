@@ -15,104 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Serhej
-  middle_name: Jauhenavitj
-  last_name: LAHADZIUK
-  whole_name: Serhej Jauhenavitj LAHADZIUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160638'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergey
-  middle_name: Evgenyevich
-  last_name: LAGODIUK
-  whole_name: Sergey Evgenyevich LAGODIUK
-  function: Deputy Chief of the General Staff of the Armed Forces of the Republic
-    of Belarus, Head of the Main Operational Directorate
-  gender: M
-  title: Colonel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Siarhei
-  middle_name: Evgenievich
-  last_name: LAHADZIUK
-  whole_name: Siarhei Evgenievich LAHADZIUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Lagadzjuk
-  whole_name: Sergej Lagadzjuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Lagoďuk
-  whole_name: Sergej Lagoďuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Lagoďuk
-  whole_name: Sergej Lagoďuk
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  middle_name: Jevgenjevitj
-  last_name: LAGODJUK
-  whole_name: Sergej Jevgenjevitj LAGODJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160639'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Сергей
   middle_name: Яўгенавіч
   last_name: ЛАГАДЗЮК
@@ -136,6 +38,104 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159603'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Siarhei
+  middle_name: Evgenievich
+  last_name: LAHADZIUK
+  whole_name: Siarhei Evgenievich LAHADZIUK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergey
+  middle_name: Evgenyevich
+  last_name: LAGODIUK
+  whole_name: Sergey Evgenyevich LAGODIUK
+  function: Deputy Chief of the General Staff of the Armed Forces of the Republic
+    of Belarus, Head of the Main Operational Directorate
+  gender: M
+  title: Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  middle_name: Jevgenjevitj
+  last_name: LAGODJUK
+  whole_name: Sergej Jevgenjevitj LAGODJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  last_name: Lagoďuk
+  whole_name: Sergej Lagoďuk
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  last_name: Lagadzjuk
+  whole_name: Sergej Lagadzjuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160846'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Serhej
+  middle_name: Jauhenavitj
+  last_name: LAHADZIUK
+  whole_name: Serhej Jauhenavitj LAHADZIUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  last_name: Lagoďuk
+  whole_name: Sergej Lagoďuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160847'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

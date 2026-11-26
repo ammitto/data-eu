@@ -16,11 +16,44 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Federal State Public Educational Institution “Nakhimov Naval School
+    of the Order of Honor of the Ministry of Defense of the Russian Federation”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Nakhimov Naval School
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: NVMU
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '182880'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Федеральное государственное казённое общеобразовательное учреждение
+    “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской
+    Федерации”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -41,39 +74,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Nakhimov Naval School
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182881'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Federal State Public Educational Institution “Nakhimov Naval School
-    of the Order of Honor of the Ministry of Defense of the Russian Federation”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- whole_name: Федеральное государственное казённое общеобразовательное учреждение
-    “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской
-    Федерации”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'
@@ -112,21 +112,21 @@ identifications:
     publication_date: '2026-05-11'
     number_title: 2026/1055 (OJ L202601055)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
-- identification_type_code: taxid
-  number: '7813054936'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '182875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - identification_type_code: regnumber
   number: '1037828008206'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '182876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- identification_type_code: taxid
+  number: '7813054936'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '182875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

@@ -15,6 +15,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: کوچزایی ابراهیم
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- first_name: Ebrahim
+  last_name: KOUCHAKZAEI
+  whole_name: Ebrahim KOUCHAKZAEI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '145731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - first_name: Ebrahim
   last_name: KOCHZAEI
   whole_name: Ebrahim KOCHZAEI
@@ -31,30 +55,6 @@ name_aliases:
     publication_date: '2024-04-05'
     number_title: 2024/1033 (OJ L05042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- first_name: Ebrahim
-  last_name: KOUCHAKZAEI
-  whole_name: Ebrahim KOUCHAKZAEI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '145731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- whole_name: کوچزایی ابراهیم
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Ebrahim
   last_name: KOCHZAI
   whole_name: Ebrahim KOCHZAI

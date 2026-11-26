@@ -16,6 +16,18 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Nusret
+  last_name: Imamovic
+  whole_name: Nusret Imamovic
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Nusret
   middle_name: Sulejman
   last_name: Imamovic
   whole_name: Nusret Sulejman Imamovic
@@ -23,18 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107725'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Nusret
-  last_name: Imamovic
-  whole_name: Nusret Imamovic
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -95,20 +95,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
 identifications:
 - identification_type_code: passport
-  number: '3490054'
+  number: '349054'
   country_iso2_code: BA
   regulation_language: en
-  logical_id: '107723'
+  logical_id: '107724'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - identification_type_code: passport
-  number: '349054'
+  number: '3490054'
   country_iso2_code: BA
   regulation_language: en
-  logical_id: '107724'
+  logical_id: '107723'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

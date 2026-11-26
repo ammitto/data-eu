@@ -18,16 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Zorro Midende
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 - whole_name: Gaby Ruhinda
   gender: M
   strong: true
@@ -38,16 +28,16 @@ name_aliases:
     publication_date: '2022-12-08'
     number_title: 2022/2397 (OJ L316-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
-- whole_name: Gatokarakura
+- whole_name: Ruhinda
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '161588'
+  logical_id: '146088'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-12-22'
-    number_title: 2023/2905 (OJ L22122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 - first_name: Protogène
   last_name: RUVUGAYIMIKORE
   whole_name: Protogène RUVUGAYIMIKORE
@@ -65,11 +55,21 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Ruhinda
+- whole_name: Gatokarakura
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '146088'
+  logical_id: '161588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-22'
+    number_title: 2023/2905 (OJ L22122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
+- whole_name: Zorro Midende
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-08'
@@ -78,12 +78,13 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1969
-  region: Nyabihu  District, Western Province
+  year: 1970
+  region: Gisenyi Prefecture
+  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '161590'
+  logical_id: '161587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'
@@ -105,26 +106,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
 - circa: false
   calendar_type: GREGORIAN
-  year: 1970
+  year: 1968
   region: Nyabihu  District, Western Province
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '161589'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-22'
-    number_title: 2023/2905 (OJ L22122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1970
-  region: Gisenyi Prefecture
-  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '161587'
+  logical_id: '161591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'
@@ -146,12 +133,25 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
 - circa: false
   calendar_type: GREGORIAN
-  year: 1968
+  year: 1970
   region: Nyabihu  District, Western Province
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '161591'
+  logical_id: '161589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-22'
+    number_title: 2023/2905 (OJ L22122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1969
+  region: Nyabihu  District, Western Province
+  country_iso2_code: RW
+  country_description: RWANDA
+  regulation_language: en
+  logical_id: '161590'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'

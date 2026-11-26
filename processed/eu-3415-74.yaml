@@ -16,11 +16,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Qaida tal-Jihad Organization fil-Peniżola Għarbija,
-  name_language: MT
+- whole_name: Al-Qaida στην Αραβική Χερσόνησο
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '7655'
+  logical_id: '7649'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida της οργάνωσης Jihad στην Αραβική Χερσόνησο
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '7650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaeda en la península arábiga
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '7651'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qa‘ida van het Arabisch Schiereiland
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7652'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qa‘ida van de Jihad-organisatie van het Arabisch Schiereiland
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '7653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-01-26'
@@ -31,6 +71,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7654'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida tal-Jihad Organization fil-Peniżola Għarbija,
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '7655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Kaida na Półwyspie Arabskim
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '7656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-01-26'
@@ -363,26 +423,6 @@ name_aliases:
     publication_date: '2012-10-12'
     number_title: 933/2012 (OJ L278)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
-- whole_name: Al-Kaida na Półwyspie Arabskim
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '7656'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qa‘ida van de Jihad-organisatie van het Arabisch Schiereiland
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 - whole_name: Al-Qaida in the Arabian Peninsula
   function: 'AQAP is a regional affiliate of Al-Qaida and an armed group operating
     primarily in Arabian Peninsula.  Location: Yemen. Alternative location: Saudi-Arabia
@@ -492,46 +532,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida στην Αραβική Χερσόνησο
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '7649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida της οργάνωσης Jihad στην Αραβική Χερσόνησο
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '7650'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaeda en la península arábiga
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '7651'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qa‘ida van het Arabisch Schiereiland
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '7652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-01-26'

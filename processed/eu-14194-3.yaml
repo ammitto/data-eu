@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Максим Александрович ПРИЛЕПСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '181724'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-02-23'
-    number_title: 2026/431 (OJ L202600431)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600431&qid=1772117723153
 - whole_name: Maksim Aleksandrovich PRILEPSKY
   function: Maksim Prilepsky is the head of Penal Colony 5 UFSIN in the Oryol Oblast.
     Mikhail Kriger is a prisoner held in that facility. On 17 May 2023, he was sentenced
@@ -46,6 +35,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181725'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-02-23'
+    number_title: 2026/431 (OJ L202600431)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600431&qid=1772117723153
+- whole_name: Максим Александрович ПРИЛЕПСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '181724'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-02-23'

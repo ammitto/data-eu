@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Myanmar Office of the Quarter Master General
-  name_language: EN
+- whole_name: Myanmarský úřad generálintendanta
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '149225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Oifig an Mháistir Ceathrún Ghinearálta i Maenmar
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '150354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Urad glavnega intendanta v Mjanmaru/Burmi
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150348'
+  logical_id: '150329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -55,6 +35,36 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: kindralkortermeistri  büroo
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '150345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Urad glavnega intendanta v Mjanmaru/Burmi
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Myanmar Office of the Quarter Master General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Gabinete do Quartel-Mestre-General de Mianmar
   name_language: PT
   strong: true
@@ -65,21 +75,51 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Кабинет на главния интендант на Мианма
-  name_language: BG
+- whole_name: Oifig an Mháistir Ceathrún Ghinearálta i Maenmar
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '150326'
+  logical_id: '150354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmarský úřad generálintendanta
-  name_language: CS
+- whole_name: Büro des Generalquartiermeisters von Myanmar/Birma
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '150329'
+  logical_id: '150307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Ufficio dell’intendente generale del Myanmar
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '150310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Bureau de l’intendant général du Myanmar
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '150313'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Oficina de la Intendencia General de Myanmar
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '150316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -115,41 +155,21 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Кабинет на главния интендант на Мианма
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '150326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Mianmari Katonai Beszerzési Parancsnokság
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '150339'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Oficina de la Intendencia General de Myanmar
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '150316'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: kindralkortermeistri  büroo
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '150345'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmas Galvenā viceintendanta birojs
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '150343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -165,31 +185,11 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Büro des Generalquartiermeisters von Myanmar/Birma
-  name_language: DE
+- whole_name: Mjanmas Galvenā viceintendanta birojs
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '150307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Ufficio dell’intendente generale del Myanmar
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '150310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Bureau de l’intendant général du Myanmar
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '150313'
+  logical_id: '150343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

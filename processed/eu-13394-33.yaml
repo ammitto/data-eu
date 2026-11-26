@@ -15,14 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company  “Aeroscan”
-  function: LLC Aeroscan is a Russian commercial operator that provides services in
-    the areas of aerial photography, video and thermal imaging monitoring and laser
-    scanning for unmanned aerial systems.
-  name_language: EN
+- whole_name: OOO “Аэроскан”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177275'
+  logical_id: '177272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -38,31 +35,34 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Общество с  Ограниченной  Ответственностью “Аэроскан”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: OOO “Аэроскан”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Az Aeroscan Kft
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '177271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Limited Liability Company  “Aeroscan”
+  function: LLC Aeroscan is a Russian commercial operator that provides services in
+    the areas of aerial photography, video and thermal imaging monitoring and laser
+    scanning for unmanned aerial systems.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177275'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Общество с  Ограниченной  Ответственностью “Аэроскан”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -78,11 +78,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade de  responsabilidade limitada  “Aeroscan”
-  name_language: PT
+- whole_name: Aeroscan-yhtiö
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '177269'
+  logical_id: '177267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -98,11 +98,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Aeroscan-yhtiö
-  name_language: FI
+- whole_name: Sociedade de  responsabilidade limitada  “Aeroscan”
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '177267'
+  logical_id: '177269'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

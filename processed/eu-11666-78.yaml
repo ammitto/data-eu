@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Venäjän sankarin Ahmat Kadyrovin mukaan nimetty alueellinen julkinen
+    säätiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '167201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Ahmat Kadyrov -säätiö
   name_language: FI
   strong: true
@@ -108,36 +119,6 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akmat Kadyrovfonden
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '167561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Nadace Achmata Kadyrova
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Fundación Akmat Kadyrov
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '167563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Regional Public Foundation named after the hero of Russia Akhmat Kadyrov
   name_language: EN
   strong: true
@@ -183,6 +164,36 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Akmat Kadyrovfonden
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '167561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Nadace Achmata Kadyrova
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Fundación Akmat Kadyrov
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '167563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: регионална публична фондация, носеща името на руския герой Ахмат Кадиров
   name_language: BG
   strong: true
@@ -214,17 +225,6 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Venäjän sankarin Ahmat Kadyrovin mukaan nimetty alueellinen julkinen
-    säätiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '167201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 addresses:
 - street: Kommunisticheskaya str. 9
   country_iso2_code: RU
@@ -239,10 +239,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
 - identification_type_code: regnumber
-  number: '200501001'
-  country_iso2_code: '00'
+  number: '2005504830'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '167641'
+  logical_id: '166233'
   issue_date: '2004-09-17'
   regulation_summaries:
   - regulation_type: amendment
@@ -250,10 +250,10 @@ identifications:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: regnumber
-  number: '2005504830'
-  country_iso2_code: RU
+  number: '200501001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '166233'
+  logical_id: '167641'
   issue_date: '2004-09-17'
   regulation_summaries:
   - regulation_type: amendment

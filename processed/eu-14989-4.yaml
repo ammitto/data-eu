@@ -50,20 +50,20 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Детский оздоровительно-образовательный центр "Бригантина"
-  strong: true
-  regulation_language: en
-  logical_id: '185478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Муниципальное бюджетное образовательное учреждение дополнительного образования
     "детский оздоровительно-образовательный центр "бригантина"
   strong: true
   regulation_language: en
   logical_id: '185477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Детский оздоровительно-образовательный центр "Бригантина"
+  strong: true
+  regulation_language: en
+  logical_id: '185478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -92,6 +92,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
 - identification_type_code: other
+  number: '213001001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
   number: '2127305550'
   country_iso2_code: '00'
   regulation_language: en
@@ -107,16 +117,6 @@ identifications:
   regulation_language: en
   logical_id: '185474'
   issue_date: '2002-12-18'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: other
-  number: '213001001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '185475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

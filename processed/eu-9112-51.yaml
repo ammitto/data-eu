@@ -18,28 +18,6 @@ subject_type:
 name_aliases:
 - whole_name: Barbecue
   gender: M
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '146046'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2022-11-28'
-    number_title: 2022/2309 (OJ L307)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2309
-- whole_name: Barbecue
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '146045'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2022-11-28'
-    number_title: 2022/2309 (OJ L307)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2309
-- whole_name: Barbecue
-  gender: M
   name_language: DE
   strong: true
   regulation_language: en
@@ -68,6 +46,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146022'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2022-11-28'
+    number_title: 2022/2309 (OJ L307)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2309
+- whole_name: Barbecue
+  gender: M
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '146046'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2022-11-28'
+    number_title: 2022/2309 (OJ L307)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2309
+- whole_name: Barbecue
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '146045'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2022-11-28'

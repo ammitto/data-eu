@@ -16,20 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Андрей
-  last_name: ШНАЙДЕР
-  whole_name: Андрей ШНАЙДЕР
-  gender: M
-  title: Co-founder and co-owner of the “Svetofor Group”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183927'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Андрей
   middle_name: Иванович
   last_name: ШНАЙДЕР
   whole_name: Андрей Иванович ШНАЙДЕР
@@ -39,6 +25,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Andrey
+  middle_name: Ivanovich
+  last_name: SCHNEIDER
+  whole_name: Andrey Ivanovich SCHNEIDER
+  gender: M
+  title: Co-founder and co-owner of the “Svetofor Group”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183930'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -58,16 +59,15 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Andrey
-  middle_name: Ivanovich
-  last_name: SCHNEIDER
-  whole_name: Andrey Ivanovich SCHNEIDER
+- first_name: Андрей
+  last_name: ШНАЙДЕР
+  whole_name: Андрей ШНАЙДЕР
   gender: M
   title: Co-founder and co-owner of the “Svetofor Group”
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183930'
+  logical_id: '183927'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

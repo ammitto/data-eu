@@ -15,67 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: سيف بولاد أبو بكر
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Saif ABU BAKR
+- whole_name: Sayf BALUD
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176033'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: سيف بولاد
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Seyf EBUBEKIR
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Seyf Ebu BEKIR
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: سيف أبو بكر
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176028'
+  logical_id: '176034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -97,12 +42,67 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Sayf BALUD
+- whole_name: سيف أبو بكر
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: سيف بولاد
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: سيف بولاد أبو بكر
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Seyf EBUBEKIR
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176034'
+  logical_id: '176031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Saif ABU BAKR
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176033'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Seyf Ebu BEKIR
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

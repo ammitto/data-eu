@@ -15,6 +15,28 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Joint-stock Company  Aluminium  Metallurg Rus
+  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing
+    specialized aluminum alloy forgings and profiles for high-load structural applications.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184490'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: AMR JSC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Акционерное общество “Алюминий Металлург Рус”
   function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing
     specialized aluminum alloy forgings and profiles for high-load structural applications.
@@ -37,28 +59,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: AMR JSC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184489'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Joint-stock Company  Aluminium  Metallurg Rus
-  function: JSC Aluminium Metallurg Rus (AMR) is a major Russian enterprise producing
-    specialized aluminum alloy forgings and profiles for high-load structural applications.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
 - street: Zavodskaya  street, 1
   region: Rostov region
@@ -73,11 +73,12 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '7709534220'
+- identification_type_code: regnumber
+  number: '1047796161830'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '184494'
+  logical_id: '184495'
+  issue_date: '2004-03-15'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -93,12 +94,11 @@ identifications:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: regnumber
-  number: '1047796161830'
+- identification_type_code: taxid
+  number: '7709534220'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '184495'
-  issue_date: '2004-03-15'
+  logical_id: '184494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

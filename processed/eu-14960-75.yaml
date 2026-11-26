@@ -15,11 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Всероссийский детский центр “Океан”
-  name_language: RU
+- whole_name: Federal State Budgetary Educational Institution “All-Russian Children’s
+    Centre ‘Ocean’”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185243'
+  logical_id: '185245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: All-Russian Children’s Centre “Okean”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: All-Russian Children’s Centre “Ocean”
+  function: The All-Russian Children’s Center Ocean is a federal state budgetary educational
+    institution under the Government of Russia and the Ministry of Education of the
+    Russian Federation, funded through federal initiatives and aligned with national
+    education policy..
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -45,15 +70,11 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: All-Russian Children’s Centre “Ocean”
-  function: The All-Russian Children’s Center Ocean is a federal state budgetary educational
-    institution under the Government of Russia and the Ministry of Education of the
-    Russian Federation, funded through federal initiatives and aligned with national
-    education policy..
-  name_language: EN
+- whole_name: Всероссийский детский центр “Океан”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '185247'
+  logical_id: '185243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -64,27 +85,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Federal State Budgetary Educational Institution “All-Russian Children’s
-    Centre ‘Ocean’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185245'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: All-Russian Children’s Centre “Okean”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -112,12 +112,11 @@ addresses:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
-- identification_type_code: other
-  number: '1022502127592'
+- identification_type_code: taxid
+  number: '2539009984'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '185241'
-  issue_date: '1994-02-14'
+  logical_id: '185240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -133,11 +132,12 @@ identifications:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: taxid
-  number: '2539009984'
+- identification_type_code: other
+  number: '1022502127592'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '185240'
+  logical_id: '185241'
+  issue_date: '1994-02-14'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

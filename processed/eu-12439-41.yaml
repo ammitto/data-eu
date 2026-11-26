@@ -15,73 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dzmitryi
-  last_name: Zamulevitš
-  whole_name: Dzmitryi Zamulevitš
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Дмитрий
-  middle_name: Михайлович
-  last_name: ЗАМУЛЕВИЧ
-  whole_name: Дмитрий Михайлович ЗАМУЛЕВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Dzmitrij
-  last_name: Zamulevič
-  whole_name: Dzmitrij Zamulevič
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Dzmitrij
-  last_name: Zamuljevič
-  whole_name: Dzmitrij Zamuljevič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Дзмітрьій
-  middle_name: Міхайлавіч
-  last_name: ЗАМУЛЕВІЧ
-  whole_name: Дзмітрьій Міхайлавіч ЗАМУЛЕВІЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '171025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Dmitriy
   middle_name: Mikhailovich
   last_name: ZAMULEVICH
@@ -106,6 +39,73 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Дзмітрьій
+  middle_name: Міхайлавіч
+  last_name: ЗАМУЛЕВІЧ
+  whole_name: Дзмітрьій Міхайлавіч ЗАМУЛЕВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '171025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Dzmitrij
+  last_name: Zamulevič
+  whole_name: Dzmitrij Zamulevič
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Дмитрий
+  middle_name: Михайлович
+  last_name: ЗАМУЛЕВИЧ
+  whole_name: Дмитрий Михайлович ЗАМУЛЕВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Dzmitrij
+  last_name: Zamuljevič
+  whole_name: Dzmitrij Zamuljevič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Dzmitryi
+  last_name: Zamulevitš
+  whole_name: Dzmitryi Zamulevitš
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '172259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

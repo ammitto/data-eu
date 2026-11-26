@@ -41,14 +41,45 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Valery
-  last_name: Pakhnyts
-  whole_name: Valery Pakhnyts
+- first_name: Валерій
+  middle_name: Михайлович
+  last_name: ПАХНИЦЬ
+  whole_name: Валерій Михайлович ПАХНИЦЬ
   gender: M
-  name_language: PT
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '158284'
+  logical_id: '146945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Валерий
+  middle_name: Михайлович
+  last_name: ПАХНИЦ
+  whole_name: Валерий Михайлович ПАХНИЦ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146946'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Valeriy
+  middle_name: Mikhailovich
+  last_name: PAKHNITS
+  whole_name: Valeriy Mikhailovich PAKHNITS
+  function: former Russian-appointed acting head of the administration of the Starobelskyi
+    district
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146947'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -68,20 +99,19 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Валерій
-  middle_name: Михайлович
-  last_name: ПАХНИЦЬ
-  whole_name: Валерій Михайлович ПАХНИЦЬ
+- first_name: Valery
+  last_name: Pakhnyts
+  whole_name: Valery Pakhnyts
   gender: M
-  name_language: UK
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '146945'
+  logical_id: '158284'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Valerij
   last_name: Pachnic
   whole_name: Valerij Pachnic
@@ -95,36 +125,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Valeriy
-  middle_name: Mikhailovich
-  last_name: PAKHNITS
-  whole_name: Valeriy Mikhailovich PAKHNITS
-  function: former Russian-appointed acting head of the administration of the Starobelskyi
-    district
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146947'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Валерий
-  middle_name: Михайлович
-  last_name: ПАХНИЦ
-  whole_name: Валерий Михайлович ПАХНИЦ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146946'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE

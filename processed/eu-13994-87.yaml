@@ -16,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Lulu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/251 (OJ L202600251)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
 - whole_name: Elfateh Abdullah Idris ADAM
   function: Brigadier General/Commander of the RSF
   gender: M
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/251 (OJ L202600251)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600251
+- whole_name: Abu Lulu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

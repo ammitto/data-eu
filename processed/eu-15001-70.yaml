@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Дмитрий Валерьянович ГАЧКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185592'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-13'
-    number_title: 2026/1708 (OJ L202601708)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
 - whole_name: Dmitry Valerianovich GACHKO
   function: General Director and ultimate owner of VAS Experts
   gender: M
@@ -33,6 +22,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-13'
+    number_title: 2026/1708 (OJ L202601708)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601708
+- whole_name: Дмитрий Валерьянович ГАЧКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185592'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-13'

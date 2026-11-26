@@ -1,7 +1,6 @@
 ---
-eu_reference_number: EU.14740.22
-logical_id: '184232'
-designation_date: '2026-07-23'
+eu_reference_number: EU.17622.37
+logical_id: '215382'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,58 +14,39 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ОБ УЗТМ КАРТЭКС
-  title: Limited Liability Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: UK UZTM  KARTEX LLC
-  title: Limited Liability Company
+- whole_name: "“Beget” LLC"
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: UPRAVLYAYUSH CHAYA  KOMPANIYA  UZTM KARTEKS
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184237'
+  logical_id: '215385'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: 1st  Krasnogvardeysk y Ave., floor 34,  Mercury Tower
-  city: Moscow
+- street: Pl. Karla Faberge, 8B, office 726A
+  city: St. Petersburg
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
-  zip_code: '123112'
   regulation_language: en
-  logical_id: '184233'
+  logical_id: '215383'
+  contact_infos:
+  - key: WEB
+    value: https://beget.com; https://beget.ru; https://beget.pro; https://beget-kz.com;
+      https://бегет.рф; https://beserver.ru; https://beget.tech; https://beget.hosting;
+      https://beget.de
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '7727298791'
-  country_iso2_code: RU
+- identification_type_code: regnumber
+  number: '1077847645590'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '184234'
+  logical_id: '215384'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

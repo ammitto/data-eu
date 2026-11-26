@@ -17,6 +17,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Agha Jan Alizai
+  strong: true
+  regulation_language: en
+  logical_id: '111135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Haji Agha JanAlizai
+  strong: true
+  regulation_language: en
+  logical_id: '111136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Abdul Habib
   strong: true
   regulation_language: en
@@ -37,37 +55,10 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Haji Agha JanAlizai
+- whole_name: Hajji Agha Jan
   strong: true
   regulation_language: en
-  logical_id: '111136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Agha Jan Alizai
-  strong: true
-  regulation_language: en
-  logical_id: '111135'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Loi Agha
-  strong: true
-  regulation_language: en
-  logical_id: '103971'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- whole_name: Haji Loi Lala
-  strong: true
-  regulation_language: en
-  logical_id: '103970'
+  logical_id: '103968'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2011-08-02'
@@ -82,10 +73,19 @@ name_aliases:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- whole_name: Hajji Agha Jan
+- whole_name: Haji Loi Lala
   strong: true
   regulation_language: en
-  logical_id: '103968'
+  logical_id: '103970'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- whole_name: Loi Agha
+  strong: true
+  regulation_language: en
+  logical_id: '103971'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2011-08-02'
@@ -102,33 +102,6 @@ citizenships:
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 birthdates:
-- birthdate: '1973-02-14'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 2
-  year: 1973
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1305'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  city: Kandahar
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1967
@@ -136,21 +109,6 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '103963'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- birthdate: '1963-10-15'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 15
-  month_of_year: 10
-  year: 1963
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '103961'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2011-08-02'
@@ -182,3 +140,45 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- birthdate: '1973-02-14'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 14
+  month_of_year: 2
+  year: 1973
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1305'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- birthdate: '1963-10-15'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 15
+  month_of_year: 10
+  year: 1963
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '103961'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  city: Kandahar
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF

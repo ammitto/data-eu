@@ -15,6 +15,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Saw San Myint
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-29'
+    number_title: 2024/2784 (OJ L29102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
+- whole_name: Maung Chit Thu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-29'
+    number_title: 2024/2784 (OJ L29102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
 - whole_name: Chit Thu
   gender: M
   name_language: EN
@@ -36,28 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-29'
-    number_title: 2024/2784 (OJ L29102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
-- whole_name: Saw San Myint
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-29'
-    number_title: 2024/2784 (OJ L29102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
-- whole_name: Maung Chit Thu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-29'

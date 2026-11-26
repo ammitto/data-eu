@@ -47,34 +47,6 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Ilja
-  middle_name: Nikolajevitš
-  last_name: Kruglyšev
-  whole_name: Ilja Nikolajevitš Kruglyšev
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Иля
-  middle_name: Николаевич
-  last_name: Круглишев
-  whole_name: Иля Николаевич Круглишев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Ilja
   middle_name: Nikolajevič
   last_name: Kruglyšev
   whole_name: Ilja Nikolajevič Kruglyšev
@@ -83,6 +55,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Ilja
+  middle_name: Nikolajevitš
+  last_name: Kruglyšev
+  whole_name: Ilja Nikolajevitš Kruglyšev
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -97,6 +83,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Иля
+  middle_name: Николаевич
+  last_name: Круглишев
+  whole_name: Иля Николаевич Круглишев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

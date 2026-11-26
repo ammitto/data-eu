@@ -15,36 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ibrahim
-  middle_name: "'Isa Hajji Muhammad"
-  last_name: Al-Bakr
-  whole_name: Ibrahim 'Isa Hajji Muhammad Al-Bakr
-  strong: true
-  regulation_language: en
-  logical_id: '18488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Ibrahim 'Issa Haji Muhammad al-Bakar
-  strong: true
-  regulation_language: en
-  logical_id: '18489'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Ibrahim 'Isa Haji al-Bakr
-  strong: true
-  regulation_language: en
-  logical_id: '18490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - whole_name: Ibrahim Issa Hijji Mohd Albaker
   strong: true
   regulation_language: en
@@ -81,6 +51,15 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abu-Khalil
+  strong: true
+  regulation_language: en
+  logical_id: '18495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - whole_name: ابراهیم عیسی حاجي محمد البکر
   name_language: AR
   strong: true
@@ -91,10 +70,31 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abu-Khalil
+- first_name: Ibrahim
+  middle_name: "'Isa Hajji Muhammad"
+  last_name: Al-Bakr
+  whole_name: Ibrahim 'Isa Hajji Muhammad Al-Bakr
   strong: true
   regulation_language: en
-  logical_id: '18495'
+  logical_id: '18488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Ibrahim 'Isa Haji al-Bakr
+  strong: true
+  regulation_language: en
+  logical_id: '18490'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Ibrahim 'Issa Haji Muhammad al-Bakar
+  strong: true
+  regulation_language: en
+  logical_id: '18489'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

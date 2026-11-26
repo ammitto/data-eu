@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей Дмитриевич
+  last_name: ЛИСКОВИЧ
+  whole_name: Сергей Дмитриевич ЛИСКОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Sergey Dmitrievich
   last_name: LISKOVICH
   whole_name: Sergey Dmitrievich LISKOVICH
@@ -24,19 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Сергей Дмитриевич
-  last_name: ЛИСКОВИЧ
-  whole_name: Сергей Дмитриевич ЛИСКОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

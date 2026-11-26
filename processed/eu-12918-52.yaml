@@ -14,13 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Siarhei BUDREVICH
-  function: Judge of the Oktyabrsky District Court of Minsk
+- whole_name: Сергей БУДРЕВИЧ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174232'
+  logical_id: '174229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -48,23 +47,24 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Sjarhej Budrevič
+- whole_name: Sergei BUDREVICH
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174228'
+  logical_id: '174231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Сергей БУДРЕВИЧ
+- whole_name: Siarhei BUDREVICH
+  function: Judge of the Oktyabrsky District Court of Minsk
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174229'
+  logical_id: '174232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -81,12 +81,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Sergei BUDREVICH
+- whole_name: Sjarhej Budrevič
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '174231'
+  logical_id: '174228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

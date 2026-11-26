@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Rahmatolláh
-  last_name: Hejdárí
-  whole_name: Rahmatolláh Hejdárí
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '159288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - first_name: Rehmatollah
   last_name: HEIDARI
   whole_name: Rehmatollah HEIDARI
@@ -36,6 +23,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- first_name: Rahmatollah
+  last_name: HEIDARI
+  whole_name: Rahmatollah HEIDARI
+  function: Managing Director and member of the board of directors of Iran-based Baharestan
+    Kish Company
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
@@ -52,16 +54,14 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- first_name: Rahmatollah
-  last_name: HEIDARI
-  whole_name: Rahmatollah HEIDARI
-  function: Managing Director and member of the board of directors of Iran-based Baharestan
-    Kish Company
+- first_name: Rahmatolláh
+  last_name: Hejdárí
+  whole_name: Rahmatolláh Hejdárí
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159195'
+  logical_id: '159288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

@@ -25,16 +25,6 @@ name_aliases:
     publication_date: '2026-03-16'
     number_title: 2026/648 (OJ L202600648)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
-- whole_name: علی شیرازی
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '181993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/648 (OJ L202600648)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
 - whole_name: Ali SHIRAZI
   function: |-
     Head of the Political Ideology Organization of the Law Enforcement Forces of the Islamic Republic of Iran (a.k.a. FARAJA; LEF)
@@ -45,6 +35,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/648 (OJ L202600648)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600648
+- whole_name: علی شیرازی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '181993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

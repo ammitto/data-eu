@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Pavlo Ihorovytj FILIPTJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Павло
   middle_name: Ігорович
   last_name: ФІЛІПЧУК
@@ -40,26 +29,23 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Pavlo Ihorovytj FILIPTJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Pavlo Igorevitj FILIPTJUK
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '151045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Павел
-  middle_name: Игоревич
-  last_name: ФИЛИПЧУК
-  whole_name: Павел Игоревич ФИЛИПЧУК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -92,6 +78,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Павел
+  middle_name: Игоревич
+  last_name: ФИЛИПЧУК
+  whole_name: Павел Игоревич ФИЛИПЧУК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

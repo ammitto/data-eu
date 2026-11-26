@@ -15,39 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Chrisla
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Chrislat
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Krisla
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Kris-La
   gender: M
   name_language: EN
@@ -66,6 +33,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Krisla
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177545'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Chrislat
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Chrisla
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177544'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

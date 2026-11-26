@@ -28,18 +28,6 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Kirill
-  last_name: VASILYEV
-  whole_name: Kirill VASILYEV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Кирилл
   last_name: ВАСИЛЬЕВ
   whole_name: Кирилл ВАСИЛЬЕВ
@@ -48,6 +36,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Kirill
+  middle_name: Yurievich
+  last_name: VASILIEV
+  whole_name: Kirill Yurievich VASILIEV
+  function: Director of the Criminalistics Institute of the Russian Federal Security
+    Service (FSB)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -67,6 +70,18 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Kirill
+  last_name: VASILYEV
+  whole_name: Kirill VASILYEV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145391'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Кирилл
   middle_name: Юрьевич
   last_name: ВАСИЛЬЕВ
@@ -76,21 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145392'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Kirill
-  middle_name: Yurievich
-  last_name: VASILIEV
-  whole_name: Kirill Yurievich VASILIEV
-  function: Director of the Criminalistics Institute of the Russian Federal Security
-    Service (FSB)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

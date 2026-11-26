@@ -25,11 +25,21 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Ministrstvo za obrambo in podporo logistiki oboroženih sil
-  name_language: SL
+- whole_name: Ministerium für Verteidigung und Logistik der Streitkräfte
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '12526'
+  logical_id: '6670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Aizsardzības un bruņoto spēku loģistikas atbalsta ministrija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '12531'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-05-24'
@@ -75,16 +85,16 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Ministerium für Verteidigung und Logistik der Streitkräfte
-  name_language: DE
+- whole_name: Ministrstvo za obrambo in podporo logistiki oboroženih sil
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '6670'
+  logical_id: '12526'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+    publication_date: '2011-05-24'
+    number_title: 503/2011 (OJ L136)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
 - whole_name: Ministère de la défense et du soutien logistique aux forces armées
   name_language: FR
   strong: true
@@ -208,34 +218,25 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Aizsardzības un bruņoto spēku loģistikas atbalsta ministrija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '12531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-05-24'
-    number_title: 503/2011 (OJ L136)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
 addresses:
-- street: West side of Dabestan Street
-  city: Abbas Abad District, Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1197'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- street: Ferdowsi Avenue, Sarhang Sakhaei  Street
+- street: Pasdaran  Street, South Noubonyand Square
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '169653'
+  logical_id: '169648'
+  po_box: 19315-189
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- street: Pasdaran Ave
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '169650'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -251,29 +252,28 @@ addresses:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- street: Sarhang Sakhaei Street, Ferdowsi  Avenue
+- street: Ferdowsi Avenue, Sarhang Sakhaei  Street
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '169651'
+  logical_id: '169653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- street: Pasdaran  Street, South Noubonyand Square
-  city: Tehran
+- street: West side of Dabestan Street
+  city: Abbas Abad District, Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '169648'
-  po_box: 19315-189
+  logical_id: '1197'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -285,12 +285,12 @@ addresses:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- street: Pasdaran Ave
+- street: Sarhang Sakhaei Street, Ferdowsi  Avenue
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '169650'
+  logical_id: '169651'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

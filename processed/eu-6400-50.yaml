@@ -26,38 +26,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Аляксандр Аляксандравіч  ЗАХВІЦЭВІЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr  Aleksandrovich ZAKHVITSEVICH
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Aljaksandravitj ZACHVITSEVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Aliaksandr Aliaksandravich  ZAKHVITSEVICH
   function: "Deputy Head of the Frunzensky District Police Department of \nMinsk"
   gender: M
@@ -75,6 +43,38 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aljaksandr Aljaksandravitj ZACHVITSEVITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Аляксандр Аляксандравіч  ЗАХВІЦЭВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr  Aleksandrovich ZAKHVITSEVICH
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

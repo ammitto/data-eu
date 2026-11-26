@@ -14,94 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdul Reza
-  last_name: SHAHLAI
-  whole_name: Abdul Reza SHAHLAI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/329 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- first_name: Abdol Reza
-  last_name: Shala'i
-  whole_name: Abdol Reza Shala'i
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- last_name: Haj Yusef
-  whole_name: Haj Yusef
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Yusuf Abu-al-Karkh
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- first_name: Abd-al Reza
-  last_name: Shalai
-  whole_name: Abd-al Reza Shalai
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- first_name: Abdorreza
-  last_name: Shahlai
-  whole_name: Abdorreza Shahlai
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- first_name: Abdolreza
-  last_name: Shahla'i
-  whole_name: Abdolreza Shahla'i
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - first_name: Abdul-Reza
   last_name: Shahlaee
   whole_name: Abdul-Reza Shahlaee
@@ -121,6 +33,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abdolreza
+  last_name: Shahla'i
+  whole_name: Abdolreza Shahla'i
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abdorreza
+  last_name: Shahlai
+  whole_name: Abdorreza Shahlai
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'
@@ -154,6 +92,68 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Yusuf Abu-al-Karkh
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- last_name: Haj Yusef
+  whole_name: Haj Yusef
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abdul Reza
+  last_name: SHAHLAI
+  whole_name: Abdul Reza SHAHLAI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/329 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
+- first_name: Abdol Reza
+  last_name: Shala'i
+  whole_name: Abdol Reza Shala'i
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abd-al Reza
+  last_name: Shalai
+  whole_name: Abd-al Reza Shalai
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14741'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'

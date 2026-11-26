@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО АВТОЛАЙФ ЛОГИСТИК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Kumpanija b'Responsabbiltà Limitata AUTOLIFE LOGISTIK
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '184806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Limited Liability Company AUTOLIFE LOGISTIK
   title: Limited liability company
   name_language: EN
@@ -51,6 +31,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ООО АВТОЛАЙФ ЛОГИСТИК
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Kumpanija b'Responsabbiltà Limitata AUTOLIFE LOGISTIK
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '184806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -74,20 +74,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '1217700292072'
-  country_iso2_code: '00'
+  number: '7727467841'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '183425'
+  logical_id: '183424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '7727467841'
-  country_iso2_code: RU
+  number: '1217700292072'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '183424'
+  logical_id: '183425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

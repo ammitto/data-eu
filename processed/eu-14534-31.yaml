@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Genbank S.A
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: АО Генбанк
   name_language: RU
   strong: true
@@ -38,29 +48,7 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Genbank S.A
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184785'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: 13 Sevastopolskaya Street
-  city: Simferopol
-  country_iso2_code: UA
-  country_description: UKRAINE
-  zip_code: '295011'
-  regulation_language: en
-  logical_id: '183347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - street: 12 Ozerkovskaya Naberezhnaya
   city: Moscow
   country_iso2_code: RU
@@ -71,6 +59,18 @@ addresses:
   contact_infos:
   - key: WEB
     value: www.genbank.ru
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- street: 13 Sevastopolskaya Street
+  city: Simferopol
+  country_iso2_code: UA
+  country_description: UKRAINE
+  zip_code: '295011'
+  regulation_language: en
+  logical_id: '183347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

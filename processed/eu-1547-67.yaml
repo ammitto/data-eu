@@ -16,10 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ayman Sab’awi Ibrahim Hasan Al-Tikriti
+- whole_name: Qais Muhammad Salman
   strong: true
   regulation_language: en
-  logical_id: '4211'
+  logical_id: '4213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -34,10 +34,10 @@ name_aliases:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- whole_name: Qais Muhammad Salman
+- whole_name: Ayman Sab’awi Ibrahim Hasan Al-Tikriti
   strong: true
   regulation_language: en
-  logical_id: '4213'
+  logical_id: '4211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -79,11 +79,11 @@ birthdates:
   day_of_month: 21
   month_of_year: 10
   year: 1971
-  city: Baghdad
+  city: Al-Owja
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
-  logical_id: '691'
+  logical_id: '692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -95,23 +95,22 @@ birthdates:
   day_of_month: 21
   month_of_year: 10
   year: 1971
-  city: Al-Owja
+  city: Baghdad
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
-  logical_id: '692'
+  logical_id: '691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
 addresses:
-- street: Mutanabi Area, Al Monsur
-  city: Baghdad
-  country_iso2_code: IQ
-  country_description: IRAQ
+- city: Bludan
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '865'
+  logical_id: '864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -128,11 +127,12 @@ addresses:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- city: Bludan
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- street: Mutanabi Area, Al Monsur
+  city: Baghdad
+  country_iso2_code: IQ
+  country_description: IRAQ
   regulation_language: en
-  logical_id: '864'
+  logical_id: '865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'

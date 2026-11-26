@@ -15,22 +15,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: LLC NPF ROTOR
+  title: Limited liability company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '183517'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Общество с Ограниченной Ответственностью Научно-производственная Фирма
     “Ротор”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ООО НПФ РОТОР
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -46,12 +47,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: LLC NPF ROTOR
-  title: Limited liability company
-  name_language: EN
+- whole_name: ООО НПФ РОТОР
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '183517'
+  logical_id: '183515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -75,21 +75,21 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: other
-  number: '6382053330'
+  number: '1076382006282'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183512'
-  issue_date: '2007-05-22'
+  logical_id: '183513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
-  number: '1076382006282'
+  number: '6382053330'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '183513'
+  logical_id: '183512'
+  issue_date: '2007-05-22'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

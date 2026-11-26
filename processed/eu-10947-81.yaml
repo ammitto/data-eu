@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ľudmila
+  last_name: Jermaková
+  whole_name: Ľudmila Jermaková
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Ljudmila
   middle_name: Aleksejevna
   last_name: JERMAKOVA
@@ -67,19 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ľudmila
-  last_name: Jermaková
-  whole_name: Ľudmila Jermaková
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

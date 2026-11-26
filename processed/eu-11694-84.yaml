@@ -15,30 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hossein
-  middle_name: Hatefi
-  last_name: ARDAKANI
-  whole_name: Hossein Hatefi ARDAKANI
-  function: Chairperson of the board of directors of Kavan Electronics Behrad LLC;
-    procurement agent for the IRGC
+- whole_name: حسین هاتفی اردکانی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '166351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- first_name: Hasan
-  last_name: HASHEM
-  whole_name: Hasan HASHEM
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166350'
+  logical_id: '166347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -58,6 +40,35 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1604 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- first_name: Hasan
+  last_name: HASHEM
+  whole_name: Hasan HASHEM
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- first_name: Hossein
+  middle_name: Hatefi
+  last_name: ARDAKANI
+  whole_name: Hossein Hatefi ARDAKANI
+  function: Chairperson of the board of directors of Kavan Electronics Behrad LLC;
+    procurement agent for the IRGC
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
 - first_name: Hossein
   middle_name: Hatfi
   last_name: ARDAKANI
@@ -67,17 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: حسین هاتفی اردکانی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '166347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

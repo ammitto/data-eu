@@ -16,19 +16,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tajhiz Sanat Shayan
+- whole_name: TSS
   strong: true
   regulation_language: en
-  logical_id: '12470'
+  logical_id: '12471'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: TSS
+- whole_name: Tajhiz Sanat Shayan
   strong: true
   regulation_language: en
-  logical_id: '12471'
+  logical_id: '12470'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-05-24'

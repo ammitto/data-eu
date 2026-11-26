@@ -29,21 +29,21 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Комитет по туризму города Москвы
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185277'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Mostourism
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '185278'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: Комитет по туризму города Москвы
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -101,21 +101,21 @@ identifications:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: taxid
-  number: '7703465612'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '185274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
   number: '770301001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '185273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: taxid
+  number: '7703465612'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

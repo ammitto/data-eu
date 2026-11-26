@@ -1,9 +1,9 @@
 ---
 source: eu
-count: 6303
-fetched_at: '2026-11-25T17:17:30Z'
+count: 6305
+fetched_at: '2026-11-26T16:58:57Z'
 schema: ammitto:sources:eu:v1
-pruned: 0
+pruned: 9
 files:
 - eu-1001-60.yaml
 - eu-10012-1.yaml
@@ -2210,10 +2210,8 @@ files:
 - eu-14561-38.yaml
 - eu-14562-37.yaml
 - eu-14563-36.yaml
-- eu-14564-35.yaml
 - eu-14565-34.yaml
 - eu-14566-33.yaml
-- eu-14567-32.yaml
 - eu-14568-31.yaml
 - eu-14569-30.yaml
 - eu-14570-8.yaml
@@ -2309,22 +2307,17 @@ files:
 - eu-14736-47.yaml
 - eu-14737-46.yaml
 - eu-14738-45.yaml
-- eu-14739-44.yaml
 - eu-1474-16.yaml
-- eu-14740-22.yaml
-- eu-14741-21.yaml
 - eu-14742-20.yaml
 - eu-14743-19.yaml
 - eu-14744-18.yaml
 - eu-14745-17.yaml
-- eu-14746-16.yaml
 - eu-14747-15.yaml
 - eu-14748-14.yaml
 - eu-14749-13.yaml
 - eu-1475-78.yaml
 - eu-14752-86.yaml
 - eu-14753-85.yaml
-- eu-14754-84.yaml
 - eu-14760-57.yaml
 - eu-14761-56.yaml
 - eu-14762-55.yaml
@@ -2339,11 +2332,9 @@ files:
 - eu-14778-18.yaml
 - eu-14780-92.yaml
 - eu-14792-59.yaml
-- eu-14793-58.yaml
 - eu-14794-57.yaml
 - eu-14795-56.yaml
 - eu-14797-54.yaml
-- eu-14798-53.yaml
 - eu-14799-52.yaml
 - eu-148-68.yaml
 - eu-14812-25.yaml
@@ -2488,6 +2479,17 @@ files:
 - eu-1758-60.yaml
 - eu-1759-25.yaml
 - eu-176-58.yaml
+- eu-17614-66.yaml
+- eu-17616-64.yaml
+- eu-17617-63.yaml
+- eu-17619-61.yaml
+- eu-17620-39.yaml
+- eu-17621-38.yaml
+- eu-17622-37.yaml
+- eu-17623-36.yaml
+- eu-17624-35.yaml
+- eu-17626-33.yaml
+- eu-17627-32.yaml
 - eu-177-59.yaml
 - eu-1773-43.yaml
 - eu-1779-27.yaml

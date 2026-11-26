@@ -15,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Grupul de Societăți FORSS
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '142453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Grupo de Empresas FORSS
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '142460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: FORSS-Konzern
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '142538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: grupo de empresas FORSS
   name_language: ES
   strong: true
@@ -45,21 +75,11 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: FORSS-Konzern
-  name_language: DE
+- whole_name: skupina spoločností FORSS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '142538'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Grupo de Empresas FORSS
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '142460'
+  logical_id: '142447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -77,21 +97,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: skupina spoločností FORSS
-  name_language: SK
+- whole_name: Группа компаний ФОРСС
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '142447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Grupul de Societăți FORSS
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '142453'
+  logical_id: '142073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -117,16 +127,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Группа компаний ФОРСС
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142073'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 addresses:
 - street: Magnitogorskaya street 51, lit. E,
   city: St. Petersburg

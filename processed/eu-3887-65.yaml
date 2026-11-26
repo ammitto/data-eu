@@ -17,6 +17,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Mohammad Mehdi Nejad
+  last_name: NURI
+  whole_name: Mohammad Mehdi Nejad NURI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Mohammad Mehdi Nejad
   last_name: NOURI
   whole_name: Mohammad Mehdi Nejad NOURI
   function: Rector of Malek Ashtar University of Defence Technology.
@@ -43,32 +56,6 @@ name_aliases:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Mohammad Mehdi Nezhad
-  last_name: NOURI
-  whole_name: Mohammad Mehdi Nezhad NOURI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Mehdi Nejad
-  last_name: NURI
-  whole_name: Mohammad Mehdi Nejad NURI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Mehdi Nezhad
   last_name: NURI
   whole_name: Mohammad Mehdi Nezhad NURI
   gender: M
@@ -76,6 +63,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Mohammad Mehdi Nezhad
+  last_name: NOURI
+  whole_name: Mohammad Mehdi Nezhad NOURI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

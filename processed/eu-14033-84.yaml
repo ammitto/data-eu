@@ -15,6 +15,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Тимур
+  middle_name: Наилевич
+  last_name: ШАГИВАЛЕЕВ
+  whole_name: Тимур Наилевич ШАГИВАЛЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Timur
+  middle_name: Najlevič
+  last_name: ŠAGIVALEJEV
+  whole_name: Timur Najlevič ŠAGIVALEJEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180777'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - first_name: Timur
   middle_name: Nailevich
   last_name: SHAGIVALEEV
@@ -36,34 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Timur
-  middle_name: Najlevič
-  last_name: ŠAGIVALEJEV
-  whole_name: Timur Najlevič ŠAGIVALEJEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Тимур
-  middle_name: Наилевич
-  last_name: ШАГИВАЛЕЕВ
-  whole_name: Тимур Наилевич ШАГИВАЛЕЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

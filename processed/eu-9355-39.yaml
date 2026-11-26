@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Banka Dálného východu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '147922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Banco de Extremo  Oriente
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '147750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Banka Dálného východu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '147922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -45,16 +45,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: TÁVOL-KELETI BANK
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147824'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: TOLIMŲJŲ  RYTŲ BANKAS
   name_language: LT
   strong: true
@@ -65,10 +55,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: DALNEVOSTOCHNIY BANK
+- whole_name: TÁVOL-KELETI BANK
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147069'
+  logical_id: '147824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -87,6 +78,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: DALNEVOSTOCHNIY BANK
+  strong: true
+  regulation_language: en
+  logical_id: '147069'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

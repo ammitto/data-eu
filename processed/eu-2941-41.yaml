@@ -17,42 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Umar the Chechen
-  strong: true
-  regulation_language: en
-  logical_id: '18506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Abu Hudhayfah
-  strong: true
-  regulation_language: en
-  logical_id: '18508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Tarkhan Batirashvili
-  strong: true
-  regulation_language: en
-  logical_id: '18498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Abu Umar
-  strong: true
-  regulation_language: en
-  logical_id: '18507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
 - first_name: Tarkhan
   middle_name: Tayumurazovich
   last_name: Batirashvili
@@ -74,10 +38,55 @@ name_aliases:
     publication_date: '2015-02-03'
     number_title: 2015/167 (OJ L28)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Abu Hudhayfah
+  strong: true
+  regulation_language: en
+  logical_id: '18508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Abu Umar
+  strong: true
+  regulation_language: en
+  logical_id: '18507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Umar the Chechen
+  strong: true
+  regulation_language: en
+  logical_id: '18506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
 - whole_name: Omer the Chechen
   strong: true
   regulation_language: en
   logical_id: '18505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Omar the Chechen
+  strong: true
+  regulation_language: en
+  logical_id: '18504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Tarkhan Batirashvili
+  strong: true
+  regulation_language: en
+  logical_id: '18498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-02-03'
@@ -128,15 +137,6 @@ name_aliases:
     publication_date: '2015-02-03'
     number_title: 2015/167 (OJ L28)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Omar the Chechen
-  strong: true
-  regulation_language: en
-  logical_id: '18504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
 citizenships:
 - country_iso2_code: GE
   country_description: GEORGIA
@@ -148,19 +148,6 @@ citizenships:
     number_title: 2015/167 (OJ L28)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1982
-  city: Akhmeta, Village Birkiani
-  country_iso2_code: GE
-  country_description: GEORGIA
-  regulation_language: en
-  logical_id: '2293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
 - birthdate: '1986-01-11'
   circa: false
   calendar_type: GREGORIAN
@@ -172,6 +159,19 @@ birthdates:
   country_description: GEORGIA
   regulation_language: en
   logical_id: '2292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1982
+  city: Akhmeta, Village Birkiani
+  country_iso2_code: GE
+  country_description: GEORGIA
+  regulation_language: en
+  logical_id: '2293'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-02-03'

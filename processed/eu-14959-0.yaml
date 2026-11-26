@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 송도원국제소년단야영소
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '185235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Songdowon International Children’s Camp
   function: The Songdowon International Children’s Camp is a state-operated institution
     directly created, maintained, and controlled by the DPRK authorities.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: 송도원국제소년단야영소
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '185235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

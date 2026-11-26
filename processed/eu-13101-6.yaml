@@ -76,17 +76,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Open Joint Stock Company “Special Design Bureau of Instrument Engineering
-    and Automation”
-  function: OJSC Special Design Bureau of Instrument Engineering and Automation (OJSC
-    “SKB PA”) is a company active in Russia’s military and industrial complex, specialised
-    in the development and creation of electrohydraulic, electromechanical, navigation
-    and control systems for mobile civil and special-purpose equipment.
-  title: Open Joint Stock Company
+- whole_name: OJSC “SKB PA”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175431'
+  logical_id: '175429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -103,11 +97,17 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OJSC “SKB PA”
+- whole_name: Open Joint Stock Company “Special Design Bureau of Instrument Engineering
+    and Automation”
+  function: OJSC Special Design Bureau of Instrument Engineering and Automation (OJSC
+    “SKB PA”) is a company active in Russia’s military and industrial complex, specialised
+    in the development and creation of electrohydraulic, electromechanical, navigation
+    and control systems for mobile civil and special-purpose equipment.
+  title: Open Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175429'
+  logical_id: '175431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -127,22 +127,22 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '3305016642'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1023301951045'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175422'
   issue_date: '1995-03-03'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '3305016642'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

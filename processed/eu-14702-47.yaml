@@ -15,12 +15,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: PJSC Prio Vneshtorgbank
+- whole_name: Прио-банк
   title: Public Joint Stock Company
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184067'
+  logical_id: '184064'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ПАО Прио Внешторгбанк
+  title: Public Joint Stock Company
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '184065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -47,23 +58,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Прио-банк
+- whole_name: PJSC Prio Vneshtorgbank
   title: Public Joint Stock Company
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184064'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ПАО Прио Внешторгбанк
-  title: Public Joint Stock Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184065'
+  logical_id: '184067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

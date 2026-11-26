@@ -15,46 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Scutul Poporului
-  name_language: MO
-  strong: true
-  regulation_language: en
-  logical_id: '163620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Asociația Obștească – Asociația Oamenilor cu Epoleți “Scutul Poporului”
-  name_language: MO
-  strong: true
-  regulation_language: en
-  logical_id: '163619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Public Association – Association of People with Epaulettes “Scutul Poporului”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Viešoji  asociacija – asmenų su antpečiais asociacija „Scutul  Poporului“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '163633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
 - whole_name: Publiek verbond – Verbond van mannen met epauletten “Scutul Poporului”
   name_language: NL
   strong: true
@@ -115,11 +75,21 @@ name_aliases:
     publication_date: '2024-02-22'
     number_title: 2024/739 (OJ L22022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Assoċjazzjoni  Pubblika – Association of People with Epaulettes "Scutul  Poporului"
-  name_language: MT
+- whole_name: Scutul Poporului
+  name_language: MO
   strong: true
   regulation_language: en
-  logical_id: '163634'
+  logical_id: '163620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Public Association – Association of People with Epaulettes “Scutul Poporului”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
@@ -130,6 +100,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Assoċjazzjoni  Pubblika – Association of People with Epaulettes "Scutul  Poporului"
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '163634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Asociația Obștească – Asociația Oamenilor cu Epoleți “Scutul Poporului”
+  name_language: MO
+  strong: true
+  regulation_language: en
+  logical_id: '163619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Viešoji  asociacija – asmenų su antpečiais asociacija „Scutul  Poporului“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '163633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'

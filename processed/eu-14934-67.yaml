@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Роман Юрьевич АНТОНОВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-06-15'
-    number_title: 2026/1356 (OJ L202601356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
 - whole_name: Roman Yurevich ANTONOVSKII
   gender: M
   title: Russian writer and publicist, propagandist, author of the Telegram channel
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-06-15'
+    number_title: 2026/1356 (OJ L202601356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601356
+- whole_name: Роман Юрьевич АНТОНОВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-06-15'

@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: احمد علم الهدی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '151882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
 - first_name: Ahmad
   last_name: ALAM-AL HODA
   whole_name: Ahmad ALAM-AL HODA
@@ -36,6 +25,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151883'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: احمد علم الهدی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '151882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-20'

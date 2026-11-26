@@ -15,86 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Egyesült Oroszország
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Jednotné Rusko
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ühtne Venemaa
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '148093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Единая Россия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: United Russia
-  function: Russian political party chaired by former Russian president Dmitry Medvedev
-  strong: true
-  regulation_language: en
-  logical_id: '147079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Vereintes Russland
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russia Unita
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '147674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russie unie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Jedna Rosja
   name_language: PL
   strong: true
@@ -120,6 +40,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Egyesült Oroszország
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -200,6 +130,76 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ühtne Venemaa
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '148093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Jednotné Rusko
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148117'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Единая Россия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: United Russia
+  function: Russian political party chaired by former Russian president Dmitry Medvedev
+  strong: true
+  regulation_language: en
+  logical_id: '147079'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Vereintes Russland
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '147652'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Russia Unita
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '147674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Russie unie
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -15,35 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валентина
-  last_name: ШНАЙДЕР
-  whole_name: Валентина ШНАЙДЕР
-  function: Co-founder and co-owner of the “Svetofor Group”
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- first_name: Валентина
-  middle_name: Эммануиовна
-  last_name: ШНАЙДЕР
-  whole_name: Валентина Эммануиовна ШНАЙДЕР
-  gender: F
-  title: Co-founder and co-owner of the “Svetofor Group”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - first_name: Valentina
   last_name: SCHNEIDER
   whole_name: Valentina SCHNEIDER
@@ -68,6 +39,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Валентина
+  middle_name: Эммануиовна
+  last_name: ШНАЙДЕР
+  whole_name: Валентина Эммануиовна ШНАЙДЕР
+  gender: F
+  title: Co-founder and co-owner of the “Svetofor Group”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- first_name: Валентина
+  last_name: ШНАЙДЕР
+  whole_name: Валентина ШНАЙДЕР
+  function: Co-founder and co-owner of the “Svetofor Group”
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

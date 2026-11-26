@@ -15,43 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Intrapriża Unitarja tal-Istat Federali "Main Center for Special Communication"
-  name_language: MT
+- whole_name: Savezno državno unitarno poduzeće ,Glavni centar za posebne komunikacije
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '184810'
+  logical_id: '184809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Empresa pública unitária federal «Centro Principal de Comunicações Especiais»
-  name_language: PT
+- whole_name: Entreprise unitaire publique fédérale "Main Center for Special Communications"
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '184811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Federalne państwowe przedsiębiorstwo unitarne „Główne Centrum Komunikacji
-    Specjalnej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '184812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: "(Întreprinderea Unitară Federală de Stat «Centrul Principal de Comunicații
-    Speciale»"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184813'
+  logical_id: '184808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -68,11 +46,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Entreprise unitaire publique fédérale "Main Center for Special Communications"
-  name_language: FR
+- whole_name: "(Întreprinderea Unitară Federală de Stat «Centrul Principal de Comunicații
+    Speciale»"
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '184808'
+  logical_id: '184813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -89,21 +68,42 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ФГУП Главный Центр Специальной Связи
-  name_language: RU
+- whole_name: Empresa pública unitária federal «Centro Principal de Comunicações Especiais»
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '183451'
+  logical_id: '184811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Savezno državno unitarno poduzeće ,Glavni centar za posebne komunikacije
-  name_language: HR
+- whole_name: Intrapriża Unitarja tal-Istat Federali "Main Center for Special Communication"
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '184809'
+  logical_id: '184810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Federalne państwowe przedsiębiorstwo unitarne „Główne Centrum Komunikacji
+    Specjalnej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '184812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: ФГУП Главный Центр Специальной Связи
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

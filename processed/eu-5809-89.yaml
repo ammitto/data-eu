@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ivan Yurievich SOKOLOVSKI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '125494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
 - whole_name: Іван Юр’евіч САКАЛОЎСКІ
   gender: M
   name_language: BE
@@ -65,16 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Ivan Yurievich SOKOLOVSKI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '125494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'

@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Игорь ВОРОБЬЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '182769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-05-11'
-    number_title: 2026/1055 (OJ L202601055)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
 - whole_name: Igor VOROBYOV
   function: |-
     Head of the Volgograd regional branch of the Centre for Military and Patriotic Training and Education of Youth “Warrior”, a Russian state-linked organisation
@@ -37,6 +26,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-05-11'
+    number_title: 2026/1055 (OJ L202601055)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601055
+- whole_name: Игорь ВОРОБЬЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '182769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-05-11'

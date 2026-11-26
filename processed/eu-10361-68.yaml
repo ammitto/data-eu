@@ -15,54 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Gamykla „Zvezda“
-  name_language: LT
+- whole_name: "«Uzina „Zvezda”»"
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '155148'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: ФЛ “Завод  ‘Звезда’” ФГУП  “НПЦАП”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154749'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: "“Завод ‘Звезда’-Филиал Федерального Государственного Унитарного Предприятия
-    ‘Научно-Производственный Центр Автоматики и Приборостроения имени академика Н.А.Пилюгина’”"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: FL “Plant ‘Zvezda’  FSUE “NPCAP”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: "“Plant ‘Zvezda’”- Branch of the Federal State Unitary Enterprise “Scientific
-    and  Production Center of Automation and Instrumentation named after academician
-    N.A. Pilyugin”"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154752'
+  logical_id: '155056'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -78,11 +35,11 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: "«Uzina „Zvezda”»"
-  name_language: RO
+- whole_name: Zavod ,Zvezda’
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '155056'
+  logical_id: '155118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -93,26 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Zvezda-tehdas
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '155117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Zavod ,Zvezda’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '155118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -148,6 +85,16 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Gamykla „Zvezda“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '155148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - whole_name: Zakład „Zvezda”
   name_language: PL
   strong: true
@@ -168,19 +115,60 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-addresses:
-- street: Vvedenskogo street, 1
-  city: Moscow City
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '117342'
+- whole_name: Zvezda-tehdas
+  name_language: FI
+  strong: true
   regulation_language: en
-  logical_id: '154746'
+  logical_id: '155117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: "“Plant ‘Zvezda’”- Branch of the Federal State Unitary Enterprise “Scientific
+    and  Production Center of Automation and Instrumentation named after academician
+    N.A. Pilyugin”"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: FL “Plant ‘Zvezda’  FSUE “NPCAP”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: "“Завод ‘Звезда’-Филиал Федерального Государственного Унитарного Предприятия
+    ‘Научно-Производственный Центр Автоматики и Приборостроения имени академика Н.А.Пилюгина’”"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: ФЛ “Завод  ‘Звезда’” ФГУП  “НПЦАП”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+addresses:
 - street: Novaya str., 80
   region: Tver region
   country_iso2_code: RU
@@ -189,6 +177,18 @@ addresses:
   regulation_language: en
   logical_id: '154747'
   place: Solnechny island
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- street: Vvedenskogo street, 1
+  city: Moscow City
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '117342'
+  regulation_language: en
+  logical_id: '154746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

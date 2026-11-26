@@ -15,6 +15,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Степанович
+  last_name: САХНЕНКО
+  whole_name: Сергей Степанович САХНЕНКО
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Sergej
+  middle_name: Stěpanovič
+  last_name: SACHNĚNKO
+  whole_name: Sergej Stěpanovič SACHNĚNKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Sergei
+  middle_name: Stepanovich
+  last_name: SAKHNENKO
+  whole_name: Sergei Stepanovich SAKHNENKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
 - whole_name: Sergueï Stepanovitch SAKHNENKO
   gender: M
   name_language: FR
@@ -37,48 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Сергей
-  middle_name: Степанович
-  last_name: САХНЕНКО
-  whole_name: Сергей Степанович САХНЕНКО
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Sergei
-  middle_name: Stepanovich
-  last_name: SAKHNENKO
-  whole_name: Sergei Stepanovich SAKHNENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Sergej
-  middle_name: Stěpanovič
-  last_name: SACHNĚNKO
-  whole_name: Sergej Stěpanovič SACHNĚNKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

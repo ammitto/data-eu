@@ -15,21 +15,14 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО СОК “Ромашка”
-  name_language: RU
+- whole_name: Sports and Recreation Complex “Romashka”
+  function: Sports and Recreation Complex Romashka is a year-round sports and recreation
+    facility, operating as a children’s camp and hosting competitions, training camps,
+    thematic events.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Cпортивно-оздоровительный комплекс “Ромашка”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185268'
+  logical_id: '185270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -45,14 +38,21 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Sports and Recreation Complex “Romashka”
-  function: Sports and Recreation Complex Romashka is a year-round sports and recreation
-    facility, operating as a children’s camp and hosting competitions, training camps,
-    thematic events.
-  name_language: EN
+- whole_name: Cпортивно-оздоровительный комплекс “Ромашка”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '185270'
+  logical_id: '185268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО СОК “Ромашка”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -80,6 +80,17 @@ addresses:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
+- identification_type_code: regnumber
+  number: '1156171000370'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185266'
+  issue_date: '2015-04-28'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
   number: '612301001'
   country_iso2_code: RU
@@ -95,17 +106,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '185265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: regnumber
-  number: '1156171000370'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '185266'
-  issue_date: '2015-04-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

@@ -17,15 +17,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Витальевич
-  last_name: КУРЧЕНКО
-  whole_name: Сергей Витальевич КУРЧЕНКО
+- first_name: Serhiy
+  middle_name: Vitaliyovich
+  last_name: KURCHENKO
+  whole_name: Serhiy Vitaliyovich KURCHENKO
+  function: Ukrainian businessman (‘Gaz-Alliance’ company)
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139812'
+  logical_id: '139814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/658 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
+- first_name: Serhij
+  middle_name: Vitalijovytj
+  last_name: KURTJENKO
+  whole_name: Serhij Vitalijovytj KURTJENKO
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-21'
@@ -45,28 +58,15 @@ name_aliases:
     publication_date: '2022-04-21'
     number_title: 2022/658 (OJ L120)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Serhij
-  middle_name: Vitalijovytj
-  last_name: KURTJENKO
-  whole_name: Serhij Vitalijovytj KURTJENKO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/658 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Serhiy
-  middle_name: Vitaliyovich
-  last_name: KURCHENKO
-  whole_name: Serhiy Vitaliyovich KURCHENKO
-  function: Ukrainian businessman (‘Gaz-Alliance’ company)
+- first_name: Сергей
+  middle_name: Витальевич
+  last_name: КУРЧЕНКО
+  whole_name: Сергей Витальевич КУРЧЕНКО
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139814'
+  logical_id: '139812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-21'

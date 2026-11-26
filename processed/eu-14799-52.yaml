@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО РЛВТ
-  name_language: RU
+- whole_name: RLVT LLC,  LLC Russkaya  Laboratoriya  Vozdushnogo  Transporta
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184537'
+  logical_id: '184539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -36,11 +36,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: RLVT LLC,  LLC Russkaya  Laboratoriya  Vozdushnogo  Transporta
-  name_language: EN
+- whole_name: ООО РЛВТ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184539'
+  logical_id: '184537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -73,6 +73,17 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
+- identification_type_code: regnumber
+  number: '1227100012369'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '184536'
+  issue_date: '2022-09-28'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: other
   number: '710001001'
   country_iso2_code: RU
@@ -88,17 +99,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '184535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- identification_type_code: regnumber
-  number: '1227100012369'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '184536'
-  issue_date: '2022-09-28'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

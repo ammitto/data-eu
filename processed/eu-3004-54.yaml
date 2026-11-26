@@ -29,6 +29,16 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: عبد الرحمن ولد العامر
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Ahmed el Tilemsi
   name_language: EN
   strong: true
@@ -54,16 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17064'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: عبد الرحمن ولد العامر
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '149801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -95,11 +95,11 @@ birthdates:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 addresses:
-- city: Gao
+- city: Tabankort
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '2507'
+  logical_id: '2508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-03-02'
@@ -115,21 +115,21 @@ addresses:
     publication_date: '2013-03-02'
     number_title: 180/2013 (OJ L59)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:059:0001:0002:EN:PDF
-- city: Tabankort
-  country_iso2_code: ML
-  country_description: MALI
-  regulation_language: en
-  logical_id: '2508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-03-02'
-    number_title: 180/2013 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:059:0001:0002:EN:PDF
 - city: In Khalil
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
   logical_id: '2510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-03-02'
+    number_title: 180/2013 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:059:0001:0002:EN:PDF
+- city: Gao
+  country_iso2_code: ML
+  country_description: MALI
+  regulation_language: en
+  logical_id: '2507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-03-02'

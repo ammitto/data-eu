@@ -15,21 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "'Tango Four'"
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '113087'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-09'
-    number_title: 2022/2401 (OJ L317)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
 - whole_name: "'Tango Fort'"
   gender: M
   strong: true
   regulation_language: en
   logical_id: '113088'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-09'
+    number_title: 2022/2401 (OJ L317)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
+- whole_name: "'Tango Four'"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '113087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'

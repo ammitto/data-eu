@@ -25,6 +25,40 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Федеральное государственное унитарное предприятие 'Международное информационное
+    агентство “Россия сегодня"'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Federal State Unitary Enterprise Rossiya Segodnya International Information
+    Agency
+  function: a Russian government-linked media group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Entreprise unitaire publique fédérale ROSSIYA  SEGODNYA (agence  d’information
+    internationale)
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Staatsinformatieagentschap Rossiya Segodnya
   name_language: NL
   strong: true
@@ -52,40 +86,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Federal State Unitary Enterprise Rossiya Segodnya International Information
-    Agency
-  function: a Russian government-linked media group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Федеральное государственное унитарное предприятие 'Международное информационное
-    агентство “Россия сегодня"'
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Entreprise unitaire publique fédérale ROSSIYA  SEGODNYA (agence  d’information
-    internationale)
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

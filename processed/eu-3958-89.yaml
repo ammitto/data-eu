@@ -15,18 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yasin
-  last_name: Dhahi
-  whole_name: Yasin Dhahi
-  title: Brigadier General
+- whole_name: ضاحي ياسين
+  gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '113180'
+  logical_id: '124807'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-07-18'
-    number_title: 2017/1327 (OJ L185)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1327&from=EN
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Yasin
   last_name: Dahi
   whole_name: Yasin Dahi
@@ -34,6 +33,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-18'
+    number_title: 2017/1327 (OJ L185)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1327&from=EN
+- first_name: Yasin
+  last_name: Dhahi
+  whole_name: Yasin Dhahi
+  title: Brigadier General
+  strong: true
+  regulation_language: en
+  logical_id: '113180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
@@ -49,17 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: ضاحي ياسين
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

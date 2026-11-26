@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: LLC DOK "Signal"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: LLC Children's Health Complex "Signal"
   function: |-
     Children's Health Complex "Signal" is a recreational and educational camp, for children aged 7–16. Its primary owner is LLC Gazprom Dobycha Yamburg, a subsidiary of state-owned Gazprom.
@@ -33,16 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: LLC DOK "Signal"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '185454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -80,10 +80,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
 - identification_type_code: other
-  number: '2304044300'
+  number: '230401001'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185450'
+  logical_id: '185449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -101,10 +101,10 @@ identifications:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
-  number: '230401001'
+  number: '2304044300'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '185449'
+  logical_id: '185450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Naria
-  last_name: BEN FAZI
-  whole_name: Naria BEN FAZI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-19'
-    number_title: 2024//1172 (OJ L19042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401172
 - first_name: Neria
   last_name: BEN PAZI
   whole_name: Neria BEN PAZI
@@ -36,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165090'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-19'
+    number_title: 2024//1172 (OJ L19042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401172
+- first_name: Naria
+  last_name: BEN FAZI
+  whole_name: Naria BEN FAZI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-19'

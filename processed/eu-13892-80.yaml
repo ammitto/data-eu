@@ -19,17 +19,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Алексей Николаевич ПИКИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180026'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-05'
-    number_title: 2025/1789 (OJ L202501789)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
 - whole_name: Alexey Nikolaevich PIKIN
   gender: M
   name_language: EN
@@ -49,6 +38,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-05'
+    number_title: 2025/1789 (OJ L202501789)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
+- whole_name: Алексей Николаевич ПИКИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'

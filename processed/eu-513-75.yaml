@@ -14,21 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdul Rahman S. Taher
+- first_name: Abdul Rahman
+  last_name: Yasin
+  whole_name: Abdul Rahman Yasin
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '1192'
+  logical_id: '1190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'
     number_title: 866/2003 (OJ L124)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- first_name: Aboud
-  last_name: Yasin
-  whole_name: Aboud Yasin
+- whole_name: Abdul Rahman S. Taha
   strong: true
   regulation_language: en
-  logical_id: '1194'
+  logical_id: '1191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
+- whole_name: Abdul Rahman S. Taher
+  strong: true
+  regulation_language: en
+  logical_id: '1192'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'
@@ -45,22 +55,12 @@ name_aliases:
     publication_date: '2003-05-20'
     number_title: 866/2003 (OJ L124)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- whole_name: Abdul Rahman S. Taha
-  strong: true
-  regulation_language: en
-  logical_id: '1191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- first_name: Abdul Rahman
+- first_name: Aboud
   last_name: Yasin
-  whole_name: Abdul Rahman Yasin
-  gender: M
+  whole_name: Aboud Yasin
   strong: true
   regulation_language: en
-  logical_id: '1190'
+  logical_id: '1194'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'

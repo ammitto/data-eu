@@ -15,10 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: IRGC Air Force
+- whole_name: Vzdušné sily IRGC
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '6619'
+  logical_id: '6632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Força Aérea do IRGC
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '6631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'
@@ -29,6 +40,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: IRGC Air Force
+  strong: true
+  regulation_language: en
+  logical_id: '6619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Военновъздушни сили на Корпуса на гвардейците на иранската революция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '6620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'
@@ -134,41 +164,11 @@ name_aliases:
     publication_date: '2008-06-24'
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Força Aérea do IRGC
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '6631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Vzdušné sily IRGC
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Zračne sile IRGC
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '6633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Военновъздушни сили на Корпуса на гвардейците на иранската революция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '6620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'

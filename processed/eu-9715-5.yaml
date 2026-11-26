@@ -15,23 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Evgeny
-  middle_name: Nikolaevich
-  last_name: ZHURAVLEV
-  whole_name: Evgeny Nikolaevich ZHURAVLEV
-  function: Russian military leader - Commander of the Guards 4th (Kantemirovskaya)
-    Tank Division of the Tank Army of the Western Military District
-  gender: M
-  title: Major General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149899'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Jevgenij Nikolajevitj ZJURAVLJOV
   gender: M
   name_language: SV
@@ -52,6 +35,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Evgeny
+  middle_name: Nikolaevich
+  last_name: ZHURAVLEV
+  whole_name: Evgeny Nikolaevich ZHURAVLEV
+  function: Russian military leader - Commander of the Guards 4th (Kantemirovskaya)
+    Tank Division of the Tank Army of the Western Military District
+  gender: M
+  title: Major General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО "ЛЕТО"
-  strong: true
-  regulation_language: en
-  logical_id: '185423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: LLC “Summer”
   name_language: EN
   strong: true
@@ -45,6 +36,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: ООО "ЛЕТО"
+  strong: true
+  regulation_language: en
+  logical_id: '185423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -81,22 +81,22 @@ identifications:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: other
+  number: '6154048300'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: regnumber
   number: '1126154000940'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '185420'
   issue_date: '2012-03-21'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: other
-  number: '6154048300'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '185421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

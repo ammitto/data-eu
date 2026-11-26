@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Igor Aleksandrovitj KORNET
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Ihor Oleksandrovytj KORNET
   name_language: SV
   strong: true
@@ -25,11 +35,12 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Igor Aleksandrovitj KORNET
-  name_language: SV
+- whole_name: Igor Aleksandrovich KORNET
+  function: So-called ‘Minister of Interior’ of the so-called ‘Luhansk People’s Republic’
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '139396'
+  logical_id: '138363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -50,17 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Igor Aleksandrovich KORNET
-  function: So-called ‘Minister of Interior’ of the so-called ‘Luhansk People’s Republic’
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '138363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

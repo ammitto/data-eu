@@ -15,15 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Адальби
-  middle_name: Люлевич
-  last_name: ШХАГОШЕВ
-  whole_name: Адальби Люлевич ШХАГОШЕВ
+- whole_name: Adalbi Lyulevich SHKHAGOSHEV
+  function: Member of the Duma
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134254'
+  logical_id: '143785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,13 +37,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Adalbi Lyulevich SHKHAGOSHEV
-  function: Member of the Duma
+- first_name: Адальби
+  middle_name: Люлевич
+  last_name: ШХАГОШЕВ
+  whole_name: Адальби Люлевич ШХАГОШЕВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143785'
+  logical_id: '134254'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

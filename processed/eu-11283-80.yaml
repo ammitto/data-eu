@@ -26,6 +26,17 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Světlana Majboroda
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '163681'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Svetlana
   middle_name: Anatolievna
   last_name: MAYBORODA
@@ -36,17 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Светлана Анатольевна МАЙБОРОДА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -63,12 +63,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Světlana Majboroda
+- whole_name: Светлана Анатольевна МАЙБОРОДА
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163681'
+  logical_id: '162832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

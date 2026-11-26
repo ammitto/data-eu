@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Szikra Gyár NPP Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163852'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: "„Szikra Gyár” Kutató- és Termelővállalat"
   name_language: HU
   strong: true
@@ -45,16 +55,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное Общество "Научно-Производственное Предприятие "Завод Искра"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: sociedad anónima NPP Iskra Plant
   name_language: ES
   strong: true
@@ -65,11 +65,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Research and Production Enterprise "Iskra Plant"
-  name_language: EN
+- whole_name: Акционерное Общество "Научно-Производственное Предприятие "Завод Искра"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163442'
+  logical_id: '163439'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -95,11 +95,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Szikra Gyár NPP Rt.
-  name_language: HU
+- whole_name: Research and Production Enterprise "Iskra Plant"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163852'
+  logical_id: '163442'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -15,15 +15,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Lidiya
-  middle_name: Oleksandrivna
+- first_name: Lidija
+  middle_name: Aleksandrovna
   last_name: BASOVA
-  whole_name: Lidiya Oleksandrivna BASOVA
+  whole_name: Lidija Aleksandrovna BASOVA
   gender: F
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '121760'
+  logical_id: '137461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Lydyja
+  middle_name: Oleksandrivna
+  last_name: BASOVA
+  whole_name: Lydyja Oleksandrivna BASOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137460'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -38,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Лидия
-  middle_name: Александровна
-  last_name: БАСОВА
-  whole_name: Лидия Александровна БАСОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '121761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -72,29 +72,29 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Lydyja
-  middle_name: Oleksandrivna
-  last_name: BASOVA
-  whole_name: Lydyja Oleksandrivna BASOVA
+- first_name: Лидия
+  middle_name: Александровна
+  last_name: БАСОВА
+  whole_name: Лидия Александровна БАСОВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137460'
+  logical_id: '121761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Lidija
-  middle_name: Aleksandrovna
+- first_name: Lidiya
+  middle_name: Oleksandrivna
   last_name: BASOVA
-  whole_name: Lidija Aleksandrovna BASOVA
+  whole_name: Lidiya Oleksandrivna BASOVA
   gender: F
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '137461'
+  logical_id: '121760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

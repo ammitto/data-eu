@@ -15,30 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Zentrum für Geopolitische Expertise
-  name_language: DE
+- whole_name: Centar za geopolitičko znanje
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '177832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Център за геополитически експертизи
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Центр геополитических экспертиз, CGE
-  strong: true
-  regulation_language: en
-  logical_id: '177834'
+  logical_id: '177830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -58,11 +39,30 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centar za geopolitičko znanje
-  name_language: HR
+- whole_name: Центр геополитических экспертиз, CGE
   strong: true
   regulation_language: en
-  logical_id: '177830'
+  logical_id: '177834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Център за геополитически експертизи
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Zentrum für Geopolitische Expertise
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '177832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -78,21 +78,11 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centrul de Expertiză Geopolitică
-  name_language: RO
+- whole_name: Geopolitikai Szakértői Központ
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centro especializado em geopolítica
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177827'
+  logical_id: '177829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -108,11 +98,21 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Geopolitikai Szakértői Központ
-  name_language: HU
+- whole_name: Centro especializado em geopolítica
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '177829'
+  logical_id: '177827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Centrul de Expertiză Geopolitică
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -17,15 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ayman Kabo
-  strong: true
-  regulation_language: en
-  logical_id: '129180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-06'
-    number_title: 2021/559 (OJ L115I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 - whole_name: Nuh Ibrahim Abdi
   strong: true
   regulation_language: en
@@ -59,6 +50,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-06'
+    number_title: 2021/559 (OJ L115I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
+- whole_name: Ayman Kabo
+  strong: true
+  regulation_language: en
+  logical_id: '129180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -99,21 +99,21 @@ birthdates:
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 addresses:
-- region: Badamadow, Lower Juba Region
-  country_iso2_code: SO
-  country_description: SOMALIA
-  regulation_language: en
-  logical_id: '129175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-06'
-    number_title: 2021/559 (OJ L115I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 - region: Kenya/Somalia border
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '129176'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-06'
+    number_title: 2021/559 (OJ L115I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
+- region: Badamadow, Lower Juba Region
+  country_iso2_code: SO
+  country_description: SOMALIA
+  regulation_language: en
+  logical_id: '129175'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'

@@ -15,6 +15,96 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Oddelenie informačných technológií mesta Moskvy
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156076'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Moskovan kaupungin tietotekniikkaosasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '156081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Odjel za informacijske tehnologije grada Moskve
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '156083'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Oddelek za informacijske tehnologije mesta Moskva
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '156085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Maskvos miesto informacinių technologijų departamentas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '156087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Maskavas pilsētas Informācijas tehnoloģiju departaments
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '156089'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Moskva linna infotehnoloogiaosakond
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '156092'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Dipartiment tat-Teknoloġiji tal-Informazzjoni tal-Belt ta' Moska
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '156096'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Roinn Teicneolaíochtaí Faisnéise Chathair Mhoscó
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '156098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Департамент Информационных Технологий города Москвы
   name_language: RU
   strong: true
@@ -30,16 +120,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Roinn Teicneolaíochtaí Faisnéise Chathair Mhoscó
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '156098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -185,87 +265,19 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Oddelenie informačných technológií mesta Moskvy
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156076'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Moskovan kaupungin tietotekniikkaosasto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '156081'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Odjel za informacijske tehnologije grada Moskve
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '156083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Oddelek za informacijske tehnologije mesta Moskva
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '156085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Maskvos miesto informacinių technologijų departamentas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '156087'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Maskavas pilsētas Informācijas tehnoloģiju departaments
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '156089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Moskva linna infotehnoloogiaosakond
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156092'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Dipartiment tat-Teknoloġiji tal-Informazzjoni tal-Belt ta' Moska
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '156096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 addresses:
+- street: 1-Y Krasnogvardeyskiy Proyezd, 21, bld. 1
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '123100'
+  regulation_language: en
+  logical_id: '155601'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - street: Yakovoapostol'skiy Pereulok, 12с1
   city: Moscow
   country_iso2_code: RU
@@ -287,15 +299,3 @@ addresses:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- street: 1-Y Krasnogvardeyskiy Proyezd, 21, bld. 1
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '123100'
-  regulation_language: en
-  logical_id: '155601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495

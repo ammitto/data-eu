@@ -15,12 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: "‘Rifa’at’"
+- whole_name: مضر رفعت الأسد
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '152793'
+  logical_id: '152792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -52,12 +52,12 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: مضر رفعت الأسد
+- whole_name: "‘Rifa’at’"
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152792'
+  logical_id: '152793'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

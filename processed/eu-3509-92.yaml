@@ -16,13 +16,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Aleksandr
-  last_name: Totoonow
-  whole_name: Aleksandr Totoonow
+  middle_name: Borisovitj
+  last_name: TOTOONOV
+  whole_name: Aleksandr Borisovitj TOTOONOV
   gender: M
-  name_language: PL
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152138'
+  logical_id: '151802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,20 +45,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Aleksandr
-  middle_name: Borisovitj
-  last_name: TOTOONOV
-  whole_name: Aleksandr Borisovitj TOTOONOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Александр
   middle_name: Борисович
   last_name: ТОТООНОВ
@@ -67,6 +54,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106311'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Aleksandr
+  last_name: Totoonow
+  whole_name: Aleksandr Totoonow
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

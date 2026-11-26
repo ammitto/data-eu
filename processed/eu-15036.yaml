@@ -27,6 +27,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Николаевич
+  last_name: БЕССОНОВ
+  whole_name: Сергей Николаевич БЕССОНОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '185957'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-07'
+    number_title: 2026/1940 (OJ L202601940)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601940
 - first_name: Sergey
   middle_name: Nikolaevich
   last_name: BESSONOV
@@ -36,19 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185956'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-07'
-    number_title: 2026/1940 (OJ L202601940)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601940
-- first_name: Сергей
-  middle_name: Николаевич
-  last_name: БЕССОНОВ
-  whole_name: Сергей Николаевич БЕССОНОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '185957'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-07'

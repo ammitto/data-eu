@@ -25,11 +25,11 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Rafinăria de Petrol Novokuybyshevsk, societate pe acțiuni
-  name_language: RO
+- whole_name: Акционерное общество “Новокуйбышевский Нефтеперерабатывающий Завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184729'
+  logical_id: '183868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -45,22 +45,22 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Акционерное общество “Новокуйбышевский Нефтеперерабатывающий Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Joint Stock Company “Novokuybyshevsk Oil Refinery”
   title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '183869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Rafinăria de Petrol Novokuybyshevsk, societate pe acțiuni
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184729'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -81,22 +81,22 @@ addresses:
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
-- identification_type_code: taxid
-  number: '6330000553'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '183865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - identification_type_code: regnumber
   number: '1026303118126'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '183866'
   issue_date: '1994-05-06'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: taxid
+  number: '6330000553'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '183865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

@@ -29,6 +29,19 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Alexej
+  last_name: Děnisenko
+  whole_name: Alexej Děnisenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Aleksey
   middle_name: Vladimirovich
   last_name: DENISENKO
@@ -54,19 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Alexej
-  last_name: Děnisenko
-  whole_name: Alexej Děnisenko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

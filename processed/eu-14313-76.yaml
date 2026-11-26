@@ -15,31 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: BelOil
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/505 (OJ L202600505)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
-- whole_name: BNK
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '182213'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/505 (OJ L202600505)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
 - whole_name: ЗАО Белорусская нефтяная компания
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '182212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: BelOil
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'
@@ -63,6 +53,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/505 (OJ L202600505)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600505
+- whole_name: BNK
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '182213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

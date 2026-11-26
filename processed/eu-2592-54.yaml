@@ -25,6 +25,16 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- whole_name: Handasieh – organizacija za strojno industrijo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '140971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: Handasieh – Organization for Engineering Industries
   strong: true
   regulation_language: en
@@ -39,16 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: Handasieh – organizacija za strojno industrijo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '140971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -73,14 +73,14 @@ addresses:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- street: P.O. Box 5966, Abou Bakr Al‐Seddeq St.
+- street: PO BOX 2849, Al-Moutanabi Street
   city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '2163'
+  logical_id: '2165'
   place: Damascus
-  po_box: P.O. Box 5966
+  po_box: PO BOX 2849
   contact_infos:
   - key: PHONE
     value: "+ 963 11 2121824"
@@ -91,14 +91,14 @@ addresses:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- street: PO BOX 2849, Al-Moutanabi Street
+- street: P.O. Box 5966, Abou Bakr Al‐Seddeq St.
   city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '2165'
+  logical_id: '2163'
   place: Damascus
-  po_box: PO BOX 2849
+  po_box: P.O. Box 5966
   contact_infos:
   - key: PHONE
     value: "+ 963 11 2121824"

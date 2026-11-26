@@ -15,6 +15,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yekaterina
+  middle_name: Vladimirovna
+  last_name: PUTINA
+  whole_name: Yekaterina Vladimirovna PUTINA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Katerina
+  middle_name: Vladimirovna
+  last_name: TIKHONOVA
+  whole_name: Katerina Vladimirovna TIKHONOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jekatěrina
   middle_name: Vladimirovna
   last_name: TICHONOVA
@@ -73,13 +101,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Yekaterina
   middle_name: Vladimirovna
-  last_name: PUTINA
-  whole_name: Yekaterina Vladimirovna PUTINA
+  last_name: POETINA
+  whole_name: Yekaterina Vladimirovna POETINA
   gender: F
-  name_language: EN
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '138124'
+  logical_id: '152300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -99,15 +127,17 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yekaterina
+- first_name: Ekaterina
   middle_name: Vladimirovna
-  last_name: POETINA
-  whole_name: Yekaterina Vladimirovna POETINA
+  last_name: TIKHONOVA
+  whole_name: Ekaterina Vladimirovna TIKHONOVA
+  function: "Head of the Innopraktika development initiative. \nCo-chair of the coordinating
+    council for import substitutions at the Russian Union of Industrialists and Entrepreneurs."
   gender: F
-  name_language: NL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152300'
+  logical_id: '138126'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -136,36 +166,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Ekaterina
-  middle_name: Vladimirovna
-  last_name: TIKHONOVA
-  whole_name: Ekaterina Vladimirovna TIKHONOVA
-  function: "Head of the Innopraktika development initiative. \nCo-chair of the coordinating
-    council for import substitutions at the Russian Union of Industrialists and Entrepreneurs."
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Katerina
-  middle_name: Vladimirovna
-  last_name: TIKHONOVA
-  whole_name: Katerina Vladimirovna TIKHONOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151954'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -28,29 +28,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: КОРНИЕНКО
-  whole_name: Александр Владимирович КОРНИЕНКО
+- first_name: Aľaxandr
+  middle_name: Uladzimiravič
+  last_name: KARNIENKA
+  whole_name: Aľaxandr Uladzimiravič KARNIENKA
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aljaksandr
-  middle_name: Uladzimiravitj
-  last_name: KARNIJENKA
-  whole_name: Aljaksandr Uladzimiravitj KARNIJENKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156872'
+  logical_id: '156942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -70,15 +56,43 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aľaxandr
-  middle_name: Uladzimiravič
-  last_name: KARNIENKA
-  whole_name: Aľaxandr Uladzimiravič KARNIENKA
+- first_name: Aleksandr
+  middle_name: Vladimirovitj
+  last_name: KORNIJENKO
+  whole_name: Aleksandr Vladimirovitj KORNIJENKO
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156942'
+  logical_id: '156871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aljaksandr
+  middle_name: Uladzimiravitj
+  last_name: KARNIJENKA
+  whole_name: Aljaksandr Uladzimiravitj KARNIJENKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156872'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: КОРНИЕНКО
+  whole_name: Александр Владимирович КОРНИЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -117,20 +131,6 @@ name_aliases:
     publication_date: '2025-02-25'
     number_title: 2025/386 (OJ L25022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- first_name: Aleksandr
-  middle_name: Vladimirovitj
-  last_name: KORNIJENKO
-  whole_name: Aleksandr Vladimirovitj KORNIJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

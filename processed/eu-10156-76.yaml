@@ -19,19 +19,6 @@ name_aliases:
   last_name: Tauberová
   whole_name: Marina Tauberová
   gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Marina
-  last_name: Tauberová
-  whole_name: Marina Tauberová
-  gender: F
   name_language: SK
   strong: true
   regulation_language: en
@@ -56,6 +43,19 @@ name_aliases:
     publication_date: '2025-04-28'
     number_title: 2025/817 (OJ L202500817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
+- first_name: Marina
+  last_name: Tauberová
+  whole_name: Marina Tauberová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 citizenships:
 - country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF

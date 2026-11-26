@@ -15,11 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bakhirev Állami Gépészeti Tudományos Kutatóintézet
-  name_language: HU
+- whole_name: Акционерное Общество “Государственный Научно-Исследовательский Институт
+    Машиностроения Имени В.В. Бахирева”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175311'
+  logical_id: '175206'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -36,31 +37,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: V.V. Bahirevről Elnevezett NIMI Rt.
+- whole_name: Bakhirev Állami Gépészeti Tudományos Kutatóintézet
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»V.V. Bakhirev Állami Gépészeti Tudományos Kutatóintézet« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»GosNIImash« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175309'
+  logical_id: '175311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -75,12 +56,30 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное Общество “Государственный Научно-Исследовательский Институт
-    Машиностроения Имени В.В. Бахирева”
-  name_language: RU
+- whole_name: JSC “GosNIImash”
   strong: true
   regulation_language: en
-  logical_id: '175206'
+  logical_id: '175204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: State Scientific Research Institute of Machine Building Bakhirev
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175205'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: V.V. Bahirevről Elnevezett NIMI Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -102,20 +101,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “GosNIImash”
+- whole_name: "»GosNIImash« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175204'
+  logical_id: '175309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: State Scientific Research Institute of Machine Building Bakhirev
-  name_language: EN
+- whole_name: "»V.V. Bakhirev Állami Gépészeti Tudományos Kutatóintézet« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175205'
+  logical_id: '175310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -142,22 +142,22 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '7743873015'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1127747236341'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175202'
   issue_date: '2012-12-11'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '7743873015'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175201'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

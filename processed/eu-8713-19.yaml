@@ -15,15 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Валерий
-  middle_name: Андреевич
-  last_name: ПОНОМАРЕВ
-  whole_name: Валерий Андреевич ПОНОМАРЕВ
+- whole_name: Valerij Andrejevitj PONOMARJOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143450'
+  logical_id: '143523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'
@@ -43,12 +40,15 @@ name_aliases:
     publication_date: '2022-09-01'
     number_title: 2022/1446 (OJ L227I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
-- whole_name: Valerij Andrejevitj PONOMARJOV
+- first_name: Валерий
+  middle_name: Андреевич
+  last_name: ПОНОМАРЕВ
+  whole_name: Валерий Андреевич ПОНОМАРЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143523'
+  logical_id: '143450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'

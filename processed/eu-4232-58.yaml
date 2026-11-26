@@ -105,11 +105,11 @@ birthdates:
   day_of_month: 13
   month_of_year: 6
   year: 1961
-  city: Sevastopol
-  country_iso2_code: UA
-  country_description: UKRAINE
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '122829'
+  logical_id: '122830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'
@@ -121,11 +121,11 @@ birthdates:
   day_of_month: 13
   month_of_year: 6
   year: 1961
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+  city: Sevastopol
+  country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '122830'
+  logical_id: '122829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

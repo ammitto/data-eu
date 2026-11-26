@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Renard
+  last_name: KUTKOWSKI
+  whole_name: Renard KUTKOWSKI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '185348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Renard Vladimirovich KUTKOVSKY
   function: |-
     Deputy Head of the Administration of the City of Yalta in the so-called Republic of Crimea, Ukraine.
@@ -38,18 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- first_name: Renard
-  last_name: KUTKOWSKI
-  whole_name: Renard KUTKOWSKI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '185348'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

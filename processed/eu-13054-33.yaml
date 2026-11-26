@@ -25,41 +25,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Motorkutató Intézet« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Research Institute of Engines”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “Научно-Исследовательский Институт Двигателей”
+- whole_name: АО “НИИД”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество “Научно-Исследовательский Институт Двигателей”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175014'
+  logical_id: '175010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -75,31 +45,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “НИИД”
+- whole_name: Aкционерное общество “Научно-Исследовательский Институт Двигателей”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “NIID”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Instituto de Investigação de Comunicações e Sistemas de Controlo
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '175245'
+  logical_id: '175014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -115,6 +65,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “Научно-Исследовательский Институт Двигателей”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “Research Institute of Engines”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “NIID”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175011'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Motorkutató Intézet« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Instituto de Investigação de Comunicações e Sistemas de Controlo
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175245'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -151,22 +151,22 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '770701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1097746030030'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175009'
   issue_date: '2009-01-27'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '770701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175007'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

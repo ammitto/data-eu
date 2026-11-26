@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: FGBI “DOP ‘Raduga’”
-  name_language: EN
+- whole_name: Федеральное государственное бюджетное учреждение “детский оздоровительный
+    пансионат ‘радуга’” управления делами президента российской федерации
   strong: true
   regulation_language: en
-  logical_id: '185407'
+  logical_id: '185403'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -69,21 +69,11 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: FGBU “DOP ‘Raduga’”
+- whole_name: FGBI “DOP ‘Raduga’”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Федеральное государственное бюджетное учреждение “детский оздоровительный
-    пансионат ‘радуга’” управления делами президента российской федерации
-  strong: true
-  regulation_language: en
-  logical_id: '185403'
+  logical_id: '185407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -95,6 +85,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: FGBU “DOP ‘Raduga’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '185408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -123,17 +123,6 @@ addresses:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
-- identification_type_code: regnumber
-  number: '1149102061052'
-  country_iso2_code: UA
-  regulation_language: en
-  logical_id: '185399'
-  issue_date: '2014-10-20'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
   number: '9104001076'
   country_iso2_code: '00'
@@ -149,6 +138,17 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '185401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: regnumber
+  number: '1149102061052'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '185399'
+  issue_date: '2014-10-20'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

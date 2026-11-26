@@ -15,6 +15,37 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Arkady
+  middle_name: Alexandrovich
+  last_name: GOSTEV
+  whole_name: Arkady Alexandrovich GOSTEV
+  function: |-
+    Director of the Russian Federal Penitentiary Service (FSIN);
+    former Deputy Minister of the Interior (until 2021)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Arkady
+  middle_name: Aleksandrovitj
+  last_name: GOSTEV
+  whole_name: Arkady Aleksandrovitj GOSTEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156058'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Arkadij
   middle_name: Alexandrovič
   last_name: GOSTEV
@@ -42,20 +73,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Arkady
-  middle_name: Aleksandrovitj
-  last_name: GOSTEV
-  whole_name: Arkady Aleksandrovitj GOSTEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Аркадий
   middle_name: Александрович
   last_name: ГОСТЕВ
@@ -65,23 +82,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Arkady
-  middle_name: Alexandrovich
-  last_name: GOSTEV
-  whole_name: Arkady Alexandrovich GOSTEV
-  function: |-
-    Director of the Russian Federal Penitentiary Service (FSIN);
-    former Deputy Minister of the Interior (until 2021)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155589'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

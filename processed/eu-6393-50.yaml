@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алеĸсандр
-  middle_name: Геннадьевич
-  last_name: БАХАНОВИЧ
-  whole_name: Алеĸсандр Геннадьевич БАХАНОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Aleksandr
   middle_name: Gennadevich
   last_name: BAKHANOVICH
@@ -43,17 +29,65 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aliaksandr
-  middle_name: Henadzevich
-  last_name: BAKHANOVICH
-  whole_name: Aliaksandr Henadzevich BAKHANOVICH
-  function: "First Deputy Minister of Education, \nformer Rector of the Brest State
-    Technical University"
-  gender: M
-  name_language: EN
+- first_name: Aliksandr
+  last_name: Bakhanovič
+  whole_name: Aliksandr Bakhanovič
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '130203'
+  logical_id: '164185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Aljaksandr
+  last_name: Bahanovitš
+  whole_name: Aljaksandr Bahanovitš
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Aljaksandr
+  last_name: Bachanovič
+  whole_name: Aljaksandr Bachanovič
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Аляĸсандр
+  middle_name: Генадзевiч
+  last_name: БАХАНОВIЧ
+  whole_name: Аляĸсандр Генадзевiч БАХАНОВIЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130201'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Алеĸсандр
+  middle_name: Геннадьевич
+  last_name: БАХАНОВИЧ
+  whole_name: Алеĸсандр Геннадьевич БАХАНОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130200'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -73,51 +107,17 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aliksandr
-  last_name: Bakhanovič
-  whole_name: Aliksandr Bakhanovič
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aljaksandr
-  last_name: Bachanovič
-  whole_name: Aljaksandr Bachanovič
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164162'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aljaksandr
-  last_name: Bahanovitš
-  whole_name: Aljaksandr Bahanovitš
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164188'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Аляĸсандр
-  middle_name: Генадзевiч
-  last_name: БАХАНОВIЧ
-  whole_name: Аляĸсандр Генадзевiч БАХАНОВIЧ
+- first_name: Aliaksandr
+  middle_name: Henadzevich
+  last_name: BAKHANOVICH
+  whole_name: Aliaksandr Henadzevich BAKHANOVICH
+  function: "First Deputy Minister of Education, \nformer Rector of the Brest State
+    Technical University"
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '130201'
+  logical_id: '130203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

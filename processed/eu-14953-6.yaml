@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Рустам Нургалиевич МИННИХАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Rustam Nurgaliyevich MINNIKHANOV
   function: President of the Republic of Tatarstan
   gender: M
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Рустам Нургалиевич МИННИХАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185188'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

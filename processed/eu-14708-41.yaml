@@ -25,17 +25,6 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: "“Банк Социального Развития Татарстана ‘Татсоцбанк’”"
-  title: Joint Stock Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184105'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: АО Татсоцбанк
   title: Joint Stock Company
   name_language: RU
@@ -47,12 +36,12 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: JSC Bank of Social Development of Tatarstan “Tatsotsbank”
+- whole_name: "“Банк Социального Развития Татарстана ‘Татсоцбанк’”"
   title: Joint Stock Company
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184107'
+  logical_id: '184105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -64,6 +53,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184108'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: JSC Bank of Social Development of Tatarstan “Tatsotsbank”
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '184107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

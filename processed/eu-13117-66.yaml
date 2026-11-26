@@ -15,15 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Republican
-    Telecommunications Operator”
-  function: |-
-    State Unitary Enterprise of the Donetsk People’s Republic “Republican Telecommunications Operator” (SUE DPR “RTO”) is a telecom operator
-    operating in the illegally occupied region of Ukraine of Donetsk.
-  name_language: EN
+- whole_name: ГУП ДНР “РОС”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175571'
+  logical_id: '175567'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -40,21 +36,25 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: SUE DPR “RTO”
-  name_language: RU
+- whole_name: State Unitary Enterprise of the Donetsk People’s Republic “Republican
+    Telecommunications Operator”
+  function: |-
+    State Unitary Enterprise of the Donetsk People’s Republic “Republican Telecommunications Operator” (SUE DPR “RTO”) is a telecom operator
+    operating in the illegally occupied region of Ukraine of Donetsk.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175568'
+  logical_id: '175571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ГУП ДНР “РОС”
+- whole_name: SUE DPR “RTO”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175567'
+  logical_id: '175568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -75,21 +75,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '930801335'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1229300088423'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175566'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '930801335'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175565'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

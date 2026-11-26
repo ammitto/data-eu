@@ -14,24 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al-Akhtar Medical Centre
-  strong: true
-  regulation_language: en
-  logical_id: '4230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-24'
-    number_title: 1378/2005 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:219:0027:0028:EN:PDF
-- whole_name: Azmat-e-Pakistan Trust
-  strong: true
-  regulation_language: en
-  logical_id: '7306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Al-Akhtar Trust International
   strong: true
   regulation_language: en
@@ -50,15 +32,15 @@ name_aliases:
     publication_date: '2005-08-24'
     number_title: 1378/2005 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:219:0027:0028:EN:PDF
-- whole_name: Azmat Pakistan Trust
+- whole_name: Al-Akhtar Medical Centre
   strong: true
   regulation_language: en
-  logical_id: '7307'
+  logical_id: '4230'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+    publication_date: '2005-08-24'
+    number_title: 1378/2005 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:219:0027:0028:EN:PDF
 - whole_name: Akhtarabad Medical Camp
   strong: true
   regulation_language: en
@@ -77,6 +59,15 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Azmat Pakistan Trust
+  strong: true
+  regulation_language: en
+  logical_id: '7307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Pakistani Relief Foundation
   strong: true
   regulation_language: en
@@ -86,18 +77,16 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-addresses:
-- street: Gulistan-e-Jauhar, Block 12
-  city: Karachi
-  country_iso2_code: PK
-  country_description: PAKISTAN
+- whole_name: Azmat-e-Pakistan Trust
+  strong: true
   regulation_language: en
-  logical_id: '877'
+  logical_id: '7306'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-08-24'
-    number_title: 1378/2005 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:219:0027:0028:EN:PDF
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+addresses:
 - street: ST-1/A, Gulsahn-e-Iqbal, Block 2
   city: Karachi
   country_iso2_code: PK
@@ -110,3 +99,14 @@ addresses:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- street: Gulistan-e-Jauhar, Block 12
+  city: Karachi
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-24'
+    number_title: 1378/2005 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:219:0027:0028:EN:PDF

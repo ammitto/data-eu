@@ -17,28 +17,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ansar Al-shari’a in Tunisia (AAS-T)
+- whole_name: Ansar al-Sharia
   strong: true
   regulation_language: en
-  logical_id: '18265'
+  logical_id: '18270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
-- whole_name: AAS-T
+- whole_name: Supporters of Islamic Law
   strong: true
   regulation_language: en
-  logical_id: '18266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1058/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
-- whole_name: Ansar al-Sharia in Tunisia
-  strong: true
-  regulation_language: en
-  logical_id: '18267'
+  logical_id: '18271'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -62,19 +53,19 @@ name_aliases:
     publication_date: '2014-10-08'
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
-- whole_name: Ansar al-Sharia
+- whole_name: AAS-T
   strong: true
   regulation_language: en
-  logical_id: '18270'
+  logical_id: '18266'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
-- whole_name: Supporters of Islamic Law
+- whole_name: Ansar al-Sharia in Tunisia
   strong: true
   regulation_language: en
-  logical_id: '18271'
+  logical_id: '18267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -84,6 +75,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1058/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
+- whole_name: Ansar Al-shari’a in Tunisia (AAS-T)
+  strong: true
+  regulation_language: en
+  logical_id: '18265'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'

@@ -15,86 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: zatvor Rajai Shahr
-  name_language: HR
+- whole_name: Prisão de Gorhardasht
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '129245'
+  logical_id: '129263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Zatvor Rajaee Shahr
-  name_language: HR
+- whole_name: Prisão de Rajai Shahr
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '129246'
+  logical_id: '129264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajaee Shahr-fængslet
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '152258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Rajaee Shahr börtön
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Príosún Gohar Dasht
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Príosún Gorhardasht
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Príosún Rajai Shahr
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152268'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: Príosún Rajaee Shahr
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
 - whole_name: Gohar Dasht Prison
   strong: true
   regulation_language: en
@@ -135,224 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127456'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajaishahr
-  strong: true
-  regulation_language: en
-  logical_id: '127457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajai Shahr Prison
-  strong: true
-  regulation_language: en
-  logical_id: '127458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajaee Shahr Prison
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '127459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
-- whole_name: затвор Rajaee Shahr
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '129225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: prisión de Gohar Dasht
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '129226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: prisión de Gorhardasht
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '129227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: prisión de Rajai Shahr
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '129228'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prisión de Rajaee Shahr
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '129229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: věznice Gohar Dasht
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '129230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: věznice Gorhardasht
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '129231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: věznice Rajai Shahr
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '129232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Věznice Radžaj-Šahr
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '129233'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Gohar-Dasht-Gefängnis
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '129234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Gorhardasht-Gefängnis
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '129235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajai-Shahr-Gefängnis
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '129236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Rajaee-Shahr-Gefängnis
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '129237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Więzienie Rajaee Shahr
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '129258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: więzienie Gohar Dasht
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '129260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: więzienie Gorhardasht
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '129261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prisão de Gohar Dasht
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '129262'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prisão de Gorhardasht
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '129263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prisão de Rajai Shahr
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '129264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
@@ -478,6 +200,314 @@ name_aliases:
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: věznice Gohar Dasht
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '129230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajaishahr
+  strong: true
+  regulation_language: en
+  logical_id: '127457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajai Shahr Prison
+  strong: true
+  regulation_language: en
+  logical_id: '127458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajaee Shahr Prison
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '127459'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: затвор Rajaee Shahr
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '129225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: prisión de Gohar Dasht
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '129226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: prisión de Gorhardasht
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '129227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: prisión de Rajai Shahr
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '129228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Prisión de Rajaee Shahr
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '129229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajaee Shahr-fængslet
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '152258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Rajaee Shahr börtön
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Príosún Gohar Dasht
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Príosún Gorhardasht
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Príosún Rajai Shahr
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: Príosún Rajaee Shahr
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- whole_name: věznice Gorhardasht
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '129231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: věznice Rajai Shahr
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '129232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Věznice Radžaj-Šahr
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '129233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Gohar-Dasht-Gefängnis
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '129234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Gorhardasht-Gefängnis
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '129235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajai-Shahr-Gefängnis
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '129236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Rajaee-Shahr-Gefängnis
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '129237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: φυλακή Gohar Dasht
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '129238'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: φυλακή Gorhardasht
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '129239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Φυλακή Rajai Shahr
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '129240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Φυλακή Rajaee Shahr
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '129241'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Prison de Rajaee Shahr
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '129242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: zatvor Gohar Dasht
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '129243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: zatvor Gorhardasht
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '129244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: zatvor Rajai Shahr
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '129245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Zatvor Rajaee Shahr
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '129246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - whole_name: prigione Gohar Dasht
   name_language: IT
   strong: true
@@ -588,71 +618,41 @@ name_aliases:
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: φυλακή Gohar Dasht
-  name_language: EL
+- whole_name: Więzienie Rajaee Shahr
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '129238'
+  logical_id: '129258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: φυλακή Gorhardasht
-  name_language: EL
+- whole_name: więzienie Gohar Dasht
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '129239'
+  logical_id: '129260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Φυλακή Rajai Shahr
-  name_language: EL
+- whole_name: więzienie Gorhardasht
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '129240'
+  logical_id: '129261'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Φυλακή Rajaee Shahr
-  name_language: EL
+- whole_name: Prisão de Gohar Dasht
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '129241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: Prison de Rajaee Shahr
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '129242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: zatvor Gohar Dasht
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '129243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
-- whole_name: zatvor Gorhardasht
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '129244'
+  logical_id: '129262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'

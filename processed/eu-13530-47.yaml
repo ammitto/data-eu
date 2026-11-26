@@ -16,6 +16,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sociedade TAMAS
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '178543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: TAMAS Company
   function: Involved in enrichment-related activities,  TAMAS is an overarching body,
     under which four subsidiaries have been established, including one for uranium
@@ -25,16 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Sociedade TAMAS
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '178543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

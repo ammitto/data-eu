@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Jevgenij
+  last_name: Ševčenko
+  whole_name: Jevgenij Ševčenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Евгений
   middle_name: Александрович
   last_name: ШЕВЧЕНКО
@@ -58,13 +71,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Jevgenij
-  last_name: Ševčenko
-  whole_name: Jevgenij Ševčenko
+  middle_name: Aleksandrovitj
+  last_name: SJEVTJENKO
+  whole_name: Jevgenij Aleksandrovitj SJEVTJENKO
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160898'
+  logical_id: '160669'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -78,20 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160897'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Jevgenij
-  middle_name: Aleksandrovitj
-  last_name: SJEVTJENKO
-  whole_name: Jevgenij Aleksandrovitj SJEVTJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160669'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

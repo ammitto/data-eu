@@ -14,24 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Jemaah Islamiya
-  strong: true
-  regulation_language: en
-  logical_id: '2074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-30'
-    number_title: 1935/2002 (OJ L295)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
-- whole_name: Jema'ah Islamiyah
-  strong: true
-  regulation_language: en
-  logical_id: '2075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-30'
-    number_title: 1935/2002 (OJ L295)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
 - whole_name: Jama'ah Islamiyah
   strong: true
   regulation_language: en
@@ -50,19 +32,37 @@ name_aliases:
     publication_date: '2002-10-30'
     number_title: 1935/2002 (OJ L295)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
-- whole_name: Jamaah Islamiyah
+- whole_name: Jemaah Islamiyah
   strong: true
   regulation_language: en
-  logical_id: '2078'
+  logical_id: '2076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2002-10-30'
     number_title: 1935/2002 (OJ L295)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
-- whole_name: Jemaah Islamiyah
+- whole_name: Jema'ah Islamiyah
   strong: true
   regulation_language: en
-  logical_id: '2076'
+  logical_id: '2075'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-30'
+    number_title: 1935/2002 (OJ L295)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
+- whole_name: Jemaah Islamiya
+  strong: true
+  regulation_language: en
+  logical_id: '2074'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-30'
+    number_title: 1935/2002 (OJ L295)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:295:0011:0011:EN:PDF
+- whole_name: Jamaah Islamiyah
+  strong: true
+  regulation_language: en
+  logical_id: '2078'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2002-10-30'

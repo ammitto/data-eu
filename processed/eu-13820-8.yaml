@@ -35,13 +35,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: LLC NPO Aviabas
-  function: "A Russian company specialising in the manufacturing of unmanned aerial
-    vehicles (UAVs). It produces the Lun-7 and Lun-10 first-person view \ncombat UAVs"
-  name_language: EN
+- whole_name: OOO НПО Авиабас
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179789'
+  logical_id: '179787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -57,11 +55,13 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: OOO НПО Авиабас
-  name_language: RU
+- whole_name: LLC NPO Aviabas
+  function: "A Russian company specialising in the manufacturing of unmanned aerial
+    vehicles (UAVs). It produces the Lun-7 and Lun-10 first-person view \ncombat UAVs"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179787'
+  logical_id: '179789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -82,11 +82,11 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '780201001'
+- identification_type_code: taxid
+  number: '7802943980'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '179783'
+  logical_id: '179782'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -103,11 +103,11 @@ identifications:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- identification_type_code: taxid
-  number: '7802943980'
+- identification_type_code: other
+  number: '780201001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '179782'
+  logical_id: '179783'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

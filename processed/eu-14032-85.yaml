@@ -16,22 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  middle_name: Yuryevich
-  last_name: KOSOLAPOV
-  whole_name: Oleg Yuryevich KOSOLAPOV
-  function: General Director of Complex Unmanned Solutions Center Ltd, Director of
-    onboard radio-electronic equipment at Russian Helicopters
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-04-23'
-    number_title: 2026/509 (OJ L202600509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
-- first_name: Oleg
   middle_name: Jurijevič
   last_name: KOSOLAPOV
   whole_name: Oleg Jurijevič KOSOLAPOV
@@ -65,6 +49,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '182221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-04-23'
+    number_title: 2026/509 (OJ L202600509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600509
+- first_name: Oleg
+  middle_name: Yuryevich
+  last_name: KOSOLAPOV
+  whole_name: Oleg Yuryevich KOSOLAPOV
+  function: General Director of Complex Unmanned Solutions Center Ltd, Director of
+    onboard radio-electronic equipment at Russian Helicopters
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-04-23'

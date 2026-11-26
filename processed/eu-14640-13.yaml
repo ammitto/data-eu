@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akciová spoločnosť „Kuibyshevsk Oil Refinery“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '184726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Rafinăria de Petrol Kuibyshevsk, societate pe acțiuni
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: АО “КНПЗ”
   name_language: RU
   strong: true
@@ -50,6 +30,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '183859'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Акционерное общество “Куйбышевский Нефтеперерабатывающий Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -76,11 +66,21 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Акционерное общество “Куйбышевский Нефтеперерабатывающий Завод”
-  name_language: RU
+- whole_name: Akciová spoločnosť „Kuibyshevsk Oil Refinery“
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '183861'
+  logical_id: '184726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Rafinăria de Petrol Kuibyshevsk, societate pe acțiuni
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

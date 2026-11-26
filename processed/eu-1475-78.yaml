@@ -16,20 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Yasir Sabawi Ibrahim Hasan Al-Tikriti
-  gender: M
+- whole_name: Yasser Sabawi Ibrahim Hasan Al-Tikriti
   strong: true
   regulation_language: en
-  logical_id: '4198'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-04'
-    number_title: 1286/2005 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- whole_name: Ali Thafir Abdallah
-  strong: true
-  regulation_language: en
-  logical_id: '4203'
+  logical_id: '4200'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -44,6 +34,15 @@ name_aliases:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
+- whole_name: Ali Thafir Abdallah
+  strong: true
+  regulation_language: en
+  logical_id: '4203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-04'
+    number_title: 1286/2005 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
 - whole_name: Yasir Sab’awi Ibrahim Hasan Al-Tikriti
   strong: true
   regulation_language: en
@@ -53,10 +52,11 @@ name_aliases:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- whole_name: Yasser Sabawi Ibrahim Hasan Al-Tikriti
+- whole_name: Yasir Sabawi Ibrahim Hasan Al-Tikriti
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '4200'
+  logical_id: '4198'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'

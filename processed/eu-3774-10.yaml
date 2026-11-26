@@ -27,32 +27,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Reza
-  last_name: NAGDI
-  whole_name: Mohammad Reza NAGDI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Gholamreza
-  last_name: NAQDI
-  whole_name: Gholamreza NAQDI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Mohammad-Reza
   last_name: NAQDI
   whole_name: Mohammad-Reza NAQDI
@@ -83,6 +57,32 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Mohammad Reza
+  last_name: NAGDI
+  whole_name: Mohammad Reza NAGDI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158859'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Gholamreza
+  last_name: NAQDI
+  whole_name: Gholamreza NAQDI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158858'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -121,22 +121,6 @@ birthdates:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- birthdate: '1949-02-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 2
-  year: 1949
-  city: Najaf
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '181791'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - birthdate: '1952-02-11'
   circa: false
   calendar_type: GREGORIAN
@@ -163,6 +147,22 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '181789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- birthdate: '1949-02-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 2
+  year: 1949
+  city: Najaf
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '181791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

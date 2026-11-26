@@ -1,7 +1,6 @@
 ---
-eu_reference_number: EU.14741.21
-logical_id: '184238'
-designation_date: '2026-07-23'
+eu_reference_number: EU.17616.64
+logical_id: '215331'
 regulations:
 - regulation_type: amendment
   organisation_type: council
@@ -15,77 +14,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Uralmashzavod  JSC
-  title: Joint Stock  Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '184241'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: УЗТМ
-  title: Joint Stock  Company
+- whole_name: ООО ЛАГГАР ПРО
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '184242'
+  logical_id: '215335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: ПАО  УРАЛМАШЗАВО Д
-  title: Joint Stock  Company
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '184243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: UZTM
-  title: Joint Stock  Company
+- whole_name: LLC LAGGAR PRO
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184244'
+  logical_id: '215336'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: URALMASHPLAN T JSC
-  title: Joint Stock Company
+- whole_name: Limited Liability Company LAGGAR PRO
+  function: Limited Liability Company LAGGAR PRO specialises in manufacture of vehicles
+    and semi-trailers. It is a supplier to the JSC IEMZ Kupol
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '184245'
+  logical_id: '215337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 addresses:
-- street: Pervoy pyatiletki  sq.
-  city: Ekaterinburg
+- street: 190B Ovrazhnaya Street, Building 19
+  city: Afonino
+  region: Nizhny Novgorod Oblast
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
-  zip_code: '620012'
+  zip_code: '607680'
   regulation_language: en
-  logical_id: '184239'
+  logical_id: '215332'
+  place: Kstovsky District
   contact_infos:
   - key: WEB
-    value: www.uralmash.ru ; www.uralmash kartex.ru
-  - key: PHONE
-    value: " +7 (343)  336-65-81; +7  (343) 336-68-40;  +7 (343) 336-68-38; +7 (343)
-      336 63-58; +7 (343)  327-12-77 "
-  - key: EMAIL
-    value: mail@uralmash.r u
+    value: https://www.laggar-pro.ru/
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -93,10 +66,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 identifications:
 - identification_type_code: taxid
-  number: '6663005798'
-  country_iso2_code: RU
+  number: '5250070144'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '184240'
+  logical_id: '215334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- identification_type_code: other
+  number: '1185275034218'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '215333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

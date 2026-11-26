@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ООО “ЭЛИАРС”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: "»Eliars« Korlátolt Felelsősségű Társaság"
   name_language: HU
   strong: true
@@ -30,26 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ООО “ЭЛИАРС”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: LLC Eliars
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -78,6 +68,16 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: LLC Eliars
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
 - street: Konstruktore Guskova 8
   city: Moscow
@@ -91,22 +91,22 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '7735140825'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173108'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1157746097629'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173109'
   issue_date: '2015-02-12'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '7735140825'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173108'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

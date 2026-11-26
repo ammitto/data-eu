@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Amer
-  last_name: FOZ
-  whole_name: Amer FOZ
-  function: Businessperson. Founder of District 6 Company; Founding partner of Easy
-    life Company
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '122305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 - whole_name: عامر فوز
   gender: M
   strong: true
@@ -49,6 +35,20 @@ name_aliases:
     publication_date: '2021-05-28'
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- first_name: Amer
+  last_name: FOZ
+  whole_name: Amer FOZ
+  function: Businessperson. Founder of District 6 Company; Founding partner of Easy
+    life Company
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '122305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
@@ -86,21 +86,21 @@ birthdates:
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 identifications:
-- identification_type_code: other
-  number: '06010274747'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '122303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - identification_type_code: residentperm
   number: 784-1976-7135283-5
   country_iso2_code: AE
   regulation_language: en
   logical_id: '129695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- identification_type_code: other
+  number: '06010274747'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '122303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

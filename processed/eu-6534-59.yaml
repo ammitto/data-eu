@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Nikolaevich
-  last_name: BELIAKOV
-  whole_name: Oleg Nikolaevich BELIAKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - first_name: Aleh
   middle_name: Mikalaevich
   last_name: BELIAKOU
@@ -41,6 +27,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- first_name: Oleg
+  middle_name: Nikolaevich
+  last_name: BELIAKOV
+  whole_name: Oleg Nikolaevich BELIAKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-28'

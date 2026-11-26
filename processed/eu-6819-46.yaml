@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: National Police of  Nicaragua
-  strong: true
-  regulation_language: en
-  logical_id: '132833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
 - whole_name: La Policía Nacional  Nicaragüense
   strong: true
   regulation_language: en
@@ -43,81 +34,10 @@ name_aliases:
     publication_date: '2022-01-10'
     number_title: 2022/22 (OJ L5I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Den nationella polisen i Nicaragua
-  name_language: SV
+- whole_name: National Police of  Nicaragua
   strong: true
   regulation_language: en
-  logical_id: '133146'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Poliția Națională din Nicaragua
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '133145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaragujská štátna polícia
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '133144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nacionalna policija Nikaragve
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '133143'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaraguańska Policja Państwowa
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '133142'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Pulizija Nazzjonali tan-Nikaragwa
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '133139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nicaraguai Nemzeti Rendőrség
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '133140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Polícia Nacional da Nicarágua
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '133141'
+  logical_id: '132833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'
@@ -248,6 +168,86 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133138'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Pulizija Nazzjonali tan-Nikaragwa
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '133139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nicaraguai Nemzeti Rendőrség
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '133140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Polícia Nacional da Nicarágua
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '133141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaraguańska Policja Państwowa
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '133142'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nacionalna policija Nikaragve
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '133143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaragujská štátna polícia
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '133144'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Poliția Națională din Nicaragua
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '133145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Den nationella polisen i Nicaragua
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '133146'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'

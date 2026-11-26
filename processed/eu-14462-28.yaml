@@ -15,28 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mihail Ambarov
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '184691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Mikhail Andreevich AMBAROV
-  function: General director of LLC GRUPPA PROMAVTO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '182977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Михаил Андреевич АМБАРОВ
   gender: M
   name_language: RU
@@ -65,6 +43,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '184692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Mihail Ambarov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '184691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Mikhail Andreevich AMBAROV
+  function: General director of LLC GRUPPA PROMAVTO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '182977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

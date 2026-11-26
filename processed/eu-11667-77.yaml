@@ -65,31 +65,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Valko-Venäjän tasavaltalainen nuorisoliitto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '167196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Den belarusiske republikanske ungdomsunion
   name_language: DA
   strong: true
   regulation_language: en
   logical_id: '167197'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Беларускі рэспубліканскі саюз моладзі
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '166241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -114,6 +94,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Беларускі рэспубліканскі саюз моладзі
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '166241'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Valko-Venäjän tasavaltalainen nuorisoliitto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '167196'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

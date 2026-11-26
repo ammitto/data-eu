@@ -15,11 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Tambo Numbi
+- first_name: John
+  last_name: Numbi Banza Tambo
+  whole_name: John Numbi Banza Tambo
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '112959'
+  logical_id: '112961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'
@@ -37,6 +39,16 @@ name_aliases:
     publication_date: '2022-12-09'
     number_title: 2022/2401 (OJ L317)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
+- whole_name: Tambo Numbi
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '112959'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-09'
+    number_title: 2022/2401 (OJ L317)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
 - first_name: John
   last_name: NUMBI
   whole_name: John NUMBI
@@ -46,18 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-09'
-    number_title: 2022/2401 (OJ L317)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
-- first_name: John
-  last_name: Numbi Banza Tambo
-  whole_name: John Numbi Banza Tambo
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '112961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'

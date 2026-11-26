@@ -25,11 +25,12 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Alabuga speciālā ekonomiskā zona
-  name_language: LV
+- whole_name: sociedad anónima Alabuga Special Economic Zone of Industrial and Production
+    Type
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '161284'
+  logical_id: '160792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -60,28 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Société par actions “Alabuga” Special Economic Zone of Industrial and
-    Production Type
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Alabuga Special Economic Zone of Industrial and Production
-    Type
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -122,6 +101,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Société par actions “Alabuga” Special Economic Zone of Industrial and
+    Production Type
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160619'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -192,6 +182,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Alabuga speciālā ekonomiskā zona
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '161284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -44,19 +44,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Aleksandr
-  last_name: PASJKEVITJ
-  whole_name: Aleksandr PASJKEVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '135999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Alexandr
   last_name: Paškevič
   whole_name: Alexandr Paškevič
@@ -65,6 +52,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Aleksandr
+  last_name: PASJKEVITJ
+  whole_name: Aleksandr PASJKEVITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

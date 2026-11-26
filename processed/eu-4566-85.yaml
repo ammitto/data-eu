@@ -15,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Fitiwi
-  last_name: Abdelrazak
-  whole_name: Fitiwi Abdelrazak
-  function: Leader of a transnational trafficking network
-  strong: true
-  regulation_language: en
-  logical_id: '117064'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - first_name: Fitwi
   middle_name: Esmail
   last_name: Abdelrazak
@@ -34,15 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '118153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- whole_name: Abdurezak
-  strong: true
-  regulation_language: en
-  logical_id: '117063'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-09-25'
@@ -61,6 +40,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '118150'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+- first_name: Fitiwi
+  last_name: Abdelrazak
+  whole_name: Fitiwi Abdelrazak
+  function: Leader of a transnational trafficking network
+  strong: true
+  regulation_language: en
+  logical_id: '117064'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- whole_name: Abdurezak
+  strong: true
+  regulation_language: en
+  logical_id: '117063'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-09-25'

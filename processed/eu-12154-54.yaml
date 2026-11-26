@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  last_name: Kovač
-  whole_name: Dmitrij Kovač
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Zmitser Aliaksandrovich KOVACH
   function: Deputy head of the Main Department for Combating Organised Crime and Corruption
     (GUBOPiK) of the Ministry of Internal Affairs.
@@ -36,19 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169147'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Zmicer
-  last_name: Kovač
-  whole_name: Zmicer Kovač
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -71,6 +45,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Dmitrij
+  last_name: Kovač
+  whole_name: Dmitrij Kovač
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Zmicer
+  last_name: Kovač
+  whole_name: Zmicer Kovač
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

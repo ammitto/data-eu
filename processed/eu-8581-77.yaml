@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: نابل العبدالله
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '142866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
 - whole_name: نابل عبدالله
   name_language: AR
   strong: true
@@ -58,10 +48,10 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1274 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: Nabel ABDULLAH
+- whole_name: Nabel  AL-ABDALLAH
   strong: true
   regulation_language: en
-  logical_id: '142867'
+  logical_id: '142869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -76,10 +66,20 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1274 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: Nabel  AL-ABDALLAH
+- whole_name: نابل العبدالله
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '142869'
+  logical_id: '142866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: Nabel ABDULLAH
+  strong: true
+  regulation_language: en
+  logical_id: '142867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

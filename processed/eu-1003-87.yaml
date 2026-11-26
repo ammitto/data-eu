@@ -15,6 +15,47 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Hambali Bin Ending
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Isomuddin, Nurjaman Riduan
+  function: Senior leader of Jemaah Islamiyah,
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Isamudin Ridwan
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
+- whole_name: Isamuddin Riduan
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - first_name: Nurjaman
   middle_name: Riduan
   last_name: Isamuddin
@@ -71,52 +112,11 @@ name_aliases:
     publication_date: '2026-08-26'
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Hambali Bin Ending
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - whole_name: Hambali Ending Hambali
   gender: M
   strong: true
   regulation_language: en
   logical_id: '5796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Isomuddin, Nurjaman Riduan
-  function: Senior leader of Jemaah Islamiyah,
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5892'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Isamudin Ridwan
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
-- whole_name: Isamuddin Riduan
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-08-26'
@@ -142,20 +142,6 @@ citizenships:
     number_title: 2026/1965 (OJ L202601965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1966
-  city: Sukamanah
-  place: West Java
-  country_iso2_code: ID
-  country_description: INDONESIA
-  regulation_language: en
-  logical_id: '185303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-08-26'
-    number_title: 2026/1965 (OJ L202601965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900
 - birthdate: '1964-04-04'
   circa: false
   calendar_type: GREGORIAN
@@ -172,3 +158,17 @@ birthdates:
     publication_date: '2003-02-04'
     number_title: 215/2003 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1966
+  city: Sukamanah
+  place: West Java
+  country_iso2_code: ID
+  country_description: INDONESIA
+  regulation_language: en
+  logical_id: '185303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-08-26'
+    number_title: 2026/1965 (OJ L202601965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601965&qid=1788512693900

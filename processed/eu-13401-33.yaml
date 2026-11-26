@@ -25,6 +25,16 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Morozov Plant« szövetségi  állami vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Federal State Unitary Enterprise  “Morozov Plant”
   function: FSUE “Morozov Plant” is a State enterprise involved in the production
     of ammunition and military equipment for the Russian Government.
@@ -57,16 +67,6 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Morozov Plant« szövetségi  állami vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 addresses:
 - street: st. Chekalova 3
   region: Leningrad region
@@ -82,22 +82,22 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '4703009607'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1034700561895'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177330'
   issue_date: '2003-02-25'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '4703009607'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

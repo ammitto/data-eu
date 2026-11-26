@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Lulu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '181715'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2026-02-24'
-    number_title: UNLI 20260225
-    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
 - first_name: Al-Fateh
   middle_name: Abdullah
   last_name: IDRIS
@@ -37,6 +26,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '181716'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2026-02-24'
+    number_title: UNLI 20260225
+    publication_url: https://press.un.org/en/2026/sc16303.doc.htm
+- whole_name: Abu Lulu
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181715'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2026-02-24'

@@ -16,21 +16,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Pishgaman Tejarat Rafi Novin Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180755'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-01-29'
-    number_title: 2026/262 (OJ L202600262)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
 - whole_name: پیشگامان تجارت رفیع نوین
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '180754'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-29'
+    number_title: 2026/262 (OJ L202600262)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600262
+- whole_name: Pishgaman Tejarat Rafi Novin Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-01-29'

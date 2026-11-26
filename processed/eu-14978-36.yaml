@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Свiтлана Эдиславiвна БЕСПАЛОВА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '185364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - whole_name: Svetlana Edislavovna BESPALOVA
   function: Deputy Minister of Education, Science and Youth of the Republic of Crimea
   gender: F
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Свiтлана Эдиславiвна БЕСПАЛОВА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '185364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

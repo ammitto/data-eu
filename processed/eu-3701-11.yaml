@@ -79,19 +79,6 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1965
-  city: Zumbaleh village, Nahr-e Saraj District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1916'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1965
   city: Mirmadaw village, Gereshk District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -102,6 +89,19 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1965
+  city: Zumbaleh village, Nahr-e Saraj District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1965
@@ -128,6 +128,16 @@ addresses:
     number_title: 1057/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 identifications:
+- identification_type_code: id
+  number: '5440005229635'
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 - identification_type_code: passport
   number: BP4199631
   country_iso2_code: PK
@@ -139,13 +149,3 @@ identifications:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- identification_type_code: id
-  number: '5440005229635'
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN

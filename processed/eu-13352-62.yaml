@@ -16,16 +16,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company “Open Systems Development Technology”
-  function: LLC “Open Systems Development Technology” is a Russia-based entity that
-    supplies metalworking equipment. Since the imposition of Union restrictive measures
-    prohibiting the export of lathes to Russia, LLC “Open Systems Development Technology”
-    is actively involved in circumventing such restrictive measures by acting as the
-    Russia-based recipient of illegally exported lathes.
-  name_language: EN
+- whole_name: LLC “T.R.O.S”
   strong: true
   regulation_language: en
-  logical_id: '177030'
+  logical_id: '177025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -60,10 +54,16 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “T.R.O.S”
+- whole_name: Limited Liability Company “Open Systems Development Technology”
+  function: LLC “Open Systems Development Technology” is a Russia-based entity that
+    supplies metalworking equipment. Since the imposition of Union restrictive measures
+    prohibiting the export of lathes to Russia, LLC “Open Systems Development Technology”
+    is actively involved in circumventing such restrictive measures by acting as the
+    Russia-based recipient of illegally exported lathes.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177025'
+  logical_id: '177030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -92,11 +92,11 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '7706818288'
+- identification_type_code: regnumber
+  number: '5147746464256'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '177023'
+  logical_id: '177024'
   issued_by: RUSSIA FEDERATION
   regulation_summaries:
   - regulation_type: amendment
@@ -114,11 +114,11 @@ identifications:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- identification_type_code: regnumber
-  number: '5147746464256'
+- identification_type_code: taxid
+  number: '7706818288'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '177024'
+  logical_id: '177023'
   issued_by: RUSSIA FEDERATION
   regulation_summaries:
   - regulation_type: amendment

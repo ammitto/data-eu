@@ -15,21 +15,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “DOK ‘Sputnik’”
+- whole_name: LLC Children’s Health Complex “Sputnik”
+  function: LLC Children’s Health Complex "Sputnik" is a recreational and educational
+    center. It is registered as an organization responsible for children’s recreation
+    and health improvement.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185297'
+  logical_id: '185298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: ООО “ДОК ‘Спутник’”
-  name_language: RU
+- whole_name: LLC “DOK ‘Sputnik’”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185295'
+  logical_id: '185297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -45,32 +48,17 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: LLC Children’s Health Complex “Sputnik”
-  function: LLC Children’s Health Complex "Sputnik" is a recreational and educational
-    center. It is registered as an organization responsible for children’s recreation
-    and health improvement.
-  name_language: EN
+- whole_name: ООО “ДОК ‘Спутник’”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '185298'
+  logical_id: '185295'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 addresses:
-- street: Aleksandrovskaya str., 216
-  city: Taganrog
-  region: Rostov region
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '185290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - street: Chekhov str., 224
   region: Rostov region, Neklinovsky district
   country_iso2_code: RU
@@ -90,6 +78,18 @@ addresses:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- street: Aleksandrovskaya str., 216
+  city: Taganrog
+  region: Rostov region
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '185290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
 - identification_type_code: regnumber
   number: '1026101345390'
@@ -102,21 +102,21 @@ identifications:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: taxid
-  number: '6123111953'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '185293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: other
   number: '612301001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '185292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- identification_type_code: taxid
+  number: '6123111953'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '185293'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'

@@ -65,20 +65,20 @@ birthdates:
     number_title: 2018/413 (OJ L75)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0413&from=EN
 addresses:
-- city: Mombasa
-  country_iso2_code: KE
-  country_description: KENYA
+- country_iso2_code: SO
+  country_description: SOMALIA
   regulation_language: en
-  logical_id: '115933'
+  logical_id: '115934'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-19'
     number_title: 2018/413 (OJ L75)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0413&from=EN
-- country_iso2_code: SO
-  country_description: SOMALIA
+- city: Mombasa
+  country_iso2_code: KE
+  country_description: KENYA
   regulation_language: en
-  logical_id: '115934'
+  logical_id: '115933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-19'

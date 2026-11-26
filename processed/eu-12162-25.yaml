@@ -26,14 +26,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Irina
-  last_name: Akulovičová
-  whole_name: Irina Akulovičová
+- whole_name: Iрына Барысаўна АКУЛОВIЧ
   gender: F
-  name_language: SK
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169522'
+  logical_id: '169203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -63,17 +61,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Iрына Барысаўна АКУЛОВIЧ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Iryna
   last_name: Akulovičová
   whole_name: Iryna Akulovičová
@@ -82,6 +69,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Irina
+  last_name: Akulovičová
+  whole_name: Irina Akulovičová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

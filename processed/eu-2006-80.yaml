@@ -14,20 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Organizace pasivní obrany
-  name_language: CS
+- whole_name: Passive Defense Organization
   strong: true
   regulation_language: en
-  logical_id: '8294'
+  logical_id: '8159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Passive Defense Organization
+- whole_name: Organizace pasivní obrany
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '8159'
+  logical_id: '8294'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'

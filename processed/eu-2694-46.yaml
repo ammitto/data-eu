@@ -15,28 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ali BARAKAT
-  function: Military official. Currently serves in the 30th Mobile Infantry Division
-    of the Republican Guard.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '15014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- whole_name: Barakat Ali Barakat
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '129726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - whole_name: بركات علي بركات
   gender: M
   name_language: AR
@@ -59,3 +37,25 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Ali BARAKAT
+  function: Military official. Currently serves in the 30th Mobile Infantry Division
+    of the Republican Guard.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '15014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- whole_name: Barakat Ali Barakat
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC

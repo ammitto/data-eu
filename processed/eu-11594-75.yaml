@@ -15,6 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrey
+  middle_name: Vladimirovich
+  last_name: FEDOROV
+  whole_name: Andrey Vladimirovich FEDOROV
+  function: Judge of the Kirovsky District Court, city of Tomsk
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165644'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Andrei
   middle_name: Vladimirovitš
   last_name: FJODOROV
@@ -29,30 +44,29 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Андрей
-  middle_name: Владимирович
-  last_name: Фьодоров
-  whole_name: Андрей Владимирович Фьодоров
+- first_name: Andrej
+  middle_name: Vladimirovič
+  last_name: Fjodorov
+  whole_name: Andrej Vladimirovič Fjodorov
   gender: M
-  name_language: BG
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165897'
+  logical_id: '165904'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Andrey
-  middle_name: Vladimirovich
-  last_name: FEDOROV
-  whole_name: Andrey Vladimirovich FEDOROV
-  function: Judge of the Kirovsky District Court, city of Tomsk
+- first_name: Andrej
+  middle_name: Vladimirovič
+  last_name: Fedorov
+  whole_name: Andrej Vladimirovič Fedorov
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165644'
+  logical_id: '165922'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -86,29 +100,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Andrej
-  middle_name: Vladimirovič
-  last_name: Fjodorov
-  whole_name: Andrej Vladimirovič Fjodorov
+- first_name: Андрей
+  middle_name: Владимирович
+  last_name: Фьодоров
+  whole_name: Андрей Владимирович Фьодоров
   gender: M
-  name_language: CS
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '165904'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Andrej
-  middle_name: Vladimirovič
-  last_name: Fedorov
-  whole_name: Andrej Vladimirovič Fedorov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165922'
+  logical_id: '165897'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

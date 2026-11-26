@@ -15,42 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe acțiuni «Complexul de cercetare și producție „Severnaya
-    Zarya”»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '184817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: Istraživački i proizvodni kompleks ,Severnaya Zarya’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '184818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: Акционерное Общество Научно-Производственный Комплекс “Северная Заря”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '183479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-07-23'
-    number_title: 2026/1845 (OJ L202601845)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
-- whole_name: АО НПК СЕВЕРНАЯ ЗАРЯ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '183480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'
@@ -66,12 +35,43 @@ name_aliases:
     publication_date: '2026-07-23'
     number_title: 2026/1845 (OJ L202601845)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: АО НПК СЕВЕРНАЯ ЗАРЯ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '183480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Istraživački i proizvodni kompleks ,Severnaya Zarya’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '184818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
 - whole_name: JSC NPK SEVERNAYA ZARYA
   title: Joint stock company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '183482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-07-23'
+    number_title: 2026/1845 (OJ L202601845)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601845
+- whole_name: Societatea pe acțiuni «Complexul de cercetare și producție „Severnaya
+    Zarya”»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '184817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-07-23'

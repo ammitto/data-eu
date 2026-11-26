@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Денис Александрович СУВОРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '185813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-03-16'
+    number_title: 2026/613 (OJ L202600613)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
 - whole_name: Denis Aleksandrovich SUVOROV
   function: |-
     Lieutenant Colonel; Commander of
@@ -26,17 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-03-16'
-    number_title: 2026/613 (OJ L202600613)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600613
-- whole_name: Денис Александрович СУВОРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '185813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-03-16'

@@ -15,80 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akciju sabiedrība Almaz-Antey Air and Space aizsardzības korporācija
-  strong: true
-  regulation_language: en
-  logical_id: '158668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Delniška družba Almaz-Antey – korporacija za zračno in vesoljsko obrambo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: priešlėktuvinės ir oro erdvės gynybos akcinė bendrovė „Almaz-Antey“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '158645'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Société par actions Entreprise de défense aérienne et spatiale Almaz-Antey
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Sociedade por ações Almaz-Antey, sociedade de defesa aérea e espacial
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '158287'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Societatea pe acțiuni Almaz-Antey air and space defence corporation
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '158544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Aktieselskabet Almaz-Antey air and space defence corporation
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '158545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Kumpanija b’Ishma Konġunti  Almaz-Antey air and space defence corporation
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '158703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -101,6 +32,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Kumpanija b’Ishma Konġunti  Almaz-Antey air and space defence corporation
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '158703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -167,6 +108,26 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Societatea pe acțiuni Almaz-Antey air and space defence corporation
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '158544'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Aktieselskabet Almaz-Antey air and space defence corporation
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '158545'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Osakeyhtiö Almaz-Antey-ilmaja avaruuspuolustusyhtiö
   name_language: FI
   strong: true
@@ -177,21 +138,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Akciová spoločnosť vzdušnej a vesmírnej obrany Almaz-Antey
-  name_language: CS
+- whole_name: priešlėktuvinės ir oro erdvės gynybos akcinė bendrovė „Almaz-Antey“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '158546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Spółka akcyjna Almaz-Antey air and space defence corporation
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158238'
+  logical_id: '158645'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -243,6 +194,55 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Akciová spoločnosť vzdušnej a vesmírnej obrany Almaz-Antey
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Delniška družba Almaz-Antey – korporacija za zračno in vesoljsko obrambo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '158667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Akciju sabiedrība Almaz-Antey Air and Space aizsardzības korporācija
+  strong: true
+  regulation_language: en
+  logical_id: '158668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Société par actions Entreprise de défense aérienne et spatiale Almaz-Antey
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Spółka akcyjna Almaz-Antey air and space defence corporation
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

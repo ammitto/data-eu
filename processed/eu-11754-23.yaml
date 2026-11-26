@@ -15,11 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe acțiuni „Centrul Științific și Tehnic «ATLAS»”
-  name_language: RO
+- whole_name: Akciová spoločnosť Scientific and Technical Center ATLAS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '167263'
+  logical_id: '167262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: JSC “STC 'Atlas'”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166717'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -32,16 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166718'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Cuideachta Comhstoic ‘Scientific and Technical Center ‘ATLAS'’’
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '167259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -67,11 +67,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Akciová spoločnosť Scientific and Technical Center ATLAS
-  name_language: SK
+- whole_name: Cuideachta Comhstoic ‘Scientific and Technical Center ‘ATLAS'’’
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '167262'
+  logical_id: '167259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Societatea pe acțiuni „Centrul Științific și Tehnic «ATLAS»”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -92,16 +102,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: JSC “STC 'Atlas'”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166717'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

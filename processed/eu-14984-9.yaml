@@ -15,14 +15,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “Otdykh‑71“
-  function: LLC “Otdykh-71” is a Russian organization focused on children’s recreation
-    and youth programming through its branches, including the “New Wave” recreation
-    center, which operates under the responsibility and coordination of “Otdykh-71”.
+- whole_name: Общество с ограниченной ответственностью «ОТДЫХ-71»
+  strong: true
+  regulation_language: en
+  logical_id: '185431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
+- whole_name: LLC "Rest-71"
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185435'
+  logical_id: '185433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -32,15 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '185432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: Общество с ограниченной ответственностью «ОТДЫХ-71»
-  strong: true
-  regulation_language: en
-  logical_id: '185431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -56,11 +53,14 @@ name_aliases:
     publication_date: '2026-09-28'
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- whole_name: LLC "Rest-71"
+- whole_name: LLC “Otdykh‑71“
+  function: LLC “Otdykh-71” is a Russian organization focused on children’s recreation
+    and youth programming through its branches, including the “New Wave” recreation
+    center, which operates under the responsibility and coordination of “Otdykh-71”.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '185433'
+  logical_id: '185435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
@@ -87,22 +87,22 @@ addresses:
     number_title: 2026/2184 (OJ L202602184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 identifications:
+- identification_type_code: other
+  number: '710401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '185430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-09-28'
+    number_title: 2026/2184 (OJ L202602184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
 - identification_type_code: regnumber
   number: '1167154080224'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '185428'
   issue_date: '2016-11-18'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2026-09-28'
-    number_title: 2026/2184 (OJ L202602184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602184
-- identification_type_code: other
-  number: '710401001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '185430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2026-09-28'
